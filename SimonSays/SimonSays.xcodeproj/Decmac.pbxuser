@@ -1,0 +1,199 @@
+// !$*UTF8*$!
+{
+	1D3623250D0F684500981E51 /* SimonSaysAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 377}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 377}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* SimonSays */ = {
+		activeExec = 0;
+		executables = (
+			897F75651524794200645BB3 /* SimonSays */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* SimonSaysViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {487, 559}}";
+			sepNavSelRange = "{192, 0}";
+			sepNavVisRange = "{0, 964}";
+			sepNavWindowFrame = "{{29, 103}, {546, 643}}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* SimonSaysViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {964, 2938}}";
+			sepNavSelRange = "{2038, 0}";
+			sepNavVisRange = "{1468, 1050}";
+			sepNavWindowFrame = "{{31, 98}, {879, 648}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 897F75651524794200645BB3 /* SimonSays */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* SimonSays */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* SimonSays */,
+		);
+		codeSenseManager = 897F75711524796300645BB3 /* Code sense */;
+		executables = (
+			897F75651524794200645BB3 /* SimonSays */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 354720062;
+			PBXWorkspaceStateSaveDate = 354720062;
+		};
+		perUserProjectItems = {
+			897F758F1524858B00645BB3 /* PBXTextBookmark */ = 897F758F1524858B00645BB3 /* PBXTextBookmark */;
+			897F75E51524931B00645BB3 /* PBXTextBookmark */ = 897F75E51524931B00645BB3 /* PBXTextBookmark */;
+			897F76091524956500645BB3 /* PBXTextBookmark */ = 897F76091524956500645BB3 /* PBXTextBookmark */;
+			897F76161524985700645BB3 /* PBXTextBookmark */ = 897F76161524985700645BB3 /* PBXTextBookmark */;
+			897F761B1524990100645BB3 /* PBXTextBookmark */ = 897F761B1524990100645BB3 /* PBXTextBookmark */;
+			897F762F1524997900645BB3 /* PBXTextBookmark */ = 897F762F1524997900645BB3 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 897F75701524796300645BB3 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	897F75651524794200645BB3 /* SimonSays */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = SimonSays;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	897F75701524796300645BB3 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	897F75711524796300645BB3 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	897F757515247A2E00645BB3 /* Instruction.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 507}}";
+			sepNavSelRange = "{208, 0}";
+			sepNavVisRange = "{128, 247}";
+			sepNavWindowFrame = "{{15, 115}, {503, 626}}";
+		};
+	};
+	897F757615247A2E00645BB3 /* Instruction.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {740, 689}}";
+			sepNavSelRange = "{747, 0}";
+			sepNavVisRange = "{591, 518}";
+			sepNavWindowFrame = "{{15, 98}, {879, 648}}";
+		};
+	};
+	897F758F1524858B00645BB3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* SimonSaysAppDelegate.m */;
+		name = "SimonSaysAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 377;
+		vrLoc = 0;
+	};
+	897F75E51524931B00645BB3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* SimonSaysViewController.h */;
+		name = "SimonSaysViewController.h: 25";
+		rLen = 0;
+		rLoc = 531;
+		rType = 0;
+		vrLen = 532;
+		vrLoc = 288;
+	};
+	897F76091524956500645BB3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 897F757515247A2E00645BB3 /* Instruction.h */;
+		name = "Instruction.h: 14";
+		rLen = 0;
+		rLoc = 208;
+		rType = 0;
+		vrLen = 247;
+		vrLoc = 128;
+	};
+	897F76161524985700645BB3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 897F757615247A2E00645BB3 /* Instruction.m */;
+		name = "Instruction.m: 35";
+		rLen = 0;
+		rLoc = 747;
+		rType = 0;
+		vrLen = 518;
+		vrLoc = 591;
+	};
+	897F761B1524990100645BB3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* SimonSaysViewController.m */;
+		name = "SimonSaysViewController.m: 76";
+		rLen = 0;
+		rLoc = 2038;
+		rType = 0;
+		vrLen = 1051;
+		vrLoc = 1468;
+	};
+	897F762F1524997900645BB3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* SimonSaysViewController.m */;
+		name = "SimonSaysViewController.m: 76";
+		rLen = 0;
+		rLoc = 2038;
+		rType = 0;
+		vrLen = 1050;
+		vrLoc = 1468;
+	};
+}

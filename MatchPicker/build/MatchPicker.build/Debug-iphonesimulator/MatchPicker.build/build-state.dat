@@ -1,0 +1,392 @@
+TMatchPicker
+v7
+r0
+t354475248.213454
+cCheck dependencies
+cProcessInfoPlistFile /Users/Decmac/Desktop/MatchPicker/build/Debug-iphonesimulator/MatchPicker.app/Info.plist MatchPicker-Info.plist
+cCompileXIB /Users/Decmac/Desktop/MatchPicker/MainWindow.xib
+cCompileXIB /Users/Decmac/Desktop/MatchPicker/MatchPickerViewController.xib
+cCpResource build/Debug-iphonesimulator/MatchPicker.app/mouse.png mouse.png
+cCpResource build/Debug-iphonesimulator/MatchPicker.app/pig.png pig.png
+cCpResource build/Debug-iphonesimulator/MatchPicker.app/snake.png snake.png
+cCpResource build/Debug-iphonesimulator/MatchPicker.app/bear.png bear.png
+cCpResource build/Debug-iphonesimulator/MatchPicker.app/cat.png cat.png
+cCpResource build/Debug-iphonesimulator/MatchPicker.app/dog.png dog.png
+cCpResource build/Debug-iphonesimulator/MatchPicker.app/goose.png goose.png
+cProcessPCH /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MatchPicker_Prefix-gvuqczyedzsojxcxutrgrjaglufo/MatchPicker_Prefix.pch.gch MatchPicker_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MatchPicker.build/Debug-iphonesimulator/MatchPicker.build/Objects-normal/i386/main.o /Users/Decmac/Desktop/MatchPicker/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MatchPicker.build/Debug-iphonesimulator/MatchPicker.build/Objects-normal/i386/MatchPickerAppDelegate.o /Users/Decmac/Desktop/MatchPicker/Classes/MatchPickerAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MatchPicker.build/Debug-iphonesimulator/MatchPicker.build/Objects-normal/i386/MatchPickerViewController.o /Users/Decmac/Desktop/MatchPicker/Classes/MatchPickerViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/Decmac/Desktop/MatchPicker/build/Debug-iphonesimulator/MatchPicker.app/MatchPicker normal i386
+cGenerateDSYMFile /Users/Decmac/Desktop/MatchPicker/build/Debug-iphonesimulator/MatchPicker.app.dSYM /Users/Decmac/Desktop/MatchPicker/build/Debug-iphonesimulator/MatchPicker.app/MatchPicker
+cTouch /Users/Decmac/Desktop/MatchPicker/build/Debug-iphonesimulator/MatchPicker.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk
+c000000004F3A580900000000000000EE
+t1329223689
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B2B4CC3000000000026EE30
+t1261128899
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B2B4DC8000000000027E880
+t1261129160
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B2B4DAE0000000000001355
+t1261129134
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B2B61620000000000000788
+t1261134178
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B2B62B500000000016721E0
+t1261134517
+s23536096
+
+N/Users/Decmac/Desktop/MatchPicker/Classes/MatchPickerAppDelegate.h
+c000000004F70953600000000000001F4
+t1332778294
+s500
+i<UIKit/UIKit.h>
+
+N/Users/Decmac/Desktop/MatchPicker/Classes/MatchPickerAppDelegate.m
+c000000004F709536000000000000027B
+t1332778294
+s635
+i"MatchPickerAppDelegate.h"
+i"MatchPickerViewController.h"
+
+N/Users/Decmac/Desktop/MatchPicker/Classes/MatchPickerViewController.h
+c000000004F70A1A30000000000000213
+t1332781475
+s531
+i<UIKit/UIKit.h>
+
+N/Users/Decmac/Desktop/MatchPicker/Classes/MatchPickerViewController.m
+c000000004F70A56E000000000000108F
+t1332782446
+s4239
+i"MatchPickerViewController.h"
+
+N/Users/Decmac/Desktop/MatchPicker/MainWindow.xib
+c000000004F709536000000000000247A
+t1332778294
+s9338
+
+N/Users/Decmac/Desktop/MatchPicker/MatchPickerViewController.xib
+c000000004F70A0A30000000000005012
+t1332781219
+s20498
+
+N/Users/Decmac/Desktop/MatchPicker/MatchPicker_Prefix.pch
+c000000004F70953600000000000000BF
+t1332778294
+s191
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/Decmac/Desktop/MatchPicker/bear.png
+c000000004A6E07E20000000000001C06
+t1248724962
+s7174
+
+N/Users/Decmac/Desktop/MatchPicker/build/Debug-iphonesimulator/MatchPicker.app
+t1332782448
+s476
+
+N/Users/Decmac/Desktop/MatchPicker/build/Debug-iphonesimulator/MatchPicker.app.dSYM
+t1332782448
+s102
+
+N/Users/Decmac/Desktop/MatchPicker/build/Debug-iphonesimulator/MatchPicker.app/Info.plist
+t1332779970
+s580
+
+N/Users/Decmac/Desktop/MatchPicker/build/Debug-iphonesimulator/MatchPicker.app/MainWindow.nib
+t1332779971
+s1503
+
+N/Users/Decmac/Desktop/MatchPicker/build/Debug-iphonesimulator/MatchPicker.app/MatchPicker
+t1332782448
+s26072
+
+N/Users/Decmac/Desktop/MatchPicker/build/Debug-iphonesimulator/MatchPicker.app/MatchPickerViewController.nib
+t1332782107
+s2240
+
+N/Users/Decmac/Desktop/MatchPicker/build/Debug-iphonesimulator/MatchPicker.app/PkgInfo
+t1332779970
+s8
+
+N/Users/Decmac/Desktop/MatchPicker/build/Debug-iphonesimulator/MatchPicker.app/bear.png
+t1332782106
+s7174
+
+N/Users/Decmac/Desktop/MatchPicker/build/Debug-iphonesimulator/MatchPicker.app/cat.png
+t1332782106
+s8301
+
+N/Users/Decmac/Desktop/MatchPicker/build/Debug-iphonesimulator/MatchPicker.app/dog.png
+t1332782107
+s6798
+
+N/Users/Decmac/Desktop/MatchPicker/build/Debug-iphonesimulator/MatchPicker.app/goose.png
+t1332782107
+s7478
+
+N/Users/Decmac/Desktop/MatchPicker/build/Debug-iphonesimulator/MatchPicker.app/mouse.png
+t1332782106
+s8716
+
+N/Users/Decmac/Desktop/MatchPicker/build/Debug-iphonesimulator/MatchPicker.app/pig.png
+t1332782106
+s6491
+
+N/Users/Decmac/Desktop/MatchPicker/build/Debug-iphonesimulator/MatchPicker.app/snake.png
+t1332782106
+s9034
+
+N/Users/Decmac/Desktop/MatchPicker/build/MatchPicker.build/Debug-iphonesimulator/MatchPicker.build/Objects-normal/i386/MatchPicker.LinkFileList
+c000000004F709BC2000000000000019E
+t1332779970
+s414
+
+N/Users/Decmac/Desktop/MatchPicker/build/MatchPicker.build/Debug-iphonesimulator/MatchPicker.build/Objects-normal/i386/MatchPickerAppDelegate.o
+t1332782108
+s38300
+
+N/Users/Decmac/Desktop/MatchPicker/build/MatchPicker.build/Debug-iphonesimulator/MatchPicker.build/Objects-normal/i386/MatchPickerViewController.o
+t1332782448
+s44832
+
+N/Users/Decmac/Desktop/MatchPicker/build/MatchPicker.build/Debug-iphonesimulator/MatchPicker.build/Objects-normal/i386/main.o
+t1332779973
+s5948
+
+N/Users/Decmac/Desktop/MatchPicker/cat.png
+c000000004A6E07D4000000000000206D
+t1248724948
+s8301
+
+N/Users/Decmac/Desktop/MatchPicker/dog.png
+c000000004A6E05260000000000001A8E
+t1248724262
+s6798
+
+N/Users/Decmac/Desktop/MatchPicker/goose.png
+c000000004A6E078A0000000000001D36
+t1248724874
+s7478
+
+N/Users/Decmac/Desktop/MatchPicker/main.m
+c000000004F709536000000000000016A
+t1332778294
+s362
+i<UIKit/UIKit.h>
+
+N/Users/Decmac/Desktop/MatchPicker/mouse.png
+c000000004A6E080C000000000000220C
+t1248725004
+s8716
+
+N/Users/Decmac/Desktop/MatchPicker/pig.png
+c000000004A6E07FA000000000000195B
+t1248724986
+s6491
+
+N/Users/Decmac/Desktop/MatchPicker/snake.png
+c000000004A6E07EE000000000000234A
+t1248724974
+s9034
+
+N/var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MatchPicker_Prefix-gvuqczyedzsojxcxutrgrjaglufo/MatchPicker_Prefix.pch.gch
+t1332779973
+s13034960
+
+NMatchPicker-Info.plist
+c000000004F709536000000000000038D
+t1332778294
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies354475247#354475247#0(0"0(0#1#0"4300885448#0"0#
+
+CCompileC build/MatchPicker.build/Debug-iphonesimulator/MatchPicker.build/Objects-normal/i386/MatchPickerAppDelegate.o /Users/Decmac/Desktop/MatchPicker/Classes/MatchPickerAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354474907.952270
+e354474908.220567
+r1
+xCompileC
+xbuild/MatchPicker.build/Debug-iphonesimulator/MatchPicker.build/Objects-normal/i386/MatchPickerAppDelegate.o
+x/Users/Decmac/Desktop/MatchPicker/Classes/MatchPickerAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/Decmac/Desktop/MatchPicker/Classes/MatchPickerAppDelegate.m354474907#354474908#0(0"0(0#0#66"/Users/Decmac/Desktop/MatchPicker/Classes/MatchPickerAppDelegate.m4300885448#1928"    cd /Users/Decmac/Desktop/MatchPicker    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/MatchPicker/build/MatchPicker.build/Debug-iphonesimulator/MatchPicker.build/MatchPicker-generated-files.hmap -I/Users/Decmac/Desktop/MatchPicker/build/MatchPicker.build/Debug-iphonesimulator/MatchPicker.build/MatchPicker-own-target-headers.hmap -I/Users/Decmac/Desktop/MatchPicker/build/MatchPicker.build/Debug-iphonesimulator/MatchPicker.build/MatchPicker-all-target-headers.hmap -iquote /Users/Decmac/Desktop/MatchPicker/build/MatchPicker.build/Debug-iphonesimulator/MatchPicker.build/MatchPicker-project-headers.hmap -F/Users/Decmac/Desktop/MatchPicker/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/MatchPicker/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/MatchPicker/build/MatchPicker.build/Debug-iphonesimulator/MatchPicker.build/DerivedSources/i386 -I/Users/Decmac/Desktop/MatchPicker/build/MatchPicker.build/Debug-iphonesimulator/MatchPicker.build/DerivedSources -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MatchPicker_Prefix-gvuqczyedzsojxcxutrgrjaglufo/MatchPicker_Prefix.pch -c /Users/Decmac/Desktop/MatchPicker/Classes/MatchPickerAppDelegate.m -o /Users/Decmac/Desktop/MatchPicker/build/MatchPicker.build/Debug-iphonesimulator/MatchPicker.build/Objects-normal/i386/MatchPickerAppDelegate.o0#
+
+CCompileC build/MatchPicker.build/Debug-iphonesimulator/MatchPicker.build/Objects-normal/i386/MatchPickerViewController.o /Users/Decmac/Desktop/MatchPicker/Classes/MatchPickerViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354475247.416334
+e354475248.099867
+r1
+xCompileC
+xbuild/MatchPicker.build/Debug-iphonesimulator/MatchPicker.build/Objects-normal/i386/MatchPickerViewController.o
+x/Users/Decmac/Desktop/MatchPicker/Classes/MatchPickerViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/Decmac/Desktop/MatchPicker/Classes/MatchPickerViewController.m354475247#354475248#0(0"0(0#0#69"/Users/Decmac/Desktop/MatchPicker/Classes/MatchPickerViewController.m4300885448#1934"    cd /Users/Decmac/Desktop/MatchPicker    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/MatchPicker/build/MatchPicker.build/Debug-iphonesimulator/MatchPicker.build/MatchPicker-generated-files.hmap -I/Users/Decmac/Desktop/MatchPicker/build/MatchPicker.build/Debug-iphonesimulator/MatchPicker.build/MatchPicker-own-target-headers.hmap -I/Users/Decmac/Desktop/MatchPicker/build/MatchPicker.build/Debug-iphonesimulator/MatchPicker.build/MatchPicker-all-target-headers.hmap -iquote /Users/Decmac/Desktop/MatchPicker/build/MatchPicker.build/Debug-iphonesimulator/MatchPicker.build/MatchPicker-project-headers.hmap -F/Users/Decmac/Desktop/MatchPicker/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/MatchPicker/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/MatchPicker/build/MatchPicker.build/Debug-iphonesimulator/MatchPicker.build/DerivedSources/i386 -I/Users/Decmac/Desktop/MatchPicker/build/MatchPicker.build/Debug-iphonesimulator/MatchPicker.build/DerivedSources -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MatchPicker_Prefix-gvuqczyedzsojxcxutrgrjaglufo/MatchPicker_Prefix.pch -c /Users/Decmac/Desktop/MatchPicker/Classes/MatchPickerViewController.m -o /Users/Decmac/Desktop/MatchPicker/build/MatchPicker.build/Debug-iphonesimulator/MatchPicker.build/Objects-normal/i386/MatchPickerViewController.o0#
+
+CCompileC build/MatchPicker.build/Debug-iphonesimulator/MatchPicker.build/Objects-normal/i386/main.o /Users/Decmac/Desktop/MatchPicker/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354472773.500611
+e354472773.626376
+r1
+xCompileC
+xbuild/MatchPicker.build/Debug-iphonesimulator/MatchPicker.build/Objects-normal/i386/main.o
+x/Users/Decmac/Desktop/MatchPicker/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@48"Compile /Users/Decmac/Desktop/MatchPicker/main.m354472773#354472773#0(0"0(0#0#40"/Users/Decmac/Desktop/MatchPicker/main.m4300885448#1884"    cd /Users/Decmac/Desktop/MatchPicker    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/MatchPicker/build/MatchPicker.build/Debug-iphonesimulator/MatchPicker.build/MatchPicker-generated-files.hmap -I/Users/Decmac/Desktop/MatchPicker/build/MatchPicker.build/Debug-iphonesimulator/MatchPicker.build/MatchPicker-own-target-headers.hmap -I/Users/Decmac/Desktop/MatchPicker/build/MatchPicker.build/Debug-iphonesimulator/MatchPicker.build/MatchPicker-all-target-headers.hmap -iquote /Users/Decmac/Desktop/MatchPicker/build/MatchPicker.build/Debug-iphonesimulator/MatchPicker.build/MatchPicker-project-headers.hmap -F/Users/Decmac/Desktop/MatchPicker/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/MatchPicker/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/MatchPicker/build/MatchPicker.build/Debug-iphonesimulator/MatchPicker.build/DerivedSources/i386 -I/Users/Decmac/Desktop/MatchPicker/build/MatchPicker.build/Debug-iphonesimulator/MatchPicker.build/DerivedSources -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MatchPicker_Prefix-gvuqczyedzsojxcxutrgrjaglufo/MatchPicker_Prefix.pch -c /Users/Decmac/Desktop/MatchPicker/main.m -o /Users/Decmac/Desktop/MatchPicker/build/MatchPicker.build/Debug-iphonesimulator/MatchPicker.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/Decmac/Desktop/MatchPicker/MainWindow.xib
+s354472770.458203
+e354472771.494797
+r1
+xCompileXIB
+x/Users/Decmac/Desktop/MatchPicker/MainWindow.xib
+o2012-03-26 16:39:30.595 ibtool[622:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 35
+lSLF07#2@25"CompileXIB MainWindow.xib354472770#354472771#0(107"2012-03-26 16:39:30.595 ibtool[622:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 350(0#0#48"/Users/Decmac/Desktop/MatchPicker/MainWindow.xib4300885448#471"    cd /Users/Decmac/Desktop/MatchPicker    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Decmac/Desktop/MatchPicker/build/Debug-iphonesimulator/MatchPicker.app/MainWindow.nib /Users/Decmac/Desktop/MatchPicker/MainWindow.xib0#
+
+CCompileXIB /Users/Decmac/Desktop/MatchPicker/MatchPickerViewController.xib
+s354474906.849893
+e354474907.951418
+r1
+xCompileXIB
+x/Users/Decmac/Desktop/MatchPicker/MatchPickerViewController.xib
+o2012-03-26 17:15:07.055 ibtool[782:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 35
+lSLF07#2@40"CompileXIB MatchPickerViewController.xib354474906#354474907#0(107"2012-03-26 17:15:07.055 ibtool[782:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 350(0#0#63"/Users/Decmac/Desktop/MatchPicker/MatchPickerViewController.xib4300885448#501"    cd /Users/Decmac/Desktop/MatchPicker    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Decmac/Desktop/MatchPicker/build/Debug-iphonesimulator/MatchPicker.app/MatchPickerViewController.nib /Users/Decmac/Desktop/MatchPicker/MatchPickerViewController.xib0#
+
+CCpResource build/Debug-iphonesimulator/MatchPicker.app/bear.png bear.png
+s354474906.884727
+e354474907.008150
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MatchPicker.app/bear.png
+xbear.png
+lSLF07#2@13"Copy bear.png354474906#354474907#0(0"0(0#0#42"/Users/Decmac/Desktop/MatchPicker/bear.png4300885448#441"    cd /Users/Decmac/Desktop/MatchPicker    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Decmac/Desktop/MatchPicker/bear.png /Users/Decmac/Desktop/MatchPicker/build/Debug-iphonesimulator/MatchPicker.app0#
+
+CCpResource build/Debug-iphonesimulator/MatchPicker.app/cat.png cat.png
+s354474906.938725
+e354474907.008818
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MatchPicker.app/cat.png
+xcat.png
+lSLF07#2@12"Copy cat.png354474906#354474907#0(0"0(0#0#41"/Users/Decmac/Desktop/MatchPicker/cat.png4300885448#440"    cd /Users/Decmac/Desktop/MatchPicker    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Decmac/Desktop/MatchPicker/cat.png /Users/Decmac/Desktop/MatchPicker/build/Debug-iphonesimulator/MatchPicker.app0#
+
+CCpResource build/Debug-iphonesimulator/MatchPicker.app/dog.png dog.png
+s354474906.963077
+e354474907.009347
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MatchPicker.app/dog.png
+xdog.png
+lSLF07#2@12"Copy dog.png354474906#354474907#0(0"0(0#0#41"/Users/Decmac/Desktop/MatchPicker/dog.png4300885448#440"    cd /Users/Decmac/Desktop/MatchPicker    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Decmac/Desktop/MatchPicker/dog.png /Users/Decmac/Desktop/MatchPicker/build/Debug-iphonesimulator/MatchPicker.app0#
+
+CCpResource build/Debug-iphonesimulator/MatchPicker.app/goose.png goose.png
+s354474906.975912
+e354474907.010014
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MatchPicker.app/goose.png
+xgoose.png
+lSLF07#2@14"Copy goose.png354474906#354474907#0(0"0(0#0#43"/Users/Decmac/Desktop/MatchPicker/goose.png4300885448#442"    cd /Users/Decmac/Desktop/MatchPicker    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Decmac/Desktop/MatchPicker/goose.png /Users/Decmac/Desktop/MatchPicker/build/Debug-iphonesimulator/MatchPicker.app0#
+
+CCpResource build/Debug-iphonesimulator/MatchPicker.app/mouse.png mouse.png
+s354474906.852292
+e354474907.006677
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MatchPicker.app/mouse.png
+xmouse.png
+lSLF07#2@14"Copy mouse.png354474906#354474907#0(0"0(0#0#43"/Users/Decmac/Desktop/MatchPicker/mouse.png4300885448#442"    cd /Users/Decmac/Desktop/MatchPicker    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Decmac/Desktop/MatchPicker/mouse.png /Users/Decmac/Desktop/MatchPicker/build/Debug-iphonesimulator/MatchPicker.app0#
+
+CCpResource build/Debug-iphonesimulator/MatchPicker.app/pig.png pig.png
+s354474906.858675
+e354474907.007188
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MatchPicker.app/pig.png
+xpig.png
+lSLF07#2@12"Copy pig.png354474906#354474907#0(0"0(0#0#41"/Users/Decmac/Desktop/MatchPicker/pig.png4300885448#440"    cd /Users/Decmac/Desktop/MatchPicker    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Decmac/Desktop/MatchPicker/pig.png /Users/Decmac/Desktop/MatchPicker/build/Debug-iphonesimulator/MatchPicker.app0#
+
+CCpResource build/Debug-iphonesimulator/MatchPicker.app/snake.png snake.png
+s354474906.863763
+e354474907.007664
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MatchPicker.app/snake.png
+xsnake.png
+lSLF07#2@14"Copy snake.png354474906#354474907#0(0"0(0#0#43"/Users/Decmac/Desktop/MatchPicker/snake.png4300885448#442"    cd /Users/Decmac/Desktop/MatchPicker    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Decmac/Desktop/MatchPicker/snake.png /Users/Decmac/Desktop/MatchPicker/build/Debug-iphonesimulator/MatchPicker.app0#
+
+CGenerateDSYMFile /Users/Decmac/Desktop/MatchPicker/build/Debug-iphonesimulator/MatchPicker.app.dSYM /Users/Decmac/Desktop/MatchPicker/build/Debug-iphonesimulator/MatchPicker.app/MatchPicker
+s354475248.159205
+e354475248.206029
+r1
+xGenerateDSYMFile
+x/Users/Decmac/Desktop/MatchPicker/build/Debug-iphonesimulator/MatchPicker.app.dSYM
+x/Users/Decmac/Desktop/MatchPicker/build/Debug-iphonesimulator/MatchPicker.app/MatchPicker
+o2012-03-26 17:20:48.190 dsymutil[873:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 35
+lSLF07#2@121"GenerateDSYMFile build/Debug-iphonesimulator/MatchPicker.app.dSYM build/Debug-iphonesimulator/MatchPicker.app/MatchPicker354475248#354475248#0(109"2012-03-26 17:20:48.190 dsymutil[873:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 350(0#0#89"/Users/Decmac/Desktop/MatchPicker/build/Debug-iphonesimulator/MatchPicker.app/MatchPicker4300885448#380"    cd /Users/Decmac/Desktop/MatchPicker    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/Decmac/Desktop/MatchPicker/build/Debug-iphonesimulator/MatchPicker.app/MatchPicker -o /Users/Decmac/Desktop/MatchPicker/build/Debug-iphonesimulator/MatchPicker.app.dSYM0#
+
+CLd /Users/Decmac/Desktop/MatchPicker/build/Debug-iphonesimulator/MatchPicker.app/MatchPicker normal i386
+s354475248.100101
+e354475248.158928
+r1
+xLd
+x/Users/Decmac/Desktop/MatchPicker/build/Debug-iphonesimulator/MatchPicker.app/MatchPicker
+xnormal
+xi386
+lSLF07#2@94"Link /Users/Decmac/Desktop/MatchPicker/build/Debug-iphonesimulator/MatchPicker.app/MatchPicker354475248#354475248#0(0"0(0#0#0"4300885448#859"    cd /Users/Decmac/Desktop/MatchPicker    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -L/Users/Decmac/Desktop/MatchPicker/build/Debug-iphonesimulator -F/Users/Decmac/Desktop/MatchPicker/build/Debug-iphonesimulator -filelist /Users/Decmac/Desktop/MatchPicker/build/MatchPicker.build/Debug-iphonesimulator/MatchPicker.build/Objects-normal/i386/MatchPicker.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/Decmac/Desktop/MatchPicker/build/Debug-iphonesimulator/MatchPicker.app/MatchPicker0#
+
+CProcessInfoPlistFile /Users/Decmac/Desktop/MatchPicker/build/Debug-iphonesimulator/MatchPicker.app/Info.plist MatchPicker-Info.plist
+s354472770.435688
+e354472770.457944
+r1
+xProcessInfoPlistFile
+x/Users/Decmac/Desktop/MatchPicker/build/Debug-iphonesimulator/MatchPicker.app/Info.plist
+xMatchPicker-Info.plist
+lSLF07#2@30"Process MatchPicker-Info.plist354472770#354472770#0(0"0(0#0#56"/Users/Decmac/Desktop/MatchPicker/MatchPicker-Info.plist4300885448#476"    cd /Users/Decmac/Desktop/MatchPicker    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility MatchPicker-Info.plist -genpkginfo /Users/Decmac/Desktop/MatchPicker/build/Debug-iphonesimulator/MatchPicker.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/Decmac/Desktop/MatchPicker/build/Debug-iphonesimulator/MatchPicker.app/Info.plist0#
+
+CProcessPCH /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MatchPicker_Prefix-gvuqczyedzsojxcxutrgrjaglufo/MatchPicker_Prefix.pch.gch MatchPicker_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s354472771.792807
+e354472773.500151
+r1
+xProcessPCH
+x/var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MatchPicker_Prefix-gvuqczyedzsojxcxutrgrjaglufo/MatchPicker_Prefix.pch.gch
+xMatchPicker_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile MatchPicker_Prefix.pch354472771#354472773#0(0"0(0#0#56"/Users/Decmac/Desktop/MatchPicker/MatchPicker_Prefix.pch4300885448#1777"    cd /Users/Decmac/Desktop/MatchPicker    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/MatchPicker/build/MatchPicker.build/Debug-iphonesimulator/MatchPicker.build/MatchPicker-generated-files.hmap -I/Users/Decmac/Desktop/MatchPicker/build/MatchPicker.build/Debug-iphonesimulator/MatchPicker.build/MatchPicker-own-target-headers.hmap -I/Users/Decmac/Desktop/MatchPicker/build/MatchPicker.build/Debug-iphonesimulator/MatchPicker.build/MatchPicker-all-target-headers.hmap -iquote /Users/Decmac/Desktop/MatchPicker/build/MatchPicker.build/Debug-iphonesimulator/MatchPicker.build/MatchPicker-project-headers.hmap -F/Users/Decmac/Desktop/MatchPicker/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/MatchPicker/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/MatchPicker/build/MatchPicker.build/Debug-iphonesimulator/MatchPicker.build/DerivedSources/i386 -I/Users/Decmac/Desktop/MatchPicker/build/MatchPicker.build/Debug-iphonesimulator/MatchPicker.build/DerivedSources -c /Users/Decmac/Desktop/MatchPicker/MatchPicker_Prefix.pch -o /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MatchPicker_Prefix-gvuqczyedzsojxcxutrgrjaglufo/MatchPicker_Prefix.pch.gch0#
+
+CTouch /Users/Decmac/Desktop/MatchPicker/build/Debug-iphonesimulator/MatchPicker.app
+s354475248.206258
+e354475248.213297
+r1
+xTouch
+x/Users/Decmac/Desktop/MatchPicker/build/Debug-iphonesimulator/MatchPicker.app
+lSLF07#2@83"Touch /Users/Decmac/Desktop/MatchPicker/build/Debug-iphonesimulator/MatchPicker.app354475248#354475248#0(0"0(0#0#0"4300885448#272"    cd /Users/Decmac/Desktop/MatchPicker    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/Decmac/Desktop/MatchPicker/build/Debug-iphonesimulator/MatchPicker.app0#
+

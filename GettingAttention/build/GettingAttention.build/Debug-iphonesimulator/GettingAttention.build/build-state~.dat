@@ -1,0 +1,259 @@
+TGettingAttention
+v7
+r0
+t354477099.591694
+cCheck dependencies
+cProcessInfoPlistFile /Users/Decmac/Desktop/GettingAttention/build/Debug-iphonesimulator/GettingAttention.app/Info.plist GettingAttention-Info.plist
+cCompileXIB /Users/Decmac/Desktop/GettingAttention/MainWindow.xib
+cCompileXIB /Users/Decmac/Desktop/GettingAttention/GettingAttentionViewController.xib
+cProcessPCH /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GettingAttention_Prefix-bcgohkbspxeutcedfupjuoghwvjd/GettingAttention_Prefix.pch.gch GettingAttention_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GettingAttention.build/Debug-iphonesimulator/GettingAttention.build/Objects-normal/i386/main.o /Users/Decmac/Desktop/GettingAttention/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GettingAttention.build/Debug-iphonesimulator/GettingAttention.build/Objects-normal/i386/GettingAttentionAppDelegate.o /Users/Decmac/Desktop/GettingAttention/Classes/GettingAttentionAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GettingAttention.build/Debug-iphonesimulator/GettingAttention.build/Objects-normal/i386/GettingAttentionViewController.o /Users/Decmac/Desktop/GettingAttention/Classes/GettingAttentionViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/Decmac/Desktop/GettingAttention/build/Debug-iphonesimulator/GettingAttention.app/GettingAttention normal i386
+cGenerateDSYMFile /Users/Decmac/Desktop/GettingAttention/build/Debug-iphonesimulator/GettingAttention.app.dSYM /Users/Decmac/Desktop/GettingAttention/build/Debug-iphonesimulator/GettingAttention.app/GettingAttention
+cTouch /Users/Decmac/Desktop/GettingAttention/build/Debug-iphonesimulator/GettingAttention.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk
+c000000004F3A580900000000000000EE
+t1329223689
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B2B4CC3000000000026EE30
+t1261128899
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B2B4DC8000000000027E880
+t1261129160
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B2B4DAE0000000000001355
+t1261129134
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B2B61620000000000000788
+t1261134178
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B2B62B500000000016721E0
+t1261134517
+s23536096
+
+N/Users/Decmac/Desktop/GettingAttention/Classes/GettingAttentionAppDelegate.h
+c000000004F70A8DB0000000000000212
+t1332783323
+s530
+i<UIKit/UIKit.h>
+
+N/Users/Decmac/Desktop/GettingAttention/Classes/GettingAttentionAppDelegate.m
+c000000004F70A8DB0000000000000294
+t1332783323
+s660
+i"GettingAttentionAppDelegate.h"
+i"GettingAttentionViewController.h"
+
+N/Users/Decmac/Desktop/GettingAttention/Classes/GettingAttentionViewController.h
+c000000004F70A9920000000000000216
+t1332783506
+s534
+i<UIKit/UIKit.h>
+
+N/Users/Decmac/Desktop/GettingAttention/Classes/GettingAttentionViewController.m
+c000000004F70ACA70000000000000408
+t1332784295
+s1032
+i"GettingAttentionViewController.h"
+
+N/Users/Decmac/Desktop/GettingAttention/GettingAttentionViewController.xib
+c000000004F70AC130000000000006A12
+t1332784147
+s27154
+
+N/Users/Decmac/Desktop/GettingAttention/GettingAttention_Prefix.pch
+c000000004F70A8DC00000000000000C9
+t1332783324
+s201
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/Decmac/Desktop/GettingAttention/MainWindow.xib
+c000000004F70A8DC00000000000024B1
+t1332783324
+s9393
+
+N/Users/Decmac/Desktop/GettingAttention/build/Debug-iphonesimulator/GettingAttention.app
+t1332784299
+s238
+
+N/Users/Decmac/Desktop/GettingAttention/build/Debug-iphonesimulator/GettingAttention.app.dSYM
+t1332784299
+s102
+
+N/Users/Decmac/Desktop/GettingAttention/build/Debug-iphonesimulator/GettingAttention.app/GettingAttention
+t1332784299
+s20752
+
+N/Users/Decmac/Desktop/GettingAttention/build/Debug-iphonesimulator/GettingAttention.app/GettingAttentionViewController.nib
+t1332784297
+s4145
+
+N/Users/Decmac/Desktop/GettingAttention/build/Debug-iphonesimulator/GettingAttention.app/Info.plist
+t1332784296
+s606
+
+N/Users/Decmac/Desktop/GettingAttention/build/Debug-iphonesimulator/GettingAttention.app/MainWindow.nib
+t1332784296
+s1513
+
+N/Users/Decmac/Desktop/GettingAttention/build/Debug-iphonesimulator/GettingAttention.app/PkgInfo
+t1332784296
+s8
+
+N/Users/Decmac/Desktop/GettingAttention/build/GettingAttention.build/Debug-iphonesimulator/GettingAttention.build/Objects-normal/i386/GettingAttention.LinkFileList
+c000000004F70ACA800000000000001D5
+t1332784296
+s469
+
+N/Users/Decmac/Desktop/GettingAttention/build/GettingAttention.build/Debug-iphonesimulator/GettingAttention.build/Objects-normal/i386/GettingAttentionAppDelegate.o
+t1332784299
+s38344
+
+N/Users/Decmac/Desktop/GettingAttention/build/GettingAttention.build/Debug-iphonesimulator/GettingAttention.build/Objects-normal/i386/GettingAttentionViewController.o
+t1332784299
+s37564
+
+N/Users/Decmac/Desktop/GettingAttention/build/GettingAttention.build/Debug-iphonesimulator/GettingAttention.build/Objects-normal/i386/main.o
+t1332784299
+s5956
+
+N/Users/Decmac/Desktop/GettingAttention/main.m
+c000000004F70A8DC000000000000016F
+t1332783324
+s367
+i<UIKit/UIKit.h>
+
+N/var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GettingAttention_Prefix-bcgohkbspxeutcedfupjuoghwvjd/GettingAttention_Prefix.pch.gch
+t1332784298
+s13034960
+
+NGettingAttention-Info.plist
+c000000004F70A8DC000000000000038D
+t1332783324
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies354477095#354477096#0(0"0(0#1#0"4300885448#0"0#
+
+CCompileC build/GettingAttention.build/Debug-iphonesimulator/GettingAttention.build/Objects-normal/i386/GettingAttentionAppDelegate.o /Users/Decmac/Desktop/GettingAttention/Classes/GettingAttentionAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354477099.148317
+e354477099.364382
+r1
+xCompileC
+xbuild/GettingAttention.build/Debug-iphonesimulator/GettingAttention.build/Objects-normal/i386/GettingAttentionAppDelegate.o
+x/Users/Decmac/Desktop/GettingAttention/Classes/GettingAttentionAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@84"Compile /Users/Decmac/Desktop/GettingAttention/Classes/GettingAttentionAppDelegate.m354477099#354477099#0(0"0(0#0#76"/Users/Decmac/Desktop/GettingAttention/Classes/GettingAttentionAppDelegate.m4300885448#2093"    cd /Users/Decmac/Desktop/GettingAttention    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/GettingAttention/build/GettingAttention.build/Debug-iphonesimulator/GettingAttention.build/GettingAttention-generated-files.hmap -I/Users/Decmac/Desktop/GettingAttention/build/GettingAttention.build/Debug-iphonesimulator/GettingAttention.build/GettingAttention-own-target-headers.hmap -I/Users/Decmac/Desktop/GettingAttention/build/GettingAttention.build/Debug-iphonesimulator/GettingAttention.build/GettingAttention-all-target-headers.hmap -iquote /Users/Decmac/Desktop/GettingAttention/build/GettingAttention.build/Debug-iphonesimulator/GettingAttention.build/GettingAttention-project-headers.hmap -F/Users/Decmac/Desktop/GettingAttention/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/GettingAttention/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/GettingAttention/build/GettingAttention.build/Debug-iphonesimulator/GettingAttention.build/DerivedSources/i386 -I/Users/Decmac/Desktop/GettingAttention/build/GettingAttention.build/Debug-iphonesimulator/GettingAttention.build/DerivedSources -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GettingAttention_Prefix-bcgohkbspxeutcedfupjuoghwvjd/GettingAttention_Prefix.pch -c /Users/Decmac/Desktop/GettingAttention/Classes/GettingAttentionAppDelegate.m -o /Users/Decmac/Desktop/GettingAttention/build/GettingAttention.build/Debug-iphonesimulator/GettingAttention.build/Objects-normal/i386/GettingAttentionAppDelegate.o0#
+
+CCompileC build/GettingAttention.build/Debug-iphonesimulator/GettingAttention.build/Objects-normal/i386/GettingAttentionViewController.o /Users/Decmac/Desktop/GettingAttention/Classes/GettingAttentionViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354477099.270913
+e354477099.461365
+r1
+xCompileC
+xbuild/GettingAttention.build/Debug-iphonesimulator/GettingAttention.build/Objects-normal/i386/GettingAttentionViewController.o
+x/Users/Decmac/Desktop/GettingAttention/Classes/GettingAttentionViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/Decmac/Desktop/GettingAttention/Classes/GettingAttentionViewController.m354477099#354477099#0(0"0(0#0#79"/Users/Decmac/Desktop/GettingAttention/Classes/GettingAttentionViewController.m4300885448#2099"    cd /Users/Decmac/Desktop/GettingAttention    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/GettingAttention/build/GettingAttention.build/Debug-iphonesimulator/GettingAttention.build/GettingAttention-generated-files.hmap -I/Users/Decmac/Desktop/GettingAttention/build/GettingAttention.build/Debug-iphonesimulator/GettingAttention.build/GettingAttention-own-target-headers.hmap -I/Users/Decmac/Desktop/GettingAttention/build/GettingAttention.build/Debug-iphonesimulator/GettingAttention.build/GettingAttention-all-target-headers.hmap -iquote /Users/Decmac/Desktop/GettingAttention/build/GettingAttention.build/Debug-iphonesimulator/GettingAttention.build/GettingAttention-project-headers.hmap -F/Users/Decmac/Desktop/GettingAttention/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/GettingAttention/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/GettingAttention/build/GettingAttention.build/Debug-iphonesimulator/GettingAttention.build/DerivedSources/i386 -I/Users/Decmac/Desktop/GettingAttention/build/GettingAttention.build/Debug-iphonesimulator/GettingAttention.build/DerivedSources -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GettingAttention_Prefix-bcgohkbspxeutcedfupjuoghwvjd/GettingAttention_Prefix.pch -c /Users/Decmac/Desktop/GettingAttention/Classes/GettingAttentionViewController.m -o /Users/Decmac/Desktop/GettingAttention/build/GettingAttention.build/Debug-iphonesimulator/GettingAttention.build/Objects-normal/i386/GettingAttentionViewController.o0#
+
+CCompileC build/GettingAttention.build/Debug-iphonesimulator/GettingAttention.build/Objects-normal/i386/main.o /Users/Decmac/Desktop/GettingAttention/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354477099.144873
+e354477099.270586
+r1
+xCompileC
+xbuild/GettingAttention.build/Debug-iphonesimulator/GettingAttention.build/Objects-normal/i386/main.o
+x/Users/Decmac/Desktop/GettingAttention/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@53"Compile /Users/Decmac/Desktop/GettingAttention/main.m354477099#354477099#0(0"0(0#0#45"/Users/Decmac/Desktop/GettingAttention/main.m4300885448#2039"    cd /Users/Decmac/Desktop/GettingAttention    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/GettingAttention/build/GettingAttention.build/Debug-iphonesimulator/GettingAttention.build/GettingAttention-generated-files.hmap -I/Users/Decmac/Desktop/GettingAttention/build/GettingAttention.build/Debug-iphonesimulator/GettingAttention.build/GettingAttention-own-target-headers.hmap -I/Users/Decmac/Desktop/GettingAttention/build/GettingAttention.build/Debug-iphonesimulator/GettingAttention.build/GettingAttention-all-target-headers.hmap -iquote /Users/Decmac/Desktop/GettingAttention/build/GettingAttention.build/Debug-iphonesimulator/GettingAttention.build/GettingAttention-project-headers.hmap -F/Users/Decmac/Desktop/GettingAttention/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/GettingAttention/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/GettingAttention/build/GettingAttention.build/Debug-iphonesimulator/GettingAttention.build/DerivedSources/i386 -I/Users/Decmac/Desktop/GettingAttention/build/GettingAttention.build/Debug-iphonesimulator/GettingAttention.build/DerivedSources -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GettingAttention_Prefix-bcgohkbspxeutcedfupjuoghwvjd/GettingAttention_Prefix.pch -c /Users/Decmac/Desktop/GettingAttention/main.m -o /Users/Decmac/Desktop/GettingAttention/build/GettingAttention.build/Debug-iphonesimulator/GettingAttention.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/Decmac/Desktop/GettingAttention/GettingAttentionViewController.xib
+s354477096.277018
+e354477097.347038
+r1
+xCompileXIB
+x/Users/Decmac/Desktop/GettingAttention/GettingAttentionViewController.xib
+o2012-03-26 17:51:36.356 ibtool[940:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 35
+lSLF07#2@45"CompileXIB GettingAttentionViewController.xib354477096#354477097#0(107"2012-03-26 17:51:36.356 ibtool[940:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 350(0#0#73"/Users/Decmac/Desktop/GettingAttention/GettingAttentionViewController.xib4300885448#531"    cd /Users/Decmac/Desktop/GettingAttention    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Decmac/Desktop/GettingAttention/build/Debug-iphonesimulator/GettingAttention.app/GettingAttentionViewController.nib /Users/Decmac/Desktop/GettingAttention/GettingAttentionViewController.xib0#
+
+CCompileXIB /Users/Decmac/Desktop/GettingAttention/MainWindow.xib
+s354477096.274802
+e354477097.029382
+r1
+xCompileXIB
+x/Users/Decmac/Desktop/GettingAttention/MainWindow.xib
+o2012-03-26 17:51:36.363 ibtool[939:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 35
+lSLF07#2@25"CompileXIB MainWindow.xib354477096#354477097#0(107"2012-03-26 17:51:36.363 ibtool[939:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 350(0#0#53"/Users/Decmac/Desktop/GettingAttention/MainWindow.xib4300885448#491"    cd /Users/Decmac/Desktop/GettingAttention    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Decmac/Desktop/GettingAttention/build/Debug-iphonesimulator/GettingAttention.app/MainWindow.nib /Users/Decmac/Desktop/GettingAttention/MainWindow.xib0#
+
+CGenerateDSYMFile /Users/Decmac/Desktop/GettingAttention/build/Debug-iphonesimulator/GettingAttention.app.dSYM /Users/Decmac/Desktop/GettingAttention/build/Debug-iphonesimulator/GettingAttention.app/GettingAttention
+s354477099.537842
+e354477099.583850
+r1
+xGenerateDSYMFile
+x/Users/Decmac/Desktop/GettingAttention/build/Debug-iphonesimulator/GettingAttention.app.dSYM
+x/Users/Decmac/Desktop/GettingAttention/build/Debug-iphonesimulator/GettingAttention.app/GettingAttention
+o2012-03-26 17:51:39.569 dsymutil[966:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 35
+lSLF07#2@136"GenerateDSYMFile build/Debug-iphonesimulator/GettingAttention.app.dSYM build/Debug-iphonesimulator/GettingAttention.app/GettingAttention354477099#354477099#0(109"2012-03-26 17:51:39.569 dsymutil[966:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 350(0#0#104"/Users/Decmac/Desktop/GettingAttention/build/Debug-iphonesimulator/GettingAttention.app/GettingAttention4300885448#410"    cd /Users/Decmac/Desktop/GettingAttention    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/Decmac/Desktop/GettingAttention/build/Debug-iphonesimulator/GettingAttention.app/GettingAttention -o /Users/Decmac/Desktop/GettingAttention/build/Debug-iphonesimulator/GettingAttention.app.dSYM0#
+
+CLd /Users/Decmac/Desktop/GettingAttention/build/Debug-iphonesimulator/GettingAttention.app/GettingAttention normal i386
+s354477099.461619
+e354477099.537537
+r1
+xLd
+x/Users/Decmac/Desktop/GettingAttention/build/Debug-iphonesimulator/GettingAttention.app/GettingAttention
+xnormal
+xi386
+lSLF07#2@109"Link /Users/Decmac/Desktop/GettingAttention/build/Debug-iphonesimulator/GettingAttention.app/GettingAttention354477099#354477099#0(0"0(0#0#0"4300885448#909"    cd /Users/Decmac/Desktop/GettingAttention    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -L/Users/Decmac/Desktop/GettingAttention/build/Debug-iphonesimulator -F/Users/Decmac/Desktop/GettingAttention/build/Debug-iphonesimulator -filelist /Users/Decmac/Desktop/GettingAttention/build/GettingAttention.build/Debug-iphonesimulator/GettingAttention.build/Objects-normal/i386/GettingAttention.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/Decmac/Desktop/GettingAttention/build/Debug-iphonesimulator/GettingAttention.app/GettingAttention0#
+
+CProcessInfoPlistFile /Users/Decmac/Desktop/GettingAttention/build/Debug-iphonesimulator/GettingAttention.app/Info.plist GettingAttention-Info.plist
+s354477096.261717
+e354477096.274538
+r1
+xProcessInfoPlistFile
+x/Users/Decmac/Desktop/GettingAttention/build/Debug-iphonesimulator/GettingAttention.app/Info.plist
+xGettingAttention-Info.plist
+lSLF07#2@35"Process GettingAttention-Info.plist354477096#354477096#0(0"0(0#0#66"/Users/Decmac/Desktop/GettingAttention/GettingAttention-Info.plist4300885448#506"    cd /Users/Decmac/Desktop/GettingAttention    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility GettingAttention-Info.plist -genpkginfo /Users/Decmac/Desktop/GettingAttention/build/Debug-iphonesimulator/GettingAttention.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/Decmac/Desktop/GettingAttention/build/Debug-iphonesimulator/GettingAttention.app/Info.plist0#
+
+CProcessPCH /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GettingAttention_Prefix-bcgohkbspxeutcedfupjuoghwvjd/GettingAttention_Prefix.pch.gch GettingAttention_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s354477097.347358
+e354477099.144396
+r1
+xProcessPCH
+x/var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GettingAttention_Prefix-bcgohkbspxeutcedfupjuoghwvjd/GettingAttention_Prefix.pch.gch
+xGettingAttention_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@38"Precompile GettingAttention_Prefix.pch354477097#354477099#0(0"0(0#0#66"/Users/Decmac/Desktop/GettingAttention/GettingAttention_Prefix.pch4300885448#1922"    cd /Users/Decmac/Desktop/GettingAttention    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/GettingAttention/build/GettingAttention.build/Debug-iphonesimulator/GettingAttention.build/GettingAttention-generated-files.hmap -I/Users/Decmac/Desktop/GettingAttention/build/GettingAttention.build/Debug-iphonesimulator/GettingAttention.build/GettingAttention-own-target-headers.hmap -I/Users/Decmac/Desktop/GettingAttention/build/GettingAttention.build/Debug-iphonesimulator/GettingAttention.build/GettingAttention-all-target-headers.hmap -iquote /Users/Decmac/Desktop/GettingAttention/build/GettingAttention.build/Debug-iphonesimulator/GettingAttention.build/GettingAttention-project-headers.hmap -F/Users/Decmac/Desktop/GettingAttention/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/GettingAttention/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/GettingAttention/build/GettingAttention.build/Debug-iphonesimulator/GettingAttention.build/DerivedSources/i386 -I/Users/Decmac/Desktop/GettingAttention/build/GettingAttention.build/Debug-iphonesimulator/GettingAttention.build/DerivedSources -c /Users/Decmac/Desktop/GettingAttention/GettingAttention_Prefix.pch -o /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GettingAttention_Prefix-bcgohkbspxeutcedfupjuoghwvjd/GettingAttention_Prefix.pch.gch0#
+
+CTouch /Users/Decmac/Desktop/GettingAttention/build/Debug-iphonesimulator/GettingAttention.app
+s354477099.584082
+e354477099.591575
+r1
+xTouch
+x/Users/Decmac/Desktop/GettingAttention/build/Debug-iphonesimulator/GettingAttention.app
+lSLF07#2@93"Touch /Users/Decmac/Desktop/GettingAttention/build/Debug-iphonesimulator/GettingAttention.app354477099#354477099#0(0"0(0#0#0"4300885448#287"    cd /Users/Decmac/Desktop/GettingAttention    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/Decmac/Desktop/GettingAttention/build/Debug-iphonesimulator/GettingAttention.app0#
+

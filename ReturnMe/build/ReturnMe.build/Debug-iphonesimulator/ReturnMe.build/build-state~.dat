@@ -1,0 +1,437 @@
+TReturnMe
+v7
+r0
+t354578333.755413
+cCheck dependencies
+cProcessInfoPlistFile /Users/Decmac/Desktop/ReturnMe/build/Debug-iphonesimulator/ReturnMe.app/Info.plist ReturnMe-Info.plist
+cCompileXIB /Users/Decmac/Desktop/ReturnMe/FlipsideView.xib
+cCompileXIB /Users/Decmac/Desktop/ReturnMe/MainView.xib
+cCompileXIB /Users/Decmac/Desktop/ReturnMe/MainWindow.xib
+cCpResource build/Debug-iphonesimulator/ReturnMe.app/dog.jpg dog.jpg
+cCpResource build/Debug-iphonesimulator/ReturnMe.app/hamster.jpg hamster.jpg
+cCpResource build/Debug-iphonesimulator/ReturnMe.app/rat.jpg rat.jpg
+cCpResource build/Debug-iphonesimulator/ReturnMe.app/Settings.bundle Settings.bundle
+cProcessPCH /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ReturnMe_Prefix-ahwkkenbtgkzpufnrjfjklxayxmd/ReturnMe_Prefix.pch.gch ReturnMe_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ReturnMe.build/Debug-iphonesimulator/ReturnMe.build/Objects-normal/i386/main.o /Users/Decmac/Desktop/ReturnMe/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ReturnMe.build/Debug-iphonesimulator/ReturnMe.build/Objects-normal/i386/ReturnMeAppDelegate.o /Users/Decmac/Desktop/ReturnMe/Classes/ReturnMeAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ReturnMe.build/Debug-iphonesimulator/ReturnMe.build/Objects-normal/i386/FlipsideView.o /Users/Decmac/Desktop/ReturnMe/Classes/FlipsideView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ReturnMe.build/Debug-iphonesimulator/ReturnMe.build/Objects-normal/i386/MainView.o /Users/Decmac/Desktop/ReturnMe/Classes/MainView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ReturnMe.build/Debug-iphonesimulator/ReturnMe.build/Objects-normal/i386/MainViewController.o /Users/Decmac/Desktop/ReturnMe/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ReturnMe.build/Debug-iphonesimulator/ReturnMe.build/Objects-normal/i386/FlipsideViewController.o /Users/Decmac/Desktop/ReturnMe/Classes/FlipsideViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk
+c000000004F3A580900000000000000EE
+t1329223689
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B2B4CC3000000000026EE30
+t1261128899
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B2B4DC8000000000027E880
+t1261129160
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B2B4DAE0000000000001355
+t1261129134
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B2B61620000000000000788
+t1261134178
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B2B62B500000000016721E0
+t1261134517
+s23536096
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/usr/include/Availability.h
+c000000004B2B4EE200000000000019F9
+t1261129442
+s6649
+
+N/Users/Decmac/Desktop/ReturnMe/Classes/FlipsideView.h
+c000000004F722E2300000000000000B7
+t1332882979
+s183
+
+N/Users/Decmac/Desktop/ReturnMe/Classes/FlipsideView.m
+c000000004F722E2300000000000001B7
+t1332882979
+s439
+i"FlipsideView.h"
+
+N/Users/Decmac/Desktop/ReturnMe/Classes/FlipsideViewController.h
+c000000004F722E23000000000000020C
+t1332882979
+s524
+
+N/Users/Decmac/Desktop/ReturnMe/Classes/FlipsideViewController.m
+c000000004F722E23000000000000044B
+t1332882979
+s1099
+i"FlipsideViewController.h"
+
+N/Users/Decmac/Desktop/ReturnMe/Classes/MainView.h
+c000000004F722E2300000000000000C7
+t1332882979
+s199
+i<UIKit/UIKit.h>
+
+N/Users/Decmac/Desktop/ReturnMe/Classes/MainView.m
+c000000004F722E2300000000000001AB
+t1332882979
+s427
+i"MainView.h"
+
+N/Users/Decmac/Desktop/ReturnMe/Classes/MainViewController.h
+c000000004F72348F00000000000002D0
+t1332884623
+s720
+i"FlipsideViewController.h"
+
+N/Users/Decmac/Desktop/ReturnMe/Classes/MainViewController.m
+c000000004F7238180000000000000B1A
+t1332885528
+s2842
+i"MainViewController.h"
+i"MainView.h"
+
+N/Users/Decmac/Desktop/ReturnMe/Classes/ReturnMeAppDelegate.h
+c000000004F722E2300000000000001BC
+t1332882979
+s444
+
+N/Users/Decmac/Desktop/ReturnMe/Classes/ReturnMeAppDelegate.m
+c000000004F722E230000000000000328
+t1332882979
+s808
+i"ReturnMeAppDelegate.h"
+i"MainViewController.h"
+
+N/Users/Decmac/Desktop/ReturnMe/FlipsideView.xib
+c000000004F722E230000000000002685
+t1332882979
+s9861
+
+N/Users/Decmac/Desktop/ReturnMe/MainView.xib
+c000000004F722E2300000000000023C3
+t1332882979
+s9155
+
+N/Users/Decmac/Desktop/ReturnMe/MainWindow.xib
+c000000004F722E230000000000001E14
+t1332882979
+s7700
+
+N/Users/Decmac/Desktop/ReturnMe/ReturnMe_Prefix.pch
+c000000004F722E230000000000000142
+t1332882979
+s322
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/Decmac/Desktop/ReturnMe/Settings.bundle
+c000000004F6EF4D200000000000000AA
+t1332671698
+s170
+
+N/Users/Decmac/Desktop/ReturnMe/build/Debug-iphonesimulator/ReturnMe.app
+t2
+s0
+
+N/Users/Decmac/Desktop/ReturnMe/build/Debug-iphonesimulator/ReturnMe.app.dSYM
+t2
+s0
+
+N/Users/Decmac/Desktop/ReturnMe/build/Debug-iphonesimulator/ReturnMe.app/FlipsideView.nib
+t1332885530
+s1802
+
+N/Users/Decmac/Desktop/ReturnMe/build/Debug-iphonesimulator/ReturnMe.app/Info.plist
+t1332885529
+s568
+
+N/Users/Decmac/Desktop/ReturnMe/build/Debug-iphonesimulator/ReturnMe.app/MainView.nib
+t1332885530
+s2042
+
+N/Users/Decmac/Desktop/ReturnMe/build/Debug-iphonesimulator/ReturnMe.app/MainWindow.nib
+t1332885531
+s1380
+
+N/Users/Decmac/Desktop/ReturnMe/build/Debug-iphonesimulator/ReturnMe.app/PkgInfo
+t1332885529
+s8
+
+N/Users/Decmac/Desktop/ReturnMe/build/Debug-iphonesimulator/ReturnMe.app/ReturnMe
+t2
+s0
+
+N/Users/Decmac/Desktop/ReturnMe/build/Debug-iphonesimulator/ReturnMe.app/Settings.bundle
+t1332885530
+s170
+
+N/Users/Decmac/Desktop/ReturnMe/build/Debug-iphonesimulator/ReturnMe.app/dog.jpg
+t1332885530
+s24264
+
+N/Users/Decmac/Desktop/ReturnMe/build/Debug-iphonesimulator/ReturnMe.app/hamster.jpg
+t1332885530
+s23646
+
+N/Users/Decmac/Desktop/ReturnMe/build/Debug-iphonesimulator/ReturnMe.app/rat.jpg
+t1332885530
+s17533
+
+N/Users/Decmac/Desktop/ReturnMe/build/ReturnMe.build/Debug-iphonesimulator/ReturnMe.build/Objects-normal/i386/FlipsideView.o
+t1332885533
+s9868
+
+N/Users/Decmac/Desktop/ReturnMe/build/ReturnMe.build/Debug-iphonesimulator/ReturnMe.build/Objects-normal/i386/FlipsideViewController.o
+t1332885533
+s32220
+
+N/Users/Decmac/Desktop/ReturnMe/build/ReturnMe.build/Debug-iphonesimulator/ReturnMe.build/Objects-normal/i386/MainView.o
+t1332885533
+s9816
+
+N/Users/Decmac/Desktop/ReturnMe/build/ReturnMe.build/Debug-iphonesimulator/ReturnMe.build/Objects-normal/i386/MainViewController.o
+t2
+s0
+
+N/Users/Decmac/Desktop/ReturnMe/build/ReturnMe.build/Debug-iphonesimulator/ReturnMe.build/Objects-normal/i386/ReturnMe.LinkFileList
+c000000004F72381900000000000002F3
+t1332885529
+s755
+
+N/Users/Decmac/Desktop/ReturnMe/build/ReturnMe.build/Debug-iphonesimulator/ReturnMe.build/Objects-normal/i386/ReturnMeAppDelegate.o
+t2
+s0
+
+N/Users/Decmac/Desktop/ReturnMe/build/ReturnMe.build/Debug-iphonesimulator/ReturnMe.build/Objects-normal/i386/main.o
+t1332885533
+s5940
+
+N/Users/Decmac/Desktop/ReturnMe/dog.jpg
+c000000004955C5460000000000005EC8
+t1230357830
+s24264
+
+N/Users/Decmac/Desktop/ReturnMe/hamster.jpg
+c000000004955C5440000000000005C5E
+t1230357828
+s23646
+
+N/Users/Decmac/Desktop/ReturnMe/main.m
+c000000004F722E230000000000000167
+t1332882979
+s359
+i<UIKit/UIKit.h>
+
+N/Users/Decmac/Desktop/ReturnMe/rat.jpg
+c000000004955C546000000000000447D
+t1230357830
+s17533
+
+N/var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ReturnMe_Prefix-ahwkkenbtgkzpufnrjfjklxayxmd/ReturnMe_Prefix.pch.gch
+t1332885533
+s13034960
+
+NReturnMe-Info.plist
+c000000004F722E23000000000000038D
+t1332882979
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies354578329#354578329#0(0"0(0#1#0"4300885448#0"0#
+
+CCompileC build/ReturnMe.build/Debug-iphonesimulator/ReturnMe.build/Objects-normal/i386/FlipsideView.o /Users/Decmac/Desktop/ReturnMe/Classes/FlipsideView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354578333.328117
+e354578333.541167
+r1
+xCompileC
+xbuild/ReturnMe.build/Debug-iphonesimulator/ReturnMe.build/Objects-normal/i386/FlipsideView.o
+x/Users/Decmac/Desktop/ReturnMe/Classes/FlipsideView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/Decmac/Desktop/ReturnMe/Classes/FlipsideView.m354578333#354578333#0(0"0(0#0#53"/Users/Decmac/Desktop/ReturnMe/Classes/FlipsideView.m4300885448#1815"    cd /Users/Decmac/Desktop/ReturnMe    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/ReturnMe/build/ReturnMe.build/Debug-iphonesimulator/ReturnMe.build/ReturnMe-generated-files.hmap -I/Users/Decmac/Desktop/ReturnMe/build/ReturnMe.build/Debug-iphonesimulator/ReturnMe.build/ReturnMe-own-target-headers.hmap -I/Users/Decmac/Desktop/ReturnMe/build/ReturnMe.build/Debug-iphonesimulator/ReturnMe.build/ReturnMe-all-target-headers.hmap -iquote /Users/Decmac/Desktop/ReturnMe/build/ReturnMe.build/Debug-iphonesimulator/ReturnMe.build/ReturnMe-project-headers.hmap -F/Users/Decmac/Desktop/ReturnMe/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/ReturnMe/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/ReturnMe/build/ReturnMe.build/Debug-iphonesimulator/ReturnMe.build/DerivedSources/i386 -I/Users/Decmac/Desktop/ReturnMe/build/ReturnMe.build/Debug-iphonesimulator/ReturnMe.build/DerivedSources -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ReturnMe_Prefix-ahwkkenbtgkzpufnrjfjklxayxmd/ReturnMe_Prefix.pch -c /Users/Decmac/Desktop/ReturnMe/Classes/FlipsideView.m -o /Users/Decmac/Desktop/ReturnMe/build/ReturnMe.build/Debug-iphonesimulator/ReturnMe.build/Objects-normal/i386/FlipsideView.o0#
+
+CCompileC build/ReturnMe.build/Debug-iphonesimulator/ReturnMe.build/Objects-normal/i386/FlipsideViewController.o /Users/Decmac/Desktop/ReturnMe/Classes/FlipsideViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354578333.574581
+e354578333.755175
+r1
+xCompileC
+xbuild/ReturnMe.build/Debug-iphonesimulator/ReturnMe.build/Objects-normal/i386/FlipsideViewController.o
+x/Users/Decmac/Desktop/ReturnMe/Classes/FlipsideViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/Decmac/Desktop/ReturnMe/Classes/FlipsideViewController.m354578333#354578333#0(0"0(0#0#63"/Users/Decmac/Desktop/ReturnMe/Classes/FlipsideViewController.m4300885448#1835"    cd /Users/Decmac/Desktop/ReturnMe    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/ReturnMe/build/ReturnMe.build/Debug-iphonesimulator/ReturnMe.build/ReturnMe-generated-files.hmap -I/Users/Decmac/Desktop/ReturnMe/build/ReturnMe.build/Debug-iphonesimulator/ReturnMe.build/ReturnMe-own-target-headers.hmap -I/Users/Decmac/Desktop/ReturnMe/build/ReturnMe.build/Debug-iphonesimulator/ReturnMe.build/ReturnMe-all-target-headers.hmap -iquote /Users/Decmac/Desktop/ReturnMe/build/ReturnMe.build/Debug-iphonesimulator/ReturnMe.build/ReturnMe-project-headers.hmap -F/Users/Decmac/Desktop/ReturnMe/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/ReturnMe/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/ReturnMe/build/ReturnMe.build/Debug-iphonesimulator/ReturnMe.build/DerivedSources/i386 -I/Users/Decmac/Desktop/ReturnMe/build/ReturnMe.build/Debug-iphonesimulator/ReturnMe.build/DerivedSources -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ReturnMe_Prefix-ahwkkenbtgkzpufnrjfjklxayxmd/ReturnMe_Prefix.pch -c /Users/Decmac/Desktop/ReturnMe/Classes/FlipsideViewController.m -o /Users/Decmac/Desktop/ReturnMe/build/ReturnMe.build/Debug-iphonesimulator/ReturnMe.build/Objects-normal/i386/FlipsideViewController.o0#
+
+CCompileC build/ReturnMe.build/Debug-iphonesimulator/ReturnMe.build/Objects-normal/i386/MainView.o /Users/Decmac/Desktop/ReturnMe/Classes/MainView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354578333.382321
+e354578333.574323
+r1
+xCompileC
+xbuild/ReturnMe.build/Debug-iphonesimulator/ReturnMe.build/Objects-normal/i386/MainView.o
+x/Users/Decmac/Desktop/ReturnMe/Classes/MainView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@57"Compile /Users/Decmac/Desktop/ReturnMe/Classes/MainView.m354578333#354578333#0(0"0(0#0#49"/Users/Decmac/Desktop/ReturnMe/Classes/MainView.m4300885448#1807"    cd /Users/Decmac/Desktop/ReturnMe    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/ReturnMe/build/ReturnMe.build/Debug-iphonesimulator/ReturnMe.build/ReturnMe-generated-files.hmap -I/Users/Decmac/Desktop/ReturnMe/build/ReturnMe.build/Debug-iphonesimulator/ReturnMe.build/ReturnMe-own-target-headers.hmap -I/Users/Decmac/Desktop/ReturnMe/build/ReturnMe.build/Debug-iphonesimulator/ReturnMe.build/ReturnMe-all-target-headers.hmap -iquote /Users/Decmac/Desktop/ReturnMe/build/ReturnMe.build/Debug-iphonesimulator/ReturnMe.build/ReturnMe-project-headers.hmap -F/Users/Decmac/Desktop/ReturnMe/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/ReturnMe/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/ReturnMe/build/ReturnMe.build/Debug-iphonesimulator/ReturnMe.build/DerivedSources/i386 -I/Users/Decmac/Desktop/ReturnMe/build/ReturnMe.build/Debug-iphonesimulator/ReturnMe.build/DerivedSources -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ReturnMe_Prefix-ahwkkenbtgkzpufnrjfjklxayxmd/ReturnMe_Prefix.pch -c /Users/Decmac/Desktop/ReturnMe/Classes/MainView.m -o /Users/Decmac/Desktop/ReturnMe/build/ReturnMe.build/Debug-iphonesimulator/ReturnMe.build/Objects-normal/i386/MainView.o0#
+
+CCompileC build/ReturnMe.build/Debug-iphonesimulator/ReturnMe.build/Objects-normal/i386/MainViewController.o /Users/Decmac/Desktop/ReturnMe/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354578333.541470
+e354578333.688014
+r0
+xCompileC
+xbuild/ReturnMe.build/Debug-iphonesimulator/ReturnMe.build/Objects-normal/i386/MainViewController.o
+x/Users/Decmac/Desktop/ReturnMe/Classes/MainViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/Decmac/Desktop/ReturnMe/Classes/MainViewController.m:9:
+o/Users/Decmac/Desktop/ReturnMe/Classes/MainViewController.h:21: error: expected ':', ',', ';', '}' or '__attribute__' before 'UILabel'
+o/Users/Decmac/Desktop/ReturnMe/Classes/MainViewController.m:17: error: synthesized property 'email' must either be named the same as a compatible ivar or must explicitly name an ivar
+o/Users/Decmac/Desktop/ReturnMe/Classes/MainViewController.m:18: error: synthesized property 'phone' must either be named the same as a compatible ivar or must explicitly name an ivar
+o/Users/Decmac/Desktop/ReturnMe/Classes/MainViewController.m: In function '-[MainViewController setValuesFromPreferences]':
+o/Users/Decmac/Desktop/ReturnMe/Classes/MainViewController.m:30: warning: 'MainViewController' may not respond to '-initialDefaults'
+o/Users/Decmac/Desktop/ReturnMe/Classes/MainViewController.m:30: warning: (Messages without a matching method signature
+o/Users/Decmac/Desktop/ReturnMe/Classes/MainViewController.m:30: warning: will be assumed to return 'id' and accept
+o/Users/Decmac/Desktop/ReturnMe/Classes/MainViewController.m:30: warning: '...' as arguments.)
+lSLF07#2@67"Compile /Users/Decmac/Desktop/ReturnMe/Classes/MainViewController.m354578333#354578333#0(1169"In file included from /Users/Decmac/Desktop/ReturnMe/Classes/MainViewController.m:9:/Users/Decmac/Desktop/ReturnMe/Classes/MainViewController.h:21: error: expected ':', ',', ';', '}' or '__attribute__' before 'UILabel'/Users/Decmac/Desktop/ReturnMe/Classes/MainViewController.m:17: error: synthesized property 'email' must either be named the same as a compatible ivar or must explicitly name an ivar/Users/Decmac/Desktop/ReturnMe/Classes/MainViewController.m:18: error: synthesized property 'phone' must either be named the same as a compatible ivar or must explicitly name an ivar/Users/Decmac/Desktop/ReturnMe/Classes/MainViewController.m: In function '-[MainViewController setValuesFromPreferences]':/Users/Decmac/Desktop/ReturnMe/Classes/MainViewController.m:30: warning: 'MainViewController' may not respond to '-initialDefaults'/Users/Decmac/Desktop/ReturnMe/Classes/MainViewController.m:30: warning: (Messages without a matching method signature/Users/Decmac/Desktop/ReturnMe/Classes/MainViewController.m:30: warning: will be assumed to return 'id' and accept/Users/Decmac/Desktop/ReturnMe/Classes/MainViewController.m:30: warning: '...' as arguments.)5(4@63"Expected ':', ',', ';', '}' or '__attribute__' before 'UILabel'354578333#85#135#2(7@81"In file included from /Users/Decmac/Desktop/ReturnMe/Classes/MainViewController.m354578333#18446744073709551615#0#0(6@59"/Users/Decmac/Desktop/ReturnMe/Classes/MainViewController.m354578328#9#0#9#0#0"0(13@126"Expected ':', ',', ';', '}' or '__attribute__' before 'UILabel' in /Users/Decmac/Desktop/ReturnMe/Classes/MainViewController.h354578333#18446744073709551615#0#0(6@59"/Users/Decmac/Desktop/ReturnMe/Classes/MainViewController.h354577423#21#0#21#0#0"0(6@59"/Users/Decmac/Desktop/ReturnMe/Classes/MainViewController.h354577423#21#0#21#0#19"expected * before *0(4@111"Synthesized property 'email' must either be named the same as a compatible ivar or must explicitly name an ivar354578333#220#183#0(6@59"/Users/Decmac/Desktop/ReturnMe/Classes/MainViewController.m354578328#17#0#17#0#0"0(4@111"Synthesized property 'phone' must either be named the same as a compatible ivar or must explicitly name an ivar354578333#403#183#0(6@59"/Users/Decmac/Desktop/ReturnMe/Classes/MainViewController.m354578328#18#0#18#0#0"0(22@58"'MainViewController' may not respond to '-initialDefaults'354578333#709#132#0(6@59"/Users/Decmac/Desktop/ReturnMe/Classes/MainViewController.m354578328#30#0#30#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)354578333#841#119#0(6@59"/Users/Decmac/Desktop/ReturnMe/Classes/MainViewController.m354578328#30#0#30#0#0"0(0#0#59"/Users/Decmac/Desktop/ReturnMe/Classes/MainViewController.m4300885448#1827"    cd /Users/Decmac/Desktop/ReturnMe    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/ReturnMe/build/ReturnMe.build/Debug-iphonesimulator/ReturnMe.build/ReturnMe-generated-files.hmap -I/Users/Decmac/Desktop/ReturnMe/build/ReturnMe.build/Debug-iphonesimulator/ReturnMe.build/ReturnMe-own-target-headers.hmap -I/Users/Decmac/Desktop/ReturnMe/build/ReturnMe.build/Debug-iphonesimulator/ReturnMe.build/ReturnMe-all-target-headers.hmap -iquote /Users/Decmac/Desktop/ReturnMe/build/ReturnMe.build/Debug-iphonesimulator/ReturnMe.build/ReturnMe-project-headers.hmap -F/Users/Decmac/Desktop/ReturnMe/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/ReturnMe/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/ReturnMe/build/ReturnMe.build/Debug-iphonesimulator/ReturnMe.build/DerivedSources/i386 -I/Users/Decmac/Desktop/ReturnMe/build/ReturnMe.build/Debug-iphonesimulator/ReturnMe.build/DerivedSources -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ReturnMe_Prefix-ahwkkenbtgkzpufnrjfjklxayxmd/ReturnMe_Prefix.pch -c /Users/Decmac/Desktop/ReturnMe/Classes/MainViewController.m -o /Users/Decmac/Desktop/ReturnMe/build/ReturnMe.build/Debug-iphonesimulator/ReturnMe.build/Objects-normal/i386/MainViewController.o1#
+
+CCompileC build/ReturnMe.build/Debug-iphonesimulator/ReturnMe.build/Objects-normal/i386/ReturnMeAppDelegate.o /Users/Decmac/Desktop/ReturnMe/Classes/ReturnMeAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354578333.196711
+e354578333.327857
+r0
+xCompileC
+xbuild/ReturnMe.build/Debug-iphonesimulator/ReturnMe.build/Objects-normal/i386/ReturnMeAppDelegate.o
+x/Users/Decmac/Desktop/ReturnMe/Classes/ReturnMeAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/Decmac/Desktop/ReturnMe/Classes/ReturnMeAppDelegate.m:10:
+o/Users/Decmac/Desktop/ReturnMe/Classes/MainViewController.h:21: error: expected ':', ',', ';', '}' or '__attribute__' before 'UILabel'
+lSLF07#2@68"Compile /Users/Decmac/Desktop/ReturnMe/Classes/ReturnMeAppDelegate.m354578333#354578333#0(222"In file included from /Users/Decmac/Desktop/ReturnMe/Classes/ReturnMeAppDelegate.m:10:/Users/Decmac/Desktop/ReturnMe/Classes/MainViewController.h:21: error: expected ':', ',', ';', '}' or '__attribute__' before 'UILabel'1(4@63"Expected ':', ',', ';', '}' or '__attribute__' before 'UILabel'354578333#87#135#2(7@82"In file included from /Users/Decmac/Desktop/ReturnMe/Classes/ReturnMeAppDelegate.m354578333#18446744073709551615#0#0(6@60"/Users/Decmac/Desktop/ReturnMe/Classes/ReturnMeAppDelegate.m354575779#10#0#10#0#0"0(13@126"Expected ':', ',', ';', '}' or '__attribute__' before 'UILabel' in /Users/Decmac/Desktop/ReturnMe/Classes/MainViewController.h354578333#18446744073709551615#0#0(6@59"/Users/Decmac/Desktop/ReturnMe/Classes/MainViewController.h354577423#21#0#21#0#0"0(6@59"/Users/Decmac/Desktop/ReturnMe/Classes/MainViewController.h354577423#21#0#21#0#19"expected * before *0(0#0#60"/Users/Decmac/Desktop/ReturnMe/Classes/ReturnMeAppDelegate.m4300885448#1829"    cd /Users/Decmac/Desktop/ReturnMe    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/ReturnMe/build/ReturnMe.build/Debug-iphonesimulator/ReturnMe.build/ReturnMe-generated-files.hmap -I/Users/Decmac/Desktop/ReturnMe/build/ReturnMe.build/Debug-iphonesimulator/ReturnMe.build/ReturnMe-own-target-headers.hmap -I/Users/Decmac/Desktop/ReturnMe/build/ReturnMe.build/Debug-iphonesimulator/ReturnMe.build/ReturnMe-all-target-headers.hmap -iquote /Users/Decmac/Desktop/ReturnMe/build/ReturnMe.build/Debug-iphonesimulator/ReturnMe.build/ReturnMe-project-headers.hmap -F/Users/Decmac/Desktop/ReturnMe/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/ReturnMe/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/ReturnMe/build/ReturnMe.build/Debug-iphonesimulator/ReturnMe.build/DerivedSources/i386 -I/Users/Decmac/Desktop/ReturnMe/build/ReturnMe.build/Debug-iphonesimulator/ReturnMe.build/DerivedSources -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ReturnMe_Prefix-ahwkkenbtgkzpufnrjfjklxayxmd/ReturnMe_Prefix.pch -c /Users/Decmac/Desktop/ReturnMe/Classes/ReturnMeAppDelegate.m -o /Users/Decmac/Desktop/ReturnMe/build/ReturnMe.build/Debug-iphonesimulator/ReturnMe.build/Objects-normal/i386/ReturnMeAppDelegate.o1#
+
+CCompileC build/ReturnMe.build/Debug-iphonesimulator/ReturnMe.build/Objects-normal/i386/main.o /Users/Decmac/Desktop/ReturnMe/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354578333.193559
+e354578333.382057
+r1
+xCompileC
+xbuild/ReturnMe.build/Debug-iphonesimulator/ReturnMe.build/Objects-normal/i386/main.o
+x/Users/Decmac/Desktop/ReturnMe/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@45"Compile /Users/Decmac/Desktop/ReturnMe/main.m354578333#354578333#0(0"0(0#0#37"/Users/Decmac/Desktop/ReturnMe/main.m4300885448#1791"    cd /Users/Decmac/Desktop/ReturnMe    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/ReturnMe/build/ReturnMe.build/Debug-iphonesimulator/ReturnMe.build/ReturnMe-generated-files.hmap -I/Users/Decmac/Desktop/ReturnMe/build/ReturnMe.build/Debug-iphonesimulator/ReturnMe.build/ReturnMe-own-target-headers.hmap -I/Users/Decmac/Desktop/ReturnMe/build/ReturnMe.build/Debug-iphonesimulator/ReturnMe.build/ReturnMe-all-target-headers.hmap -iquote /Users/Decmac/Desktop/ReturnMe/build/ReturnMe.build/Debug-iphonesimulator/ReturnMe.build/ReturnMe-project-headers.hmap -F/Users/Decmac/Desktop/ReturnMe/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/ReturnMe/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/ReturnMe/build/ReturnMe.build/Debug-iphonesimulator/ReturnMe.build/DerivedSources/i386 -I/Users/Decmac/Desktop/ReturnMe/build/ReturnMe.build/Debug-iphonesimulator/ReturnMe.build/DerivedSources -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ReturnMe_Prefix-ahwkkenbtgkzpufnrjfjklxayxmd/ReturnMe_Prefix.pch -c /Users/Decmac/Desktop/ReturnMe/main.m -o /Users/Decmac/Desktop/ReturnMe/build/ReturnMe.build/Debug-iphonesimulator/ReturnMe.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/Decmac/Desktop/ReturnMe/FlipsideView.xib
+s354578329.167216
+e354578330.246855
+r1
+xCompileXIB
+x/Users/Decmac/Desktop/ReturnMe/FlipsideView.xib
+o2012-03-27 21:58:49.277 ibtool[673:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 35
+lSLF07#2@27"CompileXIB FlipsideView.xib354578329#354578330#0(107"2012-03-27 21:58:49.277 ibtool[673:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 350(0#0#47"/Users/Decmac/Desktop/ReturnMe/FlipsideView.xib4300885448#463"    cd /Users/Decmac/Desktop/ReturnMe    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Decmac/Desktop/ReturnMe/build/Debug-iphonesimulator/ReturnMe.app/FlipsideView.nib /Users/Decmac/Desktop/ReturnMe/FlipsideView.xib0#
+
+CCompileXIB /Users/Decmac/Desktop/ReturnMe/MainView.xib
+s354578329.171075
+e354578330.287294
+r1
+xCompileXIB
+x/Users/Decmac/Desktop/ReturnMe/MainView.xib
+o2012-03-27 21:58:49.296 ibtool[674:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 35
+lSLF07#2@23"CompileXIB MainView.xib354578329#354578330#0(107"2012-03-27 21:58:49.296 ibtool[674:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 350(0#0#43"/Users/Decmac/Desktop/ReturnMe/MainView.xib4300885448#455"    cd /Users/Decmac/Desktop/ReturnMe    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Decmac/Desktop/ReturnMe/build/Debug-iphonesimulator/ReturnMe.app/MainView.nib /Users/Decmac/Desktop/ReturnMe/MainView.xib0#
+
+CCompileXIB /Users/Decmac/Desktop/ReturnMe/MainWindow.xib
+s354578330.247100
+e354578331.188427
+r1
+xCompileXIB
+x/Users/Decmac/Desktop/ReturnMe/MainWindow.xib
+o2012-03-27 21:58:50.353 ibtool[679:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 35
+lSLF07#2@25"CompileXIB MainWindow.xib354578330#354578331#0(107"2012-03-27 21:58:50.353 ibtool[679:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 350(0#0#45"/Users/Decmac/Desktop/ReturnMe/MainWindow.xib4300885448#459"    cd /Users/Decmac/Desktop/ReturnMe    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Decmac/Desktop/ReturnMe/build/Debug-iphonesimulator/ReturnMe.app/MainWindow.nib /Users/Decmac/Desktop/ReturnMe/MainWindow.xib0#
+
+CCpResource build/Debug-iphonesimulator/ReturnMe.app/Settings.bundle Settings.bundle
+s354578330.303398
+e354578330.332640
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ReturnMe.app/Settings.bundle
+xSettings.bundle
+lSLF07#2@20"Copy Settings.bundle354578330#354578330#0(0"0(0#0#46"/Users/Decmac/Desktop/ReturnMe/Settings.bundle4300885448#436"    cd /Users/Decmac/Desktop/ReturnMe    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Decmac/Desktop/ReturnMe/Settings.bundle /Users/Decmac/Desktop/ReturnMe/build/Debug-iphonesimulator/ReturnMe.app0#
+
+CCpResource build/Debug-iphonesimulator/ReturnMe.app/dog.jpg dog.jpg
+s354578330.287802
+e354578330.332127
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ReturnMe.app/dog.jpg
+xdog.jpg
+lSLF07#2@12"Copy dog.jpg354578330#354578330#0(0"0(0#0#38"/Users/Decmac/Desktop/ReturnMe/dog.jpg4300885448#428"    cd /Users/Decmac/Desktop/ReturnMe    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Decmac/Desktop/ReturnMe/dog.jpg /Users/Decmac/Desktop/ReturnMe/build/Debug-iphonesimulator/ReturnMe.app0#
+
+CCpResource build/Debug-iphonesimulator/ReturnMe.app/hamster.jpg hamster.jpg
+s354578330.293536
+e354578330.338280
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ReturnMe.app/hamster.jpg
+xhamster.jpg
+lSLF07#2@16"Copy hamster.jpg354578330#354578330#0(0"0(0#0#42"/Users/Decmac/Desktop/ReturnMe/hamster.jpg4300885448#432"    cd /Users/Decmac/Desktop/ReturnMe    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Decmac/Desktop/ReturnMe/hamster.jpg /Users/Decmac/Desktop/ReturnMe/build/Debug-iphonesimulator/ReturnMe.app0#
+
+CCpResource build/Debug-iphonesimulator/ReturnMe.app/rat.jpg rat.jpg
+s354578330.297708
+e354578330.342608
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ReturnMe.app/rat.jpg
+xrat.jpg
+lSLF07#2@12"Copy rat.jpg354578330#354578330#0(0"0(0#0#38"/Users/Decmac/Desktop/ReturnMe/rat.jpg4300885448#428"    cd /Users/Decmac/Desktop/ReturnMe    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Decmac/Desktop/ReturnMe/rat.jpg /Users/Decmac/Desktop/ReturnMe/build/Debug-iphonesimulator/ReturnMe.app0#
+
+CGenerateDSYMFile /Users/Decmac/Desktop/ReturnMe/build/Debug-iphonesimulator/ReturnMe.app.dSYM /Users/Decmac/Desktop/ReturnMe/build/Debug-iphonesimulator/ReturnMe.app/ReturnMe
+r0
+
+CLd /Users/Decmac/Desktop/ReturnMe/build/Debug-iphonesimulator/ReturnMe.app/ReturnMe normal i386
+r0
+
+CProcessInfoPlistFile /Users/Decmac/Desktop/ReturnMe/build/Debug-iphonesimulator/ReturnMe.app/Info.plist ReturnMe-Info.plist
+s354578329.157023
+e354578329.166968
+r1
+xProcessInfoPlistFile
+x/Users/Decmac/Desktop/ReturnMe/build/Debug-iphonesimulator/ReturnMe.app/Info.plist
+xReturnMe-Info.plist
+lSLF07#2@27"Process ReturnMe-Info.plist354578329#354578329#0(0"0(0#0#50"/Users/Decmac/Desktop/ReturnMe/ReturnMe-Info.plist4300885448#458"    cd /Users/Decmac/Desktop/ReturnMe    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility ReturnMe-Info.plist -genpkginfo /Users/Decmac/Desktop/ReturnMe/build/Debug-iphonesimulator/ReturnMe.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/Decmac/Desktop/ReturnMe/build/Debug-iphonesimulator/ReturnMe.app/Info.plist0#
+
+CProcessPCH /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ReturnMe_Prefix-ahwkkenbtgkzpufnrjfjklxayxmd/ReturnMe_Prefix.pch.gch ReturnMe_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s354578331.188961
+e354578333.193177
+r1
+xProcessPCH
+x/var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ReturnMe_Prefix-ahwkkenbtgkzpufnrjfjklxayxmd/ReturnMe_Prefix.pch.gch
+xReturnMe_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile ReturnMe_Prefix.pch354578331#354578333#0(0"0(0#0#50"/Users/Decmac/Desktop/ReturnMe/ReturnMe_Prefix.pch4300885448#1690"    cd /Users/Decmac/Desktop/ReturnMe    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/ReturnMe/build/ReturnMe.build/Debug-iphonesimulator/ReturnMe.build/ReturnMe-generated-files.hmap -I/Users/Decmac/Desktop/ReturnMe/build/ReturnMe.build/Debug-iphonesimulator/ReturnMe.build/ReturnMe-own-target-headers.hmap -I/Users/Decmac/Desktop/ReturnMe/build/ReturnMe.build/Debug-iphonesimulator/ReturnMe.build/ReturnMe-all-target-headers.hmap -iquote /Users/Decmac/Desktop/ReturnMe/build/ReturnMe.build/Debug-iphonesimulator/ReturnMe.build/ReturnMe-project-headers.hmap -F/Users/Decmac/Desktop/ReturnMe/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/ReturnMe/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/ReturnMe/build/ReturnMe.build/Debug-iphonesimulator/ReturnMe.build/DerivedSources/i386 -I/Users/Decmac/Desktop/ReturnMe/build/ReturnMe.build/Debug-iphonesimulator/ReturnMe.build/DerivedSources -c /Users/Decmac/Desktop/ReturnMe/ReturnMe_Prefix.pch -o /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ReturnMe_Prefix-ahwkkenbtgkzpufnrjfjklxayxmd/ReturnMe_Prefix.pch.gch0#
+
+CTouch /Users/Decmac/Desktop/ReturnMe/build/Debug-iphonesimulator/ReturnMe.app
+r0
+

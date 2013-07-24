@@ -1,0 +1,441 @@
+TChapeHill
+v7
+r0
+t354901308.614954
+cCheck dependencies
+cProcessInfoPlistFile /Users/Decmac/Desktop/ChapeHill/build/Debug-iphonesimulator/ChapeHill.app/Info.plist ChapeHill-Info.plist
+cCompileXIB /Users/Decmac/Desktop/ChapeHill/MainWindow.xib
+cCompileXIB /Users/Decmac/Desktop/ChapeHill/ChapeHillViewController.xib
+cCpResource build/Debug-iphonesimulator/ChapeHill.app/old_well.png old_well.png
+cCpResource build/Debug-iphonesimulator/ChapeHill.app/right_arrow.png right_arrow.png
+cCpResource build/Debug-iphonesimulator/ChapeHill.app/up_arrow.png up_arrow.png
+cCpResource build/Debug-iphonesimulator/ChapeHill.app/left_arrow.png left_arrow.png
+cCompileXIB /Users/Decmac/Desktop/ChapeHill/Classes/MapViewController.xib
+cProcessPCH /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ChapeHill_Prefix-aqvossoynetfzvamufcrqemynmeq/ChapeHill_Prefix.pch.gch ChapeHill_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ChapeHill.build/Debug-iphonesimulator/ChapeHill.build/Objects-normal/i386/main.o /Users/Decmac/Desktop/ChapeHill/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ChapeHill.build/Debug-iphonesimulator/ChapeHill.build/Objects-normal/i386/ChapeHillAppDelegate.o /Users/Decmac/Desktop/ChapeHill/Classes/ChapeHillAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ChapeHill.build/Debug-iphonesimulator/ChapeHill.build/Objects-normal/i386/ChapeHillViewController.o /Users/Decmac/Desktop/ChapeHill/Classes/ChapeHillViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ChapeHill.build/Debug-iphonesimulator/ChapeHill.build/Objects-normal/i386/MapViewController.o /Users/Decmac/Desktop/ChapeHill/Classes/MapViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ChapeHill.build/Debug-iphonesimulator/ChapeHill.build/Objects-normal/i386/MapPin.o /Users/Decmac/Desktop/ChapeHill/Classes/MapPin.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/Decmac/Desktop/ChapeHill/build/Debug-iphonesimulator/ChapeHill.app/ChapeHill normal i386
+cGenerateDSYMFile /Users/Decmac/Desktop/ChapeHill/build/Debug-iphonesimulator/ChapeHill.app.dSYM /Users/Decmac/Desktop/ChapeHill/build/Debug-iphonesimulator/ChapeHill.app/ChapeHill
+cTouch /Users/Decmac/Desktop/ChapeHill/build/Debug-iphonesimulator/ChapeHill.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk
+c000000004F3A580900000000000000EE
+t1329223689
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B2B4CC3000000000026EE30
+t1261128899
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004B2B61C3000000000004AFC0
+t1261134275
+s307136
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.h
+c000000004B2B61BC00000000000001AF
+t1261134268
+s431
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B2B4DC8000000000027E880
+t1261129160
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B2B4DAE0000000000001355
+t1261129134
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.h
+c000000004B2B634C000000000000017D
+t1261134668
+s381
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004B2B6372000000000010EB60
+t1261134706
+s1108832
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B2B61620000000000000788
+t1261134178
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B2B62B500000000016721E0
+t1261134517
+s23536096
+
+N/Users/Decmac/Desktop/ChapeHill/ChapeHillViewController.xib
+c000000004F7722AF0000000000006484
+t1333207727
+s25732
+
+N/Users/Decmac/Desktop/ChapeHill/ChapeHill_Prefix.pch
+c000000004F77066200000000000000BB
+t1333200482
+s187
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/Decmac/Desktop/ChapeHill/Classes/ChapeHillAppDelegate.h
+c000000004F77066200000000000001E8
+t1333200482
+s488
+i<UIKit/UIKit.h>
+
+N/Users/Decmac/Desktop/ChapeHill/Classes/ChapeHillAppDelegate.m
+c000000004F7706620000000000000271
+t1333200482
+s625
+i"ChapeHillAppDelegate.h"
+i"ChapeHillViewController.h"
+
+N/Users/Decmac/Desktop/ChapeHill/Classes/ChapeHillViewController.h
+c000000004F7724A100000000000003E4
+t1333208225
+s996
+i<CoreLocation/CoreLocation.h>
+i<UIKit/UIKit.h>
+
+N/Users/Decmac/Desktop/ChapeHill/Classes/ChapeHillViewController.m
+c000000004F77251600000000000017E7
+t1333208342
+s6119
+i"ChapeHillViewController.h"
+i"MapViewController.h"
+
+N/Users/Decmac/Desktop/ChapeHill/Classes/MapPin.h
+c000000004F771D6E0000000000000284
+t1333206382
+s644
+i<Foundation/Foundation.h>
+i<MapKit/MapKit.h>
+i<CoreLocation/CoreLocation.h>
+
+N/Users/Decmac/Desktop/ChapeHill/Classes/MapPin.m
+c000000004F771E680000000000000265
+t1333206632
+s613
+i"MapPin.h"
+
+N/Users/Decmac/Desktop/ChapeHill/Classes/MapViewController.h
+c000000004F77250300000000000001AD
+t1333208323
+s429
+i<UIKit/UIKit.h>
+i<MapKit/MapKit.h>
+
+N/Users/Decmac/Desktop/ChapeHill/Classes/MapViewController.m
+c000000004F7725160000000000000DF5
+t1333208342
+s3573
+i"MapViewController.h"
+i"MapPin.h"
+
+N/Users/Decmac/Desktop/ChapeHill/Classes/MapViewController.xib
+c000000004F7716D30000000000004161
+t1333204691
+s16737
+
+N/Users/Decmac/Desktop/ChapeHill/MainWindow.xib
+c000000004F7706620000000000002464
+t1333200482
+s9316
+
+N/Users/Decmac/Desktop/ChapeHill/build/ChapeHill.build/Debug-iphonesimulator/ChapeHill.build/Objects-normal/i386/ChapeHill.LinkFileList
+c000000004F771C630000000000000285
+t1333206115
+s645
+
+N/Users/Decmac/Desktop/ChapeHill/build/ChapeHill.build/Debug-iphonesimulator/ChapeHill.build/Objects-normal/i386/ChapeHillAppDelegate.o
+t1333208226
+s38608
+
+N/Users/Decmac/Desktop/ChapeHill/build/ChapeHill.build/Debug-iphonesimulator/ChapeHill.build/Objects-normal/i386/ChapeHillViewController.o
+t1333208343
+s49940
+
+N/Users/Decmac/Desktop/ChapeHill/build/ChapeHill.build/Debug-iphonesimulator/ChapeHill.build/Objects-normal/i386/MapPin.o
+t1333206632
+s10932
+
+N/Users/Decmac/Desktop/ChapeHill/build/ChapeHill.build/Debug-iphonesimulator/ChapeHill.build/Objects-normal/i386/MapViewController.o
+t1333208343
+s37096
+
+N/Users/Decmac/Desktop/ChapeHill/build/ChapeHill.build/Debug-iphonesimulator/ChapeHill.build/Objects-normal/i386/main.o
+t1333203663
+s5944
+
+N/Users/Decmac/Desktop/ChapeHill/build/Debug-iphonesimulator/ChapeHill.app
+t1333208344
+s408
+
+N/Users/Decmac/Desktop/ChapeHill/build/Debug-iphonesimulator/ChapeHill.app.dSYM
+t1333208344
+s102
+
+N/Users/Decmac/Desktop/ChapeHill/build/Debug-iphonesimulator/ChapeHill.app/ChapeHill
+t1333208343
+s33468
+
+N/Users/Decmac/Desktop/ChapeHill/build/Debug-iphonesimulator/ChapeHill.app/ChapeHillViewController.nib
+t1333208128
+s3392
+
+N/Users/Decmac/Desktop/ChapeHill/build/Debug-iphonesimulator/ChapeHill.app/Info.plist
+t1333203660
+s572
+
+N/Users/Decmac/Desktop/ChapeHill/build/Debug-iphonesimulator/ChapeHill.app/MainWindow.nib
+t1333203661
+s1499
+
+N/Users/Decmac/Desktop/ChapeHill/build/Debug-iphonesimulator/ChapeHill.app/MapViewController.nib
+t1333204747
+s1618
+
+N/Users/Decmac/Desktop/ChapeHill/build/Debug-iphonesimulator/ChapeHill.app/PkgInfo
+t1333203660
+s8
+
+N/Users/Decmac/Desktop/ChapeHill/build/Debug-iphonesimulator/ChapeHill.app/left_arrow.png
+t1333203661
+s4976
+
+N/Users/Decmac/Desktop/ChapeHill/build/Debug-iphonesimulator/ChapeHill.app/old_well.png
+t1333203661
+s335799
+
+N/Users/Decmac/Desktop/ChapeHill/build/Debug-iphonesimulator/ChapeHill.app/right_arrow.png
+t1333203661
+s5102
+
+N/Users/Decmac/Desktop/ChapeHill/build/Debug-iphonesimulator/ChapeHill.app/up_arrow.png
+t1333203661
+s4863
+
+N/Users/Decmac/Desktop/ChapeHill/left_arrow.png
+c000000004AC4766E0000000000001370
+t1254389358
+s4976
+
+N/Users/Decmac/Desktop/ChapeHill/main.m
+c000000004F7706620000000000000168
+t1333200482
+s360
+i<UIKit/UIKit.h>
+
+N/Users/Decmac/Desktop/ChapeHill/old_well.png
+c000000004A7FF0BC0000000000051FB7
+t1249898684
+s335799
+
+N/Users/Decmac/Desktop/ChapeHill/right_arrow.png
+c000000004AC4766E00000000000013EE
+t1254389358
+s5102
+
+N/Users/Decmac/Desktop/ChapeHill/up_arrow.png
+c000000004AC4766E00000000000012FF
+t1254389358
+s4863
+
+N/var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ChapeHill_Prefix-aqvossoynetfzvamufcrqemynmeq/ChapeHill_Prefix.pch.gch
+t1333203663
+s13034960
+
+NChapeHill-Info.plist
+c000000004F770662000000000000038D
+t1333200482
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies354901308#354901308#0(0"0(0#1#0"4300885448#0"0#
+
+CCompileC build/ChapeHill.build/Debug-iphonesimulator/ChapeHill.build/Objects-normal/i386/ChapeHillAppDelegate.o /Users/Decmac/Desktop/ChapeHill/Classes/ChapeHillAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354901026.293262
+e354901026.625954
+r1
+xCompileC
+xbuild/ChapeHill.build/Debug-iphonesimulator/ChapeHill.build/Objects-normal/i386/ChapeHillAppDelegate.o
+x/Users/Decmac/Desktop/ChapeHill/Classes/ChapeHillAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/Decmac/Desktop/ChapeHill/Classes/ChapeHillAppDelegate.m354901026#354901027#0(0"0(0#0#62"/Users/Decmac/Desktop/ChapeHill/Classes/ChapeHillAppDelegate.m4300885448#1862"    cd /Users/Decmac/Desktop/ChapeHill    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/ChapeHill/build/ChapeHill.build/Debug-iphonesimulator/ChapeHill.build/ChapeHill-generated-files.hmap -I/Users/Decmac/Desktop/ChapeHill/build/ChapeHill.build/Debug-iphonesimulator/ChapeHill.build/ChapeHill-own-target-headers.hmap -I/Users/Decmac/Desktop/ChapeHill/build/ChapeHill.build/Debug-iphonesimulator/ChapeHill.build/ChapeHill-all-target-headers.hmap -iquote /Users/Decmac/Desktop/ChapeHill/build/ChapeHill.build/Debug-iphonesimulator/ChapeHill.build/ChapeHill-project-headers.hmap -F/Users/Decmac/Desktop/ChapeHill/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/ChapeHill/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/ChapeHill/build/ChapeHill.build/Debug-iphonesimulator/ChapeHill.build/DerivedSources/i386 -I/Users/Decmac/Desktop/ChapeHill/build/ChapeHill.build/Debug-iphonesimulator/ChapeHill.build/DerivedSources -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ChapeHill_Prefix-aqvossoynetfzvamufcrqemynmeq/ChapeHill_Prefix.pch -c /Users/Decmac/Desktop/ChapeHill/Classes/ChapeHillAppDelegate.m -o /Users/Decmac/Desktop/ChapeHill/build/ChapeHill.build/Debug-iphonesimulator/ChapeHill.build/Objects-normal/i386/ChapeHillAppDelegate.o0#
+
+CCompileC build/ChapeHill.build/Debug-iphonesimulator/ChapeHill.build/Objects-normal/i386/ChapeHillViewController.o /Users/Decmac/Desktop/ChapeHill/Classes/ChapeHillViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354901143.079171
+e354901143.697746
+r1
+xCompileC
+xbuild/ChapeHill.build/Debug-iphonesimulator/ChapeHill.build/Objects-normal/i386/ChapeHillViewController.o
+x/Users/Decmac/Desktop/ChapeHill/Classes/ChapeHillViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/Decmac/Desktop/ChapeHill/Classes/ChapeHillViewController.m354901143#354901143#0(0"0(0#0#65"/Users/Decmac/Desktop/ChapeHill/Classes/ChapeHillViewController.m4300885448#1868"    cd /Users/Decmac/Desktop/ChapeHill    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/ChapeHill/build/ChapeHill.build/Debug-iphonesimulator/ChapeHill.build/ChapeHill-generated-files.hmap -I/Users/Decmac/Desktop/ChapeHill/build/ChapeHill.build/Debug-iphonesimulator/ChapeHill.build/ChapeHill-own-target-headers.hmap -I/Users/Decmac/Desktop/ChapeHill/build/ChapeHill.build/Debug-iphonesimulator/ChapeHill.build/ChapeHill-all-target-headers.hmap -iquote /Users/Decmac/Desktop/ChapeHill/build/ChapeHill.build/Debug-iphonesimulator/ChapeHill.build/ChapeHill-project-headers.hmap -F/Users/Decmac/Desktop/ChapeHill/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/ChapeHill/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/ChapeHill/build/ChapeHill.build/Debug-iphonesimulator/ChapeHill.build/DerivedSources/i386 -I/Users/Decmac/Desktop/ChapeHill/build/ChapeHill.build/Debug-iphonesimulator/ChapeHill.build/DerivedSources -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ChapeHill_Prefix-aqvossoynetfzvamufcrqemynmeq/ChapeHill_Prefix.pch -c /Users/Decmac/Desktop/ChapeHill/Classes/ChapeHillViewController.m -o /Users/Decmac/Desktop/ChapeHill/build/ChapeHill.build/Debug-iphonesimulator/ChapeHill.build/Objects-normal/i386/ChapeHillViewController.o0#
+
+CCompileC build/ChapeHill.build/Debug-iphonesimulator/ChapeHill.build/Objects-normal/i386/MapPin.o /Users/Decmac/Desktop/ChapeHill/Classes/MapPin.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354899432.225166
+e354899432.872595
+r1
+xCompileC
+xbuild/ChapeHill.build/Debug-iphonesimulator/ChapeHill.build/Objects-normal/i386/MapPin.o
+x/Users/Decmac/Desktop/ChapeHill/Classes/MapPin.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@56"Compile /Users/Decmac/Desktop/ChapeHill/Classes/MapPin.m354899432#354899432#0(0"0(0#0#48"/Users/Decmac/Desktop/ChapeHill/Classes/MapPin.m4300885448#1834"    cd /Users/Decmac/Desktop/ChapeHill    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/ChapeHill/build/ChapeHill.build/Debug-iphonesimulator/ChapeHill.build/ChapeHill-generated-files.hmap -I/Users/Decmac/Desktop/ChapeHill/build/ChapeHill.build/Debug-iphonesimulator/ChapeHill.build/ChapeHill-own-target-headers.hmap -I/Users/Decmac/Desktop/ChapeHill/build/ChapeHill.build/Debug-iphonesimulator/ChapeHill.build/ChapeHill-all-target-headers.hmap -iquote /Users/Decmac/Desktop/ChapeHill/build/ChapeHill.build/Debug-iphonesimulator/ChapeHill.build/ChapeHill-project-headers.hmap -F/Users/Decmac/Desktop/ChapeHill/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/ChapeHill/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/ChapeHill/build/ChapeHill.build/Debug-iphonesimulator/ChapeHill.build/DerivedSources/i386 -I/Users/Decmac/Desktop/ChapeHill/build/ChapeHill.build/Debug-iphonesimulator/ChapeHill.build/DerivedSources -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ChapeHill_Prefix-aqvossoynetfzvamufcrqemynmeq/ChapeHill_Prefix.pch -c /Users/Decmac/Desktop/ChapeHill/Classes/MapPin.m -o /Users/Decmac/Desktop/ChapeHill/build/ChapeHill.build/Debug-iphonesimulator/ChapeHill.build/Objects-normal/i386/MapPin.o0#
+
+CCompileC build/ChapeHill.build/Debug-iphonesimulator/ChapeHill.build/Objects-normal/i386/MapViewController.o /Users/Decmac/Desktop/ChapeHill/Classes/MapViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354901143.236261
+e354901143.875302
+r1
+xCompileC
+xbuild/ChapeHill.build/Debug-iphonesimulator/ChapeHill.build/Objects-normal/i386/MapViewController.o
+x/Users/Decmac/Desktop/ChapeHill/Classes/MapViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/Decmac/Desktop/ChapeHill/Classes/MapViewController.m354901143#354901143#0(0"0(0#0#59"/Users/Decmac/Desktop/ChapeHill/Classes/MapViewController.m4300885448#1856"    cd /Users/Decmac/Desktop/ChapeHill    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/ChapeHill/build/ChapeHill.build/Debug-iphonesimulator/ChapeHill.build/ChapeHill-generated-files.hmap -I/Users/Decmac/Desktop/ChapeHill/build/ChapeHill.build/Debug-iphonesimulator/ChapeHill.build/ChapeHill-own-target-headers.hmap -I/Users/Decmac/Desktop/ChapeHill/build/ChapeHill.build/Debug-iphonesimulator/ChapeHill.build/ChapeHill-all-target-headers.hmap -iquote /Users/Decmac/Desktop/ChapeHill/build/ChapeHill.build/Debug-iphonesimulator/ChapeHill.build/ChapeHill-project-headers.hmap -F/Users/Decmac/Desktop/ChapeHill/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/ChapeHill/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/ChapeHill/build/ChapeHill.build/Debug-iphonesimulator/ChapeHill.build/DerivedSources/i386 -I/Users/Decmac/Desktop/ChapeHill/build/ChapeHill.build/Debug-iphonesimulator/ChapeHill.build/DerivedSources -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ChapeHill_Prefix-aqvossoynetfzvamufcrqemynmeq/ChapeHill_Prefix.pch -c /Users/Decmac/Desktop/ChapeHill/Classes/MapViewController.m -o /Users/Decmac/Desktop/ChapeHill/build/ChapeHill.build/Debug-iphonesimulator/ChapeHill.build/Objects-normal/i386/MapViewController.o0#
+
+CCompileC build/ChapeHill.build/Debug-iphonesimulator/ChapeHill.build/Objects-normal/i386/main.o /Users/Decmac/Desktop/ChapeHill/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354896463.756570
+e354896463.986063
+r1
+xCompileC
+xbuild/ChapeHill.build/Debug-iphonesimulator/ChapeHill.build/Objects-normal/i386/main.o
+x/Users/Decmac/Desktop/ChapeHill/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@46"Compile /Users/Decmac/Desktop/ChapeHill/main.m354896463#354896463#0(0"0(0#0#38"/Users/Decmac/Desktop/ChapeHill/main.m4300885448#1822"    cd /Users/Decmac/Desktop/ChapeHill    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/ChapeHill/build/ChapeHill.build/Debug-iphonesimulator/ChapeHill.build/ChapeHill-generated-files.hmap -I/Users/Decmac/Desktop/ChapeHill/build/ChapeHill.build/Debug-iphonesimulator/ChapeHill.build/ChapeHill-own-target-headers.hmap -I/Users/Decmac/Desktop/ChapeHill/build/ChapeHill.build/Debug-iphonesimulator/ChapeHill.build/ChapeHill-all-target-headers.hmap -iquote /Users/Decmac/Desktop/ChapeHill/build/ChapeHill.build/Debug-iphonesimulator/ChapeHill.build/ChapeHill-project-headers.hmap -F/Users/Decmac/Desktop/ChapeHill/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/ChapeHill/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/ChapeHill/build/ChapeHill.build/Debug-iphonesimulator/ChapeHill.build/DerivedSources/i386 -I/Users/Decmac/Desktop/ChapeHill/build/ChapeHill.build/Debug-iphonesimulator/ChapeHill.build/DerivedSources -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ChapeHill_Prefix-aqvossoynetfzvamufcrqemynmeq/ChapeHill_Prefix.pch -c /Users/Decmac/Desktop/ChapeHill/main.m -o /Users/Decmac/Desktop/ChapeHill/build/ChapeHill.build/Debug-iphonesimulator/ChapeHill.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/Decmac/Desktop/ChapeHill/ChapeHillViewController.xib
+s354900927.493860
+e354900928.449009
+r1
+xCompileXIB
+x/Users/Decmac/Desktop/ChapeHill/ChapeHillViewController.xib
+o2012-03-31 15:35:27.578 ibtool[820:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 35
+lSLF07#2@38"CompileXIB ChapeHillViewController.xib354900927#354900928#0(107"2012-03-31 15:35:27.578 ibtool[820:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 350(0#0#59"/Users/Decmac/Desktop/ChapeHill/ChapeHillViewController.xib4300885448#489"    cd /Users/Decmac/Desktop/ChapeHill    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Decmac/Desktop/ChapeHill/build/Debug-iphonesimulator/ChapeHill.app/ChapeHillViewController.nib /Users/Decmac/Desktop/ChapeHill/ChapeHillViewController.xib0#
+
+CCompileXIB /Users/Decmac/Desktop/ChapeHill/Classes/MapViewController.xib
+s354897546.718271
+e354897547.671026
+r1
+xCompileXIB
+x/Users/Decmac/Desktop/ChapeHill/Classes/MapViewController.xib
+o2012-03-31 14:39:06.795 ibtool[438:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 35
+lSLF07#2@40"CompileXIB Classes/MapViewController.xib354897546#354897547#0(107"2012-03-31 14:39:06.795 ibtool[438:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 350(0#0#61"/Users/Decmac/Desktop/ChapeHill/Classes/MapViewController.xib4300885448#485"    cd /Users/Decmac/Desktop/ChapeHill    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Decmac/Desktop/ChapeHill/build/Debug-iphonesimulator/ChapeHill.app/MapViewController.nib /Users/Decmac/Desktop/ChapeHill/Classes/MapViewController.xib0#
+
+CCompileXIB /Users/Decmac/Desktop/ChapeHill/MainWindow.xib
+s354896460.345184
+e354896461.314169
+r1
+xCompileXIB
+x/Users/Decmac/Desktop/ChapeHill/MainWindow.xib
+o2012-03-31 14:21:00.498 ibtool[319:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 35
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@25"CompileXIB MainWindow.xib354896460#354896461#0(191"2012-03-31 14:21:00.498 ibtool[319:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 35Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#46"/Users/Decmac/Desktop/ChapeHill/MainWindow.xib4300885448#463"    cd /Users/Decmac/Desktop/ChapeHill    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Decmac/Desktop/ChapeHill/build/Debug-iphonesimulator/ChapeHill.app/MainWindow.nib /Users/Decmac/Desktop/ChapeHill/MainWindow.xib0#
+
+CCpResource build/Debug-iphonesimulator/ChapeHill.app/left_arrow.png left_arrow.png
+s354896461.325288
+e354896461.383122
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ChapeHill.app/left_arrow.png
+xleft_arrow.png
+lSLF07#2@19"Copy left_arrow.png354896461#354896461#0(0"0(0#0#46"/Users/Decmac/Desktop/ChapeHill/left_arrow.png4300885448#439"    cd /Users/Decmac/Desktop/ChapeHill    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Decmac/Desktop/ChapeHill/left_arrow.png /Users/Decmac/Desktop/ChapeHill/build/Debug-iphonesimulator/ChapeHill.app0#
+
+CCpResource build/Debug-iphonesimulator/ChapeHill.app/old_well.png old_well.png
+s354896461.314423
+e354896461.397627
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ChapeHill.app/old_well.png
+xold_well.png
+lSLF07#2@17"Copy old_well.png354896461#354896461#0(0"0(0#0#44"/Users/Decmac/Desktop/ChapeHill/old_well.png31244220637446252#437"    cd /Users/Decmac/Desktop/ChapeHill    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Decmac/Desktop/ChapeHill/old_well.png /Users/Decmac/Desktop/ChapeHill/build/Debug-iphonesimulator/ChapeHill.app0#
+
+CCpResource build/Debug-iphonesimulator/ChapeHill.app/right_arrow.png right_arrow.png
+s354896461.317705
+e354896461.382407
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ChapeHill.app/right_arrow.png
+xright_arrow.png
+lSLF07#2@20"Copy right_arrow.png354896461#354896461#0(0"0(0#0#47"/Users/Decmac/Desktop/ChapeHill/right_arrow.png4300885448#440"    cd /Users/Decmac/Desktop/ChapeHill    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Decmac/Desktop/ChapeHill/right_arrow.png /Users/Decmac/Desktop/ChapeHill/build/Debug-iphonesimulator/ChapeHill.app0#
+
+CCpResource build/Debug-iphonesimulator/ChapeHill.app/up_arrow.png up_arrow.png
+s354896461.320053
+e354896461.386413
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ChapeHill.app/up_arrow.png
+xup_arrow.png
+lSLF07#2@17"Copy up_arrow.png354896461#354896461#0(0"0(0#0#44"/Users/Decmac/Desktop/ChapeHill/up_arrow.png4300885448#437"    cd /Users/Decmac/Desktop/ChapeHill    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Decmac/Desktop/ChapeHill/up_arrow.png /Users/Decmac/Desktop/ChapeHill/build/Debug-iphonesimulator/ChapeHill.app0#
+
+CGenerateDSYMFile /Users/Decmac/Desktop/ChapeHill/build/Debug-iphonesimulator/ChapeHill.app.dSYM /Users/Decmac/Desktop/ChapeHill/build/Debug-iphonesimulator/ChapeHill.app/ChapeHill
+s354901143.973212
+e354901144.034656
+r1
+xGenerateDSYMFile
+x/Users/Decmac/Desktop/ChapeHill/build/Debug-iphonesimulator/ChapeHill.app.dSYM
+x/Users/Decmac/Desktop/ChapeHill/build/Debug-iphonesimulator/ChapeHill.app/ChapeHill
+o2012-03-31 15:39:04.017 dsymutil[903:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 35
+lSLF07#2@115"GenerateDSYMFile build/Debug-iphonesimulator/ChapeHill.app.dSYM build/Debug-iphonesimulator/ChapeHill.app/ChapeHill354901143#354901144#0(109"2012-03-31 15:39:04.017 dsymutil[903:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 350(0#0#83"/Users/Decmac/Desktop/ChapeHill/build/Debug-iphonesimulator/ChapeHill.app/ChapeHill4300885448#368"    cd /Users/Decmac/Desktop/ChapeHill    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/Decmac/Desktop/ChapeHill/build/Debug-iphonesimulator/ChapeHill.app/ChapeHill -o /Users/Decmac/Desktop/ChapeHill/build/Debug-iphonesimulator/ChapeHill.app.dSYM0#
+
+CLd /Users/Decmac/Desktop/ChapeHill/build/Debug-iphonesimulator/ChapeHill.app/ChapeHill normal i386
+s354901143.875542
+e354901143.972932
+r1
+xLd
+x/Users/Decmac/Desktop/ChapeHill/build/Debug-iphonesimulator/ChapeHill.app/ChapeHill
+xnormal
+xi386
+lSLF07#2@88"Link /Users/Decmac/Desktop/ChapeHill/build/Debug-iphonesimulator/ChapeHill.app/ChapeHill354901143#354901143#0(0"0(0#0#0"4300885448#881"    cd /Users/Decmac/Desktop/ChapeHill    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -L/Users/Decmac/Desktop/ChapeHill/build/Debug-iphonesimulator -F/Users/Decmac/Desktop/ChapeHill/build/Debug-iphonesimulator -filelist /Users/Decmac/Desktop/ChapeHill/build/ChapeHill.build/Debug-iphonesimulator/ChapeHill.build/Objects-normal/i386/ChapeHill.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -framework CoreLocation -framework MapKit -o /Users/Decmac/Desktop/ChapeHill/build/Debug-iphonesimulator/ChapeHill.app/ChapeHill0#
+
+CProcessInfoPlistFile /Users/Decmac/Desktop/ChapeHill/build/Debug-iphonesimulator/ChapeHill.app/Info.plist ChapeHill-Info.plist
+s354896460.252131
+e354896460.344879
+r1
+xProcessInfoPlistFile
+x/Users/Decmac/Desktop/ChapeHill/build/Debug-iphonesimulator/ChapeHill.app/Info.plist
+xChapeHill-Info.plist
+lSLF07#2@28"Process ChapeHill-Info.plist354896460#354896460#0(0"0(0#0#52"/Users/Decmac/Desktop/ChapeHill/ChapeHill-Info.plist32370056120631408#464"    cd /Users/Decmac/Desktop/ChapeHill    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility ChapeHill-Info.plist -genpkginfo /Users/Decmac/Desktop/ChapeHill/build/Debug-iphonesimulator/ChapeHill.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/Decmac/Desktop/ChapeHill/build/Debug-iphonesimulator/ChapeHill.app/Info.plist0#
+
+CProcessPCH /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ChapeHill_Prefix-aqvossoynetfzvamufcrqemynmeq/ChapeHill_Prefix.pch.gch ChapeHill_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s354896461.689538
+e354896463.756181
+r1
+xProcessPCH
+x/var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ChapeHill_Prefix-aqvossoynetfzvamufcrqemynmeq/ChapeHill_Prefix.pch.gch
+xChapeHill_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile ChapeHill_Prefix.pch354896461#354896463#0(0"0(0#0#52"/Users/Decmac/Desktop/ChapeHill/ChapeHill_Prefix.pch4300885448#1719"    cd /Users/Decmac/Desktop/ChapeHill    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/ChapeHill/build/ChapeHill.build/Debug-iphonesimulator/ChapeHill.build/ChapeHill-generated-files.hmap -I/Users/Decmac/Desktop/ChapeHill/build/ChapeHill.build/Debug-iphonesimulator/ChapeHill.build/ChapeHill-own-target-headers.hmap -I/Users/Decmac/Desktop/ChapeHill/build/ChapeHill.build/Debug-iphonesimulator/ChapeHill.build/ChapeHill-all-target-headers.hmap -iquote /Users/Decmac/Desktop/ChapeHill/build/ChapeHill.build/Debug-iphonesimulator/ChapeHill.build/ChapeHill-project-headers.hmap -F/Users/Decmac/Desktop/ChapeHill/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/ChapeHill/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/ChapeHill/build/ChapeHill.build/Debug-iphonesimulator/ChapeHill.build/DerivedSources/i386 -I/Users/Decmac/Desktop/ChapeHill/build/ChapeHill.build/Debug-iphonesimulator/ChapeHill.build/DerivedSources -c /Users/Decmac/Desktop/ChapeHill/ChapeHill_Prefix.pch -o /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ChapeHill_Prefix-aqvossoynetfzvamufcrqemynmeq/ChapeHill_Prefix.pch.gch0#
+
+CTouch /Users/Decmac/Desktop/ChapeHill/build/Debug-iphonesimulator/ChapeHill.app
+s354901144.035405
+e354901144.042937
+r1
+xTouch
+x/Users/Decmac/Desktop/ChapeHill/build/Debug-iphonesimulator/ChapeHill.app
+lSLF07#2@79"Touch /Users/Decmac/Desktop/ChapeHill/build/Debug-iphonesimulator/ChapeHill.app354901144#354901144#0(0"0(0#0#0"4300885448#266"    cd /Users/Decmac/Desktop/ChapeHill    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/Decmac/Desktop/ChapeHill/build/Debug-iphonesimulator/ChapeHill.app0#
+

@@ -1,0 +1,259 @@
+TSwapper
+v7
+r0
+t354645819.448512
+cCheck dependencies
+cProcessInfoPlistFile /Users/Decmac/Desktop/Swapper/build/Debug-iphonesimulator/Swapper.app/Info.plist Swapper-Info.plist
+cCompileXIB /Users/Decmac/Desktop/Swapper/MainWindow.xib
+cCompileXIB /Users/Decmac/Desktop/Swapper/SwapperViewController.xib
+cProcessPCH /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Swapper_Prefix-dhnrkqwlanjnvkdcpiescixprasd/Swapper_Prefix.pch.gch Swapper_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Swapper.build/Debug-iphonesimulator/Swapper.build/Objects-normal/i386/main.o /Users/Decmac/Desktop/Swapper/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Swapper.build/Debug-iphonesimulator/Swapper.build/Objects-normal/i386/SwapperAppDelegate.o /Users/Decmac/Desktop/Swapper/Classes/SwapperAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Swapper.build/Debug-iphonesimulator/Swapper.build/Objects-normal/i386/SwapperViewController.o /Users/Decmac/Desktop/Swapper/Classes/SwapperViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/Decmac/Desktop/Swapper/build/Debug-iphonesimulator/Swapper.app/Swapper normal i386
+cGenerateDSYMFile /Users/Decmac/Desktop/Swapper/build/Debug-iphonesimulator/Swapper.app.dSYM /Users/Decmac/Desktop/Swapper/build/Debug-iphonesimulator/Swapper.app/Swapper
+cTouch /Users/Decmac/Desktop/Swapper/build/Debug-iphonesimulator/Swapper.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk
+c000000004F3A580900000000000000EE
+t1329223689
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B2B4CC3000000000026EE30
+t1261128899
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B2B4DC8000000000027E880
+t1261129160
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B2B4DAE0000000000001355
+t1261129134
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B2B61620000000000000788
+t1261134178
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B2B62B500000000016721E0
+t1261134517
+s23536096
+
+N/Users/Decmac/Desktop/Swapper/Classes/SwapperAppDelegate.h
+c000000004F733B0100000000000001DC
+t1332951809
+s476
+i<UIKit/UIKit.h>
+
+N/Users/Decmac/Desktop/Swapper/Classes/SwapperAppDelegate.m
+c000000004F733B010000000000000267
+t1332951809
+s615
+i"SwapperAppDelegate.h"
+i"SwapperViewController.h"
+
+N/Users/Decmac/Desktop/Swapper/Classes/SwapperViewController.h
+c000000004F733B7B0000000000000197
+t1332951931
+s407
+i<UIKit/UIKit.h>
+
+N/Users/Decmac/Desktop/Swapper/Classes/SwapperViewController.m
+c000000004F733FB700000000000009FE
+t1332953015
+s2558
+i"SwapperViewController.h"
+
+N/Users/Decmac/Desktop/Swapper/MainWindow.xib
+c000000004F733B01000000000000244E
+t1332951809
+s9294
+
+N/Users/Decmac/Desktop/Swapper/SwapperViewController.xib
+c000000004F733D780000000000004DA1
+t1332952440
+s19873
+
+N/Users/Decmac/Desktop/Swapper/Swapper_Prefix.pch
+c000000004F733B0100000000000000B7
+t1332951809
+s183
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/Decmac/Desktop/Swapper/build/Debug-iphonesimulator/Swapper.app
+t1332953019
+s238
+
+N/Users/Decmac/Desktop/Swapper/build/Debug-iphonesimulator/Swapper.app.dSYM
+t1332953019
+s102
+
+N/Users/Decmac/Desktop/Swapper/build/Debug-iphonesimulator/Swapper.app/Info.plist
+t1332953016
+s564
+
+N/Users/Decmac/Desktop/Swapper/build/Debug-iphonesimulator/Swapper.app/MainWindow.nib
+t1332953017
+s1495
+
+N/Users/Decmac/Desktop/Swapper/build/Debug-iphonesimulator/Swapper.app/PkgInfo
+t1332953016
+s8
+
+N/Users/Decmac/Desktop/Swapper/build/Debug-iphonesimulator/Swapper.app/Swapper
+t1332953019
+s20624
+
+N/Users/Decmac/Desktop/Swapper/build/Debug-iphonesimulator/Swapper.app/SwapperViewController.nib
+t1332953017
+s2073
+
+N/Users/Decmac/Desktop/Swapper/build/Swapper.build/Debug-iphonesimulator/Swapper.build/Objects-normal/i386/Swapper.LinkFileList
+c000000004F733FB80000000000000172
+t1332953016
+s370
+
+N/Users/Decmac/Desktop/Swapper/build/Swapper.build/Debug-iphonesimulator/Swapper.build/Objects-normal/i386/SwapperAppDelegate.o
+t1332953019
+s38128
+
+N/Users/Decmac/Desktop/Swapper/build/Swapper.build/Debug-iphonesimulator/Swapper.build/Objects-normal/i386/SwapperViewController.o
+t1332953019
+s35388
+
+N/Users/Decmac/Desktop/Swapper/build/Swapper.build/Debug-iphonesimulator/Swapper.build/Objects-normal/i386/main.o
+t1332953019
+s5940
+
+N/Users/Decmac/Desktop/Swapper/main.m
+c000000004F733B010000000000000166
+t1332951809
+s358
+i<UIKit/UIKit.h>
+
+N/var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Swapper_Prefix-dhnrkqwlanjnvkdcpiescixprasd/Swapper_Prefix.pch.gch
+t1332953018
+s13034960
+
+NSwapper-Info.plist
+c000000004F733B01000000000000038D
+t1332951809
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies354645816#354645816#0(0"0(0#1#0"4300885448#0"0#
+
+CCompileC build/Swapper.build/Debug-iphonesimulator/Swapper.build/Objects-normal/i386/SwapperAppDelegate.o /Users/Decmac/Desktop/Swapper/Classes/SwapperAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354645819.005881
+e354645819.234295
+r1
+xCompileC
+xbuild/Swapper.build/Debug-iphonesimulator/Swapper.build/Objects-normal/i386/SwapperAppDelegate.o
+x/Users/Decmac/Desktop/Swapper/Classes/SwapperAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/Decmac/Desktop/Swapper/Classes/SwapperAppDelegate.m354645819#354645819#0(0"0(0#0#58"/Users/Decmac/Desktop/Swapper/Classes/SwapperAppDelegate.m4300885448#1796"    cd /Users/Decmac/Desktop/Swapper    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/Swapper/build/Swapper.build/Debug-iphonesimulator/Swapper.build/Swapper-generated-files.hmap -I/Users/Decmac/Desktop/Swapper/build/Swapper.build/Debug-iphonesimulator/Swapper.build/Swapper-own-target-headers.hmap -I/Users/Decmac/Desktop/Swapper/build/Swapper.build/Debug-iphonesimulator/Swapper.build/Swapper-all-target-headers.hmap -iquote /Users/Decmac/Desktop/Swapper/build/Swapper.build/Debug-iphonesimulator/Swapper.build/Swapper-project-headers.hmap -F/Users/Decmac/Desktop/Swapper/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/Swapper/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/Swapper/build/Swapper.build/Debug-iphonesimulator/Swapper.build/DerivedSources/i386 -I/Users/Decmac/Desktop/Swapper/build/Swapper.build/Debug-iphonesimulator/Swapper.build/DerivedSources -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Swapper_Prefix-dhnrkqwlanjnvkdcpiescixprasd/Swapper_Prefix.pch -c /Users/Decmac/Desktop/Swapper/Classes/SwapperAppDelegate.m -o /Users/Decmac/Desktop/Swapper/build/Swapper.build/Debug-iphonesimulator/Swapper.build/Objects-normal/i386/SwapperAppDelegate.o0#
+
+CCompileC build/Swapper.build/Debug-iphonesimulator/Swapper.build/Objects-normal/i386/SwapperViewController.o /Users/Decmac/Desktop/Swapper/Classes/SwapperViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354645819.133054
+e354645819.328436
+r1
+xCompileC
+xbuild/Swapper.build/Debug-iphonesimulator/Swapper.build/Objects-normal/i386/SwapperViewController.o
+x/Users/Decmac/Desktop/Swapper/Classes/SwapperViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/Decmac/Desktop/Swapper/Classes/SwapperViewController.m354645819#354645819#0(0"0(0#0#61"/Users/Decmac/Desktop/Swapper/Classes/SwapperViewController.m4300885448#1802"    cd /Users/Decmac/Desktop/Swapper    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/Swapper/build/Swapper.build/Debug-iphonesimulator/Swapper.build/Swapper-generated-files.hmap -I/Users/Decmac/Desktop/Swapper/build/Swapper.build/Debug-iphonesimulator/Swapper.build/Swapper-own-target-headers.hmap -I/Users/Decmac/Desktop/Swapper/build/Swapper.build/Debug-iphonesimulator/Swapper.build/Swapper-all-target-headers.hmap -iquote /Users/Decmac/Desktop/Swapper/build/Swapper.build/Debug-iphonesimulator/Swapper.build/Swapper-project-headers.hmap -F/Users/Decmac/Desktop/Swapper/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/Swapper/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/Swapper/build/Swapper.build/Debug-iphonesimulator/Swapper.build/DerivedSources/i386 -I/Users/Decmac/Desktop/Swapper/build/Swapper.build/Debug-iphonesimulator/Swapper.build/DerivedSources -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Swapper_Prefix-dhnrkqwlanjnvkdcpiescixprasd/Swapper_Prefix.pch -c /Users/Decmac/Desktop/Swapper/Classes/SwapperViewController.m -o /Users/Decmac/Desktop/Swapper/build/Swapper.build/Debug-iphonesimulator/Swapper.build/Objects-normal/i386/SwapperViewController.o0#
+
+CCompileC build/Swapper.build/Debug-iphonesimulator/Swapper.build/Objects-normal/i386/main.o /Users/Decmac/Desktop/Swapper/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354645819.003165
+e354645819.132768
+r1
+xCompileC
+xbuild/Swapper.build/Debug-iphonesimulator/Swapper.build/Objects-normal/i386/main.o
+x/Users/Decmac/Desktop/Swapper/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@44"Compile /Users/Decmac/Desktop/Swapper/main.m354645819#354645819#0(0"0(0#0#36"/Users/Decmac/Desktop/Swapper/main.m4300885448#1760"    cd /Users/Decmac/Desktop/Swapper    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/Swapper/build/Swapper.build/Debug-iphonesimulator/Swapper.build/Swapper-generated-files.hmap -I/Users/Decmac/Desktop/Swapper/build/Swapper.build/Debug-iphonesimulator/Swapper.build/Swapper-own-target-headers.hmap -I/Users/Decmac/Desktop/Swapper/build/Swapper.build/Debug-iphonesimulator/Swapper.build/Swapper-all-target-headers.hmap -iquote /Users/Decmac/Desktop/Swapper/build/Swapper.build/Debug-iphonesimulator/Swapper.build/Swapper-project-headers.hmap -F/Users/Decmac/Desktop/Swapper/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/Swapper/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/Swapper/build/Swapper.build/Debug-iphonesimulator/Swapper.build/DerivedSources/i386 -I/Users/Decmac/Desktop/Swapper/build/Swapper.build/Debug-iphonesimulator/Swapper.build/DerivedSources -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Swapper_Prefix-dhnrkqwlanjnvkdcpiescixprasd/Swapper_Prefix.pch -c /Users/Decmac/Desktop/Swapper/main.m -o /Users/Decmac/Desktop/Swapper/build/Swapper.build/Debug-iphonesimulator/Swapper.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/Decmac/Desktop/Swapper/MainWindow.xib
+s354645816.157842
+e354645817.127925
+r1
+xCompileXIB
+x/Users/Decmac/Desktop/Swapper/MainWindow.xib
+o2012-03-28 16:43:36.361 ibtool[1544:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 35
+lSLF07#2@25"CompileXIB MainWindow.xib354645816#354645817#0(108"2012-03-28 16:43:36.361 ibtool[1544:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 350(0#0#44"/Users/Decmac/Desktop/Swapper/MainWindow.xib4300885448#455"    cd /Users/Decmac/Desktop/Swapper    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Decmac/Desktop/Swapper/build/Debug-iphonesimulator/Swapper.app/MainWindow.nib /Users/Decmac/Desktop/Swapper/MainWindow.xib0#
+
+CCompileXIB /Users/Decmac/Desktop/Swapper/SwapperViewController.xib
+s354645816.166162
+e354645817.201542
+r1
+xCompileXIB
+x/Users/Decmac/Desktop/Swapper/SwapperViewController.xib
+o2012-03-28 16:43:36.310 ibtool[1545:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 35
+lSLF07#2@36"CompileXIB SwapperViewController.xib354645816#354645817#0(108"2012-03-28 16:43:36.310 ibtool[1545:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 350(0#0#55"/Users/Decmac/Desktop/Swapper/SwapperViewController.xib4300885448#477"    cd /Users/Decmac/Desktop/Swapper    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Decmac/Desktop/Swapper/build/Debug-iphonesimulator/Swapper.app/SwapperViewController.nib /Users/Decmac/Desktop/Swapper/SwapperViewController.xib0#
+
+CGenerateDSYMFile /Users/Decmac/Desktop/Swapper/build/Debug-iphonesimulator/Swapper.app.dSYM /Users/Decmac/Desktop/Swapper/build/Debug-iphonesimulator/Swapper.app/Swapper
+s354645819.394181
+e354645819.440597
+r1
+xGenerateDSYMFile
+x/Users/Decmac/Desktop/Swapper/build/Debug-iphonesimulator/Swapper.app.dSYM
+x/Users/Decmac/Desktop/Swapper/build/Debug-iphonesimulator/Swapper.app/Swapper
+o2012-03-28 16:43:39.425 dsymutil[1572:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 35
+lSLF07#2@109"GenerateDSYMFile build/Debug-iphonesimulator/Swapper.app.dSYM build/Debug-iphonesimulator/Swapper.app/Swapper354645819#354645819#0(110"2012-03-28 16:43:39.425 dsymutil[1572:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 350(0#0#77"/Users/Decmac/Desktop/Swapper/build/Debug-iphonesimulator/Swapper.app/Swapper4300885448#356"    cd /Users/Decmac/Desktop/Swapper    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/Decmac/Desktop/Swapper/build/Debug-iphonesimulator/Swapper.app/Swapper -o /Users/Decmac/Desktop/Swapper/build/Debug-iphonesimulator/Swapper.app.dSYM0#
+
+CLd /Users/Decmac/Desktop/Swapper/build/Debug-iphonesimulator/Swapper.app/Swapper normal i386
+s354645819.328682
+e354645819.393919
+r1
+xLd
+x/Users/Decmac/Desktop/Swapper/build/Debug-iphonesimulator/Swapper.app/Swapper
+xnormal
+xi386
+lSLF07#2@82"Link /Users/Decmac/Desktop/Swapper/build/Debug-iphonesimulator/Swapper.app/Swapper354645819#354645819#0(0"0(0#0#0"4300885448#819"    cd /Users/Decmac/Desktop/Swapper    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -L/Users/Decmac/Desktop/Swapper/build/Debug-iphonesimulator -F/Users/Decmac/Desktop/Swapper/build/Debug-iphonesimulator -filelist /Users/Decmac/Desktop/Swapper/build/Swapper.build/Debug-iphonesimulator/Swapper.build/Objects-normal/i386/Swapper.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/Decmac/Desktop/Swapper/build/Debug-iphonesimulator/Swapper.app/Swapper0#
+
+CProcessInfoPlistFile /Users/Decmac/Desktop/Swapper/build/Debug-iphonesimulator/Swapper.app/Info.plist Swapper-Info.plist
+s354645816.138850
+e354645816.157573
+r1
+xProcessInfoPlistFile
+x/Users/Decmac/Desktop/Swapper/build/Debug-iphonesimulator/Swapper.app/Info.plist
+xSwapper-Info.plist
+lSLF07#2@26"Process Swapper-Info.plist354645816#354645816#0(0"0(0#0#48"/Users/Decmac/Desktop/Swapper/Swapper-Info.plist4300885448#452"    cd /Users/Decmac/Desktop/Swapper    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Swapper-Info.plist -genpkginfo /Users/Decmac/Desktop/Swapper/build/Debug-iphonesimulator/Swapper.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/Decmac/Desktop/Swapper/build/Debug-iphonesimulator/Swapper.app/Info.plist0#
+
+CProcessPCH /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Swapper_Prefix-dhnrkqwlanjnvkdcpiescixprasd/Swapper_Prefix.pch.gch Swapper_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s354645817.201853
+e354645819.002784
+r1
+xProcessPCH
+x/var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Swapper_Prefix-dhnrkqwlanjnvkdcpiescixprasd/Swapper_Prefix.pch.gch
+xSwapper_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile Swapper_Prefix.pch354645817#354645819#0(0"0(0#0#48"/Users/Decmac/Desktop/Swapper/Swapper_Prefix.pch4300885448#1661"    cd /Users/Decmac/Desktop/Swapper    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/Swapper/build/Swapper.build/Debug-iphonesimulator/Swapper.build/Swapper-generated-files.hmap -I/Users/Decmac/Desktop/Swapper/build/Swapper.build/Debug-iphonesimulator/Swapper.build/Swapper-own-target-headers.hmap -I/Users/Decmac/Desktop/Swapper/build/Swapper.build/Debug-iphonesimulator/Swapper.build/Swapper-all-target-headers.hmap -iquote /Users/Decmac/Desktop/Swapper/build/Swapper.build/Debug-iphonesimulator/Swapper.build/Swapper-project-headers.hmap -F/Users/Decmac/Desktop/Swapper/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/Swapper/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/Swapper/build/Swapper.build/Debug-iphonesimulator/Swapper.build/DerivedSources/i386 -I/Users/Decmac/Desktop/Swapper/build/Swapper.build/Debug-iphonesimulator/Swapper.build/DerivedSources -c /Users/Decmac/Desktop/Swapper/Swapper_Prefix.pch -o /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Swapper_Prefix-dhnrkqwlanjnvkdcpiescixprasd/Swapper_Prefix.pch.gch0#
+
+CTouch /Users/Decmac/Desktop/Swapper/build/Debug-iphonesimulator/Swapper.app
+s354645819.440826
+e354645819.448397
+r1
+xTouch
+x/Users/Decmac/Desktop/Swapper/build/Debug-iphonesimulator/Swapper.app
+lSLF07#2@75"Touch /Users/Decmac/Desktop/Swapper/build/Debug-iphonesimulator/Swapper.app354645819#354645819#0(0"0(0#0#0"4300885448#260"    cd /Users/Decmac/Desktop/Swapper    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/Decmac/Desktop/Swapper/build/Debug-iphonesimulator/Swapper.app0#
+

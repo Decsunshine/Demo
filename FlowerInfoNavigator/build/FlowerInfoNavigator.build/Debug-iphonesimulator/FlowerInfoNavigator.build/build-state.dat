@@ -1,0 +1,936 @@
+TFlowerInfoNavigator
+v7
+r0
+t354561282.142011
+cCheck dependencies
+cProcessInfoPlistFile "/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app/Info.plist" FlowerInfoNavigator-Info.plist
+cCompileXIB "/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/MainWindow.xib"
+cCompileXIB "/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/RootViewController.xib"
+cCpResource build/Debug-iphonesimulator/FlowerInfoNavigator.app/peony.png peony.png
+cCpResource build/Debug-iphonesimulator/FlowerInfoNavigator.app/gerbera.png gerbera.png
+cCpResource build/Debug-iphonesimulator/FlowerInfoNavigator.app/grapehyacinth.png grapehyacinth.png
+cCpResource build/Debug-iphonesimulator/FlowerInfoNavigator.app/hollyhock.png hollyhock.png
+cCpResource build/Debug-iphonesimulator/FlowerInfoNavigator.app/hyacinth.png hyacinth.png
+cCpResource build/Debug-iphonesimulator/FlowerInfoNavigator.app/hydrangea.png hydrangea.png
+cCpResource build/Debug-iphonesimulator/FlowerInfoNavigator.app/iris.png iris.png
+cCpResource build/Debug-iphonesimulator/FlowerInfoNavigator.app/phlox.png phlox.png
+cCpResource build/Debug-iphonesimulator/FlowerInfoNavigator.app/pincushionflower.png pincushionflower.png
+cCpResource build/Debug-iphonesimulator/FlowerInfoNavigator.app/poppy.png poppy.png
+cCpResource build/Debug-iphonesimulator/FlowerInfoNavigator.app/rose.png rose.png
+cCpResource build/Debug-iphonesimulator/FlowerInfoNavigator.app/seaholly.png seaholly.png
+cCpResource build/Debug-iphonesimulator/FlowerInfoNavigator.app/strawflower.png strawflower.png
+cCpResource build/Debug-iphonesimulator/FlowerInfoNavigator.app/tulip.png tulip.png
+cCompileXIB "/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/Classes/FlowerDetailViewController.xib"
+cProcessPCH /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FlowerInfoNavigator_Prefix-dkkficmkieknzsbpotpcynchzkwh/FlowerInfoNavigator_Prefix.pch.gch FlowerInfoNavigator_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/Objects-normal/i386/main.o "/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/Objects-normal/i386/FlowerInfoNavigatorAppDelegate.o "/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/Classes/FlowerInfoNavigatorAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/Objects-normal/i386/RootViewController.o "/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/Classes/RootViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/Objects-normal/i386/FlowerDetailViewController.o "/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/Classes/FlowerDetailViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app/FlowerInfoNavigator" normal i386
+cGenerateDSYMFile "/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app.dSYM" "/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app/FlowerInfoNavigator"
+cTouch "/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk
+c000000004F3A580900000000000000EE
+t1329223689
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B2B4CC3000000000026EE30
+t1261128899
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B2B4DC8000000000027E880
+t1261129160
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B2B4DAE0000000000001355
+t1261129134
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B2B61620000000000000788
+t1261134178
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B2B62B500000000016721E0
+t1261134517
+s23536096
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/usr/include/Availability.h
+c000000004B2B4EE200000000000019F9
+t1261129442
+s6649
+
+N/Users/Decmac/Desktop/FlowerInfoNavigator/Classes/FlowerDetailViewController.h
+c000000004F71E65D00000000000001A1
+t1332864605
+s417
+i<UIKit/UIKit.h>
+
+N/Users/Decmac/Desktop/FlowerInfoNavigator/Classes/FlowerDetailViewController.m
+c000000004F71E6E8000000000000060B
+t1332864744
+s1547
+i"FlowerDetailViewController.h"
+
+N/Users/Decmac/Desktop/FlowerInfoNavigator/Classes/FlowerDetailViewController.xib
+c000000004F71EE2C0000000000004247
+t1332866604
+s16967
+
+N/Users/Decmac/Desktop/FlowerInfoNavigator/Classes/FlowerInfoNavigatorAppDelegate.h
+c000000004F71DEE600000000000001DB
+t1332862694
+s475
+
+N/Users/Decmac/Desktop/FlowerInfoNavigator/Classes/FlowerInfoNavigatorAppDelegate.m
+c000000004F71DEE60000000000000363
+t1332862694
+s867
+i"FlowerInfoNavigatorAppDelegate.h"
+i"RootViewController.h"
+
+N/Users/Decmac/Desktop/FlowerInfoNavigator/Classes/RootViewController.h
+c000000004F71EDC00000000000000136
+t1332866496
+s310
+
+N/Users/Decmac/Desktop/FlowerInfoNavigator/Classes/RootViewController.m
+c000000004F71EDC00000000000001A07
+t1332866496
+s6663
+i"RootViewController.h"
+i"FlowerDetailViewController.h"
+
+N/Users/Decmac/Desktop/FlowerInfoNavigator/FlowerInfoNavigator_Prefix.pch
+c000000004F71DEE60000000000000158
+t1332862694
+s344
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/Decmac/Desktop/FlowerInfoNavigator/MainWindow.xib
+c000000004F71DEE60000000000002C91
+t1332862694
+s11409
+
+N/Users/Decmac/Desktop/FlowerInfoNavigator/RootViewController.xib
+c000000004F71EEA300000000000042BF
+t1332866723
+s17087
+
+N/Users/Decmac/Desktop/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app
+t1332866726
+s748
+
+N/Users/Decmac/Desktop/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app.dSYM
+t1332866497
+s102
+
+N/Users/Decmac/Desktop/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app/FlowerDetailViewController.nib
+t1332866643
+s1473
+
+N/Users/Decmac/Desktop/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app/FlowerInfoNavigator
+t1332866497
+s26772
+
+N/Users/Decmac/Desktop/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app/Info.plist
+t1332862731
+s618
+
+N/Users/Decmac/Desktop/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app/MainWindow.nib
+t1332862732
+s2024
+
+N/Users/Decmac/Desktop/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app/PkgInfo
+t1332862731
+s8
+
+N/Users/Decmac/Desktop/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app/RootViewController.nib
+t1332866726
+s1380
+
+N/Users/Decmac/Desktop/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app/gerbera.png
+t1332865636
+s18076
+
+N/Users/Decmac/Desktop/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app/grapehyacinth.png
+t1332865636
+s17728
+
+N/Users/Decmac/Desktop/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app/hollyhock.png
+t1332865636
+s19072
+
+N/Users/Decmac/Desktop/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app/hyacinth.png
+t1332865636
+s17274
+
+N/Users/Decmac/Desktop/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app/hydrangea.png
+t1332865636
+s17024
+
+N/Users/Decmac/Desktop/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app/iris.png
+t1332865636
+s12465
+
+N/Users/Decmac/Desktop/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app/peony.png
+t1332865636
+s17023
+
+N/Users/Decmac/Desktop/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app/phlox.png
+t1332865636
+s18602
+
+N/Users/Decmac/Desktop/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app/pincushionflower.png
+t1332865636
+s18499
+
+N/Users/Decmac/Desktop/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app/poppy.png
+t1332865636
+s16136
+
+N/Users/Decmac/Desktop/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app/rose.png
+t1332865636
+s9655
+
+N/Users/Decmac/Desktop/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app/seaholly.png
+t1332865636
+s19821
+
+N/Users/Decmac/Desktop/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app/strawflower.png
+t1332865636
+s17532
+
+N/Users/Decmac/Desktop/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app/tulip.png
+t1332865636
+s16358
+
+N/Users/Decmac/Desktop/FlowerInfoNavigator/build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/Objects-normal/i386/FlowerDetailViewController.o
+t1332865638
+s31680
+
+N/Users/Decmac/Desktop/FlowerInfoNavigator/build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/Objects-normal/i386/FlowerInfoNavigator.LinkFileList
+c000000004F71EA640000000000000292
+t1332865636
+s658
+
+N/Users/Decmac/Desktop/FlowerInfoNavigator/build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/Objects-normal/i386/FlowerInfoNavigatorAppDelegate.o
+t1332866497
+s40120
+
+N/Users/Decmac/Desktop/FlowerInfoNavigator/build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/Objects-normal/i386/RootViewController.o
+t1332866497
+s46188
+
+N/Users/Decmac/Desktop/FlowerInfoNavigator/build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/Objects-normal/i386/main.o
+t1332862734
+s5964
+
+N/Users/Decmac/Desktop/FlowerInfoNavigator/gerbera.png
+c0000000049FD8F0E000000000000469C
+t1241353998
+s18076
+
+N/Users/Decmac/Desktop/FlowerInfoNavigator/grapehyacinth.png
+c0000000049FD8F100000000000004540
+t1241354000
+s17728
+
+N/Users/Decmac/Desktop/FlowerInfoNavigator/hollyhock.png
+c0000000049FD8F0E0000000000004A80
+t1241353998
+s19072
+
+N/Users/Decmac/Desktop/FlowerInfoNavigator/hyacinth.png
+c0000000049FD8F0E000000000000437A
+t1241353998
+s17274
+
+N/Users/Decmac/Desktop/FlowerInfoNavigator/hydrangea.png
+c0000000049FD8F0E0000000000004280
+t1241353998
+s17024
+
+N/Users/Decmac/Desktop/FlowerInfoNavigator/iris.png
+c0000000049FD8F0E00000000000030B1
+t1241353998
+s12465
+
+N/Users/Decmac/Desktop/FlowerInfoNavigator/main.m
+c000000004F71DEE60000000000000172
+t1332862694
+s370
+i<UIKit/UIKit.h>
+
+N/Users/Decmac/Desktop/FlowerInfoNavigator/peony.png
+c0000000049FD92F4000000000000427F
+t1241354996
+s17023
+
+N/Users/Decmac/Desktop/FlowerInfoNavigator/phlox.png
+c0000000049FD8F0E00000000000048AA
+t1241353998
+s18602
+
+N/Users/Decmac/Desktop/FlowerInfoNavigator/pincushionflower.png
+c0000000049FD8F100000000000004843
+t1241354000
+s18499
+
+N/Users/Decmac/Desktop/FlowerInfoNavigator/poppy.png
+c0000000049FD8F0E0000000000003F08
+t1241353998
+s16136
+
+N/Users/Decmac/Desktop/FlowerInfoNavigator/rose.png
+c0000000049FD8F0E00000000000025B7
+t1241353998
+s9655
+
+N/Users/Decmac/Desktop/FlowerInfoNavigator/seaholly.png
+c0000000049FD8F0E0000000000004D6D
+t1241353998
+s19821
+
+N/Users/Decmac/Desktop/FlowerInfoNavigator/strawflower.png
+c0000000049FD8F0E000000000000447C
+t1241353998
+s17532
+
+N/Users/Decmac/Desktop/FlowerInfoNavigator/tulip.png
+c0000000049FD8F0E0000000000003FE6
+t1241353998
+s16358
+
+N/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/Classes/FlowerDetailViewController.h
+c000000004F71E65C00000000000001A1
+t1332864604
+s417
+i<UIKit/UIKit.h>
+
+N/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/Classes/FlowerDetailViewController.m
+c000000004F71F5800000000000000334
+t1332868480
+s820
+i"FlowerDetailViewController.h"
+
+N/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/Classes/FlowerDetailViewController.xib
+c000000004F71EE2C0000000000004247
+t1332866604
+s16967
+
+N/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/Classes/FlowerInfoNavigatorAppDelegate.h
+c000000004F71DEE600000000000001DB
+t1332862694
+s475
+
+N/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/Classes/FlowerInfoNavigatorAppDelegate.m
+c000000004F71DEE60000000000000363
+t1332862694
+s867
+i"FlowerInfoNavigatorAppDelegate.h"
+i"RootViewController.h"
+
+N/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/Classes/RootViewController.h
+c000000004F71EDC00000000000000136
+t1332866496
+s310
+
+N/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/Classes/RootViewController.m
+c000000004F71EDC00000000000001A07
+t1332866496
+s6663
+i"RootViewController.h"
+i"FlowerDetailViewController.h"
+
+N/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/FlowerInfoNavigator_Prefix.pch
+c000000004F71DEE60000000000000158
+t1332862694
+s344
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/MainWindow.xib
+c000000004F71DEE60000000000002C91
+t1332862694
+s11409
+
+N/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/RootViewController.xib
+c000000004F71EEA200000000000042BF
+t1332866722
+s17087
+
+N/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app
+t1332868482
+s16384
+
+N/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app.dSYM
+t1332868482
+s16384
+
+N/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app/FlowerDetailViewController.nib
+t1332866642
+s1473
+
+N/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app/FlowerInfoNavigator
+t1332868480
+s27476
+
+N/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app/Info.plist
+t1332862730
+s618
+
+N/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app/MainWindow.nib
+t1332862732
+s2024
+
+N/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app/PkgInfo
+t1332862730
+s8
+
+N/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app/RootViewController.nib
+t1332866726
+s1380
+
+N/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app/gerbera.png
+t1332865636
+s18076
+
+N/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app/grapehyacinth.png
+t1332865636
+s17728
+
+N/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app/hollyhock.png
+t1332865636
+s19072
+
+N/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app/hyacinth.png
+t1332865636
+s17274
+
+N/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app/hydrangea.png
+t1332865636
+s17024
+
+N/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app/iris.png
+t1332865636
+s12465
+
+N/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app/peony.png
+t1332865636
+s17023
+
+N/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app/phlox.png
+t1332865636
+s18602
+
+N/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app/pincushionflower.png
+t1332865636
+s18499
+
+N/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app/poppy.png
+t1332865636
+s16136
+
+N/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app/rose.png
+t1332865636
+s9655
+
+N/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app/seaholly.png
+t1332865636
+s19821
+
+N/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app/strawflower.png
+t1332865636
+s17532
+
+N/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app/tulip.png
+t1332865636
+s16358
+
+N/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/Objects-normal/i386/FlowerDetailViewController.o
+t1332868480
+s33216
+
+N/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/Objects-normal/i386/FlowerInfoNavigator.LinkFileList
+c000000004F71F51000000000000002CA
+t1332868368
+s714
+
+N/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/Objects-normal/i386/FlowerInfoNavigatorAppDelegate.o
+t1332868480
+s40148
+
+N/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/Objects-normal/i386/RootViewController.o
+t1332868372
+s46216
+
+N/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/Objects-normal/i386/main.o
+t1332868480
+s5992
+
+N/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/gerbera.png
+c0000000049FD8F0E000000000000469C
+t1241353998
+s18076
+
+N/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/grapehyacinth.png
+c0000000049FD8F100000000000004540
+t1241354000
+s17728
+
+N/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/hollyhock.png
+c0000000049FD8F0E0000000000004A80
+t1241353998
+s19072
+
+N/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/hyacinth.png
+c0000000049FD8F0E000000000000437A
+t1241353998
+s17274
+
+N/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/hydrangea.png
+c0000000049FD8F0E0000000000004280
+t1241353998
+s17024
+
+N/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/iris.png
+c0000000049FD8F0E00000000000030B1
+t1241353998
+s12465
+
+N/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/main.m
+c000000004F71DEE60000000000000172
+t1332862694
+s370
+i<UIKit/UIKit.h>
+
+N/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/peony.png
+c0000000049FD92F4000000000000427F
+t1241354996
+s17023
+
+N/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/phlox.png
+c0000000049FD8F0E00000000000048AA
+t1241353998
+s18602
+
+N/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/pincushionflower.png
+c0000000049FD8F100000000000004843
+t1241354000
+s18499
+
+N/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/poppy.png
+c0000000049FD8F0E0000000000003F08
+t1241353998
+s16136
+
+N/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/rose.png
+c0000000049FD8F0E00000000000025B7
+t1241353998
+s9655
+
+N/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/seaholly.png
+c0000000049FD8F0E0000000000004D6D
+t1241353998
+s19821
+
+N/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/strawflower.png
+c0000000049FD8F0E000000000000447C
+t1241353998
+s17532
+
+N/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/tulip.png
+c0000000049FD8F0E0000000000003FE6
+t1241353998
+s16358
+
+N/var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FlowerInfoNavigator_Prefix-dkkficmkieknzsbpotpcynchzkwh/FlowerInfoNavigator_Prefix.pch.gch
+t1332868371
+s13034960
+
+N/var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FlowerInfoNavigator_Prefix-gdeqyyneqaazgnhdyvhyweozheii/FlowerInfoNavigator_Prefix.pch.gch
+t1332862734
+s13034960
+
+NFlowerInfoNavigator-Info.plist
+c000000004F71DEE6000000000000038D
+t1332862694
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies354561281#354561281#0(0"0(0#1#0"4300885448#0"0#
+
+CCompileC build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/Objects-normal/i386/FlowerDetailViewController.o "/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/Classes/FlowerDetailViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s354561281.256170
+e354561281.926233
+r1
+xCompileC
+xbuild/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/Objects-normal/i386/FlowerDetailViewController.o
+x/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/Classes/FlowerDetailViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@100"Compile /Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/Classes/FlowerDetailViewController.m354561281#354561281#0(0"0(0#0#92"/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/Classes/FlowerDetailViewController.m4300885448#2360"    cd "/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/FlowerInfoNavigator-generated-files.hmap" "-I/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/FlowerInfoNavigator-own-target-headers.hmap" "-I/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/FlowerInfoNavigator-all-target-headers.hmap" -iquote "/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/FlowerInfoNavigator-project-headers.hmap" "-F/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/build/Debug-iphonesimulator" "-I/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/build/Debug-iphonesimulator/include" "-I/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/DerivedSources/i386" "-I/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/DerivedSources" -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FlowerInfoNavigator_Prefix-dkkficmkieknzsbpotpcynchzkwh/FlowerInfoNavigator_Prefix.pch -c "/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/Classes/FlowerDetailViewController.m" -o "/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/Objects-normal/i386/FlowerDetailViewController.o"0#
+
+CCompileC build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/Objects-normal/i386/FlowerDetailViewController.o /Users/Decmac/Desktop/FlowerInfoNavigator/Classes/FlowerDetailViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354558437.996187
+e354558438.400162
+r1
+xCompileC
+xbuild/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/Objects-normal/i386/FlowerDetailViewController.o
+x/Users/Decmac/Desktop/FlowerInfoNavigator/Classes/FlowerDetailViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/Decmac/Desktop/FlowerInfoNavigator/Classes/FlowerDetailViewController.m:61: warning: property 'detailURL' requires method '-detailURL' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/Decmac/Desktop/FlowerInfoNavigator/Classes/FlowerDetailViewController.m:61: warning: property 'detailURL' requires the method 'setDetailURL:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/Decmac/Desktop/FlowerInfoNavigator/Classes/FlowerDetailViewController.m:61: warning: property 'detailWebView' requires method '-detailWebView' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/Decmac/Desktop/FlowerInfoNavigator/Classes/FlowerDetailViewController.m:61: warning: property 'detailWebView' requires the method 'setDetailWebView:' to be defined - use @synthesize, @dynamic or provide a method implementation
+lSLF07#2@86"Compile /Users/Decmac/Desktop/FlowerInfoNavigator/Classes/FlowerDetailViewController.m354558437#354558438#0(906"/Users/Decmac/Desktop/FlowerInfoNavigator/Classes/FlowerDetailViewController.m:61: warning: property 'detailURL' requires method '-detailURL' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/Decmac/Desktop/FlowerInfoNavigator/Classes/FlowerDetailViewController.m:61: warning: property 'detailURL' requires the method 'setDetailURL:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/Decmac/Desktop/FlowerInfoNavigator/Classes/FlowerDetailViewController.m:61: warning: property 'detailWebView' requires method '-detailWebView' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/Decmac/Desktop/FlowerInfoNavigator/Classes/FlowerDetailViewController.m:61: warning: property 'detailWebView' requires the method 'setDetailWebView:' to be defined - use @synthesize, @dynamic or provide a method implementation4(22@126"Property 'detailURL' requires method '-detailURL' to be defined - use @synthesize, @dynamic or provide a method implementation354558438#0#219#0(6@78"/Users/Decmac/Desktop/FlowerInfoNavigator/Classes/FlowerDetailViewController.m354557544#61#0#61#0#0"0(22@133"Property 'detailURL' requires the method 'setDetailURL:' to be defined - use @synthesize, @dynamic or provide a method implementation354558438#219#226#0(6@78"/Users/Decmac/Desktop/FlowerInfoNavigator/Classes/FlowerDetailViewController.m354557544#61#0#61#0#0"0(22@134"Property 'detailWebView' requires method '-detailWebView' to be defined - use @synthesize, @dynamic or provide a method implementation354558438#445#227#0(6@78"/Users/Decmac/Desktop/FlowerInfoNavigator/Classes/FlowerDetailViewController.m354557544#61#0#61#0#0"0(22@141"Property 'detailWebView' requires the method 'setDetailWebView:' to be defined - use @synthesize, @dynamic or provide a method implementation354558438#672#234#0(6@78"/Users/Decmac/Desktop/FlowerInfoNavigator/Classes/FlowerDetailViewController.m354557544#61#0#61#0#0"0(0#0#78"/Users/Decmac/Desktop/FlowerInfoNavigator/Classes/FlowerDetailViewController.m4300885448#2184"    cd /Users/Decmac/Desktop/FlowerInfoNavigator    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/FlowerInfoNavigator/build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/FlowerInfoNavigator-generated-files.hmap -I/Users/Decmac/Desktop/FlowerInfoNavigator/build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/FlowerInfoNavigator-own-target-headers.hmap -I/Users/Decmac/Desktop/FlowerInfoNavigator/build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/FlowerInfoNavigator-all-target-headers.hmap -iquote /Users/Decmac/Desktop/FlowerInfoNavigator/build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/FlowerInfoNavigator-project-headers.hmap -F/Users/Decmac/Desktop/FlowerInfoNavigator/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/FlowerInfoNavigator/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/FlowerInfoNavigator/build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/DerivedSources/i386 -I/Users/Decmac/Desktop/FlowerInfoNavigator/build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/DerivedSources -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FlowerInfoNavigator_Prefix-gdeqyyneqaazgnhdyvhyweozheii/FlowerInfoNavigator_Prefix.pch -c /Users/Decmac/Desktop/FlowerInfoNavigator/Classes/FlowerDetailViewController.m -o /Users/Decmac/Desktop/FlowerInfoNavigator/build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/Objects-normal/i386/FlowerDetailViewController.o0#
+
+CCompileC build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/Objects-normal/i386/FlowerInfoNavigatorAppDelegate.o "/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/Classes/FlowerInfoNavigatorAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s354561281.099134
+e354561281.760875
+r1
+xCompileC
+xbuild/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/Objects-normal/i386/FlowerInfoNavigatorAppDelegate.o
+x/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/Classes/FlowerInfoNavigatorAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@104"Compile /Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/Classes/FlowerInfoNavigatorAppDelegate.m354561281#354561281#0(0"0(0#0#96"/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/Classes/FlowerInfoNavigatorAppDelegate.m4300885448#2368"    cd "/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/FlowerInfoNavigator-generated-files.hmap" "-I/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/FlowerInfoNavigator-own-target-headers.hmap" "-I/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/FlowerInfoNavigator-all-target-headers.hmap" -iquote "/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/FlowerInfoNavigator-project-headers.hmap" "-F/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/build/Debug-iphonesimulator" "-I/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/build/Debug-iphonesimulator/include" "-I/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/DerivedSources/i386" "-I/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/DerivedSources" -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FlowerInfoNavigator_Prefix-dkkficmkieknzsbpotpcynchzkwh/FlowerInfoNavigator_Prefix.pch -c "/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/Classes/FlowerInfoNavigatorAppDelegate.m" -o "/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/Objects-normal/i386/FlowerInfoNavigatorAppDelegate.o"0#
+
+CCompileC build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/Objects-normal/i386/FlowerInfoNavigatorAppDelegate.o /Users/Decmac/Desktop/FlowerInfoNavigator/Classes/FlowerInfoNavigatorAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354559296.931361
+e354559297.213248
+r1
+xCompileC
+xbuild/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/Objects-normal/i386/FlowerInfoNavigatorAppDelegate.o
+x/Users/Decmac/Desktop/FlowerInfoNavigator/Classes/FlowerInfoNavigatorAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/Decmac/Desktop/FlowerInfoNavigator/Classes/FlowerInfoNavigatorAppDelegate.m354559296#354559297#0(0"0(0#0#82"/Users/Decmac/Desktop/FlowerInfoNavigator/Classes/FlowerInfoNavigatorAppDelegate.m4300885448#2192"    cd /Users/Decmac/Desktop/FlowerInfoNavigator    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/FlowerInfoNavigator/build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/FlowerInfoNavigator-generated-files.hmap -I/Users/Decmac/Desktop/FlowerInfoNavigator/build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/FlowerInfoNavigator-own-target-headers.hmap -I/Users/Decmac/Desktop/FlowerInfoNavigator/build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/FlowerInfoNavigator-all-target-headers.hmap -iquote /Users/Decmac/Desktop/FlowerInfoNavigator/build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/FlowerInfoNavigator-project-headers.hmap -F/Users/Decmac/Desktop/FlowerInfoNavigator/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/FlowerInfoNavigator/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/FlowerInfoNavigator/build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/DerivedSources/i386 -I/Users/Decmac/Desktop/FlowerInfoNavigator/build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/DerivedSources -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FlowerInfoNavigator_Prefix-gdeqyyneqaazgnhdyvhyweozheii/FlowerInfoNavigator_Prefix.pch -c /Users/Decmac/Desktop/FlowerInfoNavigator/Classes/FlowerInfoNavigatorAppDelegate.m -o /Users/Decmac/Desktop/FlowerInfoNavigator/build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/Objects-normal/i386/FlowerInfoNavigatorAppDelegate.o0#
+
+CCompileC build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/Objects-normal/i386/RootViewController.o "/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/Classes/RootViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s354561171.858958
+e354561172.165866
+r1
+xCompileC
+xbuild/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/Objects-normal/i386/RootViewController.o
+x/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@92"Compile /Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/Classes/RootViewController.m354561171#354561172#0(0"0(0#0#84"/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/Classes/RootViewController.m4300885448#2344"    cd "/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/FlowerInfoNavigator-generated-files.hmap" "-I/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/FlowerInfoNavigator-own-target-headers.hmap" "-I/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/FlowerInfoNavigator-all-target-headers.hmap" -iquote "/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/FlowerInfoNavigator-project-headers.hmap" "-F/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/build/Debug-iphonesimulator" "-I/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/build/Debug-iphonesimulator/include" "-I/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/DerivedSources/i386" "-I/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/DerivedSources" -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FlowerInfoNavigator_Prefix-dkkficmkieknzsbpotpcynchzkwh/FlowerInfoNavigator_Prefix.pch -c "/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/Classes/RootViewController.m" -o "/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/Objects-normal/i386/RootViewController.o"0#
+
+CCompileC build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/Objects-normal/i386/RootViewController.o /Users/Decmac/Desktop/FlowerInfoNavigator/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354559296.934283
+e354559297.299851
+r1
+xCompileC
+xbuild/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/Objects-normal/i386/RootViewController.o
+x/Users/Decmac/Desktop/FlowerInfoNavigator/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/Decmac/Desktop/FlowerInfoNavigator/Classes/RootViewController.m354559296#354559297#0(0"0(0#0#70"/Users/Decmac/Desktop/FlowerInfoNavigator/Classes/RootViewController.m4300885448#2168"    cd /Users/Decmac/Desktop/FlowerInfoNavigator    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/FlowerInfoNavigator/build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/FlowerInfoNavigator-generated-files.hmap -I/Users/Decmac/Desktop/FlowerInfoNavigator/build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/FlowerInfoNavigator-own-target-headers.hmap -I/Users/Decmac/Desktop/FlowerInfoNavigator/build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/FlowerInfoNavigator-all-target-headers.hmap -iquote /Users/Decmac/Desktop/FlowerInfoNavigator/build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/FlowerInfoNavigator-project-headers.hmap -F/Users/Decmac/Desktop/FlowerInfoNavigator/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/FlowerInfoNavigator/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/FlowerInfoNavigator/build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/DerivedSources/i386 -I/Users/Decmac/Desktop/FlowerInfoNavigator/build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/DerivedSources -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FlowerInfoNavigator_Prefix-gdeqyyneqaazgnhdyvhyweozheii/FlowerInfoNavigator_Prefix.pch -c /Users/Decmac/Desktop/FlowerInfoNavigator/Classes/RootViewController.m -o /Users/Decmac/Desktop/FlowerInfoNavigator/build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/Objects-normal/i386/main.o "/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s354561281.096400
+e354561281.255523
+r1
+xCompileC
+xbuild/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/Objects-normal/i386/main.o
+x/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/main.m354561281#354561281#0(0"0(0#0#62"/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/main.m4300885448#2308"    cd "/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/FlowerInfoNavigator-generated-files.hmap" "-I/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/FlowerInfoNavigator-own-target-headers.hmap" "-I/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/FlowerInfoNavigator-all-target-headers.hmap" -iquote "/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/FlowerInfoNavigator-project-headers.hmap" "-F/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/build/Debug-iphonesimulator" "-I/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/build/Debug-iphonesimulator/include" "-I/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/DerivedSources/i386" "-I/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/DerivedSources" -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FlowerInfoNavigator_Prefix-dkkficmkieknzsbpotpcynchzkwh/FlowerInfoNavigator_Prefix.pch -c "/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/main.m" -o "/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/Objects-normal/i386/main.o"0#
+
+CCompileC build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/Objects-normal/i386/main.o /Users/Decmac/Desktop/FlowerInfoNavigator/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354555534.309167
+e354555534.435021
+r1
+xCompileC
+xbuild/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/Objects-normal/i386/main.o
+x/Users/Decmac/Desktop/FlowerInfoNavigator/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@56"Compile /Users/Decmac/Desktop/FlowerInfoNavigator/main.m354555534#354555534#0(0"0(0#0#48"/Users/Decmac/Desktop/FlowerInfoNavigator/main.m4300885448#2132"    cd /Users/Decmac/Desktop/FlowerInfoNavigator    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/FlowerInfoNavigator/build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/FlowerInfoNavigator-generated-files.hmap -I/Users/Decmac/Desktop/FlowerInfoNavigator/build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/FlowerInfoNavigator-own-target-headers.hmap -I/Users/Decmac/Desktop/FlowerInfoNavigator/build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/FlowerInfoNavigator-all-target-headers.hmap -iquote /Users/Decmac/Desktop/FlowerInfoNavigator/build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/FlowerInfoNavigator-project-headers.hmap -F/Users/Decmac/Desktop/FlowerInfoNavigator/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/FlowerInfoNavigator/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/FlowerInfoNavigator/build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/DerivedSources/i386 -I/Users/Decmac/Desktop/FlowerInfoNavigator/build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/DerivedSources -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FlowerInfoNavigator_Prefix-gdeqyyneqaazgnhdyvhyweozheii/FlowerInfoNavigator_Prefix.pch -c /Users/Decmac/Desktop/FlowerInfoNavigator/main.m -o /Users/Decmac/Desktop/FlowerInfoNavigator/build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/Objects-normal/i386/main.o0#
+
+CCompileXIB "/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/Classes/FlowerDetailViewController.xib"
+r0
+
+CCompileXIB "/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/MainWindow.xib"
+r0
+
+CCompileXIB "/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/RootViewController.xib"
+r0
+
+CCompileXIB /Users/Decmac/Desktop/FlowerInfoNavigator/Classes/FlowerDetailViewController.xib
+s354559443.047020
+e354559443.901010
+r1
+xCompileXIB
+x/Users/Decmac/Desktop/FlowerInfoNavigator/Classes/FlowerDetailViewController.xib
+o2012-03-27 16:44:03.149 ibtool[1170:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 35
+lSLF07#2@49"CompileXIB Classes/FlowerDetailViewController.xib354559443#354559443#0(108"2012-03-27 16:44:03.149 ibtool[1170:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 350(0#0#80"/Users/Decmac/Desktop/FlowerInfoNavigator/Classes/FlowerDetailViewController.xib4300885448#543"    cd /Users/Decmac/Desktop/FlowerInfoNavigator    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Decmac/Desktop/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app/FlowerDetailViewController.nib /Users/Decmac/Desktop/FlowerInfoNavigator/Classes/FlowerDetailViewController.xib0#
+
+CCompileXIB /Users/Decmac/Desktop/FlowerInfoNavigator/MainWindow.xib
+s354555531.839748
+e354555532.629818
+r1
+xCompileXIB
+x/Users/Decmac/Desktop/FlowerInfoNavigator/MainWindow.xib
+o2012-03-27 15:38:51.914 ibtool[664:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 35
+lSLF07#2@25"CompileXIB MainWindow.xib354555531#354555532#0(107"2012-03-27 15:38:51.914 ibtool[664:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 350(0#0#56"/Users/Decmac/Desktop/FlowerInfoNavigator/MainWindow.xib4300885448#503"    cd /Users/Decmac/Desktop/FlowerInfoNavigator    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Decmac/Desktop/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app/MainWindow.nib /Users/Decmac/Desktop/FlowerInfoNavigator/MainWindow.xib0#
+
+CCompileXIB /Users/Decmac/Desktop/FlowerInfoNavigator/RootViewController.xib
+s354559526.036025
+e354559526.715809
+r1
+xCompileXIB
+x/Users/Decmac/Desktop/FlowerInfoNavigator/RootViewController.xib
+o2012-03-27 16:45:26.105 ibtool[1198:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 35
+lSLF07#2@33"CompileXIB RootViewController.xib354559526#354559526#0(108"2012-03-27 16:45:26.105 ibtool[1198:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 350(0#0#64"/Users/Decmac/Desktop/FlowerInfoNavigator/RootViewController.xib4300885448#519"    cd /Users/Decmac/Desktop/FlowerInfoNavigator    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Decmac/Desktop/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app/RootViewController.nib /Users/Decmac/Desktop/FlowerInfoNavigator/RootViewController.xib0#
+
+CCpResource build/Debug-iphonesimulator/FlowerInfoNavigator.app/gerbera.png gerbera.png
+s354558436.704470
+e354558436.778076
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/FlowerInfoNavigator.app/gerbera.png
+xgerbera.png
+lSLF07#2@16"Copy gerbera.png354558436#354558437#0(0"0(0#0#53"/Users/Decmac/Desktop/FlowerInfoNavigator/gerbera.png4300885448#476"    cd /Users/Decmac/Desktop/FlowerInfoNavigator    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Decmac/Desktop/FlowerInfoNavigator/gerbera.png /Users/Decmac/Desktop/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app0#
+
+CCpResource build/Debug-iphonesimulator/FlowerInfoNavigator.app/grapehyacinth.png grapehyacinth.png
+s354558436.706601
+e354558436.778546
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/FlowerInfoNavigator.app/grapehyacinth.png
+xgrapehyacinth.png
+lSLF07#2@22"Copy grapehyacinth.png354558436#354558437#0(0"0(0#0#59"/Users/Decmac/Desktop/FlowerInfoNavigator/grapehyacinth.png4300885448#482"    cd /Users/Decmac/Desktop/FlowerInfoNavigator    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Decmac/Desktop/FlowerInfoNavigator/grapehyacinth.png /Users/Decmac/Desktop/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app0#
+
+CCpResource build/Debug-iphonesimulator/FlowerInfoNavigator.app/hollyhock.png hollyhock.png
+s354558436.711668
+e354558436.780505
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/FlowerInfoNavigator.app/hollyhock.png
+xhollyhock.png
+lSLF07#2@18"Copy hollyhock.png354558436#354558437#0(0"0(0#0#55"/Users/Decmac/Desktop/FlowerInfoNavigator/hollyhock.png4300885448#478"    cd /Users/Decmac/Desktop/FlowerInfoNavigator    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Decmac/Desktop/FlowerInfoNavigator/hollyhock.png /Users/Decmac/Desktop/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app0#
+
+CCpResource build/Debug-iphonesimulator/FlowerInfoNavigator.app/hyacinth.png hyacinth.png
+s354558436.719213
+e354558436.781166
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/FlowerInfoNavigator.app/hyacinth.png
+xhyacinth.png
+lSLF07#2@17"Copy hyacinth.png354558436#354558437#0(0"0(0#0#54"/Users/Decmac/Desktop/FlowerInfoNavigator/hyacinth.png4300885448#477"    cd /Users/Decmac/Desktop/FlowerInfoNavigator    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Decmac/Desktop/FlowerInfoNavigator/hyacinth.png /Users/Decmac/Desktop/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app0#
+
+CCpResource build/Debug-iphonesimulator/FlowerInfoNavigator.app/hydrangea.png hydrangea.png
+s354558436.727857
+e354558436.781576
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/FlowerInfoNavigator.app/hydrangea.png
+xhydrangea.png
+lSLF07#2@18"Copy hydrangea.png354558436#354558437#0(0"0(0#0#55"/Users/Decmac/Desktop/FlowerInfoNavigator/hydrangea.png4300885448#478"    cd /Users/Decmac/Desktop/FlowerInfoNavigator    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Decmac/Desktop/FlowerInfoNavigator/hydrangea.png /Users/Decmac/Desktop/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app0#
+
+CCpResource build/Debug-iphonesimulator/FlowerInfoNavigator.app/iris.png iris.png
+s354558436.739348
+e354558436.781972
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/FlowerInfoNavigator.app/iris.png
+xiris.png
+lSLF07#2@13"Copy iris.png354558436#354558437#0(0"0(0#0#50"/Users/Decmac/Desktop/FlowerInfoNavigator/iris.png4300885448#473"    cd /Users/Decmac/Desktop/FlowerInfoNavigator    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Decmac/Desktop/FlowerInfoNavigator/iris.png /Users/Decmac/Desktop/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app0#
+
+CCpResource build/Debug-iphonesimulator/FlowerInfoNavigator.app/peony.png peony.png
+s354558436.702067
+e354558436.776744
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/FlowerInfoNavigator.app/peony.png
+xpeony.png
+lSLF07#2@14"Copy peony.png354558436#354558437#0(0"0(0#0#51"/Users/Decmac/Desktop/FlowerInfoNavigator/peony.png4300885448#474"    cd /Users/Decmac/Desktop/FlowerInfoNavigator    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Decmac/Desktop/FlowerInfoNavigator/peony.png /Users/Decmac/Desktop/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app0#
+
+CCpResource build/Debug-iphonesimulator/FlowerInfoNavigator.app/phlox.png phlox.png
+s354558436.742119
+e354558436.782389
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/FlowerInfoNavigator.app/phlox.png
+xphlox.png
+lSLF07#2@14"Copy phlox.png354558436#354558437#0(0"0(0#0#51"/Users/Decmac/Desktop/FlowerInfoNavigator/phlox.png4300885448#474"    cd /Users/Decmac/Desktop/FlowerInfoNavigator    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Decmac/Desktop/FlowerInfoNavigator/phlox.png /Users/Decmac/Desktop/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app0#
+
+CCpResource build/Debug-iphonesimulator/FlowerInfoNavigator.app/pincushionflower.png pincushionflower.png
+s354558436.756614
+e354558436.839428
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/FlowerInfoNavigator.app/pincushionflower.png
+xpincushionflower.png
+lSLF07#2@25"Copy pincushionflower.png354558436#354558437#0(0"0(0#0#62"/Users/Decmac/Desktop/FlowerInfoNavigator/pincushionflower.png4300885448#485"    cd /Users/Decmac/Desktop/FlowerInfoNavigator    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Decmac/Desktop/FlowerInfoNavigator/pincushionflower.png /Users/Decmac/Desktop/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app0#
+
+CCpResource build/Debug-iphonesimulator/FlowerInfoNavigator.app/poppy.png poppy.png
+s354558436.772796
+e354558436.839794
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/FlowerInfoNavigator.app/poppy.png
+xpoppy.png
+lSLF07#2@14"Copy poppy.png354558436#354558437#0(0"0(0#0#51"/Users/Decmac/Desktop/FlowerInfoNavigator/poppy.png4300885448#474"    cd /Users/Decmac/Desktop/FlowerInfoNavigator    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Decmac/Desktop/FlowerInfoNavigator/poppy.png /Users/Decmac/Desktop/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app0#
+
+CCpResource build/Debug-iphonesimulator/FlowerInfoNavigator.app/rose.png rose.png
+s354558436.782617
+e354558436.837844
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/FlowerInfoNavigator.app/rose.png
+xrose.png
+lSLF07#2@13"Copy rose.png354558436#354558437#0(0"0(0#0#50"/Users/Decmac/Desktop/FlowerInfoNavigator/rose.png4300885448#473"    cd /Users/Decmac/Desktop/FlowerInfoNavigator    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Decmac/Desktop/FlowerInfoNavigator/rose.png /Users/Decmac/Desktop/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app0#
+
+CCpResource build/Debug-iphonesimulator/FlowerInfoNavigator.app/seaholly.png seaholly.png
+s354558436.785629
+e354558436.838255
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/FlowerInfoNavigator.app/seaholly.png
+xseaholly.png
+lSLF07#2@17"Copy seaholly.png354558436#354558437#0(0"0(0#0#54"/Users/Decmac/Desktop/FlowerInfoNavigator/seaholly.png4300885448#477"    cd /Users/Decmac/Desktop/FlowerInfoNavigator    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Decmac/Desktop/FlowerInfoNavigator/seaholly.png /Users/Decmac/Desktop/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app0#
+
+CCpResource build/Debug-iphonesimulator/FlowerInfoNavigator.app/strawflower.png strawflower.png
+s354558436.800983
+e354558436.838635
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/FlowerInfoNavigator.app/strawflower.png
+xstrawflower.png
+lSLF07#2@20"Copy strawflower.png354558436#354558437#0(0"0(0#0#57"/Users/Decmac/Desktop/FlowerInfoNavigator/strawflower.png4300885448#480"    cd /Users/Decmac/Desktop/FlowerInfoNavigator    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Decmac/Desktop/FlowerInfoNavigator/strawflower.png /Users/Decmac/Desktop/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app0#
+
+CCpResource build/Debug-iphonesimulator/FlowerInfoNavigator.app/tulip.png tulip.png
+s354558436.807231
+e354558436.839052
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/FlowerInfoNavigator.app/tulip.png
+xtulip.png
+lSLF07#2@14"Copy tulip.png354558436#354558437#0(0"0(0#0#51"/Users/Decmac/Desktop/FlowerInfoNavigator/tulip.png4300885448#474"    cd /Users/Decmac/Desktop/FlowerInfoNavigator    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Decmac/Desktop/FlowerInfoNavigator/tulip.png /Users/Decmac/Desktop/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app0#
+
+CGenerateDSYMFile "/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app.dSYM" "/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app/FlowerInfoNavigator"
+s354561281.986508
+e354561282.123976
+r1
+xGenerateDSYMFile
+x/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app.dSYM
+x/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app/FlowerInfoNavigator
+o2012-03-27 17:14:42.095 dsymutil[1863:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 35
+lSLF07#2@145"GenerateDSYMFile build/Debug-iphonesimulator/FlowerInfoNavigator.app.dSYM build/Debug-iphonesimulator/FlowerInfoNavigator.app/FlowerInfoNavigator354561281#354561282#0(110"2012-03-27 17:14:42.095 dsymutil[1863:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 350(0#0#127"/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app/FlowerInfoNavigator4300885448#476"    cd "/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app/FlowerInfoNavigator" -o "/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app.dSYM"0#
+
+CGenerateDSYMFile /Users/Decmac/Desktop/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app.dSYM /Users/Decmac/Desktop/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app/FlowerInfoNavigator
+s354559297.367642
+e354559297.431238
+r1
+xGenerateDSYMFile
+x/Users/Decmac/Desktop/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app.dSYM
+x/Users/Decmac/Desktop/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app/FlowerInfoNavigator
+o2012-03-27 16:41:37.415 dsymutil[1129:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 35
+lSLF07#2@145"GenerateDSYMFile build/Debug-iphonesimulator/FlowerInfoNavigator.app.dSYM build/Debug-iphonesimulator/FlowerInfoNavigator.app/FlowerInfoNavigator354559297#354559297#0(110"2012-03-27 16:41:37.415 dsymutil[1129:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 350(0#0#113"/Users/Decmac/Desktop/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app/FlowerInfoNavigator4300885448#428"    cd /Users/Decmac/Desktop/FlowerInfoNavigator    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/Decmac/Desktop/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app/FlowerInfoNavigator -o /Users/Decmac/Desktop/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app.dSYM0#
+
+CLd "/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app/FlowerInfoNavigator" normal i386
+s354561281.926480
+e354561281.986248
+r1
+xLd
+x/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app/FlowerInfoNavigator
+xnormal
+xi386
+lSLF07#2@132"Link /Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app/FlowerInfoNavigator354561281#354561281#0(0"0(0#0#0"4300885448#1019"    cd "/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk "-L/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/build/Debug-iphonesimulator" "-F/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/build/Debug-iphonesimulator" -filelist "/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/Objects-normal/i386/FlowerInfoNavigator.LinkFileList" -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app/FlowerInfoNavigator"0#
+
+CLd /Users/Decmac/Desktop/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app/FlowerInfoNavigator normal i386
+s354559297.300097
+e354559297.367362
+r1
+xLd
+x/Users/Decmac/Desktop/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app/FlowerInfoNavigator
+xnormal
+xi386
+lSLF07#2@118"Link /Users/Decmac/Desktop/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app/FlowerInfoNavigator354559297#354559297#0(0"0(0#0#0"4300885448#939"    cd /Users/Decmac/Desktop/FlowerInfoNavigator    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -L/Users/Decmac/Desktop/FlowerInfoNavigator/build/Debug-iphonesimulator -F/Users/Decmac/Desktop/FlowerInfoNavigator/build/Debug-iphonesimulator -filelist /Users/Decmac/Desktop/FlowerInfoNavigator/build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/Objects-normal/i386/FlowerInfoNavigator.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/Decmac/Desktop/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app/FlowerInfoNavigator0#
+
+CProcessInfoPlistFile "/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app/Info.plist" FlowerInfoNavigator-Info.plist
+r0
+
+CProcessInfoPlistFile /Users/Decmac/Desktop/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app/Info.plist FlowerInfoNavigator-Info.plist
+s354555531.832777
+e354555531.839494
+r1
+xProcessInfoPlistFile
+x/Users/Decmac/Desktop/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app/Info.plist
+xFlowerInfoNavigator-Info.plist
+lSLF07#2@38"Process FlowerInfoNavigator-Info.plist354555531#354555531#0(0"0(0#0#72"/Users/Decmac/Desktop/FlowerInfoNavigator/FlowerInfoNavigator-Info.plist4300885448#524"    cd /Users/Decmac/Desktop/FlowerInfoNavigator    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility FlowerInfoNavigator-Info.plist -genpkginfo /Users/Decmac/Desktop/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/Decmac/Desktop/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app/Info.plist0#
+
+CProcessPCH /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FlowerInfoNavigator_Prefix-dkkficmkieknzsbpotpcynchzkwh/FlowerInfoNavigator_Prefix.pch.gch FlowerInfoNavigator_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s354561169.940035
+e354561171.644767
+r1
+xProcessPCH
+x/var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FlowerInfoNavigator_Prefix-dkkficmkieknzsbpotpcynchzkwh/FlowerInfoNavigator_Prefix.pch.gch
+xFlowerInfoNavigator_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@41"Precompile FlowerInfoNavigator_Prefix.pch354561169#354561171#0(0"0(0#0#86"/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/FlowerInfoNavigator_Prefix.pch4300885448#2169"    cd "/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/FlowerInfoNavigator-generated-files.hmap" "-I/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/FlowerInfoNavigator-own-target-headers.hmap" "-I/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/FlowerInfoNavigator-all-target-headers.hmap" -iquote "/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/FlowerInfoNavigator-project-headers.hmap" "-F/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/build/Debug-iphonesimulator" "-I/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/build/Debug-iphonesimulator/include" "-I/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/DerivedSources/i386" "-I/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/DerivedSources" -c "/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/FlowerInfoNavigator_Prefix.pch" -o /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FlowerInfoNavigator_Prefix-dkkficmkieknzsbpotpcynchzkwh/FlowerInfoNavigator_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FlowerInfoNavigator_Prefix-gdeqyyneqaazgnhdyvhyweozheii/FlowerInfoNavigator_Prefix.pch.gch FlowerInfoNavigator_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s354555532.642222
+e354555534.308706
+r1
+xProcessPCH
+x/var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FlowerInfoNavigator_Prefix-gdeqyyneqaazgnhdyvhyweozheii/FlowerInfoNavigator_Prefix.pch.gch
+xFlowerInfoNavigator_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@41"Precompile FlowerInfoNavigator_Prefix.pch354555532#354555534#0(0"0(0#0#72"/Users/Decmac/Desktop/FlowerInfoNavigator/FlowerInfoNavigator_Prefix.pch4300885448#2009"    cd /Users/Decmac/Desktop/FlowerInfoNavigator    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/FlowerInfoNavigator/build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/FlowerInfoNavigator-generated-files.hmap -I/Users/Decmac/Desktop/FlowerInfoNavigator/build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/FlowerInfoNavigator-own-target-headers.hmap -I/Users/Decmac/Desktop/FlowerInfoNavigator/build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/FlowerInfoNavigator-all-target-headers.hmap -iquote /Users/Decmac/Desktop/FlowerInfoNavigator/build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/FlowerInfoNavigator-project-headers.hmap -F/Users/Decmac/Desktop/FlowerInfoNavigator/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/FlowerInfoNavigator/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/FlowerInfoNavigator/build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/DerivedSources/i386 -I/Users/Decmac/Desktop/FlowerInfoNavigator/build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/DerivedSources -c /Users/Decmac/Desktop/FlowerInfoNavigator/FlowerInfoNavigator_Prefix.pch -o /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FlowerInfoNavigator_Prefix-gdeqyyneqaazgnhdyvhyweozheii/FlowerInfoNavigator_Prefix.pch.gch0#
+
+CTouch "/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app"
+s354561282.124211
+e354561282.141862
+r1
+xTouch
+x/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app
+lSLF07#2@113"Touch /Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app354561282#354561282#0(0"0(0#0#0"4300885448#328"    cd "/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Volumes/新加卷 3/iphone back-up/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app"0#
+
+CTouch /Users/Decmac/Desktop/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app
+s354559526.718215
+e354559526.725339
+r1
+xTouch
+x/Users/Decmac/Desktop/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app
+lSLF07#2@99"Touch /Users/Decmac/Desktop/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app354559526#354559526#0(0"0(0#0#0"4300885448#296"    cd /Users/Decmac/Desktop/FlowerInfoNavigator    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/Decmac/Desktop/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app0#
+

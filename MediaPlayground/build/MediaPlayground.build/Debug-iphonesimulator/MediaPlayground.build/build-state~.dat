@@ -1,0 +1,292 @@
+TMediaPlayground
+v7
+r0
+t354752168.413205
+cCheck dependencies
+cProcessInfoPlistFile /Users/Decmac/Desktop/MediaPlayground/build/Debug-iphonesimulator/MediaPlayground.app/Info.plist MediaPlayground-Info.plist
+cCompileXIB /Users/Decmac/Desktop/MediaPlayground/MainWindow.xib
+cCompileXIB /Users/Decmac/Desktop/MediaPlayground/MediaPlaygroundViewController.xib
+cCpResource build/Debug-iphonesimulator/MediaPlayground.app/movie.m4v movie.m4v
+cProcessPCH /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MediaPlayground_Prefix-ekzktldaftchprdobxkusumfausi/MediaPlayground_Prefix.pch.gch MediaPlayground_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MediaPlayground.build/Debug-iphonesimulator/MediaPlayground.build/Objects-normal/i386/main.o /Users/Decmac/Desktop/MediaPlayground/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MediaPlayground.build/Debug-iphonesimulator/MediaPlayground.build/Objects-normal/i386/MediaPlaygroundAppDelegate.o /Users/Decmac/Desktop/MediaPlayground/Classes/MediaPlaygroundAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MediaPlayground.build/Debug-iphonesimulator/MediaPlayground.build/Objects-normal/i386/MediaPlaygroundViewController.o /Users/Decmac/Desktop/MediaPlayground/Classes/MediaPlaygroundViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk
+c000000004F3A580900000000000000EE
+t1329223689
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVFoundation.h
+c000000004B2B4DEF00000000000000EB
+t1261129199
+s235
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreAudio.framework/Headers/CoreAudioTypes.h
+c000000004B2B4CBD000000000000F342
+t1261128893
+s62274
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B2B4CC3000000000026EE30
+t1261128899
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B2B4DC8000000000027E880
+t1261129160
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B2B4DAE0000000000001355
+t1261129134
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/MediaPlayer.framework/Headers/MediaPlayer.h
+c000000004B2B649D000000000000022F
+t1261135005
+s559
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/MediaPlayer.framework/MediaPlayer
+c000000004B2B64D200000000000CB600
+t1261135058
+s833024
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B2B61620000000000000788
+t1261134178
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B2B62B500000000016721E0
+t1261134517
+s23536096
+
+N/Users/Decmac/Desktop/MediaPlayground/Classes/MediaPlaygroundAppDelegate.h
+c000000004F74D6D1000000000000020C
+t1333057233
+s524
+i<UIKit/UIKit.h>
+
+N/Users/Decmac/Desktop/MediaPlayground/Classes/MediaPlaygroundAppDelegate.m
+c000000004F74D6D1000000000000028F
+t1333057233
+s655
+i"MediaPlaygroundAppDelegate.h"
+i"MediaPlaygroundViewController.h"
+
+N/Users/Decmac/Desktop/MediaPlayground/Classes/MediaPlaygroundViewController.h
+c000000004F74D8940000000000000481
+t1333057684
+s1153
+i<UIKit/UIKit.h>
+i<MediaPlayer/MediaPlayer.h>
+i<AVFoundation/AVFoundation.h>
+i<CoreAudio/CoreAudioTypes.h>
+
+N/Users/Decmac/Desktop/MediaPlayground/Classes/MediaPlaygroundViewController.m
+c000000004F74DF240000000000000A71
+t1333059364
+s2673
+i"MediaPlaygroundViewController.h"
+
+N/Users/Decmac/Desktop/MediaPlayground/MainWindow.xib
+c000000004F74D6D100000000000024A6
+t1333057233
+s9382
+
+N/Users/Decmac/Desktop/MediaPlayground/MediaPlaygroundViewController.xib
+c000000004F74DB0F0000000000007886
+t1333058319
+s30854
+
+N/Users/Decmac/Desktop/MediaPlayground/MediaPlayground_Prefix.pch
+c000000004F74D6D100000000000000C7
+t1333057233
+s199
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/Decmac/Desktop/MediaPlayground/build/Debug-iphonesimulator/MediaPlayground.app
+t2
+s0
+
+N/Users/Decmac/Desktop/MediaPlayground/build/Debug-iphonesimulator/MediaPlayground.app.dSYM
+t2
+s0
+
+N/Users/Decmac/Desktop/MediaPlayground/build/Debug-iphonesimulator/MediaPlayground.app/Info.plist
+t1333059364
+s602
+
+N/Users/Decmac/Desktop/MediaPlayground/build/Debug-iphonesimulator/MediaPlayground.app/MainWindow.nib
+t1333059365
+s1511
+
+N/Users/Decmac/Desktop/MediaPlayground/build/Debug-iphonesimulator/MediaPlayground.app/MediaPlayground
+t2
+s0
+
+N/Users/Decmac/Desktop/MediaPlayground/build/Debug-iphonesimulator/MediaPlayground.app/MediaPlaygroundViewController.nib
+t1333059366
+s4710
+
+N/Users/Decmac/Desktop/MediaPlayground/build/Debug-iphonesimulator/MediaPlayground.app/PkgInfo
+t1333059364
+s8
+
+N/Users/Decmac/Desktop/MediaPlayground/build/Debug-iphonesimulator/MediaPlayground.app/movie.m4v
+t1333059366
+s4083978
+
+N/Users/Decmac/Desktop/MediaPlayground/build/MediaPlayground.build/Debug-iphonesimulator/MediaPlayground.build/Objects-normal/i386/MediaPlayground.LinkFileList
+c000000004F74DF2400000000000001CA
+t1333059364
+s458
+
+N/Users/Decmac/Desktop/MediaPlayground/build/MediaPlayground.build/Debug-iphonesimulator/MediaPlayground.build/Objects-normal/i386/MediaPlaygroundAppDelegate.o
+t1333059368
+s39064
+
+N/Users/Decmac/Desktop/MediaPlayground/build/MediaPlayground.build/Debug-iphonesimulator/MediaPlayground.build/Objects-normal/i386/MediaPlaygroundViewController.o
+t2
+s0
+
+N/Users/Decmac/Desktop/MediaPlayground/build/MediaPlayground.build/Debug-iphonesimulator/MediaPlayground.build/Objects-normal/i386/main.o
+t1333059368
+s5956
+
+N/Users/Decmac/Desktop/MediaPlayground/main.m
+c000000004F74D6D1000000000000016E
+t1333057233
+s366
+i<UIKit/UIKit.h>
+
+N/Users/Decmac/Desktop/MediaPlayground/movie.m4v
+c0000000046EFA11800000000003E510A
+t1190109464
+s4083978
+
+N/var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MediaPlayground_Prefix-ekzktldaftchprdobxkusumfausi/MediaPlayground_Prefix.pch.gch
+t1333059367
+s13034960
+
+NMediaPlayground-Info.plist
+c000000004F74D6D1000000000000038D
+t1333057233
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies354752164#354752165#0(0"0(0#1#0"4300885448#0"0#
+
+CCompileC build/MediaPlayground.build/Debug-iphonesimulator/MediaPlayground.build/Objects-normal/i386/MediaPlaygroundAppDelegate.o /Users/Decmac/Desktop/MediaPlayground/Classes/MediaPlaygroundAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354752168.106178
+e354752168.353376
+r1
+xCompileC
+xbuild/MediaPlayground.build/Debug-iphonesimulator/MediaPlayground.build/Objects-normal/i386/MediaPlaygroundAppDelegate.o
+x/Users/Decmac/Desktop/MediaPlayground/Classes/MediaPlaygroundAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/Decmac/Desktop/MediaPlayground/Classes/MediaPlaygroundAppDelegate.m354752168#354752168#0(0"0(0#0#74"/Users/Decmac/Desktop/MediaPlayground/Classes/MediaPlaygroundAppDelegate.m4300885448#2060"    cd /Users/Decmac/Desktop/MediaPlayground    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/MediaPlayground/build/MediaPlayground.build/Debug-iphonesimulator/MediaPlayground.build/MediaPlayground-generated-files.hmap -I/Users/Decmac/Desktop/MediaPlayground/build/MediaPlayground.build/Debug-iphonesimulator/MediaPlayground.build/MediaPlayground-own-target-headers.hmap -I/Users/Decmac/Desktop/MediaPlayground/build/MediaPlayground.build/Debug-iphonesimulator/MediaPlayground.build/MediaPlayground-all-target-headers.hmap -iquote /Users/Decmac/Desktop/MediaPlayground/build/MediaPlayground.build/Debug-iphonesimulator/MediaPlayground.build/MediaPlayground-project-headers.hmap -F/Users/Decmac/Desktop/MediaPlayground/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/MediaPlayground/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/MediaPlayground/build/MediaPlayground.build/Debug-iphonesimulator/MediaPlayground.build/DerivedSources/i386 -I/Users/Decmac/Desktop/MediaPlayground/build/MediaPlayground.build/Debug-iphonesimulator/MediaPlayground.build/DerivedSources -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MediaPlayground_Prefix-ekzktldaftchprdobxkusumfausi/MediaPlayground_Prefix.pch -c /Users/Decmac/Desktop/MediaPlayground/Classes/MediaPlaygroundAppDelegate.m -o /Users/Decmac/Desktop/MediaPlayground/build/MediaPlayground.build/Debug-iphonesimulator/MediaPlayground.build/Objects-normal/i386/MediaPlaygroundAppDelegate.o0#
+
+CCompileC build/MediaPlayground.build/Debug-iphonesimulator/MediaPlayground.build/Objects-normal/i386/MediaPlaygroundViewController.o /Users/Decmac/Desktop/MediaPlayground/Classes/MediaPlaygroundViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354752168.243019
+e354752168.412977
+r0
+xCompileC
+xbuild/MediaPlayground.build/Debug-iphonesimulator/MediaPlayground.build/Objects-normal/i386/MediaPlaygroundViewController.o
+x/Users/Decmac/Desktop/MediaPlayground/Classes/MediaPlaygroundViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/Decmac/Desktop/MediaPlayground/Classes/MediaPlaygroundViewController.m:14: error: type of property 'soundRecorder' does not match type of ivar 'soundRecorder'
+o/Users/Decmac/Desktop/MediaPlayground/Classes/MediaPlaygroundViewController.m: In function '-[MediaPlaygroundViewController playMedia:]':
+o/Users/Decmac/Desktop/MediaPlayground/Classes/MediaPlaygroundViewController.m:34: error: 'MPMoviePlayerbackDidFinishNotification' undeclared (first use in this function)
+o/Users/Decmac/Desktop/MediaPlayground/Classes/MediaPlaygroundViewController.m:34: error: (Each undeclared identifier is reported only once
+o/Users/Decmac/Desktop/MediaPlayground/Classes/MediaPlaygroundViewController.m:34: error: for each function it appears in.)
+o/Users/Decmac/Desktop/MediaPlayground/Classes/MediaPlaygroundViewController.m: At top level:
+o/Users/Decmac/Desktop/MediaPlayground/Classes/MediaPlaygroundViewController.m:101: warning: property 'ipodPlayButton' requires method '-ipodPlayButton' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/Decmac/Desktop/MediaPlayground/Classes/MediaPlaygroundViewController.m:101: warning: property 'ipodPlayButton' requires the method 'setIpodPlayButton:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/Decmac/Desktop/MediaPlayground/Classes/MediaPlaygroundViewController.m:101: warning: incomplete implementation of class 'MediaPlaygroundViewController'
+o/Users/Decmac/Desktop/MediaPlayground/Classes/MediaPlaygroundViewController.m:101: warning: method definition for '-playiPod:' not found
+o/Users/Decmac/Desktop/MediaPlayground/Classes/MediaPlaygroundViewController.m:101: warning: method definition for '-chooseiPod:' not found
+o/Users/Decmac/Desktop/MediaPlayground/Classes/MediaPlaygroundViewController.m:101: warning: method definition for '-playAudio:' not found
+o/Users/Decmac/Desktop/MediaPlayground/Classes/MediaPlaygroundViewController.m:101: warning: method definition for '-recordAudio:' not found
+lSLF07#2@85"Compile /Users/Decmac/Desktop/MediaPlayground/Classes/MediaPlaygroundViewController.m354752168#354752168#0(2007"/Users/Decmac/Desktop/MediaPlayground/Classes/MediaPlaygroundViewController.m:14: error: type of property 'soundRecorder' does not match type of ivar 'soundRecorder'/Users/Decmac/Desktop/MediaPlayground/Classes/MediaPlaygroundViewController.m: In function '-[MediaPlaygroundViewController playMedia:]':/Users/Decmac/Desktop/MediaPlayground/Classes/MediaPlaygroundViewController.m:34: error: 'MPMoviePlayerbackDidFinishNotification' undeclared (first use in this function)/Users/Decmac/Desktop/MediaPlayground/Classes/MediaPlaygroundViewController.m:34: error: (Each undeclared identifier is reported only once/Users/Decmac/Desktop/MediaPlayground/Classes/MediaPlaygroundViewController.m:34: error: for each function it appears in.)/Users/Decmac/Desktop/MediaPlayground/Classes/MediaPlaygroundViewController.m: At top level:/Users/Decmac/Desktop/MediaPlayground/Classes/MediaPlaygroundViewController.m:101: warning: property 'ipodPlayButton' requires method '-ipodPlayButton' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/Decmac/Desktop/MediaPlayground/Classes/MediaPlaygroundViewController.m:101: warning: property 'ipodPlayButton' requires the method 'setIpodPlayButton:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/Decmac/Desktop/MediaPlayground/Classes/MediaPlaygroundViewController.m:101: warning: incomplete implementation of class 'MediaPlaygroundViewController'/Users/Decmac/Desktop/MediaPlayground/Classes/MediaPlaygroundViewController.m:101: warning: method definition for '-playiPod:' not found/Users/Decmac/Desktop/MediaPlayground/Classes/MediaPlaygroundViewController.m:101: warning: method definition for '-chooseiPod:' not found/Users/Decmac/Desktop/MediaPlayground/Classes/MediaPlaygroundViewController.m:101: warning: method definition for '-playAudio:' not found/Users/Decmac/Desktop/MediaPlayground/Classes/MediaPlaygroundViewController.m:101: warning: method definition for '-recordAudio:' not found10(4@76"Type of property 'soundRecorder' does not match type of ivar 'soundRecorder'354752168#0#166#0(6@77"/Users/Decmac/Desktop/MediaPlayground/Classes/MediaPlaygroundViewController.m354752164#14#0#14#0#0"0(4@80"'MPMoviePlayerbackDidFinishNotification' undeclared (first use in this function)354752168#304#170#0(6@77"/Users/Decmac/Desktop/MediaPlayground/Classes/MediaPlaygroundViewController.m354752164#34#0#34#0#43"'*' undeclared (first use in this function)0(23@13"At top level:354752168#736#93#0(6@77"/Users/Decmac/Desktop/MediaPlayground/Classes/MediaPlaygroundViewController.m354752164#0#0#0#0#0"0(22@136"Property 'ipodPlayButton' requires method '-ipodPlayButton' to be defined - use @synthesize, @dynamic or provide a method implementation354752168#829#229#0(6@77"/Users/Decmac/Desktop/MediaPlayground/Classes/MediaPlaygroundViewController.m354752164#101#0#101#0#0"0(22@143"Property 'ipodPlayButton' requires the method 'setIpodPlayButton:' to be defined - use @synthesize, @dynamic or provide a method implementation354752168#1058#236#0(6@77"/Users/Decmac/Desktop/MediaPlayground/Classes/MediaPlaygroundViewController.m354752164#101#0#101#0#0"0(22@66"Incomplete implementation of class 'MediaPlaygroundViewController'354752168#1294#159#0(6@77"/Users/Decmac/Desktop/MediaPlayground/Classes/MediaPlaygroundViewController.m354752164#101#0#101#0#38"incomplete implementation of class '*'0(22@44"Method definition for '-playiPod:' not found354752168#1453#137#0(6@77"/Users/Decmac/Desktop/MediaPlayground/Classes/MediaPlaygroundViewController.m354752164#101#0#101#0#35"method definition for '*' not found0(22@46"Method definition for '-chooseiPod:' not found354752168#1590#139#0(6@77"/Users/Decmac/Desktop/MediaPlayground/Classes/MediaPlaygroundViewController.m354752164#101#0#101#0#35"method definition for '*' not found0(22@45"Method definition for '-playAudio:' not found354752168#1729#138#0(6@77"/Users/Decmac/Desktop/MediaPlayground/Classes/MediaPlaygroundViewController.m354752164#101#0#101#0#35"method definition for '*' not found0(22@47"Method definition for '-recordAudio:' not found354752168#1867#140#0(6@77"/Users/Decmac/Desktop/MediaPlayground/Classes/MediaPlaygroundViewController.m354752164#101#0#101#0#35"method definition for '*' not found0(0#0#77"/Users/Decmac/Desktop/MediaPlayground/Classes/MediaPlaygroundViewController.m4300885448#2066"    cd /Users/Decmac/Desktop/MediaPlayground    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/MediaPlayground/build/MediaPlayground.build/Debug-iphonesimulator/MediaPlayground.build/MediaPlayground-generated-files.hmap -I/Users/Decmac/Desktop/MediaPlayground/build/MediaPlayground.build/Debug-iphonesimulator/MediaPlayground.build/MediaPlayground-own-target-headers.hmap -I/Users/Decmac/Desktop/MediaPlayground/build/MediaPlayground.build/Debug-iphonesimulator/MediaPlayground.build/MediaPlayground-all-target-headers.hmap -iquote /Users/Decmac/Desktop/MediaPlayground/build/MediaPlayground.build/Debug-iphonesimulator/MediaPlayground.build/MediaPlayground-project-headers.hmap -F/Users/Decmac/Desktop/MediaPlayground/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/MediaPlayground/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/MediaPlayground/build/MediaPlayground.build/Debug-iphonesimulator/MediaPlayground.build/DerivedSources/i386 -I/Users/Decmac/Desktop/MediaPlayground/build/MediaPlayground.build/Debug-iphonesimulator/MediaPlayground.build/DerivedSources -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MediaPlayground_Prefix-ekzktldaftchprdobxkusumfausi/MediaPlayground_Prefix.pch -c /Users/Decmac/Desktop/MediaPlayground/Classes/MediaPlaygroundViewController.m -o /Users/Decmac/Desktop/MediaPlayground/build/MediaPlayground.build/Debug-iphonesimulator/MediaPlayground.build/Objects-normal/i386/MediaPlaygroundViewController.o1#
+
+CCompileC build/MediaPlayground.build/Debug-iphonesimulator/MediaPlayground.build/Objects-normal/i386/main.o /Users/Decmac/Desktop/MediaPlayground/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354752168.103284
+e354752168.241589
+r1
+xCompileC
+xbuild/MediaPlayground.build/Debug-iphonesimulator/MediaPlayground.build/Objects-normal/i386/main.o
+x/Users/Decmac/Desktop/MediaPlayground/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@52"Compile /Users/Decmac/Desktop/MediaPlayground/main.m354752168#354752168#0(0"0(0#0#44"/Users/Decmac/Desktop/MediaPlayground/main.m4300885448#2008"    cd /Users/Decmac/Desktop/MediaPlayground    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/MediaPlayground/build/MediaPlayground.build/Debug-iphonesimulator/MediaPlayground.build/MediaPlayground-generated-files.hmap -I/Users/Decmac/Desktop/MediaPlayground/build/MediaPlayground.build/Debug-iphonesimulator/MediaPlayground.build/MediaPlayground-own-target-headers.hmap -I/Users/Decmac/Desktop/MediaPlayground/build/MediaPlayground.build/Debug-iphonesimulator/MediaPlayground.build/MediaPlayground-all-target-headers.hmap -iquote /Users/Decmac/Desktop/MediaPlayground/build/MediaPlayground.build/Debug-iphonesimulator/MediaPlayground.build/MediaPlayground-project-headers.hmap -F/Users/Decmac/Desktop/MediaPlayground/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/MediaPlayground/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/MediaPlayground/build/MediaPlayground.build/Debug-iphonesimulator/MediaPlayground.build/DerivedSources/i386 -I/Users/Decmac/Desktop/MediaPlayground/build/MediaPlayground.build/Debug-iphonesimulator/MediaPlayground.build/DerivedSources -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MediaPlayground_Prefix-ekzktldaftchprdobxkusumfausi/MediaPlayground_Prefix.pch -c /Users/Decmac/Desktop/MediaPlayground/main.m -o /Users/Decmac/Desktop/MediaPlayground/build/MediaPlayground.build/Debug-iphonesimulator/MediaPlayground.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/Decmac/Desktop/MediaPlayground/MainWindow.xib
+s354752164.857194
+e354752165.867786
+r1
+xCompileXIB
+x/Users/Decmac/Desktop/MediaPlayground/MainWindow.xib
+o2012-03-29 22:16:05.076 ibtool[648:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 35
+lSLF07#2@25"CompileXIB MainWindow.xib354752164#354752165#0(107"2012-03-29 22:16:05.076 ibtool[648:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 350(0#0#52"/Users/Decmac/Desktop/MediaPlayground/MainWindow.xib4300885448#487"    cd /Users/Decmac/Desktop/MediaPlayground    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Decmac/Desktop/MediaPlayground/build/Debug-iphonesimulator/MediaPlayground.app/MainWindow.nib /Users/Decmac/Desktop/MediaPlayground/MainWindow.xib0#
+
+CCompileXIB /Users/Decmac/Desktop/MediaPlayground/MediaPlaygroundViewController.xib
+s354752164.859528
+e354752166.343744
+r1
+xCompileXIB
+x/Users/Decmac/Desktop/MediaPlayground/MediaPlaygroundViewController.xib
+o2012-03-29 22:16:04.998 ibtool[649:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 35
+lSLF07#2@44"CompileXIB MediaPlaygroundViewController.xib354752164#354752166#0(107"2012-03-29 22:16:04.998 ibtool[649:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 350(0#0#71"/Users/Decmac/Desktop/MediaPlayground/MediaPlaygroundViewController.xib4300885448#525"    cd /Users/Decmac/Desktop/MediaPlayground    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Decmac/Desktop/MediaPlayground/build/Debug-iphonesimulator/MediaPlayground.app/MediaPlaygroundViewController.nib /Users/Decmac/Desktop/MediaPlayground/MediaPlaygroundViewController.xib0#
+
+CCpResource build/Debug-iphonesimulator/MediaPlayground.app/movie.m4v movie.m4v
+s354752165.868037
+e354752166.069857
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MediaPlayground.app/movie.m4v
+xmovie.m4v
+lSLF07#2@14"Copy movie.m4v354752165#354752166#0(0"0(0#0#47"/Users/Decmac/Desktop/MediaPlayground/movie.m4v4300885448#458"    cd /Users/Decmac/Desktop/MediaPlayground    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Decmac/Desktop/MediaPlayground/movie.m4v /Users/Decmac/Desktop/MediaPlayground/build/Debug-iphonesimulator/MediaPlayground.app0#
+
+CGenerateDSYMFile /Users/Decmac/Desktop/MediaPlayground/build/Debug-iphonesimulator/MediaPlayground.app.dSYM /Users/Decmac/Desktop/MediaPlayground/build/Debug-iphonesimulator/MediaPlayground.app/MediaPlayground
+r0
+
+CLd /Users/Decmac/Desktop/MediaPlayground/build/Debug-iphonesimulator/MediaPlayground.app/MediaPlayground normal i386
+r0
+
+CProcessInfoPlistFile /Users/Decmac/Desktop/MediaPlayground/build/Debug-iphonesimulator/MediaPlayground.app/Info.plist MediaPlayground-Info.plist
+s354752164.836299
+e354752164.856925
+r1
+xProcessInfoPlistFile
+x/Users/Decmac/Desktop/MediaPlayground/build/Debug-iphonesimulator/MediaPlayground.app/Info.plist
+xMediaPlayground-Info.plist
+lSLF07#2@34"Process MediaPlayground-Info.plist354752164#354752165#0(0"0(0#0#64"/Users/Decmac/Desktop/MediaPlayground/MediaPlayground-Info.plist4300885448#500"    cd /Users/Decmac/Desktop/MediaPlayground    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility MediaPlayground-Info.plist -genpkginfo /Users/Decmac/Desktop/MediaPlayground/build/Debug-iphonesimulator/MediaPlayground.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/Decmac/Desktop/MediaPlayground/build/Debug-iphonesimulator/MediaPlayground.app/Info.plist0#
+
+CProcessPCH /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MediaPlayground_Prefix-ekzktldaftchprdobxkusumfausi/MediaPlayground_Prefix.pch.gch MediaPlayground_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s354752166.344184
+e354752168.102901
+r1
+xProcessPCH
+x/var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MediaPlayground_Prefix-ekzktldaftchprdobxkusumfausi/MediaPlayground_Prefix.pch.gch
+xMediaPlayground_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@37"Precompile MediaPlayground_Prefix.pch354752166#354752168#0(0"0(0#0#64"/Users/Decmac/Desktop/MediaPlayground/MediaPlayground_Prefix.pch4300885448#1893"    cd /Users/Decmac/Desktop/MediaPlayground    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/MediaPlayground/build/MediaPlayground.build/Debug-iphonesimulator/MediaPlayground.build/MediaPlayground-generated-files.hmap -I/Users/Decmac/Desktop/MediaPlayground/build/MediaPlayground.build/Debug-iphonesimulator/MediaPlayground.build/MediaPlayground-own-target-headers.hmap -I/Users/Decmac/Desktop/MediaPlayground/build/MediaPlayground.build/Debug-iphonesimulator/MediaPlayground.build/MediaPlayground-all-target-headers.hmap -iquote /Users/Decmac/Desktop/MediaPlayground/build/MediaPlayground.build/Debug-iphonesimulator/MediaPlayground.build/MediaPlayground-project-headers.hmap -F/Users/Decmac/Desktop/MediaPlayground/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/MediaPlayground/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/MediaPlayground/build/MediaPlayground.build/Debug-iphonesimulator/MediaPlayground.build/DerivedSources/i386 -I/Users/Decmac/Desktop/MediaPlayground/build/MediaPlayground.build/Debug-iphonesimulator/MediaPlayground.build/DerivedSources -c /Users/Decmac/Desktop/MediaPlayground/MediaPlayground_Prefix.pch -o /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MediaPlayground_Prefix-ekzktldaftchprdobxkusumfausi/MediaPlayground_Prefix.pch.gch0#
+
+CTouch /Users/Decmac/Desktop/MediaPlayground/build/Debug-iphonesimulator/MediaPlayground.app
+r0
+

@@ -1,0 +1,381 @@
+TmyDay17
+v7
+r0
+t351970189.261401
+cCheck dependencies
+cProcessInfoPlistFile /Users/Decmac/Desktop/myDay17/build/Debug-iphonesimulator/myDay17.app/Info.plist myDay17-Info.plist
+cCompileXIB /Users/Decmac/Desktop/myDay17/MainWindow.xib
+cCompileXIB /Users/Decmac/Desktop/myDay17/myDay17ViewController.xib
+cCpResource build/Debug-iphonesimulator/myDay17.app/apple.png apple.png
+cCpResource build/Debug-iphonesimulator/myDay17.app/bar.png bar.png
+cCpResource build/Debug-iphonesimulator/myDay17.app/cherry.png cherry.png
+cCpResource build/Debug-iphonesimulator/myDay17.app/crown.png crown.png
+cCpResource build/Debug-iphonesimulator/myDay17.app/lemon.png lemon.png
+cCpResource build/Debug-iphonesimulator/myDay17.app/seven.png seven.png
+cProcessPCH /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myDay17_Prefix-csdiwfutmniuqwgtfqfmmbkyodsl/myDay17_Prefix.pch.gch myDay17_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/myDay17.build/Debug-iphonesimulator/myDay17.build/Objects-normal/i386/main.o /Users/Decmac/Desktop/myDay17/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/myDay17.build/Debug-iphonesimulator/myDay17.build/Objects-normal/i386/myDay17AppDelegate.o /Users/Decmac/Desktop/myDay17/Classes/myDay17AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/myDay17.build/Debug-iphonesimulator/myDay17.build/Objects-normal/i386/myDay17ViewController.o /Users/Decmac/Desktop/myDay17/Classes/myDay17ViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/Decmac/Desktop/myDay17/build/Debug-iphonesimulator/myDay17.app/myDay17 normal i386
+cGenerateDSYMFile /Users/Decmac/Desktop/myDay17/build/Debug-iphonesimulator/myDay17.app.dSYM /Users/Decmac/Desktop/myDay17/build/Debug-iphonesimulator/myDay17.app/myDay17
+cTouch /Users/Decmac/Desktop/myDay17/build/Debug-iphonesimulator/myDay17.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk
+c000000004F3A580900000000000000EE
+t1329223689
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B2B4CC3000000000026EE30
+t1261128899
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B2B4DC8000000000027E880
+t1261129160
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B2B4DAE0000000000001355
+t1261129134
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B2B61620000000000000788
+t1261134178
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B2B62B500000000016721E0
+t1261134517
+s23536096
+
+N/Users/Decmac/Desktop/myDay17/Classes/myDay17AppDelegate.h
+c000000004F4A60FE00000000000001DC
+t1330274558
+s476
+i<UIKit/UIKit.h>
+
+N/Users/Decmac/Desktop/myDay17/Classes/myDay17AppDelegate.m
+c000000004F4A60FE0000000000000267
+t1330274558
+s615
+i"myDay17AppDelegate.h"
+i"myDay17ViewController.h"
+
+N/Users/Decmac/Desktop/myDay17/Classes/myDay17ViewController.h
+c000000004F4A636C0000000000000317
+t1330275180
+s791
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/Decmac/Desktop/myDay17/Classes/myDay17ViewController.m
+c000000004F4A69B60000000000000CBE
+t1330276790
+s3262
+i"myDay17ViewController.h"
+
+N/Users/Decmac/Desktop/myDay17/MainWindow.xib
+c000000004F4A60FE000000000000244E
+t1330274558
+s9294
+
+N/Users/Decmac/Desktop/myDay17/apple.png
+c000000004C7A9C70000000000000148D
+t1283103856
+s5261
+
+N/Users/Decmac/Desktop/myDay17/bar.png
+c000000004C7AA1800000000000001056
+t1283105152
+s4182
+
+N/Users/Decmac/Desktop/myDay17/build/Debug-iphonesimulator/myDay17.app
+t1330277389
+s442
+
+N/Users/Decmac/Desktop/myDay17/build/Debug-iphonesimulator/myDay17.app.dSYM
+t1330277389
+s102
+
+N/Users/Decmac/Desktop/myDay17/build/Debug-iphonesimulator/myDay17.app/Info.plist
+t1330277386
+s564
+
+N/Users/Decmac/Desktop/myDay17/build/Debug-iphonesimulator/myDay17.app/MainWindow.nib
+t1330277387
+s1495
+
+N/Users/Decmac/Desktop/myDay17/build/Debug-iphonesimulator/myDay17.app/PkgInfo
+t1330277386
+s8
+
+N/Users/Decmac/Desktop/myDay17/build/Debug-iphonesimulator/myDay17.app/apple.png
+t1330277387
+s5261
+
+N/Users/Decmac/Desktop/myDay17/build/Debug-iphonesimulator/myDay17.app/bar.png
+t1330277387
+s4182
+
+N/Users/Decmac/Desktop/myDay17/build/Debug-iphonesimulator/myDay17.app/cherry.png
+t1330277387
+s4233
+
+N/Users/Decmac/Desktop/myDay17/build/Debug-iphonesimulator/myDay17.app/crown.png
+t1330277387
+s3584
+
+N/Users/Decmac/Desktop/myDay17/build/Debug-iphonesimulator/myDay17.app/lemon.png
+t1330277387
+s5255
+
+N/Users/Decmac/Desktop/myDay17/build/Debug-iphonesimulator/myDay17.app/myDay17
+t1330277389
+s26508
+
+N/Users/Decmac/Desktop/myDay17/build/Debug-iphonesimulator/myDay17.app/myDay17ViewController.nib
+t1330277387
+s3500
+
+N/Users/Decmac/Desktop/myDay17/build/Debug-iphonesimulator/myDay17.app/seven.png
+t1330277387
+s3068
+
+N/Users/Decmac/Desktop/myDay17/build/myDay17.build/Debug-iphonesimulator/myDay17.build/Objects-normal/i386/main.o
+t1330277388
+s5940
+
+N/Users/Decmac/Desktop/myDay17/build/myDay17.build/Debug-iphonesimulator/myDay17.build/Objects-normal/i386/myDay17.LinkFileList
+c000000004F4A6C0A0000000000000172
+t1330277386
+s370
+
+N/Users/Decmac/Desktop/myDay17/build/myDay17.build/Debug-iphonesimulator/myDay17.build/Objects-normal/i386/myDay17AppDelegate.o
+t1330277388
+s38992
+
+N/Users/Decmac/Desktop/myDay17/build/myDay17.build/Debug-iphonesimulator/myDay17.build/Objects-normal/i386/myDay17ViewController.o
+t1330277388
+s43808
+
+N/Users/Decmac/Desktop/myDay17/cherry.png
+c000000004C7A9C400000000000001089
+t1283103808
+s4233
+
+N/Users/Decmac/Desktop/myDay17/crown.png
+c000000004C7A9C5A0000000000000E00
+t1283103834
+s3584
+
+N/Users/Decmac/Desktop/myDay17/lemon.png
+c000000004C7A9C560000000000001487
+t1283103830
+s5255
+
+N/Users/Decmac/Desktop/myDay17/main.m
+c000000004F4A60FE0000000000000166
+t1330274558
+s358
+i<UIKit/UIKit.h>
+
+N/Users/Decmac/Desktop/myDay17/myDay17ViewController.xib
+c000000004F4A6C040000000000005C5C
+t1330277380
+s23644
+
+N/Users/Decmac/Desktop/myDay17/myDay17_Prefix.pch
+c000000004F4A60FE00000000000000B7
+t1330274558
+s183
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/Decmac/Desktop/myDay17/seven.png
+c000000004C7A9D280000000000000BFC
+t1283104040
+s3068
+
+N/var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myDay17_Prefix-csdiwfutmniuqwgtfqfmmbkyodsl/myDay17_Prefix.pch.gch
+t1330277388
+s13034960
+
+NmyDay17-Info.plist
+c000000004F4A60FE000000000000038D
+t1330274558
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies351970186#351970186#0(0"0(0#1#0"7947009927035180032#0"0#
+
+CCompileC build/myDay17.build/Debug-iphonesimulator/myDay17.build/Objects-normal/i386/main.o /Users/Decmac/Desktop/myDay17/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s351970188.544277
+e351970188.728832
+r1
+xCompileC
+xbuild/myDay17.build/Debug-iphonesimulator/myDay17.build/Objects-normal/i386/main.o
+x/Users/Decmac/Desktop/myDay17/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@44"Compile /Users/Decmac/Desktop/myDay17/main.m351970188#351970188#0(0"0(0#0#36"/Users/Decmac/Desktop/myDay17/main.m4300885448#1760"    cd /Users/Decmac/Desktop/myDay17    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/myDay17/build/myDay17.build/Debug-iphonesimulator/myDay17.build/myDay17-generated-files.hmap -I/Users/Decmac/Desktop/myDay17/build/myDay17.build/Debug-iphonesimulator/myDay17.build/myDay17-own-target-headers.hmap -I/Users/Decmac/Desktop/myDay17/build/myDay17.build/Debug-iphonesimulator/myDay17.build/myDay17-all-target-headers.hmap -iquote /Users/Decmac/Desktop/myDay17/build/myDay17.build/Debug-iphonesimulator/myDay17.build/myDay17-project-headers.hmap -F/Users/Decmac/Desktop/myDay17/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/myDay17/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/myDay17/build/myDay17.build/Debug-iphonesimulator/myDay17.build/DerivedSources/i386 -I/Users/Decmac/Desktop/myDay17/build/myDay17.build/Debug-iphonesimulator/myDay17.build/DerivedSources -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myDay17_Prefix-csdiwfutmniuqwgtfqfmmbkyodsl/myDay17_Prefix.pch -c /Users/Decmac/Desktop/myDay17/main.m -o /Users/Decmac/Desktop/myDay17/build/myDay17.build/Debug-iphonesimulator/myDay17.build/Objects-normal/i386/main.o0#
+
+CCompileC build/myDay17.build/Debug-iphonesimulator/myDay17.build/Objects-normal/i386/myDay17AppDelegate.o /Users/Decmac/Desktop/myDay17/Classes/myDay17AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s351970188.545938
+e351970188.738482
+r1
+xCompileC
+xbuild/myDay17.build/Debug-iphonesimulator/myDay17.build/Objects-normal/i386/myDay17AppDelegate.o
+x/Users/Decmac/Desktop/myDay17/Classes/myDay17AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/Decmac/Desktop/myDay17/Classes/myDay17AppDelegate.m351970188#351970188#0(0"0(0#0#58"/Users/Decmac/Desktop/myDay17/Classes/myDay17AppDelegate.m4300885448#1796"    cd /Users/Decmac/Desktop/myDay17    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/myDay17/build/myDay17.build/Debug-iphonesimulator/myDay17.build/myDay17-generated-files.hmap -I/Users/Decmac/Desktop/myDay17/build/myDay17.build/Debug-iphonesimulator/myDay17.build/myDay17-own-target-headers.hmap -I/Users/Decmac/Desktop/myDay17/build/myDay17.build/Debug-iphonesimulator/myDay17.build/myDay17-all-target-headers.hmap -iquote /Users/Decmac/Desktop/myDay17/build/myDay17.build/Debug-iphonesimulator/myDay17.build/myDay17-project-headers.hmap -F/Users/Decmac/Desktop/myDay17/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/myDay17/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/myDay17/build/myDay17.build/Debug-iphonesimulator/myDay17.build/DerivedSources/i386 -I/Users/Decmac/Desktop/myDay17/build/myDay17.build/Debug-iphonesimulator/myDay17.build/DerivedSources -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myDay17_Prefix-csdiwfutmniuqwgtfqfmmbkyodsl/myDay17_Prefix.pch -c /Users/Decmac/Desktop/myDay17/Classes/myDay17AppDelegate.m -o /Users/Decmac/Desktop/myDay17/build/myDay17.build/Debug-iphonesimulator/myDay17.build/Objects-normal/i386/myDay17AppDelegate.o0#
+
+CCompileC build/myDay17.build/Debug-iphonesimulator/myDay17.build/Objects-normal/i386/myDay17ViewController.o /Users/Decmac/Desktop/myDay17/Classes/myDay17ViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s351970188.729004
+e351970188.859181
+r1
+xCompileC
+xbuild/myDay17.build/Debug-iphonesimulator/myDay17.build/Objects-normal/i386/myDay17ViewController.o
+x/Users/Decmac/Desktop/myDay17/Classes/myDay17ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/Decmac/Desktop/myDay17/Classes/myDay17ViewController.m: In function '-[myDay17ViewController spin]':
+o/Users/Decmac/Desktop/myDay17/Classes/myDay17ViewController.m:67: warning: 'UIPickerView' may not respond to '-selectedRow:inComponent:animated:'
+o/Users/Decmac/Desktop/myDay17/Classes/myDay17ViewController.m:67: warning: (Messages without a matching method signature
+o/Users/Decmac/Desktop/myDay17/Classes/myDay17ViewController.m:67: warning: will be assumed to return 'id' and accept
+o/Users/Decmac/Desktop/myDay17/Classes/myDay17ViewController.m:67: warning: '...' as arguments.)
+lSLF07#2@69"Compile /Users/Decmac/Desktop/myDay17/Classes/myDay17ViewController.m351970188#351970188#0(588"/Users/Decmac/Desktop/myDay17/Classes/myDay17ViewController.m: In function '-[myDay17ViewController spin]':/Users/Decmac/Desktop/myDay17/Classes/myDay17ViewController.m:67: warning: 'UIPickerView' may not respond to '-selectedRow:inComponent:animated:'/Users/Decmac/Desktop/myDay17/Classes/myDay17ViewController.m:67: warning: (Messages without a matching method signature/Users/Decmac/Desktop/myDay17/Classes/myDay17ViewController.m:67: warning: will be assumed to return 'id' and accept/Users/Decmac/Desktop/myDay17/Classes/myDay17ViewController.m:67: warning: '...' as arguments.)2(22@70"'UIPickerView' may not respond to '-selectedRow:inComponent:animated:'351970188#108#146#0(6@61"/Users/Decmac/Desktop/myDay17/Classes/myDay17ViewController.m351969590#67#0#67#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)351970188#254#121#0(6@61"/Users/Decmac/Desktop/myDay17/Classes/myDay17ViewController.m351969590#67#0#67#0#0"0(0#0#61"/Users/Decmac/Desktop/myDay17/Classes/myDay17ViewController.m4300885448#1802"    cd /Users/Decmac/Desktop/myDay17    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/myDay17/build/myDay17.build/Debug-iphonesimulator/myDay17.build/myDay17-generated-files.hmap -I/Users/Decmac/Desktop/myDay17/build/myDay17.build/Debug-iphonesimulator/myDay17.build/myDay17-own-target-headers.hmap -I/Users/Decmac/Desktop/myDay17/build/myDay17.build/Debug-iphonesimulator/myDay17.build/myDay17-all-target-headers.hmap -iquote /Users/Decmac/Desktop/myDay17/build/myDay17.build/Debug-iphonesimulator/myDay17.build/myDay17-project-headers.hmap -F/Users/Decmac/Desktop/myDay17/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/myDay17/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/myDay17/build/myDay17.build/Debug-iphonesimulator/myDay17.build/DerivedSources/i386 -I/Users/Decmac/Desktop/myDay17/build/myDay17.build/Debug-iphonesimulator/myDay17.build/DerivedSources -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myDay17_Prefix-csdiwfutmniuqwgtfqfmmbkyodsl/myDay17_Prefix.pch -c /Users/Decmac/Desktop/myDay17/Classes/myDay17ViewController.m -o /Users/Decmac/Desktop/myDay17/build/myDay17.build/Debug-iphonesimulator/myDay17.build/Objects-normal/i386/myDay17ViewController.o0#
+
+CCompileXIB /Users/Decmac/Desktop/myDay17/MainWindow.xib
+s351970186.591172
+e351970187.069195
+r1
+xCompileXIB
+x/Users/Decmac/Desktop/myDay17/MainWindow.xib
+o2012-02-26 17:29:46.657 ibtool[404:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 35
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@25"CompileXIB MainWindow.xib351970186#351970187#0(191"2012-02-26 17:29:46.657 ibtool[404:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 35Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#44"/Users/Decmac/Desktop/myDay17/MainWindow.xib4300885448#455"    cd /Users/Decmac/Desktop/myDay17    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Decmac/Desktop/myDay17/build/Debug-iphonesimulator/myDay17.app/MainWindow.nib /Users/Decmac/Desktop/myDay17/MainWindow.xib0#
+
+CCompileXIB /Users/Decmac/Desktop/myDay17/myDay17ViewController.xib
+s351970186.593561
+e351970187.239609
+r1
+xCompileXIB
+x/Users/Decmac/Desktop/myDay17/myDay17ViewController.xib
+o2012-02-26 17:29:46.657 ibtool[405:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 35
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@36"CompileXIB myDay17ViewController.xib351970186#351970187#0(191"2012-02-26 17:29:46.657 ibtool[405:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 35Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#55"/Users/Decmac/Desktop/myDay17/myDay17ViewController.xib4300885448#477"    cd /Users/Decmac/Desktop/myDay17    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Decmac/Desktop/myDay17/build/Debug-iphonesimulator/myDay17.app/myDay17ViewController.nib /Users/Decmac/Desktop/myDay17/myDay17ViewController.xib0#
+
+CCpResource build/Debug-iphonesimulator/myDay17.app/apple.png apple.png
+s351970187.069362
+e351970187.121943
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/myDay17.app/apple.png
+xapple.png
+lSLF07#2@14"Copy apple.png351970187#351970187#0(0"0(0#0#39"/Users/Decmac/Desktop/myDay17/apple.png4300885448#426"    cd /Users/Decmac/Desktop/myDay17    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Decmac/Desktop/myDay17/apple.png /Users/Decmac/Desktop/myDay17/build/Debug-iphonesimulator/myDay17.app0#
+
+CCpResource build/Debug-iphonesimulator/myDay17.app/bar.png bar.png
+s351970187.070991
+e351970187.132320
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/myDay17.app/bar.png
+xbar.png
+lSLF07#2@12"Copy bar.png351970187#351970187#0(0"0(0#0#37"/Users/Decmac/Desktop/myDay17/bar.png4300885448#424"    cd /Users/Decmac/Desktop/myDay17    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Decmac/Desktop/myDay17/bar.png /Users/Decmac/Desktop/myDay17/build/Debug-iphonesimulator/myDay17.app0#
+
+CCpResource build/Debug-iphonesimulator/myDay17.app/cherry.png cherry.png
+s351970187.072369
+e351970187.134391
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/myDay17.app/cherry.png
+xcherry.png
+lSLF07#2@15"Copy cherry.png351970187#351970187#0(0"0(0#0#40"/Users/Decmac/Desktop/myDay17/cherry.png4300885448#427"    cd /Users/Decmac/Desktop/myDay17    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Decmac/Desktop/myDay17/cherry.png /Users/Decmac/Desktop/myDay17/build/Debug-iphonesimulator/myDay17.app0#
+
+CCpResource build/Debug-iphonesimulator/myDay17.app/crown.png crown.png
+s351970187.074781
+e351970187.126820
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/myDay17.app/crown.png
+xcrown.png
+lSLF07#2@14"Copy crown.png351970187#351970187#0(0"0(0#0#39"/Users/Decmac/Desktop/myDay17/crown.png4300885448#426"    cd /Users/Decmac/Desktop/myDay17    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Decmac/Desktop/myDay17/crown.png /Users/Decmac/Desktop/myDay17/build/Debug-iphonesimulator/myDay17.app0#
+
+CCpResource build/Debug-iphonesimulator/myDay17.app/lemon.png lemon.png
+s351970187.077136
+e351970187.122229
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/myDay17.app/lemon.png
+xlemon.png
+lSLF07#2@14"Copy lemon.png351970187#351970187#0(0"0(0#0#39"/Users/Decmac/Desktop/myDay17/lemon.png4300885448#426"    cd /Users/Decmac/Desktop/myDay17    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Decmac/Desktop/myDay17/lemon.png /Users/Decmac/Desktop/myDay17/build/Debug-iphonesimulator/myDay17.app0#
+
+CCpResource build/Debug-iphonesimulator/myDay17.app/seven.png seven.png
+s351970187.079016
+e351970187.131175
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/myDay17.app/seven.png
+xseven.png
+lSLF07#2@14"Copy seven.png351970187#351970187#0(0"0(0#0#39"/Users/Decmac/Desktop/myDay17/seven.png4300885448#426"    cd /Users/Decmac/Desktop/myDay17    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Decmac/Desktop/myDay17/seven.png /Users/Decmac/Desktop/myDay17/build/Debug-iphonesimulator/myDay17.app0#
+
+CGenerateDSYMFile /Users/Decmac/Desktop/myDay17/build/Debug-iphonesimulator/myDay17.app.dSYM /Users/Decmac/Desktop/myDay17/build/Debug-iphonesimulator/myDay17.app/myDay17
+s351970189.179287
+e351970189.235038
+r1
+xGenerateDSYMFile
+x/Users/Decmac/Desktop/myDay17/build/Debug-iphonesimulator/myDay17.app.dSYM
+x/Users/Decmac/Desktop/myDay17/build/Debug-iphonesimulator/myDay17.app/myDay17
+o2012-02-26 17:29:49.227 dsymutil[436:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 35
+lSLF07#2@109"GenerateDSYMFile build/Debug-iphonesimulator/myDay17.app.dSYM build/Debug-iphonesimulator/myDay17.app/myDay17351970189#351970189#0(109"2012-02-26 17:29:49.227 dsymutil[436:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 350(0#0#77"/Users/Decmac/Desktop/myDay17/build/Debug-iphonesimulator/myDay17.app/myDay174300885448#356"    cd /Users/Decmac/Desktop/myDay17    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/Decmac/Desktop/myDay17/build/Debug-iphonesimulator/myDay17.app/myDay17 -o /Users/Decmac/Desktop/myDay17/build/Debug-iphonesimulator/myDay17.app.dSYM0#
+
+CLd /Users/Decmac/Desktop/myDay17/build/Debug-iphonesimulator/myDay17.app/myDay17 normal i386
+s351970188.859315
+e351970189.179126
+r1
+xLd
+x/Users/Decmac/Desktop/myDay17/build/Debug-iphonesimulator/myDay17.app/myDay17
+xnormal
+xi386
+lSLF07#2@82"Link /Users/Decmac/Desktop/myDay17/build/Debug-iphonesimulator/myDay17.app/myDay17351970188#351970189#0(0"0(0#0#0"4300885448#819"    cd /Users/Decmac/Desktop/myDay17    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -L/Users/Decmac/Desktop/myDay17/build/Debug-iphonesimulator -F/Users/Decmac/Desktop/myDay17/build/Debug-iphonesimulator -filelist /Users/Decmac/Desktop/myDay17/build/myDay17.build/Debug-iphonesimulator/myDay17.build/Objects-normal/i386/myDay17.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/Decmac/Desktop/myDay17/build/Debug-iphonesimulator/myDay17.app/myDay170#
+
+CProcessInfoPlistFile /Users/Decmac/Desktop/myDay17/build/Debug-iphonesimulator/myDay17.app/Info.plist myDay17-Info.plist
+s351970186.539147
+e351970186.590995
+r1
+xProcessInfoPlistFile
+x/Users/Decmac/Desktop/myDay17/build/Debug-iphonesimulator/myDay17.app/Info.plist
+xmyDay17-Info.plist
+lSLF07#2@26"Process myDay17-Info.plist351970186#351970186#0(0"0(0#0#48"/Users/Decmac/Desktop/myDay17/myDay17-Info.plist30681223440564324#452"    cd /Users/Decmac/Desktop/myDay17    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility myDay17-Info.plist -genpkginfo /Users/Decmac/Desktop/myDay17/build/Debug-iphonesimulator/myDay17.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/Decmac/Desktop/myDay17/build/Debug-iphonesimulator/myDay17.app/Info.plist0#
+
+CProcessPCH /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myDay17_Prefix-csdiwfutmniuqwgtfqfmmbkyodsl/myDay17_Prefix.pch.gch myDay17_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s351970187.239898
+e351970188.543964
+r1
+xProcessPCH
+x/var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myDay17_Prefix-csdiwfutmniuqwgtfqfmmbkyodsl/myDay17_Prefix.pch.gch
+xmyDay17_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile myDay17_Prefix.pch351970187#351970188#0(0"0(0#0#48"/Users/Decmac/Desktop/myDay17/myDay17_Prefix.pch4300885448#1661"    cd /Users/Decmac/Desktop/myDay17    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/myDay17/build/myDay17.build/Debug-iphonesimulator/myDay17.build/myDay17-generated-files.hmap -I/Users/Decmac/Desktop/myDay17/build/myDay17.build/Debug-iphonesimulator/myDay17.build/myDay17-own-target-headers.hmap -I/Users/Decmac/Desktop/myDay17/build/myDay17.build/Debug-iphonesimulator/myDay17.build/myDay17-all-target-headers.hmap -iquote /Users/Decmac/Desktop/myDay17/build/myDay17.build/Debug-iphonesimulator/myDay17.build/myDay17-project-headers.hmap -F/Users/Decmac/Desktop/myDay17/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/myDay17/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/myDay17/build/myDay17.build/Debug-iphonesimulator/myDay17.build/DerivedSources/i386 -I/Users/Decmac/Desktop/myDay17/build/myDay17.build/Debug-iphonesimulator/myDay17.build/DerivedSources -c /Users/Decmac/Desktop/myDay17/myDay17_Prefix.pch -o /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myDay17_Prefix-csdiwfutmniuqwgtfqfmmbkyodsl/myDay17_Prefix.pch.gch0#
+
+CTouch /Users/Decmac/Desktop/myDay17/build/Debug-iphonesimulator/myDay17.app
+s351970189.235188
+e351970189.261172
+r1
+xTouch
+x/Users/Decmac/Desktop/myDay17/build/Debug-iphonesimulator/myDay17.app
+lSLF07#2@75"Touch /Users/Decmac/Desktop/myDay17/build/Debug-iphonesimulator/myDay17.app351970189#351970189#0(0"0(0#0#0"4300885448#260"    cd /Users/Decmac/Desktop/myDay17    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/Decmac/Desktop/myDay17/build/Debug-iphonesimulator/myDay17.app0#
+

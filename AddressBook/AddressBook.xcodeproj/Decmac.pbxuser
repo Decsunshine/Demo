@@ -1,0 +1,294 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* AddressBookAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {911, 518}}";
+			sepNavSelRange = "{479, 0}";
+			sepNavVisRange = "{0, 486}";
+			sepNavWindowFrame = "{{15, 98}, {970, 646}}";
+		};
+	};
+	1D3623250D0F684500981E51 /* AddressBookAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {838, 624}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 680}";
+			sepNavWindowFrame = "{{15, 150}, {897, 594}}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* AddressBook */ = {
+		activeExec = 0;
+		executables = (
+			897FD513151DD310009339D7 /* AddressBook */,
+		);
+	};
+	28C286DF0D94DF7D0034E888 /* RootViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {911, 518}}";
+			sepNavSelRange = "{365, 20}";
+			sepNavVisRange = "{0, 501}";
+			sepNavWindowFrame = "{{54, 92}, {970, 646}}";
+		};
+	};
+	28C286E00D94DF7D0034E888 /* RootViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1090, 2197}}";
+			sepNavSelRange = "{1623, 0}";
+			sepNavVisRange = "{792, 1018}";
+			sepNavWindowFrame = "{{97, 97}, {970, 646}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 897FD513151DD310009339D7 /* AddressBook */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* AddressBook */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* AddressBook */,
+		);
+		codeSenseManager = 897FD51E151DD32F009339D7 /* Code sense */;
+		executables = (
+			897FD513151DD310009339D7 /* AddressBook */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 354501401;
+			PBXWorkspaceStateSaveDate = 354501401;
+		};
+		perUserProjectItems = {
+			897E592F151FE86700F32115 /* PBXTextBookmark */ = 897E592F151FE86700F32115 /* PBXTextBookmark */;
+			897EA6601521474A00B33ECE /* PBXTextBookmark */ = 897EA6601521474A00B33ECE /* PBXTextBookmark */;
+			897EA6611521474A00B33ECE /* PBXTextBookmark */ = 897EA6611521474A00B33ECE /* PBXTextBookmark */;
+			897EA6621521474A00B33ECE /* PBXTextBookmark */ = 897EA6621521474A00B33ECE /* PBXTextBookmark */;
+			897EA6631521474A00B33ECE /* PBXTextBookmark */ = 897EA6631521474A00B33ECE /* PBXTextBookmark */;
+			897EA6641521474A00B33ECE /* PBXTextBookmark */ = 897EA6641521474A00B33ECE /* PBXTextBookmark */;
+			897EA6651521474A00B33ECE /* PBXTextBookmark */ = 897EA6651521474A00B33ECE /* PBXTextBookmark */;
+			897F263F151E346E00680D12 /* PBXTextBookmark */ = 897F263F151E346E00680D12 /* PBXTextBookmark */;
+			897F2642151E346E00680D12 /* PBXTextBookmark */ = 897F2642151E346E00680D12 /* PBXTextBookmark */;
+			897F2643151E346E00680D12 /* PBXTextBookmark */ = 897F2643151E346E00680D12 /* PBXTextBookmark */;
+			897F2644151E346E00680D12 /* PBXTextBookmark */ = 897F2644151E346E00680D12 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 897FD51D151DD32F009339D7 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	897E592F151FE86700F32115 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286DF0D94DF7D0034E888 /* RootViewController.h */;
+		name = "RootViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 363;
+		vrLoc = 0;
+	};
+	897EA6601521474A00B33ECE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 897FD523151DD3ED009339D7 /* AddViewController.h */;
+		name = "AddViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 377;
+		vrLoc = 27;
+	};
+	897EA6611521474A00B33ECE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 897F25C8151E2B5A00680D12 /* EditableCell.m */;
+		name = "EditableCell.m: 15";
+		rLen = 0;
+		rLoc = 233;
+		rType = 0;
+		vrLen = 327;
+		vrLoc = 134;
+	};
+	897EA6621521474A00B33ECE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 897F25C7151E2B5A00680D12 /* EditableCell.h */;
+		name = "EditableCell.h: 13";
+		rLen = 0;
+		rLoc = 193;
+		rType = 0;
+		vrLen = 320;
+		vrLoc = 72;
+	};
+	897EA6631521474A00B33ECE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 897FD529151DD432009339D7 /* ContactViewController.m */;
+		name = "ContactViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 463;
+		vrLoc = 243;
+	};
+	897EA6641521474A00B33ECE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 897FD524151DD3ED009339D7 /* AddViewController.m */;
+		name = "AddViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 415;
+		vrLoc = 2678;
+	};
+	897EA6651521474A00B33ECE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 897FD528151DD432009339D7 /* ContactViewController.h */;
+		name = "ContactViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 273;
+		vrLoc = 0;
+	};
+	897F25C7151E2B5A00680D12 /* EditableCell.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 507}}";
+			sepNavSelRange = "{193, 0}";
+			sepNavVisRange = "{72, 320}";
+			sepNavWindowFrame = "{{43, 153}, {597, 593}}";
+		};
+	};
+	897F25C8151E2B5A00680D12 /* EditableCell.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {894, 1014}}";
+			sepNavSelRange = "{233, 0}";
+			sepNavVisRange = "{134, 396}";
+			sepNavWindowFrame = "{{473, 91}, {970, 646}}";
+		};
+	};
+	897F263F151E346E00680D12 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 897FD528151DD432009339D7 /* ContactViewController.h */;
+		name = "ContactViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 346;
+		vrLoc = 0;
+	};
+	897F2642151E346E00680D12 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
+		name = "RootViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 447;
+		vrLoc = 0;
+	};
+	897F2643151E346E00680D12 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* AddressBookAppDelegate.m */;
+		name = "AddressBookAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 324;
+		vrLoc = 0;
+	};
+	897F2644151E346E00680D12 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* AddressBookAppDelegate.h */;
+		name = "AddressBookAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 445;
+		vrLoc = 0;
+	};
+	897FD513151DD310009339D7 /* AddressBook */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = AddressBook;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	897FD51D151DD32F009339D7 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	897FD51E151DD32F009339D7 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	897FD523151DD3ED009339D7 /* AddViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {663, 520}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{27, 377}";
+			sepNavWindowFrame = "{{15, 128}, {678, 616}}";
+		};
+	};
+	897FD524151DD3ED009339D7 /* AddViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {761, 2184}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{2678, 437}";
+			sepNavWindowFrame = "{{70, 100}, {970, 646}}";
+		};
+	};
+	897FD528151DD432009339D7 /* ContactViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {544, 286}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 273}";
+			sepNavWindowFrame = "{{15, 98}, {970, 646}}";
+		};
+	};
+	897FD529151DD432009339D7 /* ContactViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {782, 884}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{243, 463}";
+			sepNavWindowFrame = "{{47, 100}, {970, 646}}";
+		};
+	};
+}

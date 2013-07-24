@@ -1,0 +1,161 @@
+// !$*UTF8*$!
+{
+	1D3623250D0F684500981E51 /* GettingAttentionAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 403}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{37, 513}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* GettingAttention */ = {
+		activeExec = 0;
+		executables = (
+			8986049B1520E05C0031C65E /* GettingAttention */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* GettingAttentionViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {754, 475}}";
+			sepNavSelRange = "{219, 0}";
+			sepNavVisRange = "{0, 610}";
+			sepNavWindowFrame = "{{38, 117}, {766, 603}}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* GettingAttentionViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {691, 1352}}";
+			sepNavSelRange = "{2104, 0}";
+			sepNavVisRange = "{1987, 383}";
+			sepNavWindowFrame = "{{118, 143}, {766, 603}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 8986049B1520E05C0031C65E /* GettingAttention */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* GettingAttention */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* GettingAttention */,
+		);
+		codeSenseManager = 898604A11520E07B0031C65E /* Code sense */;
+		executables = (
+			8986049B1520E05C0031C65E /* GettingAttention */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 354489047;
+			PBXWorkspaceStateSaveDate = 354489047;
+		};
+		perUserProjectItems = {
+			897EA56715211E1700B33ECE /* PBXTextBookmark */ = 897EA56715211E1700B33ECE /* PBXTextBookmark */;
+			897EA56E15211E9900B33ECE /* PBXTextBookmark */ = 897EA56E15211E9900B33ECE /* PBXTextBookmark */;
+			897EA570152120F500B33ECE /* PBXTextBookmark */ = 897EA570152120F500B33ECE /* PBXTextBookmark */;
+			898604D31520EAE40031C65E /* PBXTextBookmark */ = 898604D31520EAE40031C65E /* PBXTextBookmark */;
+		};
+		sourceControlManager = 898604A01520E07B0031C65E /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	897EA56715211E1700B33ECE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* GettingAttentionViewController.h */;
+		name = "GettingAttentionViewController.h: 10";
+		rLen = 0;
+		rLoc = 219;
+		rType = 0;
+		vrLen = 545;
+		vrLoc = 64;
+	};
+	897EA56E15211E9900B33ECE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* GettingAttentionViewController.m */;
+		name = "GettingAttentionViewController.m: 72";
+		rLen = 0;
+		rLoc = 2104;
+		rType = 0;
+		vrLen = 640;
+		vrLoc = 1938;
+	};
+	897EA570152120F500B33ECE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* GettingAttentionViewController.m */;
+		name = "GettingAttentionViewController.m: 87";
+		rLen = 0;
+		rLoc = 2711;
+		rType = 0;
+		vrLen = 794;
+		vrLoc = 1085;
+	};
+	8986049B1520E05C0031C65E /* GettingAttention */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = GettingAttention;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	898604A01520E07B0031C65E /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	898604A11520E07B0031C65E /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	898604D31520EAE40031C65E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* GettingAttentionAppDelegate.m */;
+		name = "GettingAttentionAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 513;
+		vrLoc = 37;
+	};
+}

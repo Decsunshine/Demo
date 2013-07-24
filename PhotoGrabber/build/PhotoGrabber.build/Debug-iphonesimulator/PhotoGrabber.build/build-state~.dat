@@ -1,0 +1,373 @@
+TPhotoGrabber
+v7
+r0
+t354814664.911131
+cCheck dependencies
+cProcessInfoPlistFile /Users/Decmac/Desktop/PhotoGrabber/build/Debug-iphonesimulator/PhotoGrabber.app/Info.plist PhotoGrabber-Info.plist
+cCompileXIB /Users/Decmac/Desktop/PhotoGrabber/FlipsideView.xib
+cCompileXIB /Users/Decmac/Desktop/PhotoGrabber/MainView.xib
+cCompileXIB /Users/Decmac/Desktop/PhotoGrabber/MainWindow.xib
+cProcessPCH /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PhotoGrabber_Prefix-fmtjaxarwfdqsggqlfiqbbrrssvn/PhotoGrabber_Prefix.pch.gch PhotoGrabber_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PhotoGrabber.build/Debug-iphonesimulator/PhotoGrabber.build/Objects-normal/i386/main.o /Users/Decmac/Desktop/PhotoGrabber/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PhotoGrabber.build/Debug-iphonesimulator/PhotoGrabber.build/Objects-normal/i386/PhotoGrabberAppDelegate.o /Users/Decmac/Desktop/PhotoGrabber/Classes/PhotoGrabberAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PhotoGrabber.build/Debug-iphonesimulator/PhotoGrabber.build/Objects-normal/i386/FlipsideView.o /Users/Decmac/Desktop/PhotoGrabber/Classes/FlipsideView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PhotoGrabber.build/Debug-iphonesimulator/PhotoGrabber.build/Objects-normal/i386/MainView.o /Users/Decmac/Desktop/PhotoGrabber/Classes/MainView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PhotoGrabber.build/Debug-iphonesimulator/PhotoGrabber.build/Objects-normal/i386/MainViewController.o /Users/Decmac/Desktop/PhotoGrabber/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PhotoGrabber.build/Debug-iphonesimulator/PhotoGrabber.build/Objects-normal/i386/FlipsideViewController.o /Users/Decmac/Desktop/PhotoGrabber/Classes/FlipsideViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/Decmac/Desktop/PhotoGrabber/build/Debug-iphonesimulator/PhotoGrabber.app/PhotoGrabber normal i386
+cGenerateDSYMFile /Users/Decmac/Desktop/PhotoGrabber/build/Debug-iphonesimulator/PhotoGrabber.app.dSYM /Users/Decmac/Desktop/PhotoGrabber/build/Debug-iphonesimulator/PhotoGrabber.app/PhotoGrabber
+cTouch /Users/Decmac/Desktop/PhotoGrabber/build/Debug-iphonesimulator/PhotoGrabber.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk
+c000000004F3A580900000000000000EE
+t1329223689
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B2B4CC3000000000026EE30
+t1261128899
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B2B4DC8000000000027E880
+t1261129160
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B2B4DAE0000000000001355
+t1261129134
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B2B61620000000000000788
+t1261134178
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B2B62B500000000016721E0
+t1261134517
+s23536096
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/usr/include/Availability.h
+c000000004B2B4EE200000000000019F9
+t1261129442
+s6649
+
+N/Users/Decmac/Desktop/PhotoGrabber/Classes/FlipsideView.h
+c000000004F75CBB700000000000000BB
+t1333119927
+s187
+
+N/Users/Decmac/Desktop/PhotoGrabber/Classes/FlipsideView.m
+c000000004F75CBB700000000000001BB
+t1333119927
+s443
+i"FlipsideView.h"
+
+N/Users/Decmac/Desktop/PhotoGrabber/Classes/FlipsideViewController.h
+c000000004F75CBB70000000000000210
+t1333119927
+s528
+
+N/Users/Decmac/Desktop/PhotoGrabber/Classes/FlipsideViewController.m
+c000000004F75CBB7000000000000044F
+t1333119927
+s1103
+i"FlipsideViewController.h"
+
+N/Users/Decmac/Desktop/PhotoGrabber/Classes/MainView.h
+c000000004F75CBB700000000000000CB
+t1333119927
+s203
+i<UIKit/UIKit.h>
+
+N/Users/Decmac/Desktop/PhotoGrabber/Classes/MainView.m
+c000000004F75CBB700000000000001AF
+t1333119927
+s431
+i"MainView.h"
+
+N/Users/Decmac/Desktop/PhotoGrabber/Classes/MainViewController.h
+c000000004F75CD200000000000000340
+t1333120288
+s832
+i"FlipsideViewController.h"
+
+N/Users/Decmac/Desktop/PhotoGrabber/Classes/MainViewController.m
+c000000004F75D3430000000000000E28
+t1333121859
+s3624
+i"MainViewController.h"
+i"MainView.h"
+
+N/Users/Decmac/Desktop/PhotoGrabber/Classes/PhotoGrabberAppDelegate.h
+c000000004F75CBB700000000000001C8
+t1333119927
+s456
+
+N/Users/Decmac/Desktop/PhotoGrabber/Classes/PhotoGrabberAppDelegate.m
+c000000004F75CBB70000000000000338
+t1333119927
+s824
+i"PhotoGrabberAppDelegate.h"
+i"MainViewController.h"
+
+N/Users/Decmac/Desktop/PhotoGrabber/FlipsideView.xib
+c000000004F75CBB70000000000002689
+t1333119927
+s9865
+
+N/Users/Decmac/Desktop/PhotoGrabber/MainView.xib
+c000000004F75CBB700000000000023C7
+t1333119927
+s9159
+
+N/Users/Decmac/Desktop/PhotoGrabber/MainWindow.xib
+c000000004F75CBB70000000000001E24
+t1333119927
+s7716
+
+N/Users/Decmac/Desktop/PhotoGrabber/PhotoGrabber_Prefix.pch
+c000000004F75CBB7000000000000014A
+t1333119927
+s330
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/Decmac/Desktop/PhotoGrabber/build/Debug-iphonesimulator/PhotoGrabber.app
+t1333121864
+s272
+
+N/Users/Decmac/Desktop/PhotoGrabber/build/Debug-iphonesimulator/PhotoGrabber.app.dSYM
+t1333121864
+s102
+
+N/Users/Decmac/Desktop/PhotoGrabber/build/Debug-iphonesimulator/PhotoGrabber.app/FlipsideView.nib
+t1333121861
+s1802
+
+N/Users/Decmac/Desktop/PhotoGrabber/build/Debug-iphonesimulator/PhotoGrabber.app/Info.plist
+t1333121860
+s584
+
+N/Users/Decmac/Desktop/PhotoGrabber/build/Debug-iphonesimulator/PhotoGrabber.app/MainView.nib
+t1333121861
+s2042
+
+N/Users/Decmac/Desktop/PhotoGrabber/build/Debug-iphonesimulator/PhotoGrabber.app/MainWindow.nib
+t1333121861
+s1384
+
+N/Users/Decmac/Desktop/PhotoGrabber/build/Debug-iphonesimulator/PhotoGrabber.app/PhotoGrabber
+t1333121864
+s28912
+
+N/Users/Decmac/Desktop/PhotoGrabber/build/Debug-iphonesimulator/PhotoGrabber.app/PkgInfo
+t1333121860
+s8
+
+N/Users/Decmac/Desktop/PhotoGrabber/build/PhotoGrabber.build/Debug-iphonesimulator/PhotoGrabber.build/Objects-normal/i386/FlipsideView.o
+t1333121864
+s9876
+
+N/Users/Decmac/Desktop/PhotoGrabber/build/PhotoGrabber.build/Debug-iphonesimulator/PhotoGrabber.build/Objects-normal/i386/FlipsideViewController.o
+t1333121864
+s32228
+
+N/Users/Decmac/Desktop/PhotoGrabber/build/PhotoGrabber.build/Debug-iphonesimulator/PhotoGrabber.build/Objects-normal/i386/MainView.o
+t1333121864
+s9824
+
+N/Users/Decmac/Desktop/PhotoGrabber/build/PhotoGrabber.build/Debug-iphonesimulator/PhotoGrabber.build/Objects-normal/i386/MainViewController.o
+t1333121864
+s43780
+
+N/Users/Decmac/Desktop/PhotoGrabber/build/PhotoGrabber.build/Debug-iphonesimulator/PhotoGrabber.build/Objects-normal/i386/PhotoGrabber.LinkFileList
+c000000004F75D344000000000000033F
+t1333121860
+s831
+
+N/Users/Decmac/Desktop/PhotoGrabber/build/PhotoGrabber.build/Debug-iphonesimulator/PhotoGrabber.build/Objects-normal/i386/PhotoGrabberAppDelegate.o
+t1333121864
+s39440
+
+N/Users/Decmac/Desktop/PhotoGrabber/build/PhotoGrabber.build/Debug-iphonesimulator/PhotoGrabber.build/Objects-normal/i386/main.o
+t1333121863
+s5948
+
+N/Users/Decmac/Desktop/PhotoGrabber/main.m
+c000000004F75CBB7000000000000016B
+t1333119927
+s363
+i<UIKit/UIKit.h>
+
+N/var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PhotoGrabber_Prefix-fmtjaxarwfdqsggqlfiqbbrrssvn/PhotoGrabber_Prefix.pch.gch
+t1333121863
+s13034960
+
+NPhotoGrabber-Info.plist
+c000000004F75CBB7000000000000038D
+t1333119927
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies354814660#354814660#0(0"0(0#1#0"32088628383449192#0"0#
+
+CCompileC build/PhotoGrabber.build/Debug-iphonesimulator/PhotoGrabber.build/Objects-normal/i386/FlipsideView.o /Users/Decmac/Desktop/PhotoGrabber/Classes/FlipsideView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354814663.968849
+e354814664.108747
+r1
+xCompileC
+xbuild/PhotoGrabber.build/Debug-iphonesimulator/PhotoGrabber.build/Objects-normal/i386/FlipsideView.o
+x/Users/Decmac/Desktop/PhotoGrabber/Classes/FlipsideView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/Decmac/Desktop/PhotoGrabber/Classes/FlipsideView.m354814663#354814664#0(0"0(0#0#57"/Users/Decmac/Desktop/PhotoGrabber/Classes/FlipsideView.m4300885448#1939"    cd /Users/Decmac/Desktop/PhotoGrabber    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/PhotoGrabber/build/PhotoGrabber.build/Debug-iphonesimulator/PhotoGrabber.build/PhotoGrabber-generated-files.hmap -I/Users/Decmac/Desktop/PhotoGrabber/build/PhotoGrabber.build/Debug-iphonesimulator/PhotoGrabber.build/PhotoGrabber-own-target-headers.hmap -I/Users/Decmac/Desktop/PhotoGrabber/build/PhotoGrabber.build/Debug-iphonesimulator/PhotoGrabber.build/PhotoGrabber-all-target-headers.hmap -iquote /Users/Decmac/Desktop/PhotoGrabber/build/PhotoGrabber.build/Debug-iphonesimulator/PhotoGrabber.build/PhotoGrabber-project-headers.hmap -F/Users/Decmac/Desktop/PhotoGrabber/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/PhotoGrabber/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/PhotoGrabber/build/PhotoGrabber.build/Debug-iphonesimulator/PhotoGrabber.build/DerivedSources/i386 -I/Users/Decmac/Desktop/PhotoGrabber/build/PhotoGrabber.build/Debug-iphonesimulator/PhotoGrabber.build/DerivedSources -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PhotoGrabber_Prefix-fmtjaxarwfdqsggqlfiqbbrrssvn/PhotoGrabber_Prefix.pch -c /Users/Decmac/Desktop/PhotoGrabber/Classes/FlipsideView.m -o /Users/Decmac/Desktop/PhotoGrabber/build/PhotoGrabber.build/Debug-iphonesimulator/PhotoGrabber.build/Objects-normal/i386/FlipsideView.o0#
+
+CCompileC build/PhotoGrabber.build/Debug-iphonesimulator/PhotoGrabber.build/Objects-normal/i386/FlipsideViewController.o /Users/Decmac/Desktop/PhotoGrabber/Classes/FlipsideViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354814664.219862
+e354814664.431951
+r1
+xCompileC
+xbuild/PhotoGrabber.build/Debug-iphonesimulator/PhotoGrabber.build/Objects-normal/i386/FlipsideViewController.o
+x/Users/Decmac/Desktop/PhotoGrabber/Classes/FlipsideViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/Decmac/Desktop/PhotoGrabber/Classes/FlipsideViewController.m354814664#354814664#0(0"0(0#0#67"/Users/Decmac/Desktop/PhotoGrabber/Classes/FlipsideViewController.m4300885448#1959"    cd /Users/Decmac/Desktop/PhotoGrabber    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/PhotoGrabber/build/PhotoGrabber.build/Debug-iphonesimulator/PhotoGrabber.build/PhotoGrabber-generated-files.hmap -I/Users/Decmac/Desktop/PhotoGrabber/build/PhotoGrabber.build/Debug-iphonesimulator/PhotoGrabber.build/PhotoGrabber-own-target-headers.hmap -I/Users/Decmac/Desktop/PhotoGrabber/build/PhotoGrabber.build/Debug-iphonesimulator/PhotoGrabber.build/PhotoGrabber-all-target-headers.hmap -iquote /Users/Decmac/Desktop/PhotoGrabber/build/PhotoGrabber.build/Debug-iphonesimulator/PhotoGrabber.build/PhotoGrabber-project-headers.hmap -F/Users/Decmac/Desktop/PhotoGrabber/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/PhotoGrabber/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/PhotoGrabber/build/PhotoGrabber.build/Debug-iphonesimulator/PhotoGrabber.build/DerivedSources/i386 -I/Users/Decmac/Desktop/PhotoGrabber/build/PhotoGrabber.build/Debug-iphonesimulator/PhotoGrabber.build/DerivedSources -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PhotoGrabber_Prefix-fmtjaxarwfdqsggqlfiqbbrrssvn/PhotoGrabber_Prefix.pch -c /Users/Decmac/Desktop/PhotoGrabber/Classes/FlipsideViewController.m -o /Users/Decmac/Desktop/PhotoGrabber/build/PhotoGrabber.build/Debug-iphonesimulator/PhotoGrabber.build/Objects-normal/i386/FlipsideViewController.o0#
+
+CCompileC build/PhotoGrabber.build/Debug-iphonesimulator/PhotoGrabber.build/Objects-normal/i386/MainView.o /Users/Decmac/Desktop/PhotoGrabber/Classes/MainView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354814664.029330
+e354814664.219584
+r1
+xCompileC
+xbuild/PhotoGrabber.build/Debug-iphonesimulator/PhotoGrabber.build/Objects-normal/i386/MainView.o
+x/Users/Decmac/Desktop/PhotoGrabber/Classes/MainView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/Decmac/Desktop/PhotoGrabber/Classes/MainView.m354814664#354814664#0(0"0(0#0#53"/Users/Decmac/Desktop/PhotoGrabber/Classes/MainView.m4300885448#1931"    cd /Users/Decmac/Desktop/PhotoGrabber    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/PhotoGrabber/build/PhotoGrabber.build/Debug-iphonesimulator/PhotoGrabber.build/PhotoGrabber-generated-files.hmap -I/Users/Decmac/Desktop/PhotoGrabber/build/PhotoGrabber.build/Debug-iphonesimulator/PhotoGrabber.build/PhotoGrabber-own-target-headers.hmap -I/Users/Decmac/Desktop/PhotoGrabber/build/PhotoGrabber.build/Debug-iphonesimulator/PhotoGrabber.build/PhotoGrabber-all-target-headers.hmap -iquote /Users/Decmac/Desktop/PhotoGrabber/build/PhotoGrabber.build/Debug-iphonesimulator/PhotoGrabber.build/PhotoGrabber-project-headers.hmap -F/Users/Decmac/Desktop/PhotoGrabber/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/PhotoGrabber/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/PhotoGrabber/build/PhotoGrabber.build/Debug-iphonesimulator/PhotoGrabber.build/DerivedSources/i386 -I/Users/Decmac/Desktop/PhotoGrabber/build/PhotoGrabber.build/Debug-iphonesimulator/PhotoGrabber.build/DerivedSources -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PhotoGrabber_Prefix-fmtjaxarwfdqsggqlfiqbbrrssvn/PhotoGrabber_Prefix.pch -c /Users/Decmac/Desktop/PhotoGrabber/Classes/MainView.m -o /Users/Decmac/Desktop/PhotoGrabber/build/PhotoGrabber.build/Debug-iphonesimulator/PhotoGrabber.build/Objects-normal/i386/MainView.o0#
+
+CCompileC build/PhotoGrabber.build/Debug-iphonesimulator/PhotoGrabber.build/Objects-normal/i386/MainViewController.o /Users/Decmac/Desktop/PhotoGrabber/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354814664.109018
+e354814664.434550
+r1
+xCompileC
+xbuild/PhotoGrabber.build/Debug-iphonesimulator/PhotoGrabber.build/Objects-normal/i386/MainViewController.o
+x/Users/Decmac/Desktop/PhotoGrabber/Classes/MainViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/Decmac/Desktop/PhotoGrabber/Classes/MainViewController.m354814664#354814664#0(0"0(0#0#63"/Users/Decmac/Desktop/PhotoGrabber/Classes/MainViewController.m4300885448#1951"    cd /Users/Decmac/Desktop/PhotoGrabber    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/PhotoGrabber/build/PhotoGrabber.build/Debug-iphonesimulator/PhotoGrabber.build/PhotoGrabber-generated-files.hmap -I/Users/Decmac/Desktop/PhotoGrabber/build/PhotoGrabber.build/Debug-iphonesimulator/PhotoGrabber.build/PhotoGrabber-own-target-headers.hmap -I/Users/Decmac/Desktop/PhotoGrabber/build/PhotoGrabber.build/Debug-iphonesimulator/PhotoGrabber.build/PhotoGrabber-all-target-headers.hmap -iquote /Users/Decmac/Desktop/PhotoGrabber/build/PhotoGrabber.build/Debug-iphonesimulator/PhotoGrabber.build/PhotoGrabber-project-headers.hmap -F/Users/Decmac/Desktop/PhotoGrabber/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/PhotoGrabber/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/PhotoGrabber/build/PhotoGrabber.build/Debug-iphonesimulator/PhotoGrabber.build/DerivedSources/i386 -I/Users/Decmac/Desktop/PhotoGrabber/build/PhotoGrabber.build/Debug-iphonesimulator/PhotoGrabber.build/DerivedSources -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PhotoGrabber_Prefix-fmtjaxarwfdqsggqlfiqbbrrssvn/PhotoGrabber_Prefix.pch -c /Users/Decmac/Desktop/PhotoGrabber/Classes/MainViewController.m -o /Users/Decmac/Desktop/PhotoGrabber/build/PhotoGrabber.build/Debug-iphonesimulator/PhotoGrabber.build/Objects-normal/i386/MainViewController.o0#
+
+CCompileC build/PhotoGrabber.build/Debug-iphonesimulator/PhotoGrabber.build/Objects-normal/i386/PhotoGrabberAppDelegate.o /Users/Decmac/Desktop/PhotoGrabber/Classes/PhotoGrabberAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354814663.752426
+e354814664.029070
+r1
+xCompileC
+xbuild/PhotoGrabber.build/Debug-iphonesimulator/PhotoGrabber.build/Objects-normal/i386/PhotoGrabberAppDelegate.o
+x/Users/Decmac/Desktop/PhotoGrabber/Classes/PhotoGrabberAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/Decmac/Desktop/PhotoGrabber/Classes/PhotoGrabberAppDelegate.m354814663#354814664#0(0"0(0#0#68"/Users/Decmac/Desktop/PhotoGrabber/Classes/PhotoGrabberAppDelegate.m4300885448#1961"    cd /Users/Decmac/Desktop/PhotoGrabber    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/PhotoGrabber/build/PhotoGrabber.build/Debug-iphonesimulator/PhotoGrabber.build/PhotoGrabber-generated-files.hmap -I/Users/Decmac/Desktop/PhotoGrabber/build/PhotoGrabber.build/Debug-iphonesimulator/PhotoGrabber.build/PhotoGrabber-own-target-headers.hmap -I/Users/Decmac/Desktop/PhotoGrabber/build/PhotoGrabber.build/Debug-iphonesimulator/PhotoGrabber.build/PhotoGrabber-all-target-headers.hmap -iquote /Users/Decmac/Desktop/PhotoGrabber/build/PhotoGrabber.build/Debug-iphonesimulator/PhotoGrabber.build/PhotoGrabber-project-headers.hmap -F/Users/Decmac/Desktop/PhotoGrabber/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/PhotoGrabber/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/PhotoGrabber/build/PhotoGrabber.build/Debug-iphonesimulator/PhotoGrabber.build/DerivedSources/i386 -I/Users/Decmac/Desktop/PhotoGrabber/build/PhotoGrabber.build/Debug-iphonesimulator/PhotoGrabber.build/DerivedSources -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PhotoGrabber_Prefix-fmtjaxarwfdqsggqlfiqbbrrssvn/PhotoGrabber_Prefix.pch -c /Users/Decmac/Desktop/PhotoGrabber/Classes/PhotoGrabberAppDelegate.m -o /Users/Decmac/Desktop/PhotoGrabber/build/PhotoGrabber.build/Debug-iphonesimulator/PhotoGrabber.build/Objects-normal/i386/PhotoGrabberAppDelegate.o0#
+
+CCompileC build/PhotoGrabber.build/Debug-iphonesimulator/PhotoGrabber.build/Objects-normal/i386/main.o /Users/Decmac/Desktop/PhotoGrabber/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354814663.749718
+e354814663.968551
+r1
+xCompileC
+xbuild/PhotoGrabber.build/Debug-iphonesimulator/PhotoGrabber.build/Objects-normal/i386/main.o
+x/Users/Decmac/Desktop/PhotoGrabber/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@49"Compile /Users/Decmac/Desktop/PhotoGrabber/main.m354814663#354814663#0(0"0(0#0#41"/Users/Decmac/Desktop/PhotoGrabber/main.m4300885448#1915"    cd /Users/Decmac/Desktop/PhotoGrabber    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/PhotoGrabber/build/PhotoGrabber.build/Debug-iphonesimulator/PhotoGrabber.build/PhotoGrabber-generated-files.hmap -I/Users/Decmac/Desktop/PhotoGrabber/build/PhotoGrabber.build/Debug-iphonesimulator/PhotoGrabber.build/PhotoGrabber-own-target-headers.hmap -I/Users/Decmac/Desktop/PhotoGrabber/build/PhotoGrabber.build/Debug-iphonesimulator/PhotoGrabber.build/PhotoGrabber-all-target-headers.hmap -iquote /Users/Decmac/Desktop/PhotoGrabber/build/PhotoGrabber.build/Debug-iphonesimulator/PhotoGrabber.build/PhotoGrabber-project-headers.hmap -F/Users/Decmac/Desktop/PhotoGrabber/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/PhotoGrabber/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/PhotoGrabber/build/PhotoGrabber.build/Debug-iphonesimulator/PhotoGrabber.build/DerivedSources/i386 -I/Users/Decmac/Desktop/PhotoGrabber/build/PhotoGrabber.build/Debug-iphonesimulator/PhotoGrabber.build/DerivedSources -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PhotoGrabber_Prefix-fmtjaxarwfdqsggqlfiqbbrrssvn/PhotoGrabber_Prefix.pch -c /Users/Decmac/Desktop/PhotoGrabber/main.m -o /Users/Decmac/Desktop/PhotoGrabber/build/PhotoGrabber.build/Debug-iphonesimulator/PhotoGrabber.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/Decmac/Desktop/PhotoGrabber/FlipsideView.xib
+s354814660.271787
+e354814661.225789
+r1
+xCompileXIB
+x/Users/Decmac/Desktop/PhotoGrabber/FlipsideView.xib
+o2012-03-30 15:37:40.415 ibtool[282:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 35
+lSLF07#2@27"CompileXIB FlipsideView.xib354814660#354814661#0(107"2012-03-30 15:37:40.415 ibtool[282:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 350(0#0#51"/Users/Decmac/Desktop/PhotoGrabber/FlipsideView.xib4300885448#479"    cd /Users/Decmac/Desktop/PhotoGrabber    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Decmac/Desktop/PhotoGrabber/build/Debug-iphonesimulator/PhotoGrabber.app/FlipsideView.nib /Users/Decmac/Desktop/PhotoGrabber/FlipsideView.xib0#
+
+CCompileXIB /Users/Decmac/Desktop/PhotoGrabber/MainView.xib
+s354814660.276121
+e354814661.245013
+r1
+xCompileXIB
+x/Users/Decmac/Desktop/PhotoGrabber/MainView.xib
+o2012-03-30 15:37:40.456 ibtool[283:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 35
+lSLF07#2@23"CompileXIB MainView.xib354814660#354814661#0(107"2012-03-30 15:37:40.456 ibtool[283:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 350(0#0#47"/Users/Decmac/Desktop/PhotoGrabber/MainView.xib4300885448#471"    cd /Users/Decmac/Desktop/PhotoGrabber    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Decmac/Desktop/PhotoGrabber/build/Debug-iphonesimulator/PhotoGrabber.app/MainView.nib /Users/Decmac/Desktop/PhotoGrabber/MainView.xib0#
+
+CCompileXIB /Users/Decmac/Desktop/PhotoGrabber/MainWindow.xib
+s354814661.226009
+e354814661.893106
+r1
+xCompileXIB
+x/Users/Decmac/Desktop/PhotoGrabber/MainWindow.xib
+o2012-03-30 15:37:41.296 ibtool[287:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 35
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@25"CompileXIB MainWindow.xib354814661#354814661#0(191"2012-03-30 15:37:41.296 ibtool[287:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 35Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#49"/Users/Decmac/Desktop/PhotoGrabber/MainWindow.xib32651574046621776#475"    cd /Users/Decmac/Desktop/PhotoGrabber    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Decmac/Desktop/PhotoGrabber/build/Debug-iphonesimulator/PhotoGrabber.app/MainWindow.nib /Users/Decmac/Desktop/PhotoGrabber/MainWindow.xib0#
+
+CGenerateDSYMFile /Users/Decmac/Desktop/PhotoGrabber/build/Debug-iphonesimulator/PhotoGrabber.app.dSYM /Users/Decmac/Desktop/PhotoGrabber/build/Debug-iphonesimulator/PhotoGrabber.app/PhotoGrabber
+s354814664.781951
+e354814664.889657
+r1
+xGenerateDSYMFile
+x/Users/Decmac/Desktop/PhotoGrabber/build/Debug-iphonesimulator/PhotoGrabber.app.dSYM
+x/Users/Decmac/Desktop/PhotoGrabber/build/Debug-iphonesimulator/PhotoGrabber.app/PhotoGrabber
+o2012-03-30 15:37:44.875 dsymutil[327:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 35
+lSLF07#2@124"GenerateDSYMFile build/Debug-iphonesimulator/PhotoGrabber.app.dSYM build/Debug-iphonesimulator/PhotoGrabber.app/PhotoGrabber354814664#354814664#0(109"2012-03-30 15:37:44.875 dsymutil[327:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 350(0#0#92"/Users/Decmac/Desktop/PhotoGrabber/build/Debug-iphonesimulator/PhotoGrabber.app/PhotoGrabber4300885448#386"    cd /Users/Decmac/Desktop/PhotoGrabber    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/Decmac/Desktop/PhotoGrabber/build/Debug-iphonesimulator/PhotoGrabber.app/PhotoGrabber -o /Users/Decmac/Desktop/PhotoGrabber/build/Debug-iphonesimulator/PhotoGrabber.app.dSYM0#
+
+CLd /Users/Decmac/Desktop/PhotoGrabber/build/Debug-iphonesimulator/PhotoGrabber.app/PhotoGrabber normal i386
+s354814664.434777
+e354814664.781658
+r1
+xLd
+x/Users/Decmac/Desktop/PhotoGrabber/build/Debug-iphonesimulator/PhotoGrabber.app/PhotoGrabber
+xnormal
+xi386
+lSLF07#2@97"Link /Users/Decmac/Desktop/PhotoGrabber/build/Debug-iphonesimulator/PhotoGrabber.app/PhotoGrabber354814664#354814664#0(0"0(0#0#0"4300885448#869"    cd /Users/Decmac/Desktop/PhotoGrabber    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -L/Users/Decmac/Desktop/PhotoGrabber/build/Debug-iphonesimulator -F/Users/Decmac/Desktop/PhotoGrabber/build/Debug-iphonesimulator -filelist /Users/Decmac/Desktop/PhotoGrabber/build/PhotoGrabber.build/Debug-iphonesimulator/PhotoGrabber.build/Objects-normal/i386/PhotoGrabber.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/Decmac/Desktop/PhotoGrabber/build/Debug-iphonesimulator/PhotoGrabber.app/PhotoGrabber0#
+
+CProcessInfoPlistFile /Users/Decmac/Desktop/PhotoGrabber/build/Debug-iphonesimulator/PhotoGrabber.app/Info.plist PhotoGrabber-Info.plist
+s354814660.155946
+e354814660.271455
+r1
+xProcessInfoPlistFile
+x/Users/Decmac/Desktop/PhotoGrabber/build/Debug-iphonesimulator/PhotoGrabber.app/Info.plist
+xPhotoGrabber-Info.plist
+lSLF07#2@31"Process PhotoGrabber-Info.plist354814660#354814660#0(0"0(0#0#58"/Users/Decmac/Desktop/PhotoGrabber/PhotoGrabber-Info.plist31244169098821736#482"    cd /Users/Decmac/Desktop/PhotoGrabber    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility PhotoGrabber-Info.plist -genpkginfo /Users/Decmac/Desktop/PhotoGrabber/build/Debug-iphonesimulator/PhotoGrabber.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/Decmac/Desktop/PhotoGrabber/build/Debug-iphonesimulator/PhotoGrabber.app/Info.plist0#
+
+CProcessPCH /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PhotoGrabber_Prefix-fmtjaxarwfdqsggqlfiqbbrrssvn/PhotoGrabber_Prefix.pch.gch PhotoGrabber_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s354814661.893689
+e354814663.749260
+r1
+xProcessPCH
+x/var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PhotoGrabber_Prefix-fmtjaxarwfdqsggqlfiqbbrrssvn/PhotoGrabber_Prefix.pch.gch
+xPhotoGrabber_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile PhotoGrabber_Prefix.pch354814661#354814663#0(0"0(0#0#58"/Users/Decmac/Desktop/PhotoGrabber/PhotoGrabber_Prefix.pch4300885448#1806"    cd /Users/Decmac/Desktop/PhotoGrabber    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/PhotoGrabber/build/PhotoGrabber.build/Debug-iphonesimulator/PhotoGrabber.build/PhotoGrabber-generated-files.hmap -I/Users/Decmac/Desktop/PhotoGrabber/build/PhotoGrabber.build/Debug-iphonesimulator/PhotoGrabber.build/PhotoGrabber-own-target-headers.hmap -I/Users/Decmac/Desktop/PhotoGrabber/build/PhotoGrabber.build/Debug-iphonesimulator/PhotoGrabber.build/PhotoGrabber-all-target-headers.hmap -iquote /Users/Decmac/Desktop/PhotoGrabber/build/PhotoGrabber.build/Debug-iphonesimulator/PhotoGrabber.build/PhotoGrabber-project-headers.hmap -F/Users/Decmac/Desktop/PhotoGrabber/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/PhotoGrabber/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/PhotoGrabber/build/PhotoGrabber.build/Debug-iphonesimulator/PhotoGrabber.build/DerivedSources/i386 -I/Users/Decmac/Desktop/PhotoGrabber/build/PhotoGrabber.build/Debug-iphonesimulator/PhotoGrabber.build/DerivedSources -c /Users/Decmac/Desktop/PhotoGrabber/PhotoGrabber_Prefix.pch -o /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PhotoGrabber_Prefix-fmtjaxarwfdqsggqlfiqbbrrssvn/PhotoGrabber_Prefix.pch.gch0#
+
+CTouch /Users/Decmac/Desktop/PhotoGrabber/build/Debug-iphonesimulator/PhotoGrabber.app
+s354814664.889884
+e354814664.910984
+r1
+xTouch
+x/Users/Decmac/Desktop/PhotoGrabber/build/Debug-iphonesimulator/PhotoGrabber.app
+lSLF07#2@85"Touch /Users/Decmac/Desktop/PhotoGrabber/build/Debug-iphonesimulator/PhotoGrabber.app354814664#354814664#0(0"0(0#0#0"4300885448#275"    cd /Users/Decmac/Desktop/PhotoGrabber    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/Decmac/Desktop/PhotoGrabber/build/Debug-iphonesimulator/PhotoGrabber.app0#
+

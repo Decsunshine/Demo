@@ -1,0 +1,27 @@
+//
+//  FlashCard.m
+//  FlashCards
+//
+//  Created by 路宏亮 on 12-3-17.
+//  Copyright 2012 __MyCompanyName__. All rights reserved.
+//
+
+#import "FlashCard.h"
+
+
+@implementation FlashCard
+
+@synthesize question, answer, rightCount, wrongCount;
+
+- (id)initWithQuestion:(NSString *)thisQuestion answer:(NSString *)thisAnswer{
+	
+	if (self = [super init]) {
+		self.question = thisQuestion;
+		self.answer = thisAnswer;
+		self.rightCount = 0;
+		self.wrongCount = 0;
+	}
+	return self;
+}
+
+@end

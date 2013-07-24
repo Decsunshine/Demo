@@ -1,0 +1,401 @@
+TSpotOn
+v7
+r0
+t355591350.507122
+cCheck dependencies
+cProcessInfoPlistFile /Users/Decmac/Desktop/SpotOn/build/Debug-iphonesimulator/SpotOn.app/Info.plist SpotOn-Info.plist
+cCompileXIB /Users/Decmac/Desktop/SpotOn/MainWindow.xib
+cCompileXIB /Users/Decmac/Desktop/SpotOn/SpotOnViewController.xib
+cCpResource build/Debug-iphonesimulator/SpotOn.app/click.mp3 click.mp3
+cCpResource build/Debug-iphonesimulator/SpotOn.app/disappear.wav disappear.wav
+cCpResource build/Debug-iphonesimulator/SpotOn.app/hit.wav hit.wav
+cCpResource build/Debug-iphonesimulator/SpotOn.app/miss.wav miss.wav
+cCpResource build/Debug-iphonesimulator/SpotOn.app/untouched.png untouched.png
+cCpResource build/Debug-iphonesimulator/SpotOn.app/touched.png touched.png
+cProcessPCH /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SpotOn_Prefix-ebefcjfukcbsryamtkalbkwtkrta/SpotOn_Prefix.pch.gch SpotOn_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SpotOn.build/Debug-iphonesimulator/SpotOn.build/Objects-normal/i386/main.o /Users/Decmac/Desktop/SpotOn/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SpotOn.build/Debug-iphonesimulator/SpotOn.build/Objects-normal/i386/SpotOnAppDelegate.o /Users/Decmac/Desktop/SpotOn/Classes/SpotOnAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SpotOn.build/Debug-iphonesimulator/SpotOn.build/Objects-normal/i386/SpotOnViewController.o /Users/Decmac/Desktop/SpotOn/Classes/SpotOnViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/Decmac/Desktop/SpotOn/build/Debug-iphonesimulator/SpotOn.app/SpotOn normal i386
+cGenerateDSYMFile /Users/Decmac/Desktop/SpotOn/build/Debug-iphonesimulator/SpotOn.app.dSYM /Users/Decmac/Desktop/SpotOn/build/Debug-iphonesimulator/SpotOn.app/SpotOn
+cTouch /Users/Decmac/Desktop/SpotOn/build/Debug-iphonesimulator/SpotOn.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk
+c000000004F3A580900000000000000EE
+t1329223689
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004B2B4DF500000000000120D0
+t1261129205
+s73936
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVFoundation.h
+c000000004B2B4DEF00000000000000EB
+t1261129199
+s235
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.h
+c000000004B2B4DFB000000000000046B
+t1261129211
+s1131
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B2B4CC3000000000026EE30
+t1261128899
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B2B4DC8000000000027E880
+t1261129160
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B2B4DAE0000000000001355
+t1261129134
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004B2B537F000000000000007D
+t1261130623
+s125
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004B2B540C00000000000E5890
+t1261130764
+s940176
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B2B61620000000000000788
+t1261134178
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B2B62B500000000016721E0
+t1261134517
+s23536096
+
+N/Users/Decmac/Desktop/SpotOn/Classes/SpotOnAppDelegate.h
+c000000004F7AFE6800000000000001D5
+t1333460584
+s469
+i<UIKit/UIKit.h>
+
+N/Users/Decmac/Desktop/SpotOn/Classes/SpotOnAppDelegate.m
+c000000004F7AFE680000000000000261
+t1333460584
+s609
+i"SpotOnAppDelegate.h"
+i"SpotOnViewController.h"
+
+N/Users/Decmac/Desktop/SpotOn/Classes/SpotOnViewController.h
+c000000004F7B01590000000000000434
+t1333461337
+s1076
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+i<QuartzCore/QuartzCore.h>
+i<AVFoundation/AVFoundation.h>
+
+N/Users/Decmac/Desktop/SpotOn/Classes/SpotOnViewController.m
+c000000004F7B24DC0000000000001EA9
+t1333470428
+s7849
+i"SpotOnViewController.h"
+
+N/Users/Decmac/Desktop/SpotOn/MainWindow.xib
+c000000004F7AFE680000000000002443
+t1333460584
+s9283
+
+N/Users/Decmac/Desktop/SpotOn/SpotOnViewController.xib
+c000000004F7B020E000000000000518A
+t1333461518
+s20874
+
+N/Users/Decmac/Desktop/SpotOn/SpotOn_Prefix.pch
+c000000004F7AFE6800000000000000B5
+t1333460584
+s181
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/Decmac/Desktop/SpotOn/build/Debug-iphonesimulator/SpotOn.app
+t1333470430
+s442
+
+N/Users/Decmac/Desktop/SpotOn/build/Debug-iphonesimulator/SpotOn.app.dSYM
+t1333470430
+s102
+
+N/Users/Decmac/Desktop/SpotOn/build/Debug-iphonesimulator/SpotOn.app/Info.plist
+t1333460911
+s560
+
+N/Users/Decmac/Desktop/SpotOn/build/Debug-iphonesimulator/SpotOn.app/MainWindow.nib
+t1333460912
+s1493
+
+N/Users/Decmac/Desktop/SpotOn/build/Debug-iphonesimulator/SpotOn.app/PkgInfo
+t1333460911
+s8
+
+N/Users/Decmac/Desktop/SpotOn/build/Debug-iphonesimulator/SpotOn.app/SpotOn
+t1333470430
+s31152
+
+N/Users/Decmac/Desktop/SpotOn/build/Debug-iphonesimulator/SpotOn.app/SpotOnViewController.nib
+t1333468634
+s2149
+
+N/Users/Decmac/Desktop/SpotOn/build/Debug-iphonesimulator/SpotOn.app/click.mp3
+t1333468634
+s2216
+
+N/Users/Decmac/Desktop/SpotOn/build/Debug-iphonesimulator/SpotOn.app/disappear.wav
+t1333468634
+s44860
+
+N/Users/Decmac/Desktop/SpotOn/build/Debug-iphonesimulator/SpotOn.app/hit.wav
+t1333468634
+s5158
+
+N/Users/Decmac/Desktop/SpotOn/build/Debug-iphonesimulator/SpotOn.app/miss.wav
+t1333468634
+s2380
+
+N/Users/Decmac/Desktop/SpotOn/build/Debug-iphonesimulator/SpotOn.app/touched.png
+t1333468634
+s68511
+
+N/Users/Decmac/Desktop/SpotOn/build/Debug-iphonesimulator/SpotOn.app/untouched.png
+t1333468634
+s67790
+
+N/Users/Decmac/Desktop/SpotOn/build/SpotOn.build/Debug-iphonesimulator/SpotOn.build/Objects-normal/i386/SpotOn.LinkFileList
+c000000004F7AFFAF0000000000000167
+t1333460911
+s359
+
+N/Users/Decmac/Desktop/SpotOn/build/SpotOn.build/Debug-iphonesimulator/SpotOn.build/Objects-normal/i386/SpotOnAppDelegate.o
+t1333468635
+s39348
+
+N/Users/Decmac/Desktop/SpotOn/build/SpotOn.build/Debug-iphonesimulator/SpotOn.build/Objects-normal/i386/SpotOnViewController.o
+t1333470429
+s62972
+
+N/Users/Decmac/Desktop/SpotOn/build/SpotOn.build/Debug-iphonesimulator/SpotOn.build/Objects-normal/i386/main.o
+t1333460914
+s5936
+
+N/Users/Decmac/Desktop/SpotOn/click.mp3
+c000000004A6DC6AE00000000000008A8
+t1248708270
+s2216
+
+N/Users/Decmac/Desktop/SpotOn/disappear.wav
+c000000004A6DD296000000000000AF3C
+t1248711318
+s44860
+
+N/Users/Decmac/Desktop/SpotOn/hit.wav
+c000000004A6DCC900000000000001426
+t1248709776
+s5158
+
+N/Users/Decmac/Desktop/SpotOn/main.m
+c000000004F7AFE680000000000000164
+t1333460584
+s356
+i<UIKit/UIKit.h>
+
+N/Users/Decmac/Desktop/SpotOn/miss.wav
+c000000004A6DD0D2000000000000094C
+t1248710866
+s2380
+
+N/Users/Decmac/Desktop/SpotOn/touched.png
+c000000004A5FD0720000000000010B9F
+t1247793266
+s68511
+
+N/Users/Decmac/Desktop/SpotOn/untouched.png
+c000000004A5FD07200000000000108CE
+t1247793266
+s67790
+
+N/var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SpotOn_Prefix-ebefcjfukcbsryamtkalbkwtkrta/SpotOn_Prefix.pch.gch
+t1333460914
+s13034960
+
+NSpotOn-Info.plist
+c000000004F7AFE68000000000000038D
+t1333460584
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies355591350#355591350#0(0"0(0#1#0"7947009927035180032#0"0#
+
+CCompileC build/SpotOn.build/Debug-iphonesimulator/SpotOn.build/Objects-normal/i386/SpotOnAppDelegate.o /Users/Decmac/Desktop/SpotOn/Classes/SpotOnAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s355161435.063240
+e355161435.461282
+r1
+xCompileC
+xbuild/SpotOn.build/Debug-iphonesimulator/SpotOn.build/Objects-normal/i386/SpotOnAppDelegate.o
+x/Users/Decmac/Desktop/SpotOn/Classes/SpotOnAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/Decmac/Desktop/SpotOn/Classes/SpotOnAppDelegate.m355161435#355161435#0(0"0(0#0#56"/Users/Decmac/Desktop/SpotOn/Classes/SpotOnAppDelegate.m4300885448#1763"    cd /Users/Decmac/Desktop/SpotOn    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/SpotOn/build/SpotOn.build/Debug-iphonesimulator/SpotOn.build/SpotOn-generated-files.hmap -I/Users/Decmac/Desktop/SpotOn/build/SpotOn.build/Debug-iphonesimulator/SpotOn.build/SpotOn-own-target-headers.hmap -I/Users/Decmac/Desktop/SpotOn/build/SpotOn.build/Debug-iphonesimulator/SpotOn.build/SpotOn-all-target-headers.hmap -iquote /Users/Decmac/Desktop/SpotOn/build/SpotOn.build/Debug-iphonesimulator/SpotOn.build/SpotOn-project-headers.hmap -F/Users/Decmac/Desktop/SpotOn/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/SpotOn/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/SpotOn/build/SpotOn.build/Debug-iphonesimulator/SpotOn.build/DerivedSources/i386 -I/Users/Decmac/Desktop/SpotOn/build/SpotOn.build/Debug-iphonesimulator/SpotOn.build/DerivedSources -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SpotOn_Prefix-ebefcjfukcbsryamtkalbkwtkrta/SpotOn_Prefix.pch -c /Users/Decmac/Desktop/SpotOn/Classes/SpotOnAppDelegate.m -o /Users/Decmac/Desktop/SpotOn/build/SpotOn.build/Debug-iphonesimulator/SpotOn.build/Objects-normal/i386/SpotOnAppDelegate.o0#
+
+CCompileC build/SpotOn.build/Debug-iphonesimulator/SpotOn.build/Objects-normal/i386/SpotOnViewController.o /Users/Decmac/Desktop/SpotOn/Classes/SpotOnViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s355163229.223977
+e355163229.981571
+r1
+xCompileC
+xbuild/SpotOn.build/Debug-iphonesimulator/SpotOn.build/Objects-normal/i386/SpotOnViewController.o
+x/Users/Decmac/Desktop/SpotOn/Classes/SpotOnViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/Decmac/Desktop/SpotOn/Classes/SpotOnViewController.m355163229#355163230#0(0"0(0#0#59"/Users/Decmac/Desktop/SpotOn/Classes/SpotOnViewController.m4300885448#1769"    cd /Users/Decmac/Desktop/SpotOn    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/SpotOn/build/SpotOn.build/Debug-iphonesimulator/SpotOn.build/SpotOn-generated-files.hmap -I/Users/Decmac/Desktop/SpotOn/build/SpotOn.build/Debug-iphonesimulator/SpotOn.build/SpotOn-own-target-headers.hmap -I/Users/Decmac/Desktop/SpotOn/build/SpotOn.build/Debug-iphonesimulator/SpotOn.build/SpotOn-all-target-headers.hmap -iquote /Users/Decmac/Desktop/SpotOn/build/SpotOn.build/Debug-iphonesimulator/SpotOn.build/SpotOn-project-headers.hmap -F/Users/Decmac/Desktop/SpotOn/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/SpotOn/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/SpotOn/build/SpotOn.build/Debug-iphonesimulator/SpotOn.build/DerivedSources/i386 -I/Users/Decmac/Desktop/SpotOn/build/SpotOn.build/Debug-iphonesimulator/SpotOn.build/DerivedSources -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SpotOn_Prefix-ebefcjfukcbsryamtkalbkwtkrta/SpotOn_Prefix.pch -c /Users/Decmac/Desktop/SpotOn/Classes/SpotOnViewController.m -o /Users/Decmac/Desktop/SpotOn/build/SpotOn.build/Debug-iphonesimulator/SpotOn.build/Objects-normal/i386/SpotOnViewController.o0#
+
+CCompileC build/SpotOn.build/Debug-iphonesimulator/SpotOn.build/Objects-normal/i386/main.o /Users/Decmac/Desktop/SpotOn/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s355153714.273585
+e355153714.399024
+r1
+xCompileC
+xbuild/SpotOn.build/Debug-iphonesimulator/SpotOn.build/Objects-normal/i386/main.o
+x/Users/Decmac/Desktop/SpotOn/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@43"Compile /Users/Decmac/Desktop/SpotOn/main.m355153714#355153714#0(0"0(0#0#35"/Users/Decmac/Desktop/SpotOn/main.m4300885448#1729"    cd /Users/Decmac/Desktop/SpotOn    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/SpotOn/build/SpotOn.build/Debug-iphonesimulator/SpotOn.build/SpotOn-generated-files.hmap -I/Users/Decmac/Desktop/SpotOn/build/SpotOn.build/Debug-iphonesimulator/SpotOn.build/SpotOn-own-target-headers.hmap -I/Users/Decmac/Desktop/SpotOn/build/SpotOn.build/Debug-iphonesimulator/SpotOn.build/SpotOn-all-target-headers.hmap -iquote /Users/Decmac/Desktop/SpotOn/build/SpotOn.build/Debug-iphonesimulator/SpotOn.build/SpotOn-project-headers.hmap -F/Users/Decmac/Desktop/SpotOn/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/SpotOn/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/SpotOn/build/SpotOn.build/Debug-iphonesimulator/SpotOn.build/DerivedSources/i386 -I/Users/Decmac/Desktop/SpotOn/build/SpotOn.build/Debug-iphonesimulator/SpotOn.build/DerivedSources -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SpotOn_Prefix-ebefcjfukcbsryamtkalbkwtkrta/SpotOn_Prefix.pch -c /Users/Decmac/Desktop/SpotOn/main.m -o /Users/Decmac/Desktop/SpotOn/build/SpotOn.build/Debug-iphonesimulator/SpotOn.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/Decmac/Desktop/SpotOn/MainWindow.xib
+s355153711.465115
+e355153712.402987
+r1
+xCompileXIB
+x/Users/Decmac/Desktop/SpotOn/MainWindow.xib
+o2012-04-03 13:48:31.637 ibtool[326:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 35
+lSLF07#2@25"CompileXIB MainWindow.xib355153711#355153712#0(107"2012-04-03 13:48:31.637 ibtool[326:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 350(0#0#43"/Users/Decmac/Desktop/SpotOn/MainWindow.xib4300885448#451"    cd /Users/Decmac/Desktop/SpotOn    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Decmac/Desktop/SpotOn/build/Debug-iphonesimulator/SpotOn.app/MainWindow.nib /Users/Decmac/Desktop/SpotOn/MainWindow.xib0#
+
+CCompileXIB /Users/Decmac/Desktop/SpotOn/SpotOnViewController.xib
+s355161434.034529
+e355161435.062423
+r1
+xCompileXIB
+x/Users/Decmac/Desktop/SpotOn/SpotOnViewController.xib
+o2012-04-03 15:57:14.148 ibtool[942:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 35
+lSLF07#2@35"CompileXIB SpotOnViewController.xib355161434#355161435#0(107"2012-04-03 15:57:14.148 ibtool[942:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 350(0#0#53"/Users/Decmac/Desktop/SpotOn/SpotOnViewController.xib4300885448#471"    cd /Users/Decmac/Desktop/SpotOn    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Decmac/Desktop/SpotOn/build/Debug-iphonesimulator/SpotOn.app/SpotOnViewController.nib /Users/Decmac/Desktop/SpotOn/SpotOnViewController.xib0#
+
+CCpResource build/Debug-iphonesimulator/SpotOn.app/click.mp3 click.mp3
+s355161434.037079
+e355161434.100658
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SpotOn.app/click.mp3
+xclick.mp3
+lSLF07#2@14"Copy click.mp3355161434#355161434#0(0"0(0#0#38"/Users/Decmac/Desktop/SpotOn/click.mp34300885448#422"    cd /Users/Decmac/Desktop/SpotOn    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Decmac/Desktop/SpotOn/click.mp3 /Users/Decmac/Desktop/SpotOn/build/Debug-iphonesimulator/SpotOn.app0#
+
+CCpResource build/Debug-iphonesimulator/SpotOn.app/disappear.wav disappear.wav
+s355161434.049210
+e355161434.101133
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SpotOn.app/disappear.wav
+xdisappear.wav
+lSLF07#2@18"Copy disappear.wav355161434#355161434#0(0"0(0#0#42"/Users/Decmac/Desktop/SpotOn/disappear.wav4300885448#426"    cd /Users/Decmac/Desktop/SpotOn    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Decmac/Desktop/SpotOn/disappear.wav /Users/Decmac/Desktop/SpotOn/build/Debug-iphonesimulator/SpotOn.app0#
+
+CCpResource build/Debug-iphonesimulator/SpotOn.app/hit.wav hit.wav
+s355161434.061670
+e355161434.101664
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SpotOn.app/hit.wav
+xhit.wav
+lSLF07#2@12"Copy hit.wav355161434#355161434#0(0"0(0#0#36"/Users/Decmac/Desktop/SpotOn/hit.wav4300885448#420"    cd /Users/Decmac/Desktop/SpotOn    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Decmac/Desktop/SpotOn/hit.wav /Users/Decmac/Desktop/SpotOn/build/Debug-iphonesimulator/SpotOn.app0#
+
+CCpResource build/Debug-iphonesimulator/SpotOn.app/miss.wav miss.wav
+s355161434.068160
+e355161434.102041
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SpotOn.app/miss.wav
+xmiss.wav
+lSLF07#2@13"Copy miss.wav355161434#355161434#0(0"0(0#0#37"/Users/Decmac/Desktop/SpotOn/miss.wav4300885448#421"    cd /Users/Decmac/Desktop/SpotOn    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Decmac/Desktop/SpotOn/miss.wav /Users/Decmac/Desktop/SpotOn/build/Debug-iphonesimulator/SpotOn.app0#
+
+CCpResource build/Debug-iphonesimulator/SpotOn.app/touched.png touched.png
+s355161434.092683
+e355161434.116795
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SpotOn.app/touched.png
+xtouched.png
+lSLF07#2@16"Copy touched.png355161434#355161434#0(0"0(0#0#40"/Users/Decmac/Desktop/SpotOn/touched.png4300885448#424"    cd /Users/Decmac/Desktop/SpotOn    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Decmac/Desktop/SpotOn/touched.png /Users/Decmac/Desktop/SpotOn/build/Debug-iphonesimulator/SpotOn.app0#
+
+CCpResource build/Debug-iphonesimulator/SpotOn.app/untouched.png untouched.png
+s355161434.084766
+e355161434.107719
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SpotOn.app/untouched.png
+xuntouched.png
+lSLF07#2@18"Copy untouched.png355161434#355161434#0(0"0(0#0#42"/Users/Decmac/Desktop/SpotOn/untouched.png4300885448#426"    cd /Users/Decmac/Desktop/SpotOn    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Decmac/Desktop/SpotOn/untouched.png /Users/Decmac/Desktop/SpotOn/build/Debug-iphonesimulator/SpotOn.app0#
+
+CGenerateDSYMFile /Users/Decmac/Desktop/SpotOn/build/Debug-iphonesimulator/SpotOn.app.dSYM /Users/Decmac/Desktop/SpotOn/build/Debug-iphonesimulator/SpotOn.app/SpotOn
+s355163230.047911
+e355163230.096706
+r1
+xGenerateDSYMFile
+x/Users/Decmac/Desktop/SpotOn/build/Debug-iphonesimulator/SpotOn.app.dSYM
+x/Users/Decmac/Desktop/SpotOn/build/Debug-iphonesimulator/SpotOn.app/SpotOn
+o2012-04-03 16:27:10.081 dsymutil[1119:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 35
+lSLF07#2@106"GenerateDSYMFile build/Debug-iphonesimulator/SpotOn.app.dSYM build/Debug-iphonesimulator/SpotOn.app/SpotOn355163230#355163230#0(110"2012-04-03 16:27:10.081 dsymutil[1119:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 350(0#0#74"/Users/Decmac/Desktop/SpotOn/build/Debug-iphonesimulator/SpotOn.app/SpotOn4300885448#350"    cd /Users/Decmac/Desktop/SpotOn    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/Decmac/Desktop/SpotOn/build/Debug-iphonesimulator/SpotOn.app/SpotOn -o /Users/Decmac/Desktop/SpotOn/build/Debug-iphonesimulator/SpotOn.app.dSYM0#
+
+CLd /Users/Decmac/Desktop/SpotOn/build/Debug-iphonesimulator/SpotOn.app/SpotOn normal i386
+s355163229.981827
+e355163230.047631
+r1
+xLd
+x/Users/Decmac/Desktop/SpotOn/build/Debug-iphonesimulator/SpotOn.app/SpotOn
+xnormal
+xi386
+lSLF07#2@79"Link /Users/Decmac/Desktop/SpotOn/build/Debug-iphonesimulator/SpotOn.app/SpotOn355163229#355163230#0(0"0(0#0#0"4300885448#855"    cd /Users/Decmac/Desktop/SpotOn    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -L/Users/Decmac/Desktop/SpotOn/build/Debug-iphonesimulator -F/Users/Decmac/Desktop/SpotOn/build/Debug-iphonesimulator -filelist /Users/Decmac/Desktop/SpotOn/build/SpotOn.build/Debug-iphonesimulator/SpotOn.build/Objects-normal/i386/SpotOn.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -framework AVFoundation -framework QuartzCore -o /Users/Decmac/Desktop/SpotOn/build/Debug-iphonesimulator/SpotOn.app/SpotOn0#
+
+CProcessInfoPlistFile /Users/Decmac/Desktop/SpotOn/build/Debug-iphonesimulator/SpotOn.app/Info.plist SpotOn-Info.plist
+s355153711.352964
+e355153711.464868
+r1
+xProcessInfoPlistFile
+x/Users/Decmac/Desktop/SpotOn/build/Debug-iphonesimulator/SpotOn.app/Info.plist
+xSpotOn-Info.plist
+lSLF07#2@25"Process SpotOn-Info.plist355153711#355153711#0(0"0(0#0#46"/Users/Decmac/Desktop/SpotOn/SpotOn-Info.plist4300885448#446"    cd /Users/Decmac/Desktop/SpotOn    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility SpotOn-Info.plist -genpkginfo /Users/Decmac/Desktop/SpotOn/build/Debug-iphonesimulator/SpotOn.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/Decmac/Desktop/SpotOn/build/Debug-iphonesimulator/SpotOn.app/Info.plist0#
+
+CProcessPCH /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SpotOn_Prefix-ebefcjfukcbsryamtkalbkwtkrta/SpotOn_Prefix.pch.gch SpotOn_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s355153712.403305
+e355153714.273223
+r1
+xProcessPCH
+x/var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SpotOn_Prefix-ebefcjfukcbsryamtkalbkwtkrta/SpotOn_Prefix.pch.gch
+xSpotOn_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile SpotOn_Prefix.pch355153712#355153714#0(0"0(0#0#46"/Users/Decmac/Desktop/SpotOn/SpotOn_Prefix.pch8093865128201905152#1632"    cd /Users/Decmac/Desktop/SpotOn    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/SpotOn/build/SpotOn.build/Debug-iphonesimulator/SpotOn.build/SpotOn-generated-files.hmap -I/Users/Decmac/Desktop/SpotOn/build/SpotOn.build/Debug-iphonesimulator/SpotOn.build/SpotOn-own-target-headers.hmap -I/Users/Decmac/Desktop/SpotOn/build/SpotOn.build/Debug-iphonesimulator/SpotOn.build/SpotOn-all-target-headers.hmap -iquote /Users/Decmac/Desktop/SpotOn/build/SpotOn.build/Debug-iphonesimulator/SpotOn.build/SpotOn-project-headers.hmap -F/Users/Decmac/Desktop/SpotOn/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/SpotOn/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/SpotOn/build/SpotOn.build/Debug-iphonesimulator/SpotOn.build/DerivedSources/i386 -I/Users/Decmac/Desktop/SpotOn/build/SpotOn.build/Debug-iphonesimulator/SpotOn.build/DerivedSources -c /Users/Decmac/Desktop/SpotOn/SpotOn_Prefix.pch -o /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SpotOn_Prefix-ebefcjfukcbsryamtkalbkwtkrta/SpotOn_Prefix.pch.gch0#
+
+CTouch /Users/Decmac/Desktop/SpotOn/build/Debug-iphonesimulator/SpotOn.app
+s355163230.096926
+e355163230.103917
+r1
+xTouch
+x/Users/Decmac/Desktop/SpotOn/build/Debug-iphonesimulator/SpotOn.app
+lSLF07#2@73"Touch /Users/Decmac/Desktop/SpotOn/build/Debug-iphonesimulator/SpotOn.app355163230#355163230#0(0"0(0#0#0"4300885448#257"    cd /Users/Decmac/Desktop/SpotOn    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/Decmac/Desktop/SpotOn/build/Debug-iphonesimulator/SpotOn.app0#
+

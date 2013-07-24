@@ -1,0 +1,239 @@
+TDateCalc
+v7
+r0
+t354470884.792035
+cCheck dependencies
+cProcessInfoPlistFile /Users/Decmac/Desktop/DateCalc/build/Debug-iphonesimulator/DateCalc.app/Info.plist DateCalc-Info.plist
+cCompileXIB /Users/Decmac/Desktop/DateCalc/MainWindow.xib
+cCompileXIB /Users/Decmac/Desktop/DateCalc/DateCalcViewController.xib
+cProcessPCH /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DateCalc_Prefix-ebrlctuevrwyjhdsocnumuwusylh/DateCalc_Prefix.pch.gch DateCalc_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DateCalc.build/Debug-iphonesimulator/DateCalc.build/Objects-normal/i386/main.o /Users/Decmac/Desktop/DateCalc/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DateCalc.build/Debug-iphonesimulator/DateCalc.build/Objects-normal/i386/DateCalcAppDelegate.o /Users/Decmac/Desktop/DateCalc/Classes/DateCalcAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DateCalc.build/Debug-iphonesimulator/DateCalc.build/Objects-normal/i386/DateCalcViewController.o /Users/Decmac/Desktop/DateCalc/Classes/DateCalcViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk
+c000000004F3A580900000000000000EE
+t1329223689
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B2B4CC3000000000026EE30
+t1261128899
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B2B4DC8000000000027E880
+t1261129160
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B2B4DAE0000000000001355
+t1261129134
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B2B61620000000000000788
+t1261134178
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B2B62B500000000016721E0
+t1261134517
+s23536096
+
+N/Users/Decmac/Desktop/DateCalc/Classes/DateCalcAppDelegate.h
+c000000004F7088BB00000000000001E2
+t1332775099
+s482
+i<UIKit/UIKit.h>
+
+N/Users/Decmac/Desktop/DateCalc/Classes/DateCalcAppDelegate.m
+c000000004F7088BB000000000000026C
+t1332775099
+s620
+i"DateCalcAppDelegate.h"
+i"DateCalcViewController.h"
+
+N/Users/Decmac/Desktop/DateCalc/Classes/DateCalcViewController.h
+c000000004F708935000000000000016E
+t1332775221
+s366
+i<UIKit/UIKit.h>
+
+N/Users/Decmac/Desktop/DateCalc/Classes/DateCalcViewController.m
+c000000004F70946000000000000004E1
+t1332778080
+s1249
+i"DateCalcViewController.h"
+
+N/Users/Decmac/Desktop/DateCalc/DateCalcViewController.xib
+c000000004F708D730000000000005377
+t1332776307
+s21367
+
+N/Users/Decmac/Desktop/DateCalc/DateCalc_Prefix.pch
+c000000004F7088BB00000000000000B9
+t1332775099
+s185
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/Decmac/Desktop/DateCalc/MainWindow.xib
+c000000004F7088BB0000000000002459
+t1332775099
+s9305
+
+N/Users/Decmac/Desktop/DateCalc/build/DateCalc.build/Debug-iphonesimulator/DateCalc.build/Objects-normal/i386/DateCalc.LinkFileList
+c000000004F709461000000000000017D
+t1332778081
+s381
+
+N/Users/Decmac/Desktop/DateCalc/build/DateCalc.build/Debug-iphonesimulator/DateCalc.build/Objects-normal/i386/DateCalcAppDelegate.o
+t1332778084
+s38128
+
+N/Users/Decmac/Desktop/DateCalc/build/DateCalc.build/Debug-iphonesimulator/DateCalc.build/Objects-normal/i386/DateCalcViewController.o
+t2
+s0
+
+N/Users/Decmac/Desktop/DateCalc/build/DateCalc.build/Debug-iphonesimulator/DateCalc.build/Objects-normal/i386/main.o
+t1332778084
+s5940
+
+N/Users/Decmac/Desktop/DateCalc/build/Debug-iphonesimulator/DateCalc.app
+t2
+s0
+
+N/Users/Decmac/Desktop/DateCalc/build/Debug-iphonesimulator/DateCalc.app.dSYM
+t2
+s0
+
+N/Users/Decmac/Desktop/DateCalc/build/Debug-iphonesimulator/DateCalc.app/DateCalc
+t2
+s0
+
+N/Users/Decmac/Desktop/DateCalc/build/Debug-iphonesimulator/DateCalc.app/DateCalcViewController.nib
+t1332778082
+s2317
+
+N/Users/Decmac/Desktop/DateCalc/build/Debug-iphonesimulator/DateCalc.app/Info.plist
+t1332778081
+s568
+
+N/Users/Decmac/Desktop/DateCalc/build/Debug-iphonesimulator/DateCalc.app/MainWindow.nib
+t1332778082
+s1497
+
+N/Users/Decmac/Desktop/DateCalc/build/Debug-iphonesimulator/DateCalc.app/PkgInfo
+t1332778081
+s8
+
+N/Users/Decmac/Desktop/DateCalc/main.m
+c000000004F7088BB0000000000000167
+t1332775099
+s359
+i<UIKit/UIKit.h>
+
+N/var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DateCalc_Prefix-ebrlctuevrwyjhdsocnumuwusylh/DateCalc_Prefix.pch.gch
+t1332778084
+s13034960
+
+NDateCalc-Info.plist
+c000000004F7088BB000000000000038D
+t1332775099
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies354470881#354470881#0(0"0(0#1#0"4300885448#0"0#
+
+CCompileC build/DateCalc.build/Debug-iphonesimulator/DateCalc.build/Objects-normal/i386/DateCalcAppDelegate.o /Users/Decmac/Desktop/DateCalc/Classes/DateCalcAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354470884.533085
+e354470884.761570
+r1
+xCompileC
+xbuild/DateCalc.build/Debug-iphonesimulator/DateCalc.build/Objects-normal/i386/DateCalcAppDelegate.o
+x/Users/Decmac/Desktop/DateCalc/Classes/DateCalcAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/Decmac/Desktop/DateCalc/Classes/DateCalcAppDelegate.m354470884#354470884#0(0"0(0#0#60"/Users/Decmac/Desktop/DateCalc/Classes/DateCalcAppDelegate.m4300885448#1829"    cd /Users/Decmac/Desktop/DateCalc    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/DateCalc/build/DateCalc.build/Debug-iphonesimulator/DateCalc.build/DateCalc-generated-files.hmap -I/Users/Decmac/Desktop/DateCalc/build/DateCalc.build/Debug-iphonesimulator/DateCalc.build/DateCalc-own-target-headers.hmap -I/Users/Decmac/Desktop/DateCalc/build/DateCalc.build/Debug-iphonesimulator/DateCalc.build/DateCalc-all-target-headers.hmap -iquote /Users/Decmac/Desktop/DateCalc/build/DateCalc.build/Debug-iphonesimulator/DateCalc.build/DateCalc-project-headers.hmap -F/Users/Decmac/Desktop/DateCalc/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/DateCalc/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/DateCalc/build/DateCalc.build/Debug-iphonesimulator/DateCalc.build/DerivedSources/i386 -I/Users/Decmac/Desktop/DateCalc/build/DateCalc.build/Debug-iphonesimulator/DateCalc.build/DerivedSources -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DateCalc_Prefix-ebrlctuevrwyjhdsocnumuwusylh/DateCalc_Prefix.pch -c /Users/Decmac/Desktop/DateCalc/Classes/DateCalcAppDelegate.m -o /Users/Decmac/Desktop/DateCalc/build/DateCalc.build/Debug-iphonesimulator/DateCalc.build/Objects-normal/i386/DateCalcAppDelegate.o0#
+
+CCompileC build/DateCalc.build/Debug-iphonesimulator/DateCalc.build/Objects-normal/i386/DateCalcViewController.o /Users/Decmac/Desktop/DateCalc/Classes/DateCalcViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354470884.657905
+e354470884.791814
+r0
+xCompileC
+xbuild/DateCalc.build/Debug-iphonesimulator/DateCalc.build/Objects-normal/i386/DateCalcViewController.o
+x/Users/Decmac/Desktop/DateCalc/Classes/DateCalcViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/Decmac/Desktop/DateCalc/Classes/DateCalcViewController.m: In function '-[DateCalcViewController showDate:]':
+o/Users/Decmac/Desktop/DateCalc/Classes/DateCalcViewController.m:24: error: invalid operands to binary / (have 'struct NSDate *' and 'int')
+lSLF07#2@71"Compile /Users/Decmac/Desktop/DateCalc/Classes/DateCalcViewController.m354470884#354470884#0(255"/Users/Decmac/Desktop/DateCalc/Classes/DateCalcViewController.m: In function '-[DateCalcViewController showDate:]':/Users/Decmac/Desktop/DateCalc/Classes/DateCalcViewController.m:24: error: invalid operands to binary / (have 'struct NSDate *' and 'int')1(4@63"Invalid operands to binary / (have 'struct NSDate *' and 'int')354470884#116#139#0(6@63"/Users/Decmac/Desktop/DateCalc/Classes/DateCalcViewController.m354470880#24#0#24#0#0"0(0#0#63"/Users/Decmac/Desktop/DateCalc/Classes/DateCalcViewController.m4300885448#1835"    cd /Users/Decmac/Desktop/DateCalc    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/DateCalc/build/DateCalc.build/Debug-iphonesimulator/DateCalc.build/DateCalc-generated-files.hmap -I/Users/Decmac/Desktop/DateCalc/build/DateCalc.build/Debug-iphonesimulator/DateCalc.build/DateCalc-own-target-headers.hmap -I/Users/Decmac/Desktop/DateCalc/build/DateCalc.build/Debug-iphonesimulator/DateCalc.build/DateCalc-all-target-headers.hmap -iquote /Users/Decmac/Desktop/DateCalc/build/DateCalc.build/Debug-iphonesimulator/DateCalc.build/DateCalc-project-headers.hmap -F/Users/Decmac/Desktop/DateCalc/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/DateCalc/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/DateCalc/build/DateCalc.build/Debug-iphonesimulator/DateCalc.build/DerivedSources/i386 -I/Users/Decmac/Desktop/DateCalc/build/DateCalc.build/Debug-iphonesimulator/DateCalc.build/DerivedSources -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DateCalc_Prefix-ebrlctuevrwyjhdsocnumuwusylh/DateCalc_Prefix.pch -c /Users/Decmac/Desktop/DateCalc/Classes/DateCalcViewController.m -o /Users/Decmac/Desktop/DateCalc/build/DateCalc.build/Debug-iphonesimulator/DateCalc.build/Objects-normal/i386/DateCalcViewController.o1#
+
+CCompileC build/DateCalc.build/Debug-iphonesimulator/DateCalc.build/Objects-normal/i386/main.o /Users/Decmac/Desktop/DateCalc/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354470884.530208
+e354470884.657619
+r1
+xCompileC
+xbuild/DateCalc.build/Debug-iphonesimulator/DateCalc.build/Objects-normal/i386/main.o
+x/Users/Decmac/Desktop/DateCalc/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@45"Compile /Users/Decmac/Desktop/DateCalc/main.m354470884#354470884#0(0"0(0#0#37"/Users/Decmac/Desktop/DateCalc/main.m4300885448#1791"    cd /Users/Decmac/Desktop/DateCalc    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/DateCalc/build/DateCalc.build/Debug-iphonesimulator/DateCalc.build/DateCalc-generated-files.hmap -I/Users/Decmac/Desktop/DateCalc/build/DateCalc.build/Debug-iphonesimulator/DateCalc.build/DateCalc-own-target-headers.hmap -I/Users/Decmac/Desktop/DateCalc/build/DateCalc.build/Debug-iphonesimulator/DateCalc.build/DateCalc-all-target-headers.hmap -iquote /Users/Decmac/Desktop/DateCalc/build/DateCalc.build/Debug-iphonesimulator/DateCalc.build/DateCalc-project-headers.hmap -F/Users/Decmac/Desktop/DateCalc/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/DateCalc/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/DateCalc/build/DateCalc.build/Debug-iphonesimulator/DateCalc.build/DerivedSources/i386 -I/Users/Decmac/Desktop/DateCalc/build/DateCalc.build/Debug-iphonesimulator/DateCalc.build/DerivedSources -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DateCalc_Prefix-ebrlctuevrwyjhdsocnumuwusylh/DateCalc_Prefix.pch -c /Users/Decmac/Desktop/DateCalc/main.m -o /Users/Decmac/Desktop/DateCalc/build/DateCalc.build/Debug-iphonesimulator/DateCalc.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/Decmac/Desktop/DateCalc/DateCalcViewController.xib
+s354470881.236032
+e354470882.390119
+r1
+xCompileXIB
+x/Users/Decmac/Desktop/DateCalc/DateCalcViewController.xib
+o2012-03-26 16:08:01.438 ibtool[512:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 35
+lSLF07#2@37"CompileXIB DateCalcViewController.xib354470881#354470882#0(107"2012-03-26 16:08:01.438 ibtool[512:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 350(0#0#57"/Users/Decmac/Desktop/DateCalc/DateCalcViewController.xib4300885448#483"    cd /Users/Decmac/Desktop/DateCalc    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Decmac/Desktop/DateCalc/build/Debug-iphonesimulator/DateCalc.app/DateCalcViewController.nib /Users/Decmac/Desktop/DateCalc/DateCalcViewController.xib0#
+
+CCompileXIB /Users/Decmac/Desktop/DateCalc/MainWindow.xib
+s354470881.223704
+e354470882.265296
+r1
+xCompileXIB
+x/Users/Decmac/Desktop/DateCalc/MainWindow.xib
+o2012-03-26 16:08:01.382 ibtool[511:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 35
+lSLF07#2@25"CompileXIB MainWindow.xib354470881#354470882#0(107"2012-03-26 16:08:01.382 ibtool[511:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 350(0#0#45"/Users/Decmac/Desktop/DateCalc/MainWindow.xib4300885448#459"    cd /Users/Decmac/Desktop/DateCalc    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Decmac/Desktop/DateCalc/build/Debug-iphonesimulator/DateCalc.app/MainWindow.nib /Users/Decmac/Desktop/DateCalc/MainWindow.xib0#
+
+CGenerateDSYMFile /Users/Decmac/Desktop/DateCalc/build/Debug-iphonesimulator/DateCalc.app.dSYM /Users/Decmac/Desktop/DateCalc/build/Debug-iphonesimulator/DateCalc.app/DateCalc
+r0
+
+CLd /Users/Decmac/Desktop/DateCalc/build/Debug-iphonesimulator/DateCalc.app/DateCalc normal i386
+r0
+
+CProcessInfoPlistFile /Users/Decmac/Desktop/DateCalc/build/Debug-iphonesimulator/DateCalc.app/Info.plist DateCalc-Info.plist
+s354470881.181257
+e354470881.223428
+r1
+xProcessInfoPlistFile
+x/Users/Decmac/Desktop/DateCalc/build/Debug-iphonesimulator/DateCalc.app/Info.plist
+xDateCalc-Info.plist
+lSLF07#2@27"Process DateCalc-Info.plist354470881#354470881#0(0"0(0#0#50"/Users/Decmac/Desktop/DateCalc/DateCalc-Info.plist4300885448#458"    cd /Users/Decmac/Desktop/DateCalc    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility DateCalc-Info.plist -genpkginfo /Users/Decmac/Desktop/DateCalc/build/Debug-iphonesimulator/DateCalc.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/Decmac/Desktop/DateCalc/build/Debug-iphonesimulator/DateCalc.app/Info.plist0#
+
+CProcessPCH /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DateCalc_Prefix-ebrlctuevrwyjhdsocnumuwusylh/DateCalc_Prefix.pch.gch DateCalc_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s354470882.390462
+e354470884.529624
+r1
+xProcessPCH
+x/var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DateCalc_Prefix-ebrlctuevrwyjhdsocnumuwusylh/DateCalc_Prefix.pch.gch
+xDateCalc_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile DateCalc_Prefix.pch354470882#354470884#0(0"0(0#0#50"/Users/Decmac/Desktop/DateCalc/DateCalc_Prefix.pch4300885448#1690"    cd /Users/Decmac/Desktop/DateCalc    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/DateCalc/build/DateCalc.build/Debug-iphonesimulator/DateCalc.build/DateCalc-generated-files.hmap -I/Users/Decmac/Desktop/DateCalc/build/DateCalc.build/Debug-iphonesimulator/DateCalc.build/DateCalc-own-target-headers.hmap -I/Users/Decmac/Desktop/DateCalc/build/DateCalc.build/Debug-iphonesimulator/DateCalc.build/DateCalc-all-target-headers.hmap -iquote /Users/Decmac/Desktop/DateCalc/build/DateCalc.build/Debug-iphonesimulator/DateCalc.build/DateCalc-project-headers.hmap -F/Users/Decmac/Desktop/DateCalc/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/DateCalc/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/DateCalc/build/DateCalc.build/Debug-iphonesimulator/DateCalc.build/DerivedSources/i386 -I/Users/Decmac/Desktop/DateCalc/build/DateCalc.build/Debug-iphonesimulator/DateCalc.build/DerivedSources -c /Users/Decmac/Desktop/DateCalc/DateCalc_Prefix.pch -o /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DateCalc_Prefix-ebrlctuevrwyjhdsocnumuwusylh/DateCalc_Prefix.pch.gch0#
+
+CTouch /Users/Decmac/Desktop/DateCalc/build/Debug-iphonesimulator/DateCalc.app
+r0
+

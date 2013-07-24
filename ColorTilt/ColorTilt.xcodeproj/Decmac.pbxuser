@@ -1,0 +1,140 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* ColorTilt */ = {
+		activeExec = 0;
+		executables = (
+			897A12271525059F00AE7C55 /* ColorTilt */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* ColorTiltViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {600, 247}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 339}";
+			sepNavWindowFrame = "{{15, 120}, {765, 621}}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* ColorTiltViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {712, 1326}}";
+			sepNavSelRange = "{990, 0}";
+			sepNavVisRange = "{222, 604}";
+			sepNavWindowFrame = "{{38, 99}, {765, 621}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 897A12271525059F00AE7C55 /* ColorTilt */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* ColorTilt */;
+		codeSenseManager = 897A122D152505BF00AE7C55 /* Code sense */;
+		executables = (
+			897A12271525059F00AE7C55 /* ColorTilt */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 354800845;
+			PBXWorkspaceStateSaveDate = 354800845;
+		};
+		perUserProjectItems = {
+			897A125B15250E3400AE7C55 /* PBXTextBookmark */ = 897A125B15250E3400AE7C55 /* PBXTextBookmark */;
+			897A125D15250E3400AE7C55 /* PBXTextBookmark */ = 897A125D15250E3400AE7C55 /* PBXTextBookmark */;
+			898115971525D4CF00852430 /* PBXTextBookmark */ = 898115971525D4CF00852430 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 897A122C152505BF00AE7C55 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	897A12271525059F00AE7C55 /* ColorTilt */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = ColorTilt;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	897A122C152505BF00AE7C55 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	897A122D152505BF00AE7C55 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	897A125B15250E3400AE7C55 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* ColorTiltViewController.h */;
+		name = "ColorTiltViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 339;
+		vrLoc = 0;
+	};
+	897A125D15250E3400AE7C55 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* ColorTiltViewController.m */;
+		name = "ColorTiltViewController.m: 39";
+		rLen = 0;
+		rLoc = 990;
+		rType = 0;
+		vrLen = 604;
+		vrLoc = 222;
+	};
+	898115971525D4CF00852430 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* ColorTiltViewController.m */;
+		name = "ColorTiltViewController.m: 39";
+		rLen = 0;
+		rLoc = 990;
+		rType = 0;
+		vrLen = 604;
+		vrLoc = 222;
+	};
+}

@@ -1,0 +1,531 @@
+TFlashCardsCoreData
+v7
+r0
+t354639459.720866
+cCheck dependencies
+cProcessInfoPlistFile /Users/Decmac/Desktop/FlashCardsCoreData/build/Debug-iphonesimulator/FlashCardsCoreData.app/Info.plist FlashCardsCoreData-Info.plist
+cCompileXIB /Users/Decmac/Desktop/FlashCardsCoreData/MainWindow.xib
+cCompileXIB /Users/Decmac/Desktop/FlashCardsCoreData/CreateCardViewController.xib
+cCompileXIB /Users/Decmac/Desktop/FlashCardsCoreData/FlashCardsViewController.xib
+cProcessPCH /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FlashCardsCoreData_Prefix-etjfjypsyzdrezfylutaevgibjvr/FlashCardsCoreData_Prefix.pch.gch FlashCardsCoreData_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cDataModelCompile /Users/Decmac/Desktop/FlashCardsCoreData/build/Debug-iphonesimulator/FlashCardsCoreData.app/FlashCardsCoreData.mom /Users/Decmac/Desktop/FlashCardsCoreData/FlashCardsCoreData.xcdatamodel
+cCompileC build/FlashCardsCoreData.build/Debug-iphonesimulator/FlashCardsCoreData.build/Objects-normal/i386/main.o /Users/Decmac/Desktop/FlashCardsCoreData/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FlashCardsCoreData.build/Debug-iphonesimulator/FlashCardsCoreData.build/Objects-normal/i386/FlashCardsCoreDataAppDelegate.o /Users/Decmac/Desktop/FlashCardsCoreData/Classes/FlashCardsCoreDataAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FlashCardsCoreData.build/Debug-iphonesimulator/FlashCardsCoreData.build/Objects-normal/i386/FlashCard.o /Users/Decmac/Desktop/FlashCardsCoreData/Classes/FlashCard.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FlashCardsCoreData.build/Debug-iphonesimulator/FlashCardsCoreData.build/Objects-normal/i386/FlashCardsViewController.o /Users/Decmac/Desktop/FlashCardsCoreData/Classes/FlashCardsViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FlashCardsCoreData.build/Debug-iphonesimulator/FlashCardsCoreData.build/Objects-normal/i386/CreateCardViewController.o /Users/Decmac/Desktop/FlashCardsCoreData/Classes/CreateCardViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk
+c000000004F3A580900000000000000EE
+t1329223689
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+c000000004B2B4E070000000000185440
+t1261129223
+s1594432
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.h
+c000000004B2B4DFB000000000000046B
+t1261129211
+s1131
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B2B4CC3000000000026EE30
+t1261128899
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B2B4DC8000000000027E880
+t1261129160
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B2B4DAE0000000000001355
+t1261129134
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B2B61620000000000000788
+t1261134178
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B2B62B500000000016721E0
+t1261134517
+s23536096
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/usr/include/Availability.h
+c000000004B2B4EE200000000000019F9
+t1261129442
+s6649
+
+N/Users/Decmac/Desktop/FlashCardsCoreData/Classes/CreateCardViewController.h
+c000000004F6F3E4E00000000000002C7
+t1332690510
+s711
+i<UIKit/UIKit.h>
+
+N/Users/Decmac/Desktop/FlashCardsCoreData/Classes/CreateCardViewController.m
+c000000004F6F3E6A0000000000000355
+t1332690538
+s853
+i"CreateCardViewController.h"
+
+N/Users/Decmac/Desktop/FlashCardsCoreData/Classes/FlashCard.h
+c000000004F731E2700000000000001BB
+t1332944423
+s443
+i<CoreData/CoreData.h>
+
+N/Users/Decmac/Desktop/FlashCardsCoreData/Classes/FlashCard.m
+c000000004F731E27000000000000011E
+t1332944423
+s286
+i"FlashCard.h"
+
+N/Users/Decmac/Desktop/FlashCardsCoreData/Classes/FlashCardsCoreDataAppDelegate.h
+c000000004F731F5B00000000000003F1
+t1332944731
+s1009
+
+N/Users/Decmac/Desktop/FlashCardsCoreData/Classes/FlashCardsCoreDataAppDelegate.m
+c000000004F7326DE000000000000126D
+t1332946654
+s4717
+i"FlashCardsCoreDataAppDelegate.h"
+
+N/Users/Decmac/Desktop/FlashCardsCoreData/Classes/FlashCardsViewController.h
+c000000004F732086000000000000068F
+t1332945030
+s1679
+i<UIKit/UIKit.h>
+i"FlashCard.h"
+i"CreateCardViewController.h"
+
+N/Users/Decmac/Desktop/FlashCardsCoreData/Classes/FlashCardsViewController.m
+c000000004F7326DE000000000000130B
+t1332946654
+s4875
+i"FlashCardsViewController.h"
+
+N/Users/Decmac/Desktop/FlashCardsCoreData/CreateCardViewController.xib
+c000000004F6659280000000000005F82
+t1332107560
+s24450
+
+N/Users/Decmac/Desktop/FlashCardsCoreData/FlashCardsCoreData.xcdatamodel
+c000000004F7326D80000000000000088
+t1332946648
+s136
+
+N/Users/Decmac/Desktop/FlashCardsCoreData/FlashCardsCoreData_Prefix.pch
+c000000004F731B3B0000000000000178
+t1332943675
+s376
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+
+N/Users/Decmac/Desktop/FlashCardsCoreData/FlashCardsViewController.xib
+c000000004F6657CC000000000000859F
+t1332107212
+s34207
+
+N/Users/Decmac/Desktop/FlashCardsCoreData/MainWindow.xib
+c000000004F73215000000000000055DA
+t1332945232
+s21978
+
+N/Users/Decmac/Desktop/FlashCardsCoreData/build/Debug-iphonesimulator/FlashCardsCoreData.app
+t2
+s0
+
+N/Users/Decmac/Desktop/FlashCardsCoreData/build/Debug-iphonesimulator/FlashCardsCoreData.app.dSYM
+t2
+s0
+
+N/Users/Decmac/Desktop/FlashCardsCoreData/build/Debug-iphonesimulator/FlashCardsCoreData.app/CreateCardViewController.nib
+t1332946655
+s2847
+
+N/Users/Decmac/Desktop/FlashCardsCoreData/build/Debug-iphonesimulator/FlashCardsCoreData.app/FlashCardsCoreData
+t2
+s0
+
+N/Users/Decmac/Desktop/FlashCardsCoreData/build/Debug-iphonesimulator/FlashCardsCoreData.app/FlashCardsCoreData.mom
+t1332946659
+s1523
+
+N/Users/Decmac/Desktop/FlashCardsCoreData/build/Debug-iphonesimulator/FlashCardsCoreData.app/FlashCardsViewController.nib
+t1332946656
+s4381
+
+N/Users/Decmac/Desktop/FlashCardsCoreData/build/Debug-iphonesimulator/FlashCardsCoreData.app/Info.plist
+t1332946654
+s614
+
+N/Users/Decmac/Desktop/FlashCardsCoreData/build/Debug-iphonesimulator/FlashCardsCoreData.app/MainWindow.nib
+t1332946655
+s1491
+
+N/Users/Decmac/Desktop/FlashCardsCoreData/build/Debug-iphonesimulator/FlashCardsCoreData.app/PkgInfo
+t1332946654
+s8
+
+N/Users/Decmac/Desktop/FlashCardsCoreData/build/FlashCardsCoreData.build/Debug-iphonesimulator/FlashCardsCoreData.build/Objects-normal/i386/CreateCardViewController.o
+t1332946659
+s33812
+
+N/Users/Decmac/Desktop/FlashCardsCoreData/build/FlashCardsCoreData.build/Debug-iphonesimulator/FlashCardsCoreData.build/Objects-normal/i386/FlashCard.o
+t1332946659
+s5240
+
+N/Users/Decmac/Desktop/FlashCardsCoreData/build/FlashCardsCoreData.build/Debug-iphonesimulator/FlashCardsCoreData.build/Objects-normal/i386/FlashCardsCoreData.LinkFileList
+c000000004F7326DE0000000000000320
+t1332946654
+s800
+
+N/Users/Decmac/Desktop/FlashCardsCoreData/build/FlashCardsCoreData.build/Debug-iphonesimulator/FlashCardsCoreData.build/Objects-normal/i386/FlashCardsCoreDataAppDelegate.o
+t1332946659
+s47828
+
+N/Users/Decmac/Desktop/FlashCardsCoreData/build/FlashCardsCoreData.build/Debug-iphonesimulator/FlashCardsCoreData.build/Objects-normal/i386/FlashCardsViewController.o
+t2
+s0
+
+N/Users/Decmac/Desktop/FlashCardsCoreData/build/FlashCardsCoreData.build/Debug-iphonesimulator/FlashCardsCoreData.build/Objects-normal/i386/main.o
+t1332946659
+s5960
+
+N/Users/Decmac/Desktop/FlashCardsCoreData/main.m
+c000000004F731B3B0000000000000171
+t1332943675
+s369
+i<UIKit/UIKit.h>
+
+N/var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FlashCardsCoreData_Prefix-etjfjypsyzdrezfylutaevgibjvr/FlashCardsCoreData_Prefix.pch.gch
+t1332946658
+s13887728
+
+NFlashCardsCoreData-Info.plist
+c000000004F731B3B000000000000038D
+t1332943675
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies354639454#354639454#0(0"0(0#1#0"27303570963497028#0"0#
+
+CCompileC build/FlashCardsCoreData.build/Debug-iphonesimulator/FlashCardsCoreData.build/Objects-normal/i386/CreateCardViewController.o /Users/Decmac/Desktop/FlashCardsCoreData/Classes/CreateCardViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354639459.524105
+e354639459.720530
+r1
+xCompileC
+xbuild/FlashCardsCoreData.build/Debug-iphonesimulator/FlashCardsCoreData.build/Objects-normal/i386/CreateCardViewController.o
+x/Users/Decmac/Desktop/FlashCardsCoreData/Classes/CreateCardViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/Decmac/Desktop/FlashCardsCoreData/Classes/CreateCardViewController.m354639459#354639459#0(0"0(0#0#75"/Users/Decmac/Desktop/FlashCardsCoreData/Classes/CreateCardViewController.m4300885448#2223"    cd /Users/Decmac/Desktop/FlashCardsCoreData    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/FlashCardsCoreData/build/FlashCardsCoreData.build/Debug-iphonesimulator/FlashCardsCoreData.build/FlashCardsCoreData-generated-files.hmap -I/Users/Decmac/Desktop/FlashCardsCoreData/build/FlashCardsCoreData.build/Debug-iphonesimulator/FlashCardsCoreData.build/FlashCardsCoreData-own-target-headers.hmap -I/Users/Decmac/Desktop/FlashCardsCoreData/build/FlashCardsCoreData.build/Debug-iphonesimulator/FlashCardsCoreData.build/FlashCardsCoreData-all-target-headers.hmap -iquote /Users/Decmac/Desktop/FlashCardsCoreData/build/FlashCardsCoreData.build/Debug-iphonesimulator/FlashCardsCoreData.build/FlashCardsCoreData-project-headers.hmap -F/Users/Decmac/Desktop/FlashCardsCoreData/build/Debug-iphonesimulator "-F/Volumes/Skiiing2/CD/ViewBased/Unknown Path/System/Library/Frameworks" -I/Users/Decmac/Desktop/FlashCardsCoreData/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/FlashCardsCoreData/build/FlashCardsCoreData.build/Debug-iphonesimulator/FlashCardsCoreData.build/DerivedSources/i386 -I/Users/Decmac/Desktop/FlashCardsCoreData/build/FlashCardsCoreData.build/Debug-iphonesimulator/FlashCardsCoreData.build/DerivedSources -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FlashCardsCoreData_Prefix-etjfjypsyzdrezfylutaevgibjvr/FlashCardsCoreData_Prefix.pch -c /Users/Decmac/Desktop/FlashCardsCoreData/Classes/CreateCardViewController.m -o /Users/Decmac/Desktop/FlashCardsCoreData/build/FlashCardsCoreData.build/Debug-iphonesimulator/FlashCardsCoreData.build/Objects-normal/i386/CreateCardViewController.o0#
+
+CCompileC build/FlashCardsCoreData.build/Debug-iphonesimulator/FlashCardsCoreData.build/Objects-normal/i386/FlashCard.o /Users/Decmac/Desktop/FlashCardsCoreData/Classes/FlashCard.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354639459.216299
+e354639459.434008
+r1
+xCompileC
+xbuild/FlashCardsCoreData.build/Debug-iphonesimulator/FlashCardsCoreData.build/Objects-normal/i386/FlashCard.o
+x/Users/Decmac/Desktop/FlashCardsCoreData/Classes/FlashCard.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/Decmac/Desktop/FlashCardsCoreData/Classes/FlashCard.m354639459#354639459#0(0"0(0#0#60"/Users/Decmac/Desktop/FlashCardsCoreData/Classes/FlashCard.m4300885448#2193"    cd /Users/Decmac/Desktop/FlashCardsCoreData    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/FlashCardsCoreData/build/FlashCardsCoreData.build/Debug-iphonesimulator/FlashCardsCoreData.build/FlashCardsCoreData-generated-files.hmap -I/Users/Decmac/Desktop/FlashCardsCoreData/build/FlashCardsCoreData.build/Debug-iphonesimulator/FlashCardsCoreData.build/FlashCardsCoreData-own-target-headers.hmap -I/Users/Decmac/Desktop/FlashCardsCoreData/build/FlashCardsCoreData.build/Debug-iphonesimulator/FlashCardsCoreData.build/FlashCardsCoreData-all-target-headers.hmap -iquote /Users/Decmac/Desktop/FlashCardsCoreData/build/FlashCardsCoreData.build/Debug-iphonesimulator/FlashCardsCoreData.build/FlashCardsCoreData-project-headers.hmap -F/Users/Decmac/Desktop/FlashCardsCoreData/build/Debug-iphonesimulator "-F/Volumes/Skiiing2/CD/ViewBased/Unknown Path/System/Library/Frameworks" -I/Users/Decmac/Desktop/FlashCardsCoreData/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/FlashCardsCoreData/build/FlashCardsCoreData.build/Debug-iphonesimulator/FlashCardsCoreData.build/DerivedSources/i386 -I/Users/Decmac/Desktop/FlashCardsCoreData/build/FlashCardsCoreData.build/Debug-iphonesimulator/FlashCardsCoreData.build/DerivedSources -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FlashCardsCoreData_Prefix-etjfjypsyzdrezfylutaevgibjvr/FlashCardsCoreData_Prefix.pch -c /Users/Decmac/Desktop/FlashCardsCoreData/Classes/FlashCard.m -o /Users/Decmac/Desktop/FlashCardsCoreData/build/FlashCardsCoreData.build/Debug-iphonesimulator/FlashCardsCoreData.build/Objects-normal/i386/FlashCard.o0#
+
+CCompileC build/FlashCardsCoreData.build/Debug-iphonesimulator/FlashCardsCoreData.build/Objects-normal/i386/FlashCardsCoreDataAppDelegate.o /Users/Decmac/Desktop/FlashCardsCoreData/Classes/FlashCardsCoreDataAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354639459.205339
+e354639459.523811
+r1
+xCompileC
+xbuild/FlashCardsCoreData.build/Debug-iphonesimulator/FlashCardsCoreData.build/Objects-normal/i386/FlashCardsCoreDataAppDelegate.o
+x/Users/Decmac/Desktop/FlashCardsCoreData/Classes/FlashCardsCoreDataAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/Decmac/Desktop/FlashCardsCoreData/Classes/FlashCardsCoreDataAppDelegate.m:146: warning: incomplete implementation of class 'FlashCardsCoreDataAppDelegate'
+o/Users/Decmac/Desktop/FlashCardsCoreData/Classes/FlashCardsCoreDataAppDelegate.m:146: warning: method definition for '-saveAction:' not found
+lSLF07#2@88"Compile /Users/Decmac/Desktop/FlashCardsCoreData/Classes/FlashCardsCoreDataAppDelegate.m354639459#354639459#0(304"/Users/Decmac/Desktop/FlashCardsCoreData/Classes/FlashCardsCoreDataAppDelegate.m:146: warning: incomplete implementation of class 'FlashCardsCoreDataAppDelegate'/Users/Decmac/Desktop/FlashCardsCoreData/Classes/FlashCardsCoreDataAppDelegate.m:146: warning: method definition for '-saveAction:' not found2(22@66"Incomplete implementation of class 'FlashCardsCoreDataAppDelegate'354639459#0#162#0(6@80"/Users/Decmac/Desktop/FlashCardsCoreData/Classes/FlashCardsCoreDataAppDelegate.m354639454#146#0#146#0#38"incomplete implementation of class '*'0(22@46"Method definition for '-saveAction:' not found354639459#162#142#0(6@80"/Users/Decmac/Desktop/FlashCardsCoreData/Classes/FlashCardsCoreDataAppDelegate.m354639454#146#0#146#0#35"method definition for '*' not found0(0#0#80"/Users/Decmac/Desktop/FlashCardsCoreData/Classes/FlashCardsCoreDataAppDelegate.m4300885448#2233"    cd /Users/Decmac/Desktop/FlashCardsCoreData    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/FlashCardsCoreData/build/FlashCardsCoreData.build/Debug-iphonesimulator/FlashCardsCoreData.build/FlashCardsCoreData-generated-files.hmap -I/Users/Decmac/Desktop/FlashCardsCoreData/build/FlashCardsCoreData.build/Debug-iphonesimulator/FlashCardsCoreData.build/FlashCardsCoreData-own-target-headers.hmap -I/Users/Decmac/Desktop/FlashCardsCoreData/build/FlashCardsCoreData.build/Debug-iphonesimulator/FlashCardsCoreData.build/FlashCardsCoreData-all-target-headers.hmap -iquote /Users/Decmac/Desktop/FlashCardsCoreData/build/FlashCardsCoreData.build/Debug-iphonesimulator/FlashCardsCoreData.build/FlashCardsCoreData-project-headers.hmap -F/Users/Decmac/Desktop/FlashCardsCoreData/build/Debug-iphonesimulator "-F/Volumes/Skiiing2/CD/ViewBased/Unknown Path/System/Library/Frameworks" -I/Users/Decmac/Desktop/FlashCardsCoreData/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/FlashCardsCoreData/build/FlashCardsCoreData.build/Debug-iphonesimulator/FlashCardsCoreData.build/DerivedSources/i386 -I/Users/Decmac/Desktop/FlashCardsCoreData/build/FlashCardsCoreData.build/Debug-iphonesimulator/FlashCardsCoreData.build/DerivedSources -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FlashCardsCoreData_Prefix-etjfjypsyzdrezfylutaevgibjvr/FlashCardsCoreData_Prefix.pch -c /Users/Decmac/Desktop/FlashCardsCoreData/Classes/FlashCardsCoreDataAppDelegate.m -o /Users/Decmac/Desktop/FlashCardsCoreData/build/FlashCardsCoreData.build/Debug-iphonesimulator/FlashCardsCoreData.build/Objects-normal/i386/FlashCardsCoreDataAppDelegate.o0#
+
+CCompileC build/FlashCardsCoreData.build/Debug-iphonesimulator/FlashCardsCoreData.build/Objects-normal/i386/FlashCardsViewController.o /Users/Decmac/Desktop/FlashCardsCoreData/Classes/FlashCardsViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354639459.434294
+e354639459.644824
+r0
+xCompileC
+xbuild/FlashCardsCoreData.build/Debug-iphonesimulator/FlashCardsCoreData.build/Objects-normal/i386/FlashCardsViewController.o
+x/Users/Decmac/Desktop/FlashCardsCoreData/Classes/FlashCardsViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/Decmac/Desktop/FlashCardsCoreData/Classes/FlashCardsViewController.m: In function '-[FlashCardsViewController updateRightWrongCounters]':
+o/Users/Decmac/Desktop/FlashCardsCoreData/Classes/FlashCardsViewController.m:80: error: request for member 'wrongCount' in something not a structure or union
+o/Users/Decmac/Desktop/FlashCardsCoreData/Classes/FlashCardsViewController.m:83: error: request for member 'rightCount' in something not a structure or union
+o/Users/Decmac/Desktop/FlashCardsCoreData/Classes/FlashCardsViewController.m: In function '-[FlashCardsViewController markWrong]':
+o/Users/Decmac/Desktop/FlashCardsCoreData/Classes/FlashCardsViewController.m:101: error: request for member 'wrongCount' in something not a structure or union
+o/Users/Decmac/Desktop/FlashCardsCoreData/Classes/FlashCardsViewController.m:101: error: request for member 'wrongCount' in something not a structure or union
+o/Users/Decmac/Desktop/FlashCardsCoreData/Classes/FlashCardsViewController.m:106: error: request for member 'rightCount' in something not a structure or union
+o/Users/Decmac/Desktop/FlashCardsCoreData/Classes/FlashCardsViewController.m:106: error: request for member 'rightCount' in something not a structure or union
+o/Users/Decmac/Desktop/FlashCardsCoreData/Classes/FlashCardsViewController.m: In function '-[FlashCardsViewController markRight]':
+o/Users/Decmac/Desktop/FlashCardsCoreData/Classes/FlashCardsViewController.m:114: error: request for member 'rightCount' in something not a structure or union
+o/Users/Decmac/Desktop/FlashCardsCoreData/Classes/FlashCardsViewController.m:116: error: request for member 'wrongCount' in something not a structure or union
+o/Users/Decmac/Desktop/FlashCardsCoreData/Classes/FlashCardsViewController.m: In function '-[FlashCardsViewController deleteCard]':
+o/Users/Decmac/Desktop/FlashCardsCoreData/Classes/FlashCardsViewController.m:127: error: expected ']' before 'removeObjectAtIndex'
+o/Users/Decmac/Desktop/FlashCardsCoreData/Classes/FlashCardsViewController.m:127: error: array subscript is not an integer
+o/Users/Decmac/Desktop/FlashCardsCoreData/Classes/FlashCardsViewController.m: In function '-[FlashCardsViewController didCreateCardWithQuestion:answer:]':
+o/Users/Decmac/Desktop/FlashCardsCoreData/Classes/FlashCardsViewController.m:146: error: request for member 'question' in something not a structure or union
+o/Users/Decmac/Desktop/FlashCardsCoreData/Classes/FlashCardsViewController.m:147: error: request for member 'answer' in something not a structure or union
+o{standard input}:592:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_14" minus "L00000000003$pb"
+o{standard input}:592:symbol: "L_OBJC_SELECTOR_REFERENCES_14" can't be undefined in a subtraction expression
+o{standard input}:586:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_28" minus "L00000000003$pb"
+o{standard input}:586:symbol: "L_OBJC_SELECTOR_REFERENCES_28" can't be undefined in a subtraction expression
+o{standard input}:578:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_14" minus "L00000000003$pb"
+o{standard input}:578:symbol: "L_OBJC_SELECTOR_REFERENCES_14" can't be undefined in a subtraction expression
+o{standard input}:572:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_27" minus "L00000000003$pb"
+o{standard input}:572:symbol: "L_OBJC_SELECTOR_REFERENCES_27" can't be undefined in a subtraction expression
+o{standard input}:565:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_19" minus "L00000000003$pb"
+o{standard input}:565:symbol: "L_OBJC_SELECTOR_REFERENCES_19" can't be undefined in a subtraction expression
+o{standard input}:557:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_16" minus "L00000000003$pb"
+o{standard input}:557:symbol: "L_OBJC_SELECTOR_REFERENCES_16" can't be undefined in a subtraction expression
+o{standard input}:551:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_23" minus "L00000000003$pb"
+o{standard input}:551:symbol: "L_OBJC_SELECTOR_REFERENCES_23" can't be undefined in a subtraction expression
+o{standard input}:544:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_23" minus "L00000000003$pb"
+o{standard input}:544:symbol: "L_OBJC_SELECTOR_REFERENCES_23" can't be undefined in a subtraction expression
+o{standard input}:538:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_29" minus "L00000000003$pb"
+o{standard input}:538:symbol: "L_OBJC_SELECTOR_REFERENCES_29" can't be undefined in a subtraction expression
+o{standard input}:530:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_18" minus "L00000000003$pb"
+o{standard input}:530:symbol: "L_OBJC_SELECTOR_REFERENCES_18" can't be undefined in a subtraction expression
+o{standard input}:524:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_23" minus "L00000000003$pb"
+o{standard input}:524:symbol: "L_OBJC_SELECTOR_REFERENCES_23" can't be undefined in a subtraction expression
+o{standard input}:516:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_16" minus "L00000000003$pb"
+o{standard input}:516:symbol: "L_OBJC_SELECTOR_REFERENCES_16" can't be undefined in a subtraction expression
+o{standard input}:510:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_22" minus "L00000000003$pb"
+o{standard input}:510:symbol: "L_OBJC_SELECTOR_REFERENCES_22" can't be undefined in a subtraction expression
+o{standard input}:503:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_22" minus "L00000000003$pb"
+o{standard input}:503:symbol: "L_OBJC_SELECTOR_REFERENCES_22" can't be undefined in a subtraction expression
+o{standard input}:497:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_29" minus "L00000000003$pb"
+o{standard input}:497:symbol: "L_OBJC_SELECTOR_REFERENCES_29" can't be undefined in a subtraction expression
+o{standard input}:489:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_16" minus "L00000000003$pb"
+o{standard input}:489:symbol: "L_OBJC_SELECTOR_REFERENCES_16" can't be undefined in a subtraction expression
+o{standard input}:482:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_24" minus "L00000000003$pb"
+o{standard input}:482:symbol: "L_OBJC_SELECTOR_REFERENCES_24" can't be undefined in a subtraction expression
+o{standard input}:471:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_17" minus "L00000000003$pb"
+o{standard input}:471:symbol: "L_OBJC_SELECTOR_REFERENCES_17" can't be undefined in a subtraction expression
+o{standard input}:464:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000003$pb"
+o{standard input}:464:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression
+o{standard input}:460:non-relocatable subtraction expression, "L_OBJC_CLASS_REFERENCES_2" minus "L00000000003$pb"
+o{standard input}:460:symbol: "L_OBJC_CLASS_REFERENCES_2" can't be undefined in a subtraction expression
+o{standard input}:452:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_11" minus "L00000000003$pb"
+o{standard input}:452:symbol: "L_OBJC_SELECTOR_REFERENCES_11" can't be undefined in a subtraction expression
+o{standard input}:443:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000003$pb"
+o{standard input}:443:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression
+o{standard input}:435:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_11" minus "L00000000003$pb"
+o{standard input}:435:symbol: "L_OBJC_SELECTOR_REFERENCES_11" can't be undefined in a subtraction expression
+o{standard input}:428:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000003$pb"
+o{standard input}:428:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression
+o{standard input}:418:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_14" minus "L00000000003$pb"
+o{standard input}:418:symbol: "L_OBJC_SELECTOR_REFERENCES_14" can't be undefined in a subtraction expression
+o{standard input}:412:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_28" minus "L00000000003$pb"
+o{standard input}:412:symbol: "L_OBJC_SELECTOR_REFERENCES_28" can't be undefined in a subtraction expression
+o{standard input}:404:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_14" minus "L00000000003$pb"
+o{standard input}:404:symbol: "L_OBJC_SELECTOR_REFERENCES_14" can't be undefined in a subtraction expression
+o{standard input}:398:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_27" minus "L00000000003$pb"
+o{standard input}:398:symbol: "L_OBJC_SELECTOR_REFERENCES_27" can't be undefined in a subtraction expression
+o{standard input}:390:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_16" minus "L00000000003$pb"
+o{standard input}:390:symbol: "L_OBJC_SELECTOR_REFERENCES_16" can't be undefined in a subtraction expression
+o{standard input}:383:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_26" minus "L00000000003$pb"
+o{standard input}:383:symbol: "L_OBJC_SELECTOR_REFERENCES_26" can't be undefined in a subtraction expression
+o{standard input}:375:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_16" minus "L00000000003$pb"
+o{standard input}:375:symbol: "L_OBJC_SELECTOR_REFERENCES_16" can't be undefined in a subtraction expression
+o{standard input}:368:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_25" minus "L00000000003$pb"
+o{standard input}:368:symbol: "L_OBJC_SELECTOR_REFERENCES_25" can't be undefined in a subtraction expression
+o{standard input}:360:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_16" minus "L00000000003$pb"
+o{standard input}:360:symbol: "L_OBJC_SELECTOR_REFERENCES_16" can't be undefined in a subtraction expression
+o{standard input}:353:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_24" minus "L00000000003$pb"
+o{standard input}:353:symbol: "L_OBJC_SELECTOR_REFERENCES_24" can't be undefined in a subtraction expression
+o{standard input}:345:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_16" minus "L00000000003$pb"
+o{standard input}:345:symbol: "L_OBJC_SELECTOR_REFERENCES_16" can't be undefined in a subtraction expression
+o{standard input}:338:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_23" minus "L00000000003$pb"
+o{standard input}:338:symbol: "L_OBJC_SELECTOR_REFERENCES_23" can't be undefined in a subtraction expression
+o{standard input}:330:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_16" minus "L00000000003$pb"
+o{standard input}:330:symbol: "L_OBJC_SELECTOR_REFERENCES_16" can't be undefined in a subtraction expression
+o{standard input}:323:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_22" minus "L00000000003$pb"
+o{standard input}:323:symbol: "L_OBJC_SELECTOR_REFERENCES_22" can't be undefined in a subtraction expression
+o{standard input}:312:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_15" minus "L00000000003$pb"
+o{standard input}:312:symbol: "L_OBJC_SELECTOR_REFERENCES_15" can't be undefined in a subtraction expression
+o{standard input}:306:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000003$pb"
+o{standard input}:306:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression
+o{standard input}:298:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_14" minus "L00000000003$pb"
+o{standard input}:298:symbol: "L_OBJC_SELECTOR_REFERENCES_14" can't be undefined in a subtraction expression
+o{standard input}:292:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_21" minus "L00000000003$pb"
+o{standard input}:292:symbol: "L_OBJC_SELECTOR_REFERENCES_21" can't be undefined in a subtraction expression
+o{standard input}:284:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_14" minus "L00000000003$pb"
+o{standard input}:284:symbol: "L_OBJC_SELECTOR_REFERENCES_14" can't be undefined in a subtraction expression
+o{standard input}:278:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_20" minus "L00000000003$pb"
+o{standard input}:278:symbol: "L_OBJC_SELECTOR_REFERENCES_20" can't be undefined in a subtraction expression
+o{standard input}:213:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_13" minus "L00000000002$pb"
+o{standard input}:213:symbol: "L_OBJC_SELECTOR_REFERENCES_13" can't be undefined in a subtraction expression
+o{standard input}:209:non-relocatable subtraction expression, "L_OBJC_CLASS_FlashCardsViewController" minus "L00000000002$pb"
+o{standard input}:209:symbol: "L_OBJC_CLASS_FlashCardsViewController" can't be undefined in a subtraction expression
+o{standard input}:201:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L00000000002$pb"
+o{standard input}:201:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression
+o{standard input}:193:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_11" minus "L00000000002$pb"
+o{standard input}:193:symbol: "L_OBJC_SELECTOR_REFERENCES_11" can't be undefined in a subtraction expression
+o{standard input}:186:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_10" minus "L00000000002$pb"
+o{standard input}:186:symbol: "L_OBJC_SELECTOR_REFERENCES_10" can't be undefined in a subtraction expression
+o{standard input}:178:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_9" minus "L00000000002$pb"
+o{standard input}:178:symbol: "L_OBJC_SELECTOR_REFERENCES_9" can't be undefined in a subtraction expression
+o{standard input}:171:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_8" minus "L00000000002$pb"
+o{standard input}:171:symbol: "L_OBJC_SELECTOR_REFERENCES_8" can't be undefined in a subtraction expression
+o{standard input}:161:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_7" minus "L00000000002$pb"
+o{standard input}:161:symbol: "L_OBJC_SELECTOR_REFERENCES_7" can't be undefined in a subtraction expression
+o{standard input}:150:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_6" minus "L00000000002$pb"
+o{standard input}:150:symbol: "L_OBJC_SELECTOR_REFERENCES_6" can't be undefined in a subtraction expression
+o{standard input}:140:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_5" minus "L00000000002$pb"
+o{standard input}:140:symbol: "L_OBJC_SELECTOR_REFERENCES_5" can't be undefined in a subtraction expression
+o{standard input}:134:non-relocatable subtraction expression, "L_OBJC_CLASS_REFERENCES_1" minus "L00000000002$pb"
+o{standard input}:134:symbol: "L_OBJC_CLASS_REFERENCES_1" can't be undefined in a subtraction expression
+o{standard input}:127:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L00000000002$pb"
+o{standard input}:127:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression
+o{standard input}:121:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L00000000002$pb"
+o{standard input}:121:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression
+o{standard input}:118:non-relocatable subtraction expression, "L_OBJC_CLASS_REFERENCES_0" minus "L00000000002$pb"
+o{standard input}:118:symbol: "L_OBJC_CLASS_REFERENCES_0" can't be undefined in a subtraction expression
+o{standard input}:73:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000001$pb"
+o{standard input}:73:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression
+o{standard input}:67:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000001$pb"
+o{standard input}:67:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression
+o{standard input}:60:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000001$pb"
+o{standard input}:60:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression
+o{standard input}:53:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000001$pb"
+o{standard input}:53:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_1
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_2
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_0
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASS_REFERENCES_0
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_3
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_4
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASS_REFERENCES_1
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_5
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_6
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_7
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_8
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_9
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_10
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_11
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_12
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASS_FlashCardsViewController
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_13
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_20
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_14
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_21
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_15
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_22
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_16
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_23
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_24
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_25
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_26
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_27
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_28
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASS_REFERENCES_2
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_17
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_29
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_18
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_19
+lSLF07#2@83"Compile /Users/Decmac/Desktop/FlashCardsCoreData/Classes/FlashCardsViewController.m354639459#354639459#0(19056"/Users/Decmac/Desktop/FlashCardsCoreData/Classes/FlashCardsViewController.m: In function '-[FlashCardsViewController updateRightWrongCounters]':/Users/Decmac/Desktop/FlashCardsCoreData/Classes/FlashCardsViewController.m:80: error: request for member 'wrongCount' in something not a structure or union/Users/Decmac/Desktop/FlashCardsCoreData/Classes/FlashCardsViewController.m:83: error: request for member 'rightCount' in something not a structure or union/Users/Decmac/Desktop/FlashCardsCoreData/Classes/FlashCardsViewController.m: In function '-[FlashCardsViewController markWrong]':/Users/Decmac/Desktop/FlashCardsCoreData/Classes/FlashCardsViewController.m:101: error: request for member 'wrongCount' in something not a structure or union/Users/Decmac/Desktop/FlashCardsCoreData/Classes/FlashCardsViewController.m:101: error: request for member 'wrongCount' in something not a structure or union/Users/Decmac/Desktop/FlashCardsCoreData/Classes/FlashCardsViewController.m:106: error: request for member 'rightCount' in something not a structure or union/Users/Decmac/Desktop/FlashCardsCoreData/Classes/FlashCardsViewController.m:106: error: request for member 'rightCount' in something not a structure or union/Users/Decmac/Desktop/FlashCardsCoreData/Classes/FlashCardsViewController.m: In function '-[FlashCardsViewController markRight]':/Users/Decmac/Desktop/FlashCardsCoreData/Classes/FlashCardsViewController.m:114: error: request for member 'rightCount' in something not a structure or union/Users/Decmac/Desktop/FlashCardsCoreData/Classes/FlashCardsViewController.m:116: error: request for member 'wrongCount' in something not a structure or union/Users/Decmac/Desktop/FlashCardsCoreData/Classes/FlashCardsViewController.m: In function '-[FlashCardsViewController deleteCard]':/Users/Decmac/Desktop/FlashCardsCoreData/Classes/FlashCardsViewController.m:127: error: expected ']' before 'removeObjectAtIndex'/Users/Decmac/Desktop/FlashCardsCoreData/Classes/FlashCardsViewController.m:127: error: array subscript is not an integer/Users/Decmac/Desktop/FlashCardsCoreData/Classes/FlashCardsViewController.m: In function '-[FlashCardsViewController didCreateCardWithQuestion:answer:]':/Users/Decmac/Desktop/FlashCardsCoreData/Classes/FlashCardsViewController.m:146: error: request for member 'question' in something not a structure or union/Users/Decmac/Desktop/FlashCardsCoreData/Classes/FlashCardsViewController.m:147: error: request for member 'answer' in something not a structure or union{standard input}:592:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_14" minus "L00000000003$pb"{standard input}:592:symbol: "L_OBJC_SELECTOR_REFERENCES_14" can't be undefined in a subtraction expression{standard input}:586:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_28" minus "L00000000003$pb"{standard input}:586:symbol: "L_OBJC_SELECTOR_REFERENCES_28" can't be undefined in a subtraction expression{standard input}:578:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_14" minus "L00000000003$pb"{standard input}:578:symbol: "L_OBJC_SELECTOR_REFERENCES_14" can't be undefined in a subtraction expression{standard input}:572:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_27" minus "L00000000003$pb"{standard input}:572:symbol: "L_OBJC_SELECTOR_REFERENCES_27" can't be undefined in a subtraction expression{standard input}:565:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_19" minus "L00000000003$pb"{standard input}:565:symbol: "L_OBJC_SELECTOR_REFERENCES_19" can't be undefined in a subtraction expression{standard input}:557:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_16" minus "L00000000003$pb"{standard input}:557:symbol: "L_OBJC_SELECTOR_REFERENCES_16" can't be undefined in a subtraction expression{standard input}:551:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_23" minus "L00000000003$pb"{standard input}:551:symbol: "L_OBJC_SELECTOR_REFERENCES_23" can't be undefined in a subtraction expression{standard input}:544:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_23" minus "L00000000003$pb"{standard input}:544:symbol: "L_OBJC_SELECTOR_REFERENCES_23" can't be undefined in a subtraction expression{standard input}:538:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_29" minus "L00000000003$pb"{standard input}:538:symbol: "L_OBJC_SELECTOR_REFERENCES_29" can't be undefined in a subtraction expression{standard input}:530:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_18" minus "L00000000003$pb"{standard input}:530:symbol: "L_OBJC_SELECTOR_REFERENCES_18" can't be undefined in a subtraction expression{standard input}:524:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_23" minus "L00000000003$pb"{standard input}:524:symbol: "L_OBJC_SELECTOR_REFERENCES_23" can't be undefined in a subtraction expression{standard input}:516:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_16" minus "L00000000003$pb"{standard input}:516:symbol: "L_OBJC_SELECTOR_REFERENCES_16" can't be undefined in a subtraction expression{standard input}:510:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_22" minus "L00000000003$pb"{standard input}:510:symbol: "L_OBJC_SELECTOR_REFERENCES_22" can't be undefined in a subtraction expression{standard input}:503:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_22" minus "L00000000003$pb"{standard input}:503:symbol: "L_OBJC_SELECTOR_REFERENCES_22" can't be undefined in a subtraction expression{standard input}:497:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_29" minus "L00000000003$pb"{standard input}:497:symbol: "L_OBJC_SELECTOR_REFERENCES_29" can't be undefined in a subtraction expression{standard input}:489:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_16" minus "L00000000003$pb"{standard input}:489:symbol: "L_OBJC_SELECTOR_REFERENCES_16" can't be undefined in a subtraction expression{standard input}:482:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_24" minus "L00000000003$pb"{standard input}:482:symbol: "L_OBJC_SELECTOR_REFERENCES_24" can't be undefined in a subtraction expression{standard input}:471:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_17" minus "L00000000003$pb"{standard input}:471:symbol: "L_OBJC_SELECTOR_REFERENCES_17" can't be undefined in a subtraction expression{standard input}:464:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000003$pb"{standard input}:464:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression{standard input}:460:non-relocatable subtraction expression, "L_OBJC_CLASS_REFERENCES_2" minus "L00000000003$pb"{standard input}:460:symbol: "L_OBJC_CLASS_REFERENCES_2" can't be undefined in a subtraction expression{standard input}:452:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_11" minus "L00000000003$pb"{standard input}:452:symbol: "L_OBJC_SELECTOR_REFERENCES_11" can't be undefined in a subtraction expression{standard input}:443:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000003$pb"{standard input}:443:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression{standard input}:435:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_11" minus "L00000000003$pb"{standard input}:435:symbol: "L_OBJC_SELECTOR_REFERENCES_11" can't be undefined in a subtraction expression{standard input}:428:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000003$pb"{standard input}:428:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression{standard input}:418:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_14" minus "L00000000003$pb"{standard input}:418:symbol: "L_OBJC_SELECTOR_REFERENCES_14" can't be undefined in a subtraction expression{standard input}:412:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_28" minus "L00000000003$pb"{standard input}:412:symbol: "L_OBJC_SELECTOR_REFERENCES_28" can't be undefined in a subtraction expression{standard input}:404:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_14" minus "L00000000003$pb"{standard input}:404:symbol: "L_OBJC_SELECTOR_REFERENCES_14" can't be undefined in a subtraction expression{standard input}:398:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_27" minus "L00000000003$pb"{standard input}:398:symbol: "L_OBJC_SELECTOR_REFERENCES_27" can't be undefined in a subtraction expression{standard input}:390:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_16" minus "L00000000003$pb"{standard input}:390:symbol: "L_OBJC_SELECTOR_REFERENCES_16" can't be undefined in a subtraction expression{standard input}:383:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_26" minus "L00000000003$pb"{standard input}:383:symbol: "L_OBJC_SELECTOR_REFERENCES_26" can't be undefined in a subtraction expression{standard input}:375:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_16" minus "L00000000003$pb"{standard input}:375:symbol: "L_OBJC_SELECTOR_REFERENCES_16" can't be undefined in a subtraction expression{standard input}:368:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_25" minus "L00000000003$pb"{standard input}:368:symbol: "L_OBJC_SELECTOR_REFERENCES_25" can't be undefined in a subtraction expression{standard input}:360:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_16" minus "L00000000003$pb"{standard input}:360:symbol: "L_OBJC_SELECTOR_REFERENCES_16" can't be undefined in a subtraction expression{standard input}:353:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_24" minus "L00000000003$pb"{standard input}:353:symbol: "L_OBJC_SELECTOR_REFERENCES_24" can't be undefined in a subtraction expression{standard input}:345:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_16" minus "L00000000003$pb"{standard input}:345:symbol: "L_OBJC_SELECTOR_REFERENCES_16" can't be undefined in a subtraction expression{standard input}:338:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_23" minus "L00000000003$pb"{standard input}:338:symbol: "L_OBJC_SELECTOR_REFERENCES_23" can't be undefined in a subtraction expression{standard input}:330:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_16" minus "L00000000003$pb"{standard input}:330:symbol: "L_OBJC_SELECTOR_REFERENCES_16" can't be undefined in a subtraction expression{standard input}:323:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_22" minus "L00000000003$pb"{standard input}:323:symbol: "L_OBJC_SELECTOR_REFERENCES_22" can't be undefined in a subtraction expression{standard input}:312:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_15" minus "L00000000003$pb"{standard input}:312:symbol: "L_OBJC_SELECTOR_REFERENCES_15" can't be undefined in a subtraction expression{standard input}:306:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000003$pb"{standard input}:306:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression{standard input}:298:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_14" minus "L00000000003$pb"{standard input}:298:symbol: "L_OBJC_SELECTOR_REFERENCES_14" can't be undefined in a subtraction expression{standard input}:292:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_21" minus "L00000000003$pb"{standard input}:292:symbol: "L_OBJC_SELECTOR_REFERENCES_21" can't be undefined in a subtraction expression{standard input}:284:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_14" minus "L00000000003$pb"{standard input}:284:symbol: "L_OBJC_SELECTOR_REFERENCES_14" can't be undefined in a subtraction expression{standard input}:278:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_20" minus "L00000000003$pb"{standard input}:278:symbol: "L_OBJC_SELECTOR_REFERENCES_20" can't be undefined in a subtraction expression{standard input}:213:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_13" minus "L00000000002$pb"{standard input}:213:symbol: "L_OBJC_SELECTOR_REFERENCES_13" can't be undefined in a subtraction expression{standard input}:209:non-relocatable subtraction expression, "L_OBJC_CLASS_FlashCardsViewController" minus "L00000000002$pb"{standard input}:209:symbol: "L_OBJC_CLASS_FlashCardsViewController" can't be undefined in a subtraction expression{standard input}:201:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L00000000002$pb"{standard input}:201:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression{standard input}:193:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_11" minus "L00000000002$pb"{standard input}:193:symbol: "L_OBJC_SELECTOR_REFERENCES_11" can't be undefined in a subtraction expression{standard input}:186:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_10" minus "L00000000002$pb"{standard input}:186:symbol: "L_OBJC_SELECTOR_REFERENCES_10" can't be undefined in a subtraction expression{standard input}:178:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_9" minus "L00000000002$pb"{standard input}:178:symbol: "L_OBJC_SELECTOR_REFERENCES_9" can't be undefined in a subtraction expression{standard input}:171:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_8" minus "L00000000002$pb"{standard input}:171:symbol: "L_OBJC_SELECTOR_REFERENCES_8" can't be undefined in a subtraction expression{standard input}:161:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_7" minus "L00000000002$pb"{standard input}:161:symbol: "L_OBJC_SELECTOR_REFERENCES_7" can't be undefined in a subtraction expression{standard input}:150:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_6" minus "L00000000002$pb"{standard input}:150:symbol: "L_OBJC_SELECTOR_REFERENCES_6" can't be undefined in a subtraction expression{standard input}:140:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_5" minus "L00000000002$pb"{standard input}:140:symbol: "L_OBJC_SELECTOR_REFERENCES_5" can't be undefined in a subtraction expression{standard input}:134:non-relocatable subtraction expression, "L_OBJC_CLASS_REFERENCES_1" minus "L00000000002$pb"{standard input}:134:symbol: "L_OBJC_CLASS_REFERENCES_1" can't be undefined in a subtraction expression{standard input}:127:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L00000000002$pb"{standard input}:127:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression{standard input}:121:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L00000000002$pb"{standard input}:121:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression{standard input}:118:non-relocatable subtraction expression, "L_OBJC_CLASS_REFERENCES_0" minus "L00000000002$pb"{standard input}:118:symbol: "L_OBJC_CLASS_REFERENCES_0" can't be undefined in a subtraction expression{standard input}:73:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000001$pb"{standard input}:73:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression{standard input}:67:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000001$pb"{standard input}:67:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression{standard input}:60:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000001$pb"{standard input}:60:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression{standard input}:53:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000001$pb"{standard input}:53:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_1{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_2{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_0{standard input}:unknown:Undefined local symbol L_OBJC_CLASS_REFERENCES_0{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_3{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_4{standard input}:unknown:Undefined local symbol L_OBJC_CLASS_REFERENCES_1{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_5{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_6{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_7{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_8{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_9{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_10{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_11{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_12{standard input}:unknown:Undefined local symbol L_OBJC_CLASS_FlashCardsViewController{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_13{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_20{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_14{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_21{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_15{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_22{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_16{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_23{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_24{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_25{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_26{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_27{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_28{standard input}:unknown:Undefined local symbol L_OBJC_CLASS_REFERENCES_2{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_17{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_29{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_18{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_1912(4@69"Request for member 'wrongCount' in something not a structure or union354639459#145#157#0(6@75"/Users/Decmac/Desktop/FlashCardsCoreData/Classes/FlashCardsViewController.m354639454#80#0#80#0#0"0(4@69"Request for member 'rightCount' in something not a structure or union354639459#302#157#0(6@75"/Users/Decmac/Desktop/FlashCardsCoreData/Classes/FlashCardsViewController.m354639454#83#0#83#0#0"0(4@69"Request for member 'wrongCount' in something not a structure or union354639459#589#158#0(6@75"/Users/Decmac/Desktop/FlashCardsCoreData/Classes/FlashCardsViewController.m354639454#101#0#101#0#0"0(4@69"Request for member 'wrongCount' in something not a structure or union354639459#747#158#0(6@75"/Users/Decmac/Desktop/FlashCardsCoreData/Classes/FlashCardsViewController.m354639454#101#0#101#0#0"0(4@69"Request for member 'rightCount' in something not a structure or union354639459#905#158#0(6@75"/Users/Decmac/Desktop/FlashCardsCoreData/Classes/FlashCardsViewController.m354639454#106#0#106#0#0"0(4@69"Request for member 'rightCount' in something not a structure or union354639459#1063#158#0(6@75"/Users/Decmac/Desktop/FlashCardsCoreData/Classes/FlashCardsViewController.m354639454#106#0#106#0#0"0(4@69"Request for member 'rightCount' in something not a structure or union354639459#1351#158#0(6@75"/Users/Decmac/Desktop/FlashCardsCoreData/Classes/FlashCardsViewController.m354639454#114#0#114#0#0"0(4@69"Request for member 'wrongCount' in something not a structure or union354639459#1509#158#0(6@75"/Users/Decmac/Desktop/FlashCardsCoreData/Classes/FlashCardsViewController.m354639454#116#0#116#0#0"0(4@41"Expected ']' before 'removeObjectAtIndex'354639459#1798#130#0(6@75"/Users/Decmac/Desktop/FlashCardsCoreData/Classes/FlashCardsViewController.m354639454#127#0#127#0#19"expected * before *0(4@33"Array subscript is not an integer354639459#1928#122#0(6@75"/Users/Decmac/Desktop/FlashCardsCoreData/Classes/FlashCardsViewController.m354639454#127#0#127#0#0"0(4@67"Request for member 'question' in something not a structure or union354639459#2204#156#0(6@75"/Users/Decmac/Desktop/FlashCardsCoreData/Classes/FlashCardsViewController.m354639454#146#0#146#0#0"0(4@65"Request for member 'answer' in something not a structure or union354639459#2360#154#0(6@75"/Users/Decmac/Desktop/FlashCardsCoreData/Classes/FlashCardsViewController.m354639454#147#0#147#0#0"0(0#0#75"/Users/Decmac/Desktop/FlashCardsCoreData/Classes/FlashCardsViewController.m5057386729579834368#2223"    cd /Users/Decmac/Desktop/FlashCardsCoreData    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/FlashCardsCoreData/build/FlashCardsCoreData.build/Debug-iphonesimulator/FlashCardsCoreData.build/FlashCardsCoreData-generated-files.hmap -I/Users/Decmac/Desktop/FlashCardsCoreData/build/FlashCardsCoreData.build/Debug-iphonesimulator/FlashCardsCoreData.build/FlashCardsCoreData-own-target-headers.hmap -I/Users/Decmac/Desktop/FlashCardsCoreData/build/FlashCardsCoreData.build/Debug-iphonesimulator/FlashCardsCoreData.build/FlashCardsCoreData-all-target-headers.hmap -iquote /Users/Decmac/Desktop/FlashCardsCoreData/build/FlashCardsCoreData.build/Debug-iphonesimulator/FlashCardsCoreData.build/FlashCardsCoreData-project-headers.hmap -F/Users/Decmac/Desktop/FlashCardsCoreData/build/Debug-iphonesimulator "-F/Volumes/Skiiing2/CD/ViewBased/Unknown Path/System/Library/Frameworks" -I/Users/Decmac/Desktop/FlashCardsCoreData/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/FlashCardsCoreData/build/FlashCardsCoreData.build/Debug-iphonesimulator/FlashCardsCoreData.build/DerivedSources/i386 -I/Users/Decmac/Desktop/FlashCardsCoreData/build/FlashCardsCoreData.build/Debug-iphonesimulator/FlashCardsCoreData.build/DerivedSources -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FlashCardsCoreData_Prefix-etjfjypsyzdrezfylutaevgibjvr/FlashCardsCoreData_Prefix.pch -c /Users/Decmac/Desktop/FlashCardsCoreData/Classes/FlashCardsViewController.m -o /Users/Decmac/Desktop/FlashCardsCoreData/build/FlashCardsCoreData.build/Debug-iphonesimulator/FlashCardsCoreData.build/Objects-normal/i386/FlashCardsViewController.o1#
+
+CCompileC build/FlashCardsCoreData.build/Debug-iphonesimulator/FlashCardsCoreData.build/Objects-normal/i386/main.o /Users/Decmac/Desktop/FlashCardsCoreData/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354639458.987217
+e354639459.205010
+r1
+xCompileC
+xbuild/FlashCardsCoreData.build/Debug-iphonesimulator/FlashCardsCoreData.build/Objects-normal/i386/main.o
+x/Users/Decmac/Desktop/FlashCardsCoreData/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@55"Compile /Users/Decmac/Desktop/FlashCardsCoreData/main.m354639458#354639459#0(0"0(0#0#47"/Users/Decmac/Desktop/FlashCardsCoreData/main.m4300885448#2175"    cd /Users/Decmac/Desktop/FlashCardsCoreData    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/FlashCardsCoreData/build/FlashCardsCoreData.build/Debug-iphonesimulator/FlashCardsCoreData.build/FlashCardsCoreData-generated-files.hmap -I/Users/Decmac/Desktop/FlashCardsCoreData/build/FlashCardsCoreData.build/Debug-iphonesimulator/FlashCardsCoreData.build/FlashCardsCoreData-own-target-headers.hmap -I/Users/Decmac/Desktop/FlashCardsCoreData/build/FlashCardsCoreData.build/Debug-iphonesimulator/FlashCardsCoreData.build/FlashCardsCoreData-all-target-headers.hmap -iquote /Users/Decmac/Desktop/FlashCardsCoreData/build/FlashCardsCoreData.build/Debug-iphonesimulator/FlashCardsCoreData.build/FlashCardsCoreData-project-headers.hmap -F/Users/Decmac/Desktop/FlashCardsCoreData/build/Debug-iphonesimulator "-F/Volumes/Skiiing2/CD/ViewBased/Unknown Path/System/Library/Frameworks" -I/Users/Decmac/Desktop/FlashCardsCoreData/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/FlashCardsCoreData/build/FlashCardsCoreData.build/Debug-iphonesimulator/FlashCardsCoreData.build/DerivedSources/i386 -I/Users/Decmac/Desktop/FlashCardsCoreData/build/FlashCardsCoreData.build/Debug-iphonesimulator/FlashCardsCoreData.build/DerivedSources -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FlashCardsCoreData_Prefix-etjfjypsyzdrezfylutaevgibjvr/FlashCardsCoreData_Prefix.pch -c /Users/Decmac/Desktop/FlashCardsCoreData/main.m -o /Users/Decmac/Desktop/FlashCardsCoreData/build/FlashCardsCoreData.build/Debug-iphonesimulator/FlashCardsCoreData.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/Decmac/Desktop/FlashCardsCoreData/CreateCardViewController.xib
+s354639454.574529
+e354639456.073343
+r1
+xCompileXIB
+x/Users/Decmac/Desktop/FlashCardsCoreData/CreateCardViewController.xib
+o2012-03-28 14:57:34.746 ibtool[382:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 35
+lSLF07#2@39"CompileXIB CreateCardViewController.xib354639454#354639456#0(107"2012-03-28 14:57:34.746 ibtool[382:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 350(0#0#69"/Users/Decmac/Desktop/FlashCardsCoreData/CreateCardViewController.xib4300885448#527"    cd /Users/Decmac/Desktop/FlashCardsCoreData    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Decmac/Desktop/FlashCardsCoreData/build/Debug-iphonesimulator/FlashCardsCoreData.app/CreateCardViewController.nib /Users/Decmac/Desktop/FlashCardsCoreData/CreateCardViewController.xib0#
+
+CCompileXIB /Users/Decmac/Desktop/FlashCardsCoreData/FlashCardsViewController.xib
+s354639455.790529
+e354639457.005032
+r1
+xCompileXIB
+x/Users/Decmac/Desktop/FlashCardsCoreData/FlashCardsViewController.xib
+o2012-03-28 14:57:35.966 ibtool[386:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 35
+lSLF07#2@39"CompileXIB FlashCardsViewController.xib354639455#354639457#0(107"2012-03-28 14:57:35.966 ibtool[386:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 350(0#0#69"/Users/Decmac/Desktop/FlashCardsCoreData/FlashCardsViewController.xib4300885448#527"    cd /Users/Decmac/Desktop/FlashCardsCoreData    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Decmac/Desktop/FlashCardsCoreData/build/Debug-iphonesimulator/FlashCardsCoreData.app/FlashCardsViewController.nib /Users/Decmac/Desktop/FlashCardsCoreData/FlashCardsViewController.xib0#
+
+CCompileXIB /Users/Decmac/Desktop/FlashCardsCoreData/MainWindow.xib
+s354639454.569862
+e354639455.790274
+r1
+xCompileXIB
+x/Users/Decmac/Desktop/FlashCardsCoreData/MainWindow.xib
+o2012-03-28 14:57:34.741 ibtool[381:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 35
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@25"CompileXIB MainWindow.xib354639454#354639455#0(191"2012-03-28 14:57:34.741 ibtool[381:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 35Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#55"/Users/Decmac/Desktop/FlashCardsCoreData/MainWindow.xib4300885448#499"    cd /Users/Decmac/Desktop/FlashCardsCoreData    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Decmac/Desktop/FlashCardsCoreData/build/Debug-iphonesimulator/FlashCardsCoreData.app/MainWindow.nib /Users/Decmac/Desktop/FlashCardsCoreData/MainWindow.xib0#
+
+CDataModelCompile /Users/Decmac/Desktop/FlashCardsCoreData/build/Debug-iphonesimulator/FlashCardsCoreData.app/FlashCardsCoreData.mom /Users/Decmac/Desktop/FlashCardsCoreData/FlashCardsCoreData.xcdatamodel
+s354639458.984392
+e354639459.216009
+r1
+xDataModelCompile
+x/Users/Decmac/Desktop/FlashCardsCoreData/build/Debug-iphonesimulator/FlashCardsCoreData.app/FlashCardsCoreData.mom
+x/Users/Decmac/Desktop/FlashCardsCoreData/FlashCardsCoreData.xcdatamodel
+o2012-03-28 14:57:39.179 momc[392:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 35
+lSLF07#2@79"Compile /Users/Decmac/Desktop/FlashCardsCoreData/FlashCardsCoreData.xcdatamodel354639458#354639459#0(105"2012-03-28 14:57:39.179 momc[392:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 350(0#0#71"/Users/Decmac/Desktop/FlashCardsCoreData/FlashCardsCoreData.xcdatamodel4300885448#423"    cd /Users/Decmac/Desktop/FlashCardsCoreData    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/momc -XD_MOMC_TARGET_VERSION=10.5 /Users/Decmac/Desktop/FlashCardsCoreData/FlashCardsCoreData.xcdatamodel /Users/Decmac/Desktop/FlashCardsCoreData/build/Debug-iphonesimulator/FlashCardsCoreData.app/FlashCardsCoreData.mom0#
+
+CGenerateDSYMFile /Users/Decmac/Desktop/FlashCardsCoreData/build/Debug-iphonesimulator/FlashCardsCoreData.app.dSYM /Users/Decmac/Desktop/FlashCardsCoreData/build/Debug-iphonesimulator/FlashCardsCoreData.app/FlashCardsCoreData
+r0
+
+CLd /Users/Decmac/Desktop/FlashCardsCoreData/build/Debug-iphonesimulator/FlashCardsCoreData.app/FlashCardsCoreData normal i386
+r0
+
+CProcessInfoPlistFile /Users/Decmac/Desktop/FlashCardsCoreData/build/Debug-iphonesimulator/FlashCardsCoreData.app/Info.plist FlashCardsCoreData-Info.plist
+s354639454.497123
+e354639454.569569
+r1
+xProcessInfoPlistFile
+x/Users/Decmac/Desktop/FlashCardsCoreData/build/Debug-iphonesimulator/FlashCardsCoreData.app/Info.plist
+xFlashCardsCoreData-Info.plist
+lSLF07#2@37"Process FlashCardsCoreData-Info.plist354639454#354639454#0(0"0(0#0#70"/Users/Decmac/Desktop/FlashCardsCoreData/FlashCardsCoreData-Info.plist28429462281322564#518"    cd /Users/Decmac/Desktop/FlashCardsCoreData    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility FlashCardsCoreData-Info.plist -genpkginfo /Users/Decmac/Desktop/FlashCardsCoreData/build/Debug-iphonesimulator/FlashCardsCoreData.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/Decmac/Desktop/FlashCardsCoreData/build/Debug-iphonesimulator/FlashCardsCoreData.app/Info.plist0#
+
+CProcessPCH /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FlashCardsCoreData_Prefix-etjfjypsyzdrezfylutaevgibjvr/FlashCardsCoreData_Prefix.pch.gch FlashCardsCoreData_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s354639457.005520
+e354639458.983884
+r1
+xProcessPCH
+x/var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FlashCardsCoreData_Prefix-etjfjypsyzdrezfylutaevgibjvr/FlashCardsCoreData_Prefix.pch.gch
+xFlashCardsCoreData_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@40"Precompile FlashCardsCoreData_Prefix.pch354639457#354639458#0(0"0(0#0#70"/Users/Decmac/Desktop/FlashCardsCoreData/FlashCardsCoreData_Prefix.pch4300885448#2054"    cd /Users/Decmac/Desktop/FlashCardsCoreData    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/FlashCardsCoreData/build/FlashCardsCoreData.build/Debug-iphonesimulator/FlashCardsCoreData.build/FlashCardsCoreData-generated-files.hmap -I/Users/Decmac/Desktop/FlashCardsCoreData/build/FlashCardsCoreData.build/Debug-iphonesimulator/FlashCardsCoreData.build/FlashCardsCoreData-own-target-headers.hmap -I/Users/Decmac/Desktop/FlashCardsCoreData/build/FlashCardsCoreData.build/Debug-iphonesimulator/FlashCardsCoreData.build/FlashCardsCoreData-all-target-headers.hmap -iquote /Users/Decmac/Desktop/FlashCardsCoreData/build/FlashCardsCoreData.build/Debug-iphonesimulator/FlashCardsCoreData.build/FlashCardsCoreData-project-headers.hmap -F/Users/Decmac/Desktop/FlashCardsCoreData/build/Debug-iphonesimulator "-F/Volumes/Skiiing2/CD/ViewBased/Unknown Path/System/Library/Frameworks" -I/Users/Decmac/Desktop/FlashCardsCoreData/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/FlashCardsCoreData/build/FlashCardsCoreData.build/Debug-iphonesimulator/FlashCardsCoreData.build/DerivedSources/i386 -I/Users/Decmac/Desktop/FlashCardsCoreData/build/FlashCardsCoreData.build/Debug-iphonesimulator/FlashCardsCoreData.build/DerivedSources -c /Users/Decmac/Desktop/FlashCardsCoreData/FlashCardsCoreData_Prefix.pch -o /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FlashCardsCoreData_Prefix-etjfjypsyzdrezfylutaevgibjvr/FlashCardsCoreData_Prefix.pch.gch0#
+
+CTouch /Users/Decmac/Desktop/FlashCardsCoreData/build/Debug-iphonesimulator/FlashCardsCoreData.app
+r0
+

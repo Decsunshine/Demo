@@ -1,0 +1,263 @@
+TFlowerInfoNavigator
+v7
+r0
+t354555534.748257
+cCheck dependencies
+cProcessInfoPlistFile /Users/Decmac/Desktop/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app/Info.plist FlowerInfoNavigator-Info.plist
+cCompileXIB /Users/Decmac/Desktop/FlowerInfoNavigator/MainWindow.xib
+cCompileXIB /Users/Decmac/Desktop/FlowerInfoNavigator/RootViewController.xib
+cProcessPCH /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FlowerInfoNavigator_Prefix-gdeqyyneqaazgnhdyvhyweozheii/FlowerInfoNavigator_Prefix.pch.gch FlowerInfoNavigator_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/Objects-normal/i386/main.o /Users/Decmac/Desktop/FlowerInfoNavigator/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/Objects-normal/i386/FlowerInfoNavigatorAppDelegate.o /Users/Decmac/Desktop/FlowerInfoNavigator/Classes/FlowerInfoNavigatorAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/Objects-normal/i386/RootViewController.o /Users/Decmac/Desktop/FlowerInfoNavigator/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/Decmac/Desktop/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app/FlowerInfoNavigator normal i386
+cGenerateDSYMFile /Users/Decmac/Desktop/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app.dSYM /Users/Decmac/Desktop/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app/FlowerInfoNavigator
+cTouch /Users/Decmac/Desktop/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk
+c000000004F3A580900000000000000EE
+t1329223689
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B2B4CC3000000000026EE30
+t1261128899
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B2B4DC8000000000027E880
+t1261129160
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B2B4DAE0000000000001355
+t1261129134
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B2B61620000000000000788
+t1261134178
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B2B62B500000000016721E0
+t1261134517
+s23536096
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/usr/include/Availability.h
+c000000004B2B4EE200000000000019F9
+t1261129442
+s6649
+
+N/Users/Decmac/Desktop/FlowerInfoNavigator/Classes/FlowerInfoNavigatorAppDelegate.h
+c000000004F71DEE600000000000001DB
+t1332862694
+s475
+
+N/Users/Decmac/Desktop/FlowerInfoNavigator/Classes/FlowerInfoNavigatorAppDelegate.m
+c000000004F71DEE60000000000000363
+t1332862694
+s867
+i"FlowerInfoNavigatorAppDelegate.h"
+i"RootViewController.h"
+
+N/Users/Decmac/Desktop/FlowerInfoNavigator/Classes/RootViewController.h
+c000000004F71DEE600000000000000DB
+t1332862694
+s219
+
+N/Users/Decmac/Desktop/FlowerInfoNavigator/Classes/RootViewController.m
+c000000004F71DEE60000000000001008
+t1332862694
+s4104
+i"RootViewController.h"
+
+N/Users/Decmac/Desktop/FlowerInfoNavigator/FlowerInfoNavigator_Prefix.pch
+c000000004F71DEE60000000000000158
+t1332862694
+s344
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/Decmac/Desktop/FlowerInfoNavigator/MainWindow.xib
+c000000004F71DEE60000000000002C91
+t1332862694
+s11409
+
+N/Users/Decmac/Desktop/FlowerInfoNavigator/RootViewController.xib
+c000000004F71DEE6000000000000432D
+t1332862694
+s17197
+
+N/Users/Decmac/Desktop/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app
+t1332862734
+s238
+
+N/Users/Decmac/Desktop/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app.dSYM
+t1332862734
+s102
+
+N/Users/Decmac/Desktop/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app/FlowerInfoNavigator
+t1332862734
+s20568
+
+N/Users/Decmac/Desktop/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app/Info.plist
+t1332862731
+s618
+
+N/Users/Decmac/Desktop/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app/MainWindow.nib
+t1332862732
+s2024
+
+N/Users/Decmac/Desktop/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app/PkgInfo
+t1332862731
+s8
+
+N/Users/Decmac/Desktop/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app/RootViewController.nib
+t1332862732
+s1388
+
+N/Users/Decmac/Desktop/FlowerInfoNavigator/build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/Objects-normal/i386/FlowerInfoNavigator.LinkFileList
+c000000004F71DF0B00000000000001E7
+t1332862731
+s487
+
+N/Users/Decmac/Desktop/FlowerInfoNavigator/build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/Objects-normal/i386/FlowerInfoNavigatorAppDelegate.o
+t1332862734
+s40120
+
+N/Users/Decmac/Desktop/FlowerInfoNavigator/build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/Objects-normal/i386/RootViewController.o
+t1332862734
+s32324
+
+N/Users/Decmac/Desktop/FlowerInfoNavigator/build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/Objects-normal/i386/main.o
+t1332862734
+s5964
+
+N/Users/Decmac/Desktop/FlowerInfoNavigator/main.m
+c000000004F71DEE60000000000000172
+t1332862694
+s370
+i<UIKit/UIKit.h>
+
+N/var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FlowerInfoNavigator_Prefix-gdeqyyneqaazgnhdyvhyweozheii/FlowerInfoNavigator_Prefix.pch.gch
+t1332862734
+s13034960
+
+NFlowerInfoNavigator-Info.plist
+c000000004F71DEE6000000000000038D
+t1332862694
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies354555531#354555531#0(0"0(0#1#0"4300885448#0"0#
+
+CCompileC build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/Objects-normal/i386/FlowerInfoNavigatorAppDelegate.o /Users/Decmac/Desktop/FlowerInfoNavigator/Classes/FlowerInfoNavigatorAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354555534.312079
+e354555534.559562
+r1
+xCompileC
+xbuild/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/Objects-normal/i386/FlowerInfoNavigatorAppDelegate.o
+x/Users/Decmac/Desktop/FlowerInfoNavigator/Classes/FlowerInfoNavigatorAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/Decmac/Desktop/FlowerInfoNavigator/Classes/FlowerInfoNavigatorAppDelegate.m354555534#354555534#0(0"0(0#0#82"/Users/Decmac/Desktop/FlowerInfoNavigator/Classes/FlowerInfoNavigatorAppDelegate.m4300885448#2192"    cd /Users/Decmac/Desktop/FlowerInfoNavigator    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/FlowerInfoNavigator/build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/FlowerInfoNavigator-generated-files.hmap -I/Users/Decmac/Desktop/FlowerInfoNavigator/build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/FlowerInfoNavigator-own-target-headers.hmap -I/Users/Decmac/Desktop/FlowerInfoNavigator/build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/FlowerInfoNavigator-all-target-headers.hmap -iquote /Users/Decmac/Desktop/FlowerInfoNavigator/build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/FlowerInfoNavigator-project-headers.hmap -F/Users/Decmac/Desktop/FlowerInfoNavigator/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/FlowerInfoNavigator/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/FlowerInfoNavigator/build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/DerivedSources/i386 -I/Users/Decmac/Desktop/FlowerInfoNavigator/build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/DerivedSources -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FlowerInfoNavigator_Prefix-gdeqyyneqaazgnhdyvhyweozheii/FlowerInfoNavigator_Prefix.pch -c /Users/Decmac/Desktop/FlowerInfoNavigator/Classes/FlowerInfoNavigatorAppDelegate.m -o /Users/Decmac/Desktop/FlowerInfoNavigator/build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/Objects-normal/i386/FlowerInfoNavigatorAppDelegate.o0#
+
+CCompileC build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/Objects-normal/i386/RootViewController.o /Users/Decmac/Desktop/FlowerInfoNavigator/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354555534.435327
+e354555534.612222
+r1
+xCompileC
+xbuild/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/Objects-normal/i386/RootViewController.o
+x/Users/Decmac/Desktop/FlowerInfoNavigator/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/Decmac/Desktop/FlowerInfoNavigator/Classes/RootViewController.m354555534#354555534#0(0"0(0#0#70"/Users/Decmac/Desktop/FlowerInfoNavigator/Classes/RootViewController.m4300885448#2168"    cd /Users/Decmac/Desktop/FlowerInfoNavigator    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/FlowerInfoNavigator/build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/FlowerInfoNavigator-generated-files.hmap -I/Users/Decmac/Desktop/FlowerInfoNavigator/build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/FlowerInfoNavigator-own-target-headers.hmap -I/Users/Decmac/Desktop/FlowerInfoNavigator/build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/FlowerInfoNavigator-all-target-headers.hmap -iquote /Users/Decmac/Desktop/FlowerInfoNavigator/build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/FlowerInfoNavigator-project-headers.hmap -F/Users/Decmac/Desktop/FlowerInfoNavigator/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/FlowerInfoNavigator/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/FlowerInfoNavigator/build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/DerivedSources/i386 -I/Users/Decmac/Desktop/FlowerInfoNavigator/build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/DerivedSources -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FlowerInfoNavigator_Prefix-gdeqyyneqaazgnhdyvhyweozheii/FlowerInfoNavigator_Prefix.pch -c /Users/Decmac/Desktop/FlowerInfoNavigator/Classes/RootViewController.m -o /Users/Decmac/Desktop/FlowerInfoNavigator/build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/Objects-normal/i386/main.o /Users/Decmac/Desktop/FlowerInfoNavigator/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354555534.309167
+e354555534.435021
+r1
+xCompileC
+xbuild/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/Objects-normal/i386/main.o
+x/Users/Decmac/Desktop/FlowerInfoNavigator/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@56"Compile /Users/Decmac/Desktop/FlowerInfoNavigator/main.m354555534#354555534#0(0"0(0#0#48"/Users/Decmac/Desktop/FlowerInfoNavigator/main.m4300885448#2132"    cd /Users/Decmac/Desktop/FlowerInfoNavigator    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/FlowerInfoNavigator/build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/FlowerInfoNavigator-generated-files.hmap -I/Users/Decmac/Desktop/FlowerInfoNavigator/build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/FlowerInfoNavigator-own-target-headers.hmap -I/Users/Decmac/Desktop/FlowerInfoNavigator/build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/FlowerInfoNavigator-all-target-headers.hmap -iquote /Users/Decmac/Desktop/FlowerInfoNavigator/build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/FlowerInfoNavigator-project-headers.hmap -F/Users/Decmac/Desktop/FlowerInfoNavigator/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/FlowerInfoNavigator/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/FlowerInfoNavigator/build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/DerivedSources/i386 -I/Users/Decmac/Desktop/FlowerInfoNavigator/build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/DerivedSources -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FlowerInfoNavigator_Prefix-gdeqyyneqaazgnhdyvhyweozheii/FlowerInfoNavigator_Prefix.pch -c /Users/Decmac/Desktop/FlowerInfoNavigator/main.m -o /Users/Decmac/Desktop/FlowerInfoNavigator/build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/Decmac/Desktop/FlowerInfoNavigator/MainWindow.xib
+s354555531.839748
+e354555532.629818
+r1
+xCompileXIB
+x/Users/Decmac/Desktop/FlowerInfoNavigator/MainWindow.xib
+o2012-03-27 15:38:51.914 ibtool[664:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 35
+lSLF07#2@25"CompileXIB MainWindow.xib354555531#354555532#0(107"2012-03-27 15:38:51.914 ibtool[664:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 350(0#0#56"/Users/Decmac/Desktop/FlowerInfoNavigator/MainWindow.xib4300885448#503"    cd /Users/Decmac/Desktop/FlowerInfoNavigator    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Decmac/Desktop/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app/MainWindow.nib /Users/Decmac/Desktop/FlowerInfoNavigator/MainWindow.xib0#
+
+CCompileXIB /Users/Decmac/Desktop/FlowerInfoNavigator/RootViewController.xib
+s354555531.841623
+e354555532.641905
+r1
+xCompileXIB
+x/Users/Decmac/Desktop/FlowerInfoNavigator/RootViewController.xib
+o2012-03-27 15:38:51.913 ibtool[665:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 35
+lSLF07#2@33"CompileXIB RootViewController.xib354555531#354555532#0(107"2012-03-27 15:38:51.913 ibtool[665:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 350(0#0#64"/Users/Decmac/Desktop/FlowerInfoNavigator/RootViewController.xib4300885448#519"    cd /Users/Decmac/Desktop/FlowerInfoNavigator    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Decmac/Desktop/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app/RootViewController.nib /Users/Decmac/Desktop/FlowerInfoNavigator/RootViewController.xib0#
+
+CGenerateDSYMFile /Users/Decmac/Desktop/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app.dSYM /Users/Decmac/Desktop/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app/FlowerInfoNavigator
+s354555534.682131
+e354555534.739325
+r1
+xGenerateDSYMFile
+x/Users/Decmac/Desktop/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app.dSYM
+x/Users/Decmac/Desktop/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app/FlowerInfoNavigator
+o2012-03-27 15:38:54.717 dsymutil[691:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 35
+lSLF07#2@145"GenerateDSYMFile build/Debug-iphonesimulator/FlowerInfoNavigator.app.dSYM build/Debug-iphonesimulator/FlowerInfoNavigator.app/FlowerInfoNavigator354555534#354555534#0(109"2012-03-27 15:38:54.717 dsymutil[691:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 350(0#0#113"/Users/Decmac/Desktop/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app/FlowerInfoNavigator4300885448#428"    cd /Users/Decmac/Desktop/FlowerInfoNavigator    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/Decmac/Desktop/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app/FlowerInfoNavigator -o /Users/Decmac/Desktop/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app.dSYM0#
+
+CLd /Users/Decmac/Desktop/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app/FlowerInfoNavigator normal i386
+s354555534.612464
+e354555534.681863
+r1
+xLd
+x/Users/Decmac/Desktop/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app/FlowerInfoNavigator
+xnormal
+xi386
+lSLF07#2@118"Link /Users/Decmac/Desktop/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app/FlowerInfoNavigator354555534#354555534#0(0"0(0#0#0"4300885448#939"    cd /Users/Decmac/Desktop/FlowerInfoNavigator    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -L/Users/Decmac/Desktop/FlowerInfoNavigator/build/Debug-iphonesimulator -F/Users/Decmac/Desktop/FlowerInfoNavigator/build/Debug-iphonesimulator -filelist /Users/Decmac/Desktop/FlowerInfoNavigator/build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/Objects-normal/i386/FlowerInfoNavigator.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/Decmac/Desktop/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app/FlowerInfoNavigator0#
+
+CProcessInfoPlistFile /Users/Decmac/Desktop/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app/Info.plist FlowerInfoNavigator-Info.plist
+s354555531.832777
+e354555531.839494
+r1
+xProcessInfoPlistFile
+x/Users/Decmac/Desktop/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app/Info.plist
+xFlowerInfoNavigator-Info.plist
+lSLF07#2@38"Process FlowerInfoNavigator-Info.plist354555531#354555531#0(0"0(0#0#72"/Users/Decmac/Desktop/FlowerInfoNavigator/FlowerInfoNavigator-Info.plist4300885448#524"    cd /Users/Decmac/Desktop/FlowerInfoNavigator    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility FlowerInfoNavigator-Info.plist -genpkginfo /Users/Decmac/Desktop/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/Decmac/Desktop/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app/Info.plist0#
+
+CProcessPCH /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FlowerInfoNavigator_Prefix-gdeqyyneqaazgnhdyvhyweozheii/FlowerInfoNavigator_Prefix.pch.gch FlowerInfoNavigator_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s354555532.642222
+e354555534.308706
+r1
+xProcessPCH
+x/var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FlowerInfoNavigator_Prefix-gdeqyyneqaazgnhdyvhyweozheii/FlowerInfoNavigator_Prefix.pch.gch
+xFlowerInfoNavigator_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@41"Precompile FlowerInfoNavigator_Prefix.pch354555532#354555534#0(0"0(0#0#72"/Users/Decmac/Desktop/FlowerInfoNavigator/FlowerInfoNavigator_Prefix.pch4300885448#2009"    cd /Users/Decmac/Desktop/FlowerInfoNavigator    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/FlowerInfoNavigator/build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/FlowerInfoNavigator-generated-files.hmap -I/Users/Decmac/Desktop/FlowerInfoNavigator/build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/FlowerInfoNavigator-own-target-headers.hmap -I/Users/Decmac/Desktop/FlowerInfoNavigator/build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/FlowerInfoNavigator-all-target-headers.hmap -iquote /Users/Decmac/Desktop/FlowerInfoNavigator/build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/FlowerInfoNavigator-project-headers.hmap -F/Users/Decmac/Desktop/FlowerInfoNavigator/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/FlowerInfoNavigator/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/FlowerInfoNavigator/build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/DerivedSources/i386 -I/Users/Decmac/Desktop/FlowerInfoNavigator/build/FlowerInfoNavigator.build/Debug-iphonesimulator/FlowerInfoNavigator.build/DerivedSources -c /Users/Decmac/Desktop/FlowerInfoNavigator/FlowerInfoNavigator_Prefix.pch -o /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FlowerInfoNavigator_Prefix-gdeqyyneqaazgnhdyvhyweozheii/FlowerInfoNavigator_Prefix.pch.gch0#
+
+CTouch /Users/Decmac/Desktop/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app
+s354555534.739573
+e354555534.748109
+r1
+xTouch
+x/Users/Decmac/Desktop/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app
+lSLF07#2@99"Touch /Users/Decmac/Desktop/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app354555534#354555534#0(0"0(0#0#0"4300885448#296"    cd /Users/Decmac/Desktop/FlowerInfoNavigator    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/Decmac/Desktop/FlowerInfoNavigator/build/Debug-iphonesimulator/FlowerInfoNavigator.app0#
+

@@ -1,0 +1,272 @@
+TmyDay03
+v7
+r0
+t351710283.896634
+cCheck dependencies
+cProcessInfoPlistFile /Users/Decmac/Desktop/myDay03/build/Debug-iphonesimulator/myDay03.app/Info.plist myDay03-Info.plist
+cCompileXIB /Users/Decmac/Desktop/myDay03/MainWindow.xib
+cCompileXIB /Users/Decmac/Desktop/myDay03/myDay03ViewController.xib
+cCpResource build/Debug-iphonesimulator/myDay03.app/Settings.bundle Settings.bundle
+cProcessPCH /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myDay03_Prefix-gyrbuzalffazxmehtmmqckmkvuwi/myDay03_Prefix.pch.gch myDay03_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/myDay03.build/Debug-iphonesimulator/myDay03.build/Objects-normal/i386/main.o /Users/Decmac/Desktop/myDay03/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/myDay03.build/Debug-iphonesimulator/myDay03.build/Objects-normal/i386/myDay03AppDelegate.o /Users/Decmac/Desktop/myDay03/Classes/myDay03AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/myDay03.build/Debug-iphonesimulator/myDay03.build/Objects-normal/i386/myDay03ViewController.o /Users/Decmac/Desktop/myDay03/Classes/myDay03ViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk
+c000000004F3A580900000000000000EE
+t1329223689
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B2B4CC3000000000026EE30
+t1261128899
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B2B4DC8000000000027E880
+t1261129160
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B2B4DAE0000000000001355
+t1261129134
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B2B61620000000000000788
+t1261134178
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B2B62B500000000016721E0
+t1261134517
+s23536096
+
+N/Users/Decmac/Desktop/myDay03/Classes/myDay03AppDelegate.h
+c000000004F4664D900000000000001DC
+t1330013401
+s476
+i<UIKit/UIKit.h>
+
+N/Users/Decmac/Desktop/myDay03/Classes/myDay03AppDelegate.m
+c000000004F4664D90000000000000267
+t1330013401
+s615
+i"myDay03AppDelegate.h"
+i"myDay03ViewController.h"
+
+N/Users/Decmac/Desktop/myDay03/Classes/myDay03ViewController.h
+c000000004F466D0F0000000000000241
+t1330015503
+s577
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/Decmac/Desktop/myDay03/Classes/myDay03ViewController.m
+c000000004F4672E3000000000000091C
+t1330016995
+s2332
+i"myDay03ViewController.h"
+
+N/Users/Decmac/Desktop/myDay03/MainWindow.xib
+c000000004F4664D9000000000000244E
+t1330013401
+s9294
+
+N/Users/Decmac/Desktop/myDay03/Settings.bundle
+c000000004F4665110000000000000088
+t1330013457
+s136
+
+N/Users/Decmac/Desktop/myDay03/build/Debug-iphonesimulator/myDay03.app
+t2
+s0
+
+N/Users/Decmac/Desktop/myDay03/build/Debug-iphonesimulator/myDay03.app.dSYM
+t2
+s0
+
+N/Users/Decmac/Desktop/myDay03/build/Debug-iphonesimulator/myDay03.app/Info.plist
+t1330017480
+s564
+
+N/Users/Decmac/Desktop/myDay03/build/Debug-iphonesimulator/myDay03.app/MainWindow.nib
+t1330017481
+s1495
+
+N/Users/Decmac/Desktop/myDay03/build/Debug-iphonesimulator/myDay03.app/PkgInfo
+t1330017480
+s8
+
+N/Users/Decmac/Desktop/myDay03/build/Debug-iphonesimulator/myDay03.app/Settings.bundle
+t1330017481
+s136
+
+N/Users/Decmac/Desktop/myDay03/build/Debug-iphonesimulator/myDay03.app/myDay03
+t2
+s0
+
+N/Users/Decmac/Desktop/myDay03/build/Debug-iphonesimulator/myDay03.app/myDay03ViewController.nib
+t1330017481
+s2814
+
+N/Users/Decmac/Desktop/myDay03/build/myDay03.build/Debug-iphonesimulator/myDay03.build/Objects-normal/i386/main.o
+t1330017483
+s5940
+
+N/Users/Decmac/Desktop/myDay03/build/myDay03.build/Debug-iphonesimulator/myDay03.build/Objects-normal/i386/myDay03.LinkFileList
+c000000004F4674C80000000000000172
+t1330017480
+s370
+
+N/Users/Decmac/Desktop/myDay03/build/myDay03.build/Debug-iphonesimulator/myDay03.build/Objects-normal/i386/myDay03AppDelegate.o
+t2
+s0
+
+N/Users/Decmac/Desktop/myDay03/build/myDay03.build/Debug-iphonesimulator/myDay03.build/Objects-normal/i386/myDay03ViewController.o
+t2
+s0
+
+N/Users/Decmac/Desktop/myDay03/main.m
+c000000004F4664D90000000000000166
+t1330013401
+s358
+i<UIKit/UIKit.h>
+
+N/Users/Decmac/Desktop/myDay03/myDay03ViewController.xib
+c000000004F4674C200000000000057D5
+t1330017474
+s22485
+
+N/Users/Decmac/Desktop/myDay03/myDay03_Prefix.pch
+c000000004F4664D900000000000000B7
+t1330013401
+s183
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myDay03_Prefix-gyrbuzalffazxmehtmmqckmkvuwi/myDay03_Prefix.pch.gch
+t1330017483
+s13034960
+
+NmyDay03-Info.plist
+c000000004F4664D9000000000000038D
+t1330013401
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies351710280#351710280#0(0"0(0#1#0"7947009927035180032#0"0#
+
+CCompileC build/myDay03.build/Debug-iphonesimulator/myDay03.build/Objects-normal/i386/main.o /Users/Decmac/Desktop/myDay03/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s351710283.590430
+e351710283.820493
+r1
+xCompileC
+xbuild/myDay03.build/Debug-iphonesimulator/myDay03.build/Objects-normal/i386/main.o
+x/Users/Decmac/Desktop/myDay03/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@44"Compile /Users/Decmac/Desktop/myDay03/main.m351710283#351710283#0(0"0(0#0#36"/Users/Decmac/Desktop/myDay03/main.m4300885448#1760"    cd /Users/Decmac/Desktop/myDay03    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/myDay03/build/myDay03.build/Debug-iphonesimulator/myDay03.build/myDay03-generated-files.hmap -I/Users/Decmac/Desktop/myDay03/build/myDay03.build/Debug-iphonesimulator/myDay03.build/myDay03-own-target-headers.hmap -I/Users/Decmac/Desktop/myDay03/build/myDay03.build/Debug-iphonesimulator/myDay03.build/myDay03-all-target-headers.hmap -iquote /Users/Decmac/Desktop/myDay03/build/myDay03.build/Debug-iphonesimulator/myDay03.build/myDay03-project-headers.hmap -F/Users/Decmac/Desktop/myDay03/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/myDay03/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/myDay03/build/myDay03.build/Debug-iphonesimulator/myDay03.build/DerivedSources/i386 -I/Users/Decmac/Desktop/myDay03/build/myDay03.build/Debug-iphonesimulator/myDay03.build/DerivedSources -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myDay03_Prefix-gyrbuzalffazxmehtmmqckmkvuwi/myDay03_Prefix.pch -c /Users/Decmac/Desktop/myDay03/main.m -o /Users/Decmac/Desktop/myDay03/build/myDay03.build/Debug-iphonesimulator/myDay03.build/Objects-normal/i386/main.o0#
+
+CCompileC build/myDay03.build/Debug-iphonesimulator/myDay03.build/Objects-normal/i386/myDay03AppDelegate.o /Users/Decmac/Desktop/myDay03/Classes/myDay03AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s351710283.593137
+e351710283.762499
+r0
+xCompileC
+xbuild/myDay03.build/Debug-iphonesimulator/myDay03.build/Objects-normal/i386/myDay03AppDelegate.o
+x/Users/Decmac/Desktop/myDay03/Classes/myDay03AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/Decmac/Desktop/myDay03/Classes/myDay03AppDelegate.m:10:
+o/Users/Decmac/Desktop/myDay03/Classes/myDay03ViewController.h:18: error: expected specifier-qualifier-list before 'property'
+o/Users/Decmac/Desktop/myDay03/Classes/myDay03ViewController.h:19: error: expected specifier-qualifier-list before 'property'
+o/Users/Decmac/Desktop/myDay03/Classes/myDay03ViewController.h:20: error: expected specifier-qualifier-list before 'property'
+o/Users/Decmac/Desktop/myDay03/Classes/myDay03ViewController.h:21: error: expected specifier-qualifier-list before 'property'
+lSLF07#2@66"Compile /Users/Decmac/Desktop/myDay03/Classes/myDay03AppDelegate.m351710283#351710283#0(585"In file included from /Users/Decmac/Desktop/myDay03/Classes/myDay03AppDelegate.m:10:/Users/Decmac/Desktop/myDay03/Classes/myDay03ViewController.h:18: error: expected specifier-qualifier-list before 'property'/Users/Decmac/Desktop/myDay03/Classes/myDay03ViewController.h:19: error: expected specifier-qualifier-list before 'property'/Users/Decmac/Desktop/myDay03/Classes/myDay03ViewController.h:20: error: expected specifier-qualifier-list before 'property'/Users/Decmac/Desktop/myDay03/Classes/myDay03ViewController.h:21: error: expected specifier-qualifier-list before 'property'4(4@51"Expected specifier-qualifier-list before 'property'351710283#85#125#2(7@80"In file included from /Users/Decmac/Desktop/myDay03/Classes/myDay03AppDelegate.m351710283#18446744073709551615#0#0(6@58"/Users/Decmac/Desktop/myDay03/Classes/myDay03AppDelegate.m351706201#10#0#10#0#0"0(13@116"Expected specifier-qualifier-list before 'property' in /Users/Decmac/Desktop/myDay03/Classes/myDay03ViewController.h351710283#18446744073709551615#0#0(6@61"/Users/Decmac/Desktop/myDay03/Classes/myDay03ViewController.h351708303#18#0#18#0#0"0(6@61"/Users/Decmac/Desktop/myDay03/Classes/myDay03ViewController.h351708303#18#0#18#0#19"expected * before *0(4@51"Expected specifier-qualifier-list before 'property'351710283#210#125#2(7@80"In file included from /Users/Decmac/Desktop/myDay03/Classes/myDay03AppDelegate.m351710283#18446744073709551615#0#0(6@58"/Users/Decmac/Desktop/myDay03/Classes/myDay03AppDelegate.m351706201#10#0#10#0#0"0(13@116"Expected specifier-qualifier-list before 'property' in /Users/Decmac/Desktop/myDay03/Classes/myDay03ViewController.h351710283#18446744073709551615#0#0(6@61"/Users/Decmac/Desktop/myDay03/Classes/myDay03ViewController.h351708303#19#0#19#0#0"0(6@61"/Users/Decmac/Desktop/myDay03/Classes/myDay03ViewController.h351708303#19#0#19#0#19"expected * before *0(4@51"Expected specifier-qualifier-list before 'property'351710283#335#125#2(7@80"In file included from /Users/Decmac/Desktop/myDay03/Classes/myDay03AppDelegate.m351710283#18446744073709551615#0#0(6@58"/Users/Decmac/Desktop/myDay03/Classes/myDay03AppDelegate.m351706201#10#0#10#0#0"0(13@116"Expected specifier-qualifier-list before 'property' in /Users/Decmac/Desktop/myDay03/Classes/myDay03ViewController.h351710283#18446744073709551615#0#0(6@61"/Users/Decmac/Desktop/myDay03/Classes/myDay03ViewController.h351708303#20#0#20#0#0"0(6@61"/Users/Decmac/Desktop/myDay03/Classes/myDay03ViewController.h351708303#20#0#20#0#19"expected * before *0(4@51"Expected specifier-qualifier-list before 'property'351710283#460#125#2(7@80"In file included from /Users/Decmac/Desktop/myDay03/Classes/myDay03AppDelegate.m351710283#18446744073709551615#0#0(6@58"/Users/Decmac/Desktop/myDay03/Classes/myDay03AppDelegate.m351706201#10#0#10#0#0"0(13@116"Expected specifier-qualifier-list before 'property' in /Users/Decmac/Desktop/myDay03/Classes/myDay03ViewController.h351710283#18446744073709551615#0#0(6@61"/Users/Decmac/Desktop/myDay03/Classes/myDay03ViewController.h351708303#21#0#21#0#0"0(6@61"/Users/Decmac/Desktop/myDay03/Classes/myDay03ViewController.h351708303#21#0#21#0#19"expected * before *0(0#0#58"/Users/Decmac/Desktop/myDay03/Classes/myDay03AppDelegate.m4300885448#1796"    cd /Users/Decmac/Desktop/myDay03    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/myDay03/build/myDay03.build/Debug-iphonesimulator/myDay03.build/myDay03-generated-files.hmap -I/Users/Decmac/Desktop/myDay03/build/myDay03.build/Debug-iphonesimulator/myDay03.build/myDay03-own-target-headers.hmap -I/Users/Decmac/Desktop/myDay03/build/myDay03.build/Debug-iphonesimulator/myDay03.build/myDay03-all-target-headers.hmap -iquote /Users/Decmac/Desktop/myDay03/build/myDay03.build/Debug-iphonesimulator/myDay03.build/myDay03-project-headers.hmap -F/Users/Decmac/Desktop/myDay03/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/myDay03/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/myDay03/build/myDay03.build/Debug-iphonesimulator/myDay03.build/DerivedSources/i386 -I/Users/Decmac/Desktop/myDay03/build/myDay03.build/Debug-iphonesimulator/myDay03.build/DerivedSources -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myDay03_Prefix-gyrbuzalffazxmehtmmqckmkvuwi/myDay03_Prefix.pch -c /Users/Decmac/Desktop/myDay03/Classes/myDay03AppDelegate.m -o /Users/Decmac/Desktop/myDay03/build/myDay03.build/Debug-iphonesimulator/myDay03.build/Objects-normal/i386/myDay03AppDelegate.o1#
+
+CCompileC build/myDay03.build/Debug-iphonesimulator/myDay03.build/Objects-normal/i386/myDay03ViewController.o /Users/Decmac/Desktop/myDay03/Classes/myDay03ViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s351710283.762784
+e351710283.896407
+r0
+xCompileC
+xbuild/myDay03.build/Debug-iphonesimulator/myDay03.build/Objects-normal/i386/myDay03ViewController.o
+x/Users/Decmac/Desktop/myDay03/Classes/myDay03ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/Decmac/Desktop/myDay03/Classes/myDay03ViewController.m:9:
+o/Users/Decmac/Desktop/myDay03/Classes/myDay03ViewController.h:18: error: expected specifier-qualifier-list before 'property'
+o/Users/Decmac/Desktop/myDay03/Classes/myDay03ViewController.h:19: error: expected specifier-qualifier-list before 'property'
+o/Users/Decmac/Desktop/myDay03/Classes/myDay03ViewController.h:20: error: expected specifier-qualifier-list before 'property'
+o/Users/Decmac/Desktop/myDay03/Classes/myDay03ViewController.h:21: error: expected specifier-qualifier-list before 'property'
+o/Users/Decmac/Desktop/myDay03/Classes/myDay03ViewController.m:13: error: no declaration of property 'lblText' found in the interface
+o/Users/Decmac/Desktop/myDay03/Classes/myDay03ViewController.m:13: error: no declaration of property 'lblSlider' found in the interface
+o/Users/Decmac/Desktop/myDay03/Classes/myDay03ViewController.m:13: error: no declaration of property 'lblColor' found in the interface
+o/Users/Decmac/Desktop/myDay03/Classes/myDay03ViewController.m:13: error: no declaration of property 'lblToogle' found in the interface
+lSLF07#2@69"Compile /Users/Decmac/Desktop/myDay03/Classes/myDay03ViewController.m351710283#351710283#0(1124"In file included from /Users/Decmac/Desktop/myDay03/Classes/myDay03ViewController.m:9:/Users/Decmac/Desktop/myDay03/Classes/myDay03ViewController.h:18: error: expected specifier-qualifier-list before 'property'/Users/Decmac/Desktop/myDay03/Classes/myDay03ViewController.h:19: error: expected specifier-qualifier-list before 'property'/Users/Decmac/Desktop/myDay03/Classes/myDay03ViewController.h:20: error: expected specifier-qualifier-list before 'property'/Users/Decmac/Desktop/myDay03/Classes/myDay03ViewController.h:21: error: expected specifier-qualifier-list before 'property'/Users/Decmac/Desktop/myDay03/Classes/myDay03ViewController.m:13: error: no declaration of property 'lblText' found in the interface/Users/Decmac/Desktop/myDay03/Classes/myDay03ViewController.m:13: error: no declaration of property 'lblSlider' found in the interface/Users/Decmac/Desktop/myDay03/Classes/myDay03ViewController.m:13: error: no declaration of property 'lblColor' found in the interface/Users/Decmac/Desktop/myDay03/Classes/myDay03ViewController.m:13: error: no declaration of property 'lblToogle' found in the interface8(4@51"Expected specifier-qualifier-list before 'property'351710283#87#125#2(7@83"In file included from /Users/Decmac/Desktop/myDay03/Classes/myDay03ViewController.m351710283#18446744073709551615#0#0(6@61"/Users/Decmac/Desktop/myDay03/Classes/myDay03ViewController.m351709795#9#0#9#0#0"0(13@116"Expected specifier-qualifier-list before 'property' in /Users/Decmac/Desktop/myDay03/Classes/myDay03ViewController.h351710283#18446744073709551615#0#0(6@61"/Users/Decmac/Desktop/myDay03/Classes/myDay03ViewController.h351708303#18#0#18#0#0"0(6@61"/Users/Decmac/Desktop/myDay03/Classes/myDay03ViewController.h351708303#18#0#18#0#19"expected * before *0(4@51"Expected specifier-qualifier-list before 'property'351710283#212#125#2(7@83"In file included from /Users/Decmac/Desktop/myDay03/Classes/myDay03ViewController.m351710283#18446744073709551615#0#0(6@61"/Users/Decmac/Desktop/myDay03/Classes/myDay03ViewController.m351709795#9#0#9#0#0"0(13@116"Expected specifier-qualifier-list before 'property' in /Users/Decmac/Desktop/myDay03/Classes/myDay03ViewController.h351710283#18446744073709551615#0#0(6@61"/Users/Decmac/Desktop/myDay03/Classes/myDay03ViewController.h351708303#19#0#19#0#0"0(6@61"/Users/Decmac/Desktop/myDay03/Classes/myDay03ViewController.h351708303#19#0#19#0#19"expected * before *0(4@51"Expected specifier-qualifier-list before 'property'351710283#337#125#2(7@83"In file included from /Users/Decmac/Desktop/myDay03/Classes/myDay03ViewController.m351710283#18446744073709551615#0#0(6@61"/Users/Decmac/Desktop/myDay03/Classes/myDay03ViewController.m351709795#9#0#9#0#0"0(13@116"Expected specifier-qualifier-list before 'property' in /Users/Decmac/Desktop/myDay03/Classes/myDay03ViewController.h351710283#18446744073709551615#0#0(6@61"/Users/Decmac/Desktop/myDay03/Classes/myDay03ViewController.h351708303#20#0#20#0#0"0(6@61"/Users/Decmac/Desktop/myDay03/Classes/myDay03ViewController.h351708303#20#0#20#0#19"expected * before *0(4@51"Expected specifier-qualifier-list before 'property'351710283#462#125#2(7@83"In file included from /Users/Decmac/Desktop/myDay03/Classes/myDay03ViewController.m351710283#18446744073709551615#0#0(6@61"/Users/Decmac/Desktop/myDay03/Classes/myDay03ViewController.m351709795#9#0#9#0#0"0(13@116"Expected specifier-qualifier-list before 'property' in /Users/Decmac/Desktop/myDay03/Classes/myDay03ViewController.h351710283#18446744073709551615#0#0(6@61"/Users/Decmac/Desktop/myDay03/Classes/myDay03ViewController.h351708303#21#0#21#0#0"0(6@61"/Users/Decmac/Desktop/myDay03/Classes/myDay03ViewController.h351708303#21#0#21#0#19"expected * before *0(4@59"No declaration of property 'lblText' found in the interface351710283#587#133#0(6@61"/Users/Decmac/Desktop/myDay03/Classes/myDay03ViewController.m351709795#13#0#13#0#0"0(4@61"No declaration of property 'lblSlider' found in the interface351710283#720#135#0(6@61"/Users/Decmac/Desktop/myDay03/Classes/myDay03ViewController.m351709795#13#0#13#0#0"0(4@60"No declaration of property 'lblColor' found in the interface351710283#855#134#0(6@61"/Users/Decmac/Desktop/myDay03/Classes/myDay03ViewController.m351709795#13#0#13#0#0"0(4@61"No declaration of property 'lblToogle' found in the interface351710283#989#135#0(6@61"/Users/Decmac/Desktop/myDay03/Classes/myDay03ViewController.m351709795#13#0#13#0#0"0(0#0#61"/Users/Decmac/Desktop/myDay03/Classes/myDay03ViewController.m4300885448#1802"    cd /Users/Decmac/Desktop/myDay03    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/myDay03/build/myDay03.build/Debug-iphonesimulator/myDay03.build/myDay03-generated-files.hmap -I/Users/Decmac/Desktop/myDay03/build/myDay03.build/Debug-iphonesimulator/myDay03.build/myDay03-own-target-headers.hmap -I/Users/Decmac/Desktop/myDay03/build/myDay03.build/Debug-iphonesimulator/myDay03.build/myDay03-all-target-headers.hmap -iquote /Users/Decmac/Desktop/myDay03/build/myDay03.build/Debug-iphonesimulator/myDay03.build/myDay03-project-headers.hmap -F/Users/Decmac/Desktop/myDay03/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/myDay03/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/myDay03/build/myDay03.build/Debug-iphonesimulator/myDay03.build/DerivedSources/i386 -I/Users/Decmac/Desktop/myDay03/build/myDay03.build/Debug-iphonesimulator/myDay03.build/DerivedSources -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myDay03_Prefix-gyrbuzalffazxmehtmmqckmkvuwi/myDay03_Prefix.pch -c /Users/Decmac/Desktop/myDay03/Classes/myDay03ViewController.m -o /Users/Decmac/Desktop/myDay03/build/myDay03.build/Debug-iphonesimulator/myDay03.build/Objects-normal/i386/myDay03ViewController.o1#
+
+CCompileXIB /Users/Decmac/Desktop/myDay03/MainWindow.xib
+s351710280.561897
+e351710281.362545
+r1
+xCompileXIB
+x/Users/Decmac/Desktop/myDay03/MainWindow.xib
+o2012-02-23 17:18:00.655 ibtool[324:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 35
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@25"CompileXIB MainWindow.xib351710280#351710281#0(191"2012-02-23 17:18:00.655 ibtool[324:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 35Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#44"/Users/Decmac/Desktop/myDay03/MainWindow.xib4300885448#455"    cd /Users/Decmac/Desktop/myDay03    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Decmac/Desktop/myDay03/build/Debug-iphonesimulator/myDay03.app/MainWindow.nib /Users/Decmac/Desktop/myDay03/MainWindow.xib0#
+
+CCompileXIB /Users/Decmac/Desktop/myDay03/myDay03ViewController.xib
+s351710280.565331
+e351710281.580186
+r1
+xCompileXIB
+x/Users/Decmac/Desktop/myDay03/myDay03ViewController.xib
+o2012-02-23 17:18:00.652 ibtool[325:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 35
+lSLF07#2@36"CompileXIB myDay03ViewController.xib351710280#351710281#0(107"2012-02-23 17:18:00.652 ibtool[325:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 350(0#0#55"/Users/Decmac/Desktop/myDay03/myDay03ViewController.xib4300885448#477"    cd /Users/Decmac/Desktop/myDay03    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Decmac/Desktop/myDay03/build/Debug-iphonesimulator/myDay03.app/myDay03ViewController.nib /Users/Decmac/Desktop/myDay03/myDay03ViewController.xib0#
+
+CCpResource build/Debug-iphonesimulator/myDay03.app/Settings.bundle Settings.bundle
+s351710281.362783
+e351710281.428280
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/myDay03.app/Settings.bundle
+xSettings.bundle
+lSLF07#2@20"Copy Settings.bundle351710281#351710281#0(0"0(0#0#45"/Users/Decmac/Desktop/myDay03/Settings.bundle4300885448#432"    cd /Users/Decmac/Desktop/myDay03    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Decmac/Desktop/myDay03/Settings.bundle /Users/Decmac/Desktop/myDay03/build/Debug-iphonesimulator/myDay03.app0#
+
+CGenerateDSYMFile /Users/Decmac/Desktop/myDay03/build/Debug-iphonesimulator/myDay03.app.dSYM /Users/Decmac/Desktop/myDay03/build/Debug-iphonesimulator/myDay03.app/myDay03
+r0
+
+CLd /Users/Decmac/Desktop/myDay03/build/Debug-iphonesimulator/myDay03.app/myDay03 normal i386
+r0
+
+CProcessInfoPlistFile /Users/Decmac/Desktop/myDay03/build/Debug-iphonesimulator/myDay03.app/Info.plist myDay03-Info.plist
+s351710280.509486
+e351710280.561579
+r1
+xProcessInfoPlistFile
+x/Users/Decmac/Desktop/myDay03/build/Debug-iphonesimulator/myDay03.app/Info.plist
+xmyDay03-Info.plist
+lSLF07#2@26"Process myDay03-Info.plist351710280#351710280#0(0"0(0#0#48"/Users/Decmac/Desktop/myDay03/myDay03-Info.plist30681223440564324#452"    cd /Users/Decmac/Desktop/myDay03    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility myDay03-Info.plist -genpkginfo /Users/Decmac/Desktop/myDay03/build/Debug-iphonesimulator/myDay03.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/Decmac/Desktop/myDay03/build/Debug-iphonesimulator/myDay03.app/Info.plist0#
+
+CProcessPCH /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myDay03_Prefix-gyrbuzalffazxmehtmmqckmkvuwi/myDay03_Prefix.pch.gch myDay03_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s351710281.580593
+e351710283.589990
+r1
+xProcessPCH
+x/var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myDay03_Prefix-gyrbuzalffazxmehtmmqckmkvuwi/myDay03_Prefix.pch.gch
+xmyDay03_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile myDay03_Prefix.pch351710281#351710283#0(0"0(0#0#48"/Users/Decmac/Desktop/myDay03/myDay03_Prefix.pch4300885448#1661"    cd /Users/Decmac/Desktop/myDay03    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/myDay03/build/myDay03.build/Debug-iphonesimulator/myDay03.build/myDay03-generated-files.hmap -I/Users/Decmac/Desktop/myDay03/build/myDay03.build/Debug-iphonesimulator/myDay03.build/myDay03-own-target-headers.hmap -I/Users/Decmac/Desktop/myDay03/build/myDay03.build/Debug-iphonesimulator/myDay03.build/myDay03-all-target-headers.hmap -iquote /Users/Decmac/Desktop/myDay03/build/myDay03.build/Debug-iphonesimulator/myDay03.build/myDay03-project-headers.hmap -F/Users/Decmac/Desktop/myDay03/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/myDay03/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/myDay03/build/myDay03.build/Debug-iphonesimulator/myDay03.build/DerivedSources/i386 -I/Users/Decmac/Desktop/myDay03/build/myDay03.build/Debug-iphonesimulator/myDay03.build/DerivedSources -c /Users/Decmac/Desktop/myDay03/myDay03_Prefix.pch -o /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myDay03_Prefix-gyrbuzalffazxmehtmmqckmkvuwi/myDay03_Prefix.pch.gch0#
+
+CTouch /Users/Decmac/Desktop/myDay03/build/Debug-iphonesimulator/myDay03.app
+r0
+

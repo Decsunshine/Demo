@@ -1,0 +1,289 @@
+TSimonSays
+v7
+r0
+t354714837.154161
+cCheck dependencies
+cProcessInfoPlistFile /Users/Decmac/Desktop/SimonSays/build/Debug-iphonesimulator/SimonSays.app/Info.plist SimonSays-Info.plist
+cCompileXIB /Users/Decmac/Desktop/SimonSays/MainWindow.xib
+cCompileXIB /Users/Decmac/Desktop/SimonSays/SimonSaysViewController.xib
+cProcessPCH /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimonSays_Prefix-gmxgmygwudbdjhdfnjawoixhwcyl/SimonSays_Prefix.pch.gch SimonSays_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SimonSays.build/Debug-iphonesimulator/SimonSays.build/Objects-normal/i386/main.o /Users/Decmac/Desktop/SimonSays/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SimonSays.build/Debug-iphonesimulator/SimonSays.build/Objects-normal/i386/SimonSaysAppDelegate.o /Users/Decmac/Desktop/SimonSays/Classes/SimonSaysAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SimonSays.build/Debug-iphonesimulator/SimonSays.build/Objects-normal/i386/SimonSaysViewController.o /Users/Decmac/Desktop/SimonSays/Classes/SimonSaysViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SimonSays.build/Debug-iphonesimulator/SimonSays.build/Objects-normal/i386/Instruction.o /Users/Decmac/Desktop/SimonSays/Classes/Instruction.m normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk
+c000000004F3A580900000000000000EE
+t1329223689
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B2B4CC3000000000026EE30
+t1261128899
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B2B4DC8000000000027E880
+t1261129160
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B2B4DAE0000000000001355
+t1261129134
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B2B61620000000000000788
+t1261134178
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B2B62B500000000016721E0
+t1261134517
+s23536096
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/usr/include/stdlib.h
+c000000004748A1330000000000002A79
+t1195942195
+s10873
+
+N/Users/Decmac/Desktop/SimonSays/Classes/Instruction.h
+c000000004F7443DA0000000000000266
+t1333019610
+s614
+i<Foundation/Foundation.h>
+
+N/Users/Decmac/Desktop/SimonSays/Classes/Instruction.m
+c000000004F74453E000000000000026E
+t1333019966
+s622
+i"Instruction.h"
+
+N/Users/Decmac/Desktop/SimonSays/Classes/SimonSaysAppDelegate.h
+c000000004F7441C200000000000001E8
+t1333019074
+s488
+i<UIKit/UIKit.h>
+
+N/Users/Decmac/Desktop/SimonSays/Classes/SimonSaysAppDelegate.m
+c000000004F7441C20000000000000271
+t1333019074
+s625
+i"SimonSaysAppDelegate.h"
+i"SimonSaysViewController.h"
+
+N/Users/Decmac/Desktop/SimonSays/Classes/SimonSaysViewController.h
+c000000004F74463300000000000002A3
+t1333020211
+s675
+i<UIKit/UIKit.h>
+i"Instruction.h"
+
+N/Users/Decmac/Desktop/SimonSays/Classes/SimonSaysViewController.m
+c000000004F744D500000000000000C11
+t1333022032
+s3089
+i"SimonSaysViewController.h"
+i<stdlib.h>
+
+N/Users/Decmac/Desktop/SimonSays/MainWindow.xib
+c000000004F7441C20000000000002464
+t1333019074
+s9316
+
+N/Users/Decmac/Desktop/SimonSays/SimonSaysViewController.xib
+c000000004F74425D00000000000043CD
+t1333019229
+s17357
+
+N/Users/Decmac/Desktop/SimonSays/SimonSays_Prefix.pch
+c000000004F7441C200000000000000BB
+t1333019074
+s187
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/Decmac/Desktop/SimonSays/build/Debug-iphonesimulator/SimonSays.app
+t2
+s0
+
+N/Users/Decmac/Desktop/SimonSays/build/Debug-iphonesimulator/SimonSays.app.dSYM
+t2
+s0
+
+N/Users/Decmac/Desktop/SimonSays/build/Debug-iphonesimulator/SimonSays.app/Info.plist
+t1333022033
+s572
+
+N/Users/Decmac/Desktop/SimonSays/build/Debug-iphonesimulator/SimonSays.app/MainWindow.nib
+t1333022034
+s1499
+
+N/Users/Decmac/Desktop/SimonSays/build/Debug-iphonesimulator/SimonSays.app/PkgInfo
+t1333022033
+s8
+
+N/Users/Decmac/Desktop/SimonSays/build/Debug-iphonesimulator/SimonSays.app/SimonSays
+t2
+s0
+
+N/Users/Decmac/Desktop/SimonSays/build/Debug-iphonesimulator/SimonSays.app/SimonSaysViewController.nib
+t1333022034
+s1795
+
+N/Users/Decmac/Desktop/SimonSays/build/SimonSays.build/Debug-iphonesimulator/SimonSays.build/Objects-normal/i386/Instruction.o
+t1333022037
+s8912
+
+N/Users/Decmac/Desktop/SimonSays/build/SimonSays.build/Debug-iphonesimulator/SimonSays.build/Objects-normal/i386/SimonSays.LinkFileList
+c000000004F744D510000000000000206
+t1333022033
+s518
+
+N/Users/Decmac/Desktop/SimonSays/build/SimonSays.build/Debug-iphonesimulator/SimonSays.build/Objects-normal/i386/SimonSaysAppDelegate.o
+t1333022036
+s38240
+
+N/Users/Decmac/Desktop/SimonSays/build/SimonSays.build/Debug-iphonesimulator/SimonSays.build/Objects-normal/i386/SimonSaysViewController.o
+t2
+s0
+
+N/Users/Decmac/Desktop/SimonSays/build/SimonSays.build/Debug-iphonesimulator/SimonSays.build/Objects-normal/i386/main.o
+t1333022036
+s5944
+
+N/Users/Decmac/Desktop/SimonSays/main.m
+c000000004F7441C20000000000000168
+t1333019074
+s360
+i<UIKit/UIKit.h>
+
+N/var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimonSays_Prefix-gmxgmygwudbdjhdfnjawoixhwcyl/SimonSays_Prefix.pch.gch
+t1333022036
+s13034960
+
+NSimonSays-Info.plist
+c000000004F7441C2000000000000038D
+t1333019074
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies354714833#354714833#0(0"0(0#1#0"7947009927035180032#0"0#
+
+CCompileC build/SimonSays.build/Debug-iphonesimulator/SimonSays.build/Objects-normal/i386/Instruction.o /Users/Decmac/Desktop/SimonSays/Classes/Instruction.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354714837.002977
+e354714837.153924
+r1
+xCompileC
+xbuild/SimonSays.build/Debug-iphonesimulator/SimonSays.build/Objects-normal/i386/Instruction.o
+x/Users/Decmac/Desktop/SimonSays/Classes/Instruction.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/Decmac/Desktop/SimonSays/Classes/Instruction.m354714837#354714837#0(0"0(0#0#53"/Users/Decmac/Desktop/SimonSays/Classes/Instruction.m4300885448#1844"    cd /Users/Decmac/Desktop/SimonSays    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/SimonSays/build/SimonSays.build/Debug-iphonesimulator/SimonSays.build/SimonSays-generated-files.hmap -I/Users/Decmac/Desktop/SimonSays/build/SimonSays.build/Debug-iphonesimulator/SimonSays.build/SimonSays-own-target-headers.hmap -I/Users/Decmac/Desktop/SimonSays/build/SimonSays.build/Debug-iphonesimulator/SimonSays.build/SimonSays-all-target-headers.hmap -iquote /Users/Decmac/Desktop/SimonSays/build/SimonSays.build/Debug-iphonesimulator/SimonSays.build/SimonSays-project-headers.hmap -F/Users/Decmac/Desktop/SimonSays/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/SimonSays/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/SimonSays/build/SimonSays.build/Debug-iphonesimulator/SimonSays.build/DerivedSources/i386 -I/Users/Decmac/Desktop/SimonSays/build/SimonSays.build/Debug-iphonesimulator/SimonSays.build/DerivedSources -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimonSays_Prefix-gmxgmygwudbdjhdfnjawoixhwcyl/SimonSays_Prefix.pch -c /Users/Decmac/Desktop/SimonSays/Classes/Instruction.m -o /Users/Decmac/Desktop/SimonSays/build/SimonSays.build/Debug-iphonesimulator/SimonSays.build/Objects-normal/i386/Instruction.o0#
+
+CCompileC build/SimonSays.build/Debug-iphonesimulator/SimonSays.build/Objects-normal/i386/SimonSaysAppDelegate.o /Users/Decmac/Desktop/SimonSays/Classes/SimonSaysAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354714836.696200
+e354714837.002706
+r1
+xCompileC
+xbuild/SimonSays.build/Debug-iphonesimulator/SimonSays.build/Objects-normal/i386/SimonSaysAppDelegate.o
+x/Users/Decmac/Desktop/SimonSays/Classes/SimonSaysAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/Decmac/Desktop/SimonSays/Classes/SimonSaysAppDelegate.m354714836#354714837#0(0"0(0#0#62"/Users/Decmac/Desktop/SimonSays/Classes/SimonSaysAppDelegate.m4300885448#1862"    cd /Users/Decmac/Desktop/SimonSays    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/SimonSays/build/SimonSays.build/Debug-iphonesimulator/SimonSays.build/SimonSays-generated-files.hmap -I/Users/Decmac/Desktop/SimonSays/build/SimonSays.build/Debug-iphonesimulator/SimonSays.build/SimonSays-own-target-headers.hmap -I/Users/Decmac/Desktop/SimonSays/build/SimonSays.build/Debug-iphonesimulator/SimonSays.build/SimonSays-all-target-headers.hmap -iquote /Users/Decmac/Desktop/SimonSays/build/SimonSays.build/Debug-iphonesimulator/SimonSays.build/SimonSays-project-headers.hmap -F/Users/Decmac/Desktop/SimonSays/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/SimonSays/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/SimonSays/build/SimonSays.build/Debug-iphonesimulator/SimonSays.build/DerivedSources/i386 -I/Users/Decmac/Desktop/SimonSays/build/SimonSays.build/Debug-iphonesimulator/SimonSays.build/DerivedSources -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimonSays_Prefix-gmxgmygwudbdjhdfnjawoixhwcyl/SimonSays_Prefix.pch -c /Users/Decmac/Desktop/SimonSays/Classes/SimonSaysAppDelegate.m -o /Users/Decmac/Desktop/SimonSays/build/SimonSays.build/Debug-iphonesimulator/SimonSays.build/Objects-normal/i386/SimonSaysAppDelegate.o0#
+
+CCompileC build/SimonSays.build/Debug-iphonesimulator/SimonSays.build/Objects-normal/i386/SimonSaysViewController.o /Users/Decmac/Desktop/SimonSays/Classes/SimonSaysViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354714836.935360
+e354714837.077684
+r0
+xCompileC
+xbuild/SimonSays.build/Debug-iphonesimulator/SimonSays.build/Objects-normal/i386/SimonSaysViewController.o
+x/Users/Decmac/Desktop/SimonSays/Classes/SimonSaysViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/Decmac/Desktop/SimonSays/Classes/SimonSaysViewController.m:14: error: no declaration of property 'instructionLable' found in the interface
+o/Users/Decmac/Desktop/SimonSays/Classes/SimonSaysViewController.m:15: error: no declaration of property 'instructions' found in the interface
+o/Users/Decmac/Desktop/SimonSays/Classes/SimonSaysViewController.m: In function '-[SimonSaysViewController nextInstruction]':
+o/Users/Decmac/Desktop/SimonSays/Classes/SimonSaysViewController.m:55: error: request for member 'text' in something not a structure or union
+o/Users/Decmac/Desktop/SimonSays/Classes/SimonSaysViewController.m: In function '-[SimonSaysViewController shouldAutorotateToInterfaceOrientation:]':
+o/Users/Decmac/Desktop/SimonSays/Classes/SimonSaysViewController.m:123: error: 'interfaceOrientation' undeclared (first use in this function)
+o/Users/Decmac/Desktop/SimonSays/Classes/SimonSaysViewController.m:123: error: (Each undeclared identifier is reported only once
+o/Users/Decmac/Desktop/SimonSays/Classes/SimonSaysViewController.m:123: error: for each function it appears in.)
+o/Users/Decmac/Desktop/SimonSays/Classes/SimonSaysViewController.m:124: warning: control reaches end of non-void function
+o/Users/Decmac/Desktop/SimonSays/Classes/SimonSaysViewController.m: At top level:
+o/Users/Decmac/Desktop/SimonSays/Classes/SimonSaysViewController.m:140: warning: property 'instructionLabel' requires method '-instructionLabel' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/Decmac/Desktop/SimonSays/Classes/SimonSaysViewController.m:140: warning: property 'instructionLabel' requires the method 'setInstructionLabel:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/Decmac/Desktop/SimonSays/Classes/SimonSaysViewController.m:140: warning: property 'instrctions' requires method '-instrctions' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/Decmac/Desktop/SimonSays/Classes/SimonSaysViewController.m:140: warning: property 'instrctions' requires the method 'setInstrctions:' to be defined - use @synthesize, @dynamic or provide a method implementation
+lSLF07#2@73"Compile /Users/Decmac/Desktop/SimonSays/Classes/SimonSaysViewController.m354714836#354714837#0(2164"/Users/Decmac/Desktop/SimonSays/Classes/SimonSaysViewController.m:14: error: no declaration of property 'instructionLable' found in the interface/Users/Decmac/Desktop/SimonSays/Classes/SimonSaysViewController.m:15: error: no declaration of property 'instructions' found in the interface/Users/Decmac/Desktop/SimonSays/Classes/SimonSaysViewController.m: In function '-[SimonSaysViewController nextInstruction]':/Users/Decmac/Desktop/SimonSays/Classes/SimonSaysViewController.m:55: error: request for member 'text' in something not a structure or union/Users/Decmac/Desktop/SimonSays/Classes/SimonSaysViewController.m: In function '-[SimonSaysViewController shouldAutorotateToInterfaceOrientation:]':/Users/Decmac/Desktop/SimonSays/Classes/SimonSaysViewController.m:123: error: 'interfaceOrientation' undeclared (first use in this function)/Users/Decmac/Desktop/SimonSays/Classes/SimonSaysViewController.m:123: error: (Each undeclared identifier is reported only once/Users/Decmac/Desktop/SimonSays/Classes/SimonSaysViewController.m:123: error: for each function it appears in.)/Users/Decmac/Desktop/SimonSays/Classes/SimonSaysViewController.m:124: warning: control reaches end of non-void function/Users/Decmac/Desktop/SimonSays/Classes/SimonSaysViewController.m: At top level:/Users/Decmac/Desktop/SimonSays/Classes/SimonSaysViewController.m:140: warning: property 'instructionLabel' requires method '-instructionLabel' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/Decmac/Desktop/SimonSays/Classes/SimonSaysViewController.m:140: warning: property 'instructionLabel' requires the method 'setInstructionLabel:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/Decmac/Desktop/SimonSays/Classes/SimonSaysViewController.m:140: warning: property 'instrctions' requires method '-instrctions' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/Decmac/Desktop/SimonSays/Classes/SimonSaysViewController.m:140: warning: property 'instrctions' requires the method 'setInstrctions:' to be defined - use @synthesize, @dynamic or provide a method implementation10(4@68"No declaration of property 'instructionLable' found in the interface354714837#0#146#0(6@65"/Users/Decmac/Desktop/SimonSays/Classes/SimonSaysViewController.m354714832#14#0#14#0#0"0(4@64"No declaration of property 'instructions' found in the interface354714837#146#142#0(6@65"/Users/Decmac/Desktop/SimonSays/Classes/SimonSaysViewController.m354714832#15#0#15#0#0"0(4@63"Request for member 'text' in something not a structure or union354714837#413#141#0(6@65"/Users/Decmac/Desktop/SimonSays/Classes/SimonSaysViewController.m354714832#55#0#55#0#0"0(4@62"'interfaceOrientation' undeclared (first use in this function)354714837#703#141#0(6@65"/Users/Decmac/Desktop/SimonSays/Classes/SimonSaysViewController.m354714832#123#0#123#0#43"'*' undeclared (first use in this function)0(22@40"Control reaches end of non-void function354714837#1084#121#0(6@65"/Users/Decmac/Desktop/SimonSays/Classes/SimonSaysViewController.m354714832#124#0#124#0#40"control reaches end of non-void function0(23@13"At top level:354714837#1205#81#0(6@65"/Users/Decmac/Desktop/SimonSays/Classes/SimonSaysViewController.m354714832#0#0#0#0#0"0(22@140"Property 'instructionLabel' requires method '-instructionLabel' to be defined - use @synthesize, @dynamic or provide a method implementation354714837#1286#221#0(6@65"/Users/Decmac/Desktop/SimonSays/Classes/SimonSaysViewController.m354714832#140#0#140#0#0"0(22@147"Property 'instructionLabel' requires the method 'setInstructionLabel:' to be defined - use @synthesize, @dynamic or provide a method implementation354714837#1507#228#0(6@65"/Users/Decmac/Desktop/SimonSays/Classes/SimonSaysViewController.m354714832#140#0#140#0#0"0(22@130"Property 'instrctions' requires method '-instrctions' to be defined - use @synthesize, @dynamic or provide a method implementation354714837#1735#211#0(6@65"/Users/Decmac/Desktop/SimonSays/Classes/SimonSaysViewController.m354714832#140#0#140#0#0"0(22@137"Property 'instrctions' requires the method 'setInstrctions:' to be defined - use @synthesize, @dynamic or provide a method implementation354714837#1946#218#0(6@65"/Users/Decmac/Desktop/SimonSays/Classes/SimonSaysViewController.m354714832#140#0#140#0#0"0(0#0#65"/Users/Decmac/Desktop/SimonSays/Classes/SimonSaysViewController.m4300885448#1868"    cd /Users/Decmac/Desktop/SimonSays    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/SimonSays/build/SimonSays.build/Debug-iphonesimulator/SimonSays.build/SimonSays-generated-files.hmap -I/Users/Decmac/Desktop/SimonSays/build/SimonSays.build/Debug-iphonesimulator/SimonSays.build/SimonSays-own-target-headers.hmap -I/Users/Decmac/Desktop/SimonSays/build/SimonSays.build/Debug-iphonesimulator/SimonSays.build/SimonSays-all-target-headers.hmap -iquote /Users/Decmac/Desktop/SimonSays/build/SimonSays.build/Debug-iphonesimulator/SimonSays.build/SimonSays-project-headers.hmap -F/Users/Decmac/Desktop/SimonSays/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/SimonSays/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/SimonSays/build/SimonSays.build/Debug-iphonesimulator/SimonSays.build/DerivedSources/i386 -I/Users/Decmac/Desktop/SimonSays/build/SimonSays.build/Debug-iphonesimulator/SimonSays.build/DerivedSources -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimonSays_Prefix-gmxgmygwudbdjhdfnjawoixhwcyl/SimonSays_Prefix.pch -c /Users/Decmac/Desktop/SimonSays/Classes/SimonSaysViewController.m -o /Users/Decmac/Desktop/SimonSays/build/SimonSays.build/Debug-iphonesimulator/SimonSays.build/Objects-normal/i386/SimonSaysViewController.o1#
+
+CCompileC build/SimonSays.build/Debug-iphonesimulator/SimonSays.build/Objects-normal/i386/main.o /Users/Decmac/Desktop/SimonSays/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354714836.693491
+e354714836.935038
+r1
+xCompileC
+xbuild/SimonSays.build/Debug-iphonesimulator/SimonSays.build/Objects-normal/i386/main.o
+x/Users/Decmac/Desktop/SimonSays/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@46"Compile /Users/Decmac/Desktop/SimonSays/main.m354714836#354714836#0(0"0(0#0#38"/Users/Decmac/Desktop/SimonSays/main.m4300885448#1822"    cd /Users/Decmac/Desktop/SimonSays    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/SimonSays/build/SimonSays.build/Debug-iphonesimulator/SimonSays.build/SimonSays-generated-files.hmap -I/Users/Decmac/Desktop/SimonSays/build/SimonSays.build/Debug-iphonesimulator/SimonSays.build/SimonSays-own-target-headers.hmap -I/Users/Decmac/Desktop/SimonSays/build/SimonSays.build/Debug-iphonesimulator/SimonSays.build/SimonSays-all-target-headers.hmap -iquote /Users/Decmac/Desktop/SimonSays/build/SimonSays.build/Debug-iphonesimulator/SimonSays.build/SimonSays-project-headers.hmap -F/Users/Decmac/Desktop/SimonSays/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/SimonSays/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/SimonSays/build/SimonSays.build/Debug-iphonesimulator/SimonSays.build/DerivedSources/i386 -I/Users/Decmac/Desktop/SimonSays/build/SimonSays.build/Debug-iphonesimulator/SimonSays.build/DerivedSources -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimonSays_Prefix-gmxgmygwudbdjhdfnjawoixhwcyl/SimonSays_Prefix.pch -c /Users/Decmac/Desktop/SimonSays/main.m -o /Users/Decmac/Desktop/SimonSays/build/SimonSays.build/Debug-iphonesimulator/SimonSays.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/Decmac/Desktop/SimonSays/MainWindow.xib
+s354714833.339985
+e354714834.503181
+r1
+xCompileXIB
+x/Users/Decmac/Desktop/SimonSays/MainWindow.xib
+o2012-03-29 11:53:53.557 ibtool[326:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 35
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@25"CompileXIB MainWindow.xib354714833#354714834#0(191"2012-03-29 11:53:53.557 ibtool[326:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 35Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#46"/Users/Decmac/Desktop/SimonSays/MainWindow.xib4300885448#463"    cd /Users/Decmac/Desktop/SimonSays    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Decmac/Desktop/SimonSays/build/Debug-iphonesimulator/SimonSays.app/MainWindow.nib /Users/Decmac/Desktop/SimonSays/MainWindow.xib0#
+
+CCompileXIB /Users/Decmac/Desktop/SimonSays/SimonSaysViewController.xib
+s354714833.370527
+e354714834.673200
+r1
+xCompileXIB
+x/Users/Decmac/Desktop/SimonSays/SimonSaysViewController.xib
+o2012-03-29 11:53:53.592 ibtool[328:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 35
+lSLF07#2@38"CompileXIB SimonSaysViewController.xib354714833#354714834#0(107"2012-03-29 11:53:53.592 ibtool[328:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 350(0#0#59"/Users/Decmac/Desktop/SimonSays/SimonSaysViewController.xib4300885448#489"    cd /Users/Decmac/Desktop/SimonSays    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Decmac/Desktop/SimonSays/build/Debug-iphonesimulator/SimonSays.app/SimonSaysViewController.nib /Users/Decmac/Desktop/SimonSays/SimonSaysViewController.xib0#
+
+CGenerateDSYMFile /Users/Decmac/Desktop/SimonSays/build/Debug-iphonesimulator/SimonSays.app.dSYM /Users/Decmac/Desktop/SimonSays/build/Debug-iphonesimulator/SimonSays.app/SimonSays
+r0
+
+CLd /Users/Decmac/Desktop/SimonSays/build/Debug-iphonesimulator/SimonSays.app/SimonSays normal i386
+r0
+
+CProcessInfoPlistFile /Users/Decmac/Desktop/SimonSays/build/Debug-iphonesimulator/SimonSays.app/Info.plist SimonSays-Info.plist
+s354714833.304683
+e354714833.339704
+r1
+xProcessInfoPlistFile
+x/Users/Decmac/Desktop/SimonSays/build/Debug-iphonesimulator/SimonSays.app/Info.plist
+xSimonSays-Info.plist
+lSLF07#2@28"Process SimonSays-Info.plist354714833#354714833#0(0"0(0#0#52"/Users/Decmac/Desktop/SimonSays/SimonSays-Info.plist32370056120631408#464"    cd /Users/Decmac/Desktop/SimonSays    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility SimonSays-Info.plist -genpkginfo /Users/Decmac/Desktop/SimonSays/build/Debug-iphonesimulator/SimonSays.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/Decmac/Desktop/SimonSays/build/Debug-iphonesimulator/SimonSays.app/Info.plist0#
+
+CProcessPCH /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimonSays_Prefix-gmxgmygwudbdjhdfnjawoixhwcyl/SimonSays_Prefix.pch.gch SimonSays_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s354714834.673703
+e354714836.693026
+r1
+xProcessPCH
+x/var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimonSays_Prefix-gmxgmygwudbdjhdfnjawoixhwcyl/SimonSays_Prefix.pch.gch
+xSimonSays_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile SimonSays_Prefix.pch354714834#354714836#0(0"0(0#0#52"/Users/Decmac/Desktop/SimonSays/SimonSays_Prefix.pch7589461969936409600#1719"    cd /Users/Decmac/Desktop/SimonSays    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/SimonSays/build/SimonSays.build/Debug-iphonesimulator/SimonSays.build/SimonSays-generated-files.hmap -I/Users/Decmac/Desktop/SimonSays/build/SimonSays.build/Debug-iphonesimulator/SimonSays.build/SimonSays-own-target-headers.hmap -I/Users/Decmac/Desktop/SimonSays/build/SimonSays.build/Debug-iphonesimulator/SimonSays.build/SimonSays-all-target-headers.hmap -iquote /Users/Decmac/Desktop/SimonSays/build/SimonSays.build/Debug-iphonesimulator/SimonSays.build/SimonSays-project-headers.hmap -F/Users/Decmac/Desktop/SimonSays/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/SimonSays/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/SimonSays/build/SimonSays.build/Debug-iphonesimulator/SimonSays.build/DerivedSources/i386 -I/Users/Decmac/Desktop/SimonSays/build/SimonSays.build/Debug-iphonesimulator/SimonSays.build/DerivedSources -c /Users/Decmac/Desktop/SimonSays/SimonSays_Prefix.pch -o /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimonSays_Prefix-gmxgmygwudbdjhdfnjawoixhwcyl/SimonSays_Prefix.pch.gch0#
+
+CTouch /Users/Decmac/Desktop/SimonSays/build/Debug-iphonesimulator/SimonSays.app
+r0
+

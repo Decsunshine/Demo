@@ -1,0 +1,139 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* myDay10 */ = {
+		activeExec = 0;
+		executables = (
+			897EDB2314F84365003CDCDC /* myDay10 */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* myDay10ViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 455}}";
+			sepNavSelRange = "{313, 0}";
+			sepNavVisRange = "{199, 269}";
+			sepNavWindowFrame = "{{15, 92}, {750, 654}}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* myDay10ViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {558, 1261}}";
+			sepNavSelRange = "{338, 0}";
+			sepNavVisRange = "{174, 326}";
+			sepNavWindowFrame = "{{15, 92}, {750, 654}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 897EDB2314F84365003CDCDC /* myDay10 */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* myDay10 */;
+		codeSenseManager = 897EDB3514F84385003CDCDC /* Code sense */;
+		executables = (
+			897EDB2314F84365003CDCDC /* myDay10 */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 351814501;
+			PBXWorkspaceStateSaveDate = 351814501;
+		};
+		perUserProjectItems = {
+			897EDB5714F847A3003CDCDC /* PBXTextBookmark */ = 897EDB5714F847A3003CDCDC /* PBXTextBookmark */;
+			897EDB5814F847A3003CDCDC /* XCBuildMessageTextBookmark */ = 897EDB5814F847A3003CDCDC /* XCBuildMessageTextBookmark */;
+			897EDB6214F847EB003CDCDC /* PBXTextBookmark */ = 897EDB6214F847EB003CDCDC /* PBXTextBookmark */;
+		};
+		sourceControlManager = 897EDB3414F84385003CDCDC /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	897EDB2314F84365003CDCDC /* myDay10 */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = myDay10;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	897EDB3414F84385003CDCDC /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	897EDB3514F84385003CDCDC /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	897EDB5714F847A3003CDCDC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* myDay10ViewController.h */;
+		name = "myDay10ViewController.h: 21";
+		rLen = 0;
+		rLoc = 313;
+		rType = 0;
+		vrLen = 269;
+		vrLoc = 199;
+	};
+	897EDB5814F847A3003CDCDC /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "'slef' undeclared (first use in this function)";
+		fRef = 28D7ACF70DDB3853001CB0EB /* myDay10ViewController.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 16;
+		rType = 1;
+	};
+	897EDB6214F847EB003CDCDC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* myDay10ViewController.m */;
+		name = "myDay10ViewController.m: 17";
+		rLen = 0;
+		rLoc = 338;
+		rType = 0;
+		vrLen = 380;
+		vrLoc = 139;
+	};
+}

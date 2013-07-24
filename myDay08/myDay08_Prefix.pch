@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'myDay08' target in the 'myDay08' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+#endif

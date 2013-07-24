@@ -1,0 +1,18 @@
+In file included from /Users/Decmac/Desktop/AddressBook/Classes/AddViewController.h:10,
+                 from /Users/Decmac/Desktop/AddressBook/Classes/RootViewController.h:9,
+                 from /Users/Decmac/Desktop/AddressBook/Classes/RootViewController.m:10:
+/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.h:13: error: cannot find interface declaration for 'UITabelViewCell', superclass of 'EditableCell'
+In file included from /Users/Decmac/Desktop/AddressBook/Classes/RootViewController.h:9,
+                 from /Users/Decmac/Desktop/AddressBook/Classes/RootViewController.m:10:
+/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.h:13: error: no type or storage class may be specified here before 'protocol'
+/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.h:36: error: expected ')' before 'AddViewController'
+/Users/Decmac/Desktop/AddressBook/Classes/RootViewController.m: In function '-[RootViewController addContact]':
+/Users/Decmac/Desktop/AddressBook/Classes/RootViewController.m:51: error: 'AddViewController' undeclared (first use in this function)
+/Users/Decmac/Desktop/AddressBook/Classes/RootViewController.m:51: error: (Each undeclared identifier is reported only once
+/Users/Decmac/Desktop/AddressBook/Classes/RootViewController.m:51: error: for each function it appears in.)
+/Users/Decmac/Desktop/AddressBook/Classes/RootViewController.m:51: error: 'controller' undeclared (first use in this function)
+/Users/Decmac/Desktop/AddressBook/Classes/RootViewController.m: At top level:
+/Users/Decmac/Desktop/AddressBook/Classes/RootViewController.m:58: error: expected ')' before 'AddViewController'
+/Users/Decmac/Desktop/AddressBook/Classes/RootViewController.m: In function '-[RootViewController tableView:commitEditingStyle:forRowAtIndexPath:]':
+/Users/Decmac/Desktop/AddressBook/Classes/RootViewController.m:142: error: expected ']' before 'deleteRowsAtIndexPaths'
+/Users/Decmac/Desktop/AddressBook/Classes/RootViewController.m:142: error: array subscript is not an integer

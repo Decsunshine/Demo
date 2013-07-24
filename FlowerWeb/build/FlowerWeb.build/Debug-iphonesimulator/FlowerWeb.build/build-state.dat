@@ -1,0 +1,259 @@
+TFlowerWeb
+v7
+r0
+t354457320.455157
+cCheck dependencies
+cProcessInfoPlistFile /Users/Decmac/Desktop/FlowerWeb/build/Debug-iphonesimulator/FlowerWeb.app/Info.plist FlowerWeb-Info.plist
+cCompileXIB /Users/Decmac/Desktop/FlowerWeb/MainWindow.xib
+cCompileXIB /Users/Decmac/Desktop/FlowerWeb/FlowerWebViewController.xib
+cProcessPCH /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FlowerWeb_Prefix-dvbpvczelyeenubsmifhgvgfbail/FlowerWeb_Prefix.pch.gch FlowerWeb_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FlowerWeb.build/Debug-iphonesimulator/FlowerWeb.build/Objects-normal/i386/main.o /Users/Decmac/Desktop/FlowerWeb/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FlowerWeb.build/Debug-iphonesimulator/FlowerWeb.build/Objects-normal/i386/FlowerWebAppDelegate.o /Users/Decmac/Desktop/FlowerWeb/Classes/FlowerWebAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FlowerWeb.build/Debug-iphonesimulator/FlowerWeb.build/Objects-normal/i386/FlowerWebViewController.o /Users/Decmac/Desktop/FlowerWeb/Classes/FlowerWebViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/Decmac/Desktop/FlowerWeb/build/Debug-iphonesimulator/FlowerWeb.app/FlowerWeb normal i386
+cGenerateDSYMFile /Users/Decmac/Desktop/FlowerWeb/build/Debug-iphonesimulator/FlowerWeb.app.dSYM /Users/Decmac/Desktop/FlowerWeb/build/Debug-iphonesimulator/FlowerWeb.app/FlowerWeb
+cTouch /Users/Decmac/Desktop/FlowerWeb/build/Debug-iphonesimulator/FlowerWeb.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk
+c000000004F3A580900000000000000EE
+t1329223689
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B2B4CC3000000000026EE30
+t1261128899
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B2B4DC8000000000027E880
+t1261129160
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B2B4DAE0000000000001355
+t1261129134
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B2B61620000000000000788
+t1261134178
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B2B62B500000000016721E0
+t1261134517
+s23536096
+
+N/Users/Decmac/Desktop/FlowerWeb/Classes/FlowerWebAppDelegate.h
+c000000004F704FAC00000000000001E8
+t1332760492
+s488
+i<UIKit/UIKit.h>
+
+N/Users/Decmac/Desktop/FlowerWeb/Classes/FlowerWebAppDelegate.m
+c000000004F704FAC0000000000000271
+t1332760492
+s625
+i"FlowerWebAppDelegate.h"
+i"FlowerWebViewController.h"
+
+N/Users/Decmac/Desktop/FlowerWeb/Classes/FlowerWebViewController.h
+c000000004F7051000000000000000266
+t1332760832
+s614
+i<UIKit/UIKit.h>
+
+N/Users/Decmac/Desktop/FlowerWeb/Classes/FlowerWebViewController.m
+c000000004F705F660000000000000777
+t1332764518
+s1911
+i"FlowerWebViewController.h"
+
+N/Users/Decmac/Desktop/FlowerWeb/FlowerWebViewController.xib
+c000000004F70551C000000000000703F
+t1332761884
+s28735
+
+N/Users/Decmac/Desktop/FlowerWeb/FlowerWeb_Prefix.pch
+c000000004F704FAC00000000000000BB
+t1332760492
+s187
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/Decmac/Desktop/FlowerWeb/MainWindow.xib
+c000000004F704FAC0000000000002464
+t1332760492
+s9316
+
+N/Users/Decmac/Desktop/FlowerWeb/build/Debug-iphonesimulator/FlowerWeb.app
+t1332764520
+s238
+
+N/Users/Decmac/Desktop/FlowerWeb/build/Debug-iphonesimulator/FlowerWeb.app.dSYM
+t1332764520
+s102
+
+N/Users/Decmac/Desktop/FlowerWeb/build/Debug-iphonesimulator/FlowerWeb.app/FlowerWeb
+t1332764520
+s21000
+
+N/Users/Decmac/Desktop/FlowerWeb/build/Debug-iphonesimulator/FlowerWeb.app/FlowerWebViewController.nib
+t1332764519
+s4853
+
+N/Users/Decmac/Desktop/FlowerWeb/build/Debug-iphonesimulator/FlowerWeb.app/Info.plist
+t1332761738
+s572
+
+N/Users/Decmac/Desktop/FlowerWeb/build/Debug-iphonesimulator/FlowerWeb.app/MainWindow.nib
+t1332761739
+s1499
+
+N/Users/Decmac/Desktop/FlowerWeb/build/Debug-iphonesimulator/FlowerWeb.app/PkgInfo
+t1332761738
+s8
+
+N/Users/Decmac/Desktop/FlowerWeb/build/FlowerWeb.build/Debug-iphonesimulator/FlowerWeb.build/Objects-normal/i386/FlowerWeb.LinkFileList
+c000000004F70548A0000000000000188
+t1332761738
+s392
+
+N/Users/Decmac/Desktop/FlowerWeb/build/FlowerWeb.build/Debug-iphonesimulator/FlowerWeb.build/Objects-normal/i386/FlowerWebAppDelegate.o
+t1332761741
+s39180
+
+N/Users/Decmac/Desktop/FlowerWeb/build/FlowerWeb.build/Debug-iphonesimulator/FlowerWeb.build/Objects-normal/i386/FlowerWebViewController.o
+t1332764520
+s37940
+
+N/Users/Decmac/Desktop/FlowerWeb/build/FlowerWeb.build/Debug-iphonesimulator/FlowerWeb.build/Objects-normal/i386/main.o
+t1332761741
+s5944
+
+N/Users/Decmac/Desktop/FlowerWeb/main.m
+c000000004F704FAC0000000000000168
+t1332760492
+s360
+i<UIKit/UIKit.h>
+
+N/var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FlowerWeb_Prefix-dvbpvczelyeenubsmifhgvgfbail/FlowerWeb_Prefix.pch.gch
+t1332761741
+s13034960
+
+NFlowerWeb-Info.plist
+c000000004F704FAC000000000000038D
+t1332760492
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies354457318#354457318#0(0"0(0#1#0"4300885448#0"0#
+
+CCompileC build/FlowerWeb.build/Debug-iphonesimulator/FlowerWeb.build/Objects-normal/i386/FlowerWebAppDelegate.o /Users/Decmac/Desktop/FlowerWeb/Classes/FlowerWebAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354454541.420812
+e354454541.625038
+r1
+xCompileC
+xbuild/FlowerWeb.build/Debug-iphonesimulator/FlowerWeb.build/Objects-normal/i386/FlowerWebAppDelegate.o
+x/Users/Decmac/Desktop/FlowerWeb/Classes/FlowerWebAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/Decmac/Desktop/FlowerWeb/Classes/FlowerWebAppDelegate.m354454541#354454541#0(0"0(0#0#62"/Users/Decmac/Desktop/FlowerWeb/Classes/FlowerWebAppDelegate.m4300885448#1862"    cd /Users/Decmac/Desktop/FlowerWeb    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/FlowerWeb/build/FlowerWeb.build/Debug-iphonesimulator/FlowerWeb.build/FlowerWeb-generated-files.hmap -I/Users/Decmac/Desktop/FlowerWeb/build/FlowerWeb.build/Debug-iphonesimulator/FlowerWeb.build/FlowerWeb-own-target-headers.hmap -I/Users/Decmac/Desktop/FlowerWeb/build/FlowerWeb.build/Debug-iphonesimulator/FlowerWeb.build/FlowerWeb-all-target-headers.hmap -iquote /Users/Decmac/Desktop/FlowerWeb/build/FlowerWeb.build/Debug-iphonesimulator/FlowerWeb.build/FlowerWeb-project-headers.hmap -F/Users/Decmac/Desktop/FlowerWeb/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/FlowerWeb/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/FlowerWeb/build/FlowerWeb.build/Debug-iphonesimulator/FlowerWeb.build/DerivedSources/i386 -I/Users/Decmac/Desktop/FlowerWeb/build/FlowerWeb.build/Debug-iphonesimulator/FlowerWeb.build/DerivedSources -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FlowerWeb_Prefix-dvbpvczelyeenubsmifhgvgfbail/FlowerWeb_Prefix.pch -c /Users/Decmac/Desktop/FlowerWeb/Classes/FlowerWebAppDelegate.m -o /Users/Decmac/Desktop/FlowerWeb/build/FlowerWeb.build/Debug-iphonesimulator/FlowerWeb.build/Objects-normal/i386/FlowerWebAppDelegate.o0#
+
+CCompileC build/FlowerWeb.build/Debug-iphonesimulator/FlowerWeb.build/Objects-normal/i386/FlowerWebViewController.o /Users/Decmac/Desktop/FlowerWeb/Classes/FlowerWebViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354457319.716455
+e354457320.321042
+r1
+xCompileC
+xbuild/FlowerWeb.build/Debug-iphonesimulator/FlowerWeb.build/Objects-normal/i386/FlowerWebViewController.o
+x/Users/Decmac/Desktop/FlowerWeb/Classes/FlowerWebViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/Decmac/Desktop/FlowerWeb/Classes/FlowerWebViewController.m354457319#354457320#0(0"0(0#0#65"/Users/Decmac/Desktop/FlowerWeb/Classes/FlowerWebViewController.m4300885448#1868"    cd /Users/Decmac/Desktop/FlowerWeb    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/FlowerWeb/build/FlowerWeb.build/Debug-iphonesimulator/FlowerWeb.build/FlowerWeb-generated-files.hmap -I/Users/Decmac/Desktop/FlowerWeb/build/FlowerWeb.build/Debug-iphonesimulator/FlowerWeb.build/FlowerWeb-own-target-headers.hmap -I/Users/Decmac/Desktop/FlowerWeb/build/FlowerWeb.build/Debug-iphonesimulator/FlowerWeb.build/FlowerWeb-all-target-headers.hmap -iquote /Users/Decmac/Desktop/FlowerWeb/build/FlowerWeb.build/Debug-iphonesimulator/FlowerWeb.build/FlowerWeb-project-headers.hmap -F/Users/Decmac/Desktop/FlowerWeb/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/FlowerWeb/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/FlowerWeb/build/FlowerWeb.build/Debug-iphonesimulator/FlowerWeb.build/DerivedSources/i386 -I/Users/Decmac/Desktop/FlowerWeb/build/FlowerWeb.build/Debug-iphonesimulator/FlowerWeb.build/DerivedSources -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FlowerWeb_Prefix-dvbpvczelyeenubsmifhgvgfbail/FlowerWeb_Prefix.pch -c /Users/Decmac/Desktop/FlowerWeb/Classes/FlowerWebViewController.m -o /Users/Decmac/Desktop/FlowerWeb/build/FlowerWeb.build/Debug-iphonesimulator/FlowerWeb.build/Objects-normal/i386/FlowerWebViewController.o0#
+
+CCompileC build/FlowerWeb.build/Debug-iphonesimulator/FlowerWeb.build/Objects-normal/i386/main.o /Users/Decmac/Desktop/FlowerWeb/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354454541.418094
+e354454541.540484
+r1
+xCompileC
+xbuild/FlowerWeb.build/Debug-iphonesimulator/FlowerWeb.build/Objects-normal/i386/main.o
+x/Users/Decmac/Desktop/FlowerWeb/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@46"Compile /Users/Decmac/Desktop/FlowerWeb/main.m354454541#354454541#0(0"0(0#0#38"/Users/Decmac/Desktop/FlowerWeb/main.m4300885448#1822"    cd /Users/Decmac/Desktop/FlowerWeb    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/FlowerWeb/build/FlowerWeb.build/Debug-iphonesimulator/FlowerWeb.build/FlowerWeb-generated-files.hmap -I/Users/Decmac/Desktop/FlowerWeb/build/FlowerWeb.build/Debug-iphonesimulator/FlowerWeb.build/FlowerWeb-own-target-headers.hmap -I/Users/Decmac/Desktop/FlowerWeb/build/FlowerWeb.build/Debug-iphonesimulator/FlowerWeb.build/FlowerWeb-all-target-headers.hmap -iquote /Users/Decmac/Desktop/FlowerWeb/build/FlowerWeb.build/Debug-iphonesimulator/FlowerWeb.build/FlowerWeb-project-headers.hmap -F/Users/Decmac/Desktop/FlowerWeb/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/FlowerWeb/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/FlowerWeb/build/FlowerWeb.build/Debug-iphonesimulator/FlowerWeb.build/DerivedSources/i386 -I/Users/Decmac/Desktop/FlowerWeb/build/FlowerWeb.build/Debug-iphonesimulator/FlowerWeb.build/DerivedSources -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FlowerWeb_Prefix-dvbpvczelyeenubsmifhgvgfbail/FlowerWeb_Prefix.pch -c /Users/Decmac/Desktop/FlowerWeb/main.m -o /Users/Decmac/Desktop/FlowerWeb/build/FlowerWeb.build/Debug-iphonesimulator/FlowerWeb.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/Decmac/Desktop/FlowerWeb/FlowerWebViewController.xib
+s354457318.473511
+e354457319.715387
+r1
+xCompileXIB
+x/Users/Decmac/Desktop/FlowerWeb/FlowerWebViewController.xib
+o2012-03-26 12:21:58.587 ibtool[682:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 35
+lSLF07#2@38"CompileXIB FlowerWebViewController.xib354457318#354457319#0(107"2012-03-26 12:21:58.587 ibtool[682:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 350(0#0#59"/Users/Decmac/Desktop/FlowerWeb/FlowerWebViewController.xib4300885448#489"    cd /Users/Decmac/Desktop/FlowerWeb    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Decmac/Desktop/FlowerWeb/build/Debug-iphonesimulator/FlowerWeb.app/FlowerWebViewController.nib /Users/Decmac/Desktop/FlowerWeb/FlowerWebViewController.xib0#
+
+CCompileXIB /Users/Decmac/Desktop/FlowerWeb/MainWindow.xib
+s354454538.329776
+e354454539.172544
+r1
+xCompileXIB
+x/Users/Decmac/Desktop/FlowerWeb/MainWindow.xib
+o2012-03-26 11:35:38.449 ibtool[353:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 35
+lSLF07#2@25"CompileXIB MainWindow.xib354454538#354454539#0(107"2012-03-26 11:35:38.449 ibtool[353:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 350(0#0#46"/Users/Decmac/Desktop/FlowerWeb/MainWindow.xib4300885448#463"    cd /Users/Decmac/Desktop/FlowerWeb    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Decmac/Desktop/FlowerWeb/build/Debug-iphonesimulator/FlowerWeb.app/MainWindow.nib /Users/Decmac/Desktop/FlowerWeb/MainWindow.xib0#
+
+CGenerateDSYMFile /Users/Decmac/Desktop/FlowerWeb/build/Debug-iphonesimulator/FlowerWeb.app.dSYM /Users/Decmac/Desktop/FlowerWeb/build/Debug-iphonesimulator/FlowerWeb.app/FlowerWeb
+s354457320.395045
+e354457320.445394
+r1
+xGenerateDSYMFile
+x/Users/Decmac/Desktop/FlowerWeb/build/Debug-iphonesimulator/FlowerWeb.app.dSYM
+x/Users/Decmac/Desktop/FlowerWeb/build/Debug-iphonesimulator/FlowerWeb.app/FlowerWeb
+o2012-03-26 12:22:00.430 dsymutil[694:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 35
+lSLF07#2@115"GenerateDSYMFile build/Debug-iphonesimulator/FlowerWeb.app.dSYM build/Debug-iphonesimulator/FlowerWeb.app/FlowerWeb354457320#354457320#0(109"2012-03-26 12:22:00.430 dsymutil[694:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 350(0#0#83"/Users/Decmac/Desktop/FlowerWeb/build/Debug-iphonesimulator/FlowerWeb.app/FlowerWeb4300885448#368"    cd /Users/Decmac/Desktop/FlowerWeb    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/Decmac/Desktop/FlowerWeb/build/Debug-iphonesimulator/FlowerWeb.app/FlowerWeb -o /Users/Decmac/Desktop/FlowerWeb/build/Debug-iphonesimulator/FlowerWeb.app.dSYM0#
+
+CLd /Users/Decmac/Desktop/FlowerWeb/build/Debug-iphonesimulator/FlowerWeb.app/FlowerWeb normal i386
+s354457320.321477
+e354457320.394785
+r1
+xLd
+x/Users/Decmac/Desktop/FlowerWeb/build/Debug-iphonesimulator/FlowerWeb.app/FlowerWeb
+xnormal
+xi386
+lSLF07#2@88"Link /Users/Decmac/Desktop/FlowerWeb/build/Debug-iphonesimulator/FlowerWeb.app/FlowerWeb354457320#354457320#0(0"0(0#0#0"4300885448#839"    cd /Users/Decmac/Desktop/FlowerWeb    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -L/Users/Decmac/Desktop/FlowerWeb/build/Debug-iphonesimulator -F/Users/Decmac/Desktop/FlowerWeb/build/Debug-iphonesimulator -filelist /Users/Decmac/Desktop/FlowerWeb/build/FlowerWeb.build/Debug-iphonesimulator/FlowerWeb.build/Objects-normal/i386/FlowerWeb.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/Decmac/Desktop/FlowerWeb/build/Debug-iphonesimulator/FlowerWeb.app/FlowerWeb0#
+
+CProcessInfoPlistFile /Users/Decmac/Desktop/FlowerWeb/build/Debug-iphonesimulator/FlowerWeb.app/Info.plist FlowerWeb-Info.plist
+s354454538.309982
+e354454538.329516
+r1
+xProcessInfoPlistFile
+x/Users/Decmac/Desktop/FlowerWeb/build/Debug-iphonesimulator/FlowerWeb.app/Info.plist
+xFlowerWeb-Info.plist
+lSLF07#2@28"Process FlowerWeb-Info.plist354454538#354454538#0(0"0(0#0#52"/Users/Decmac/Desktop/FlowerWeb/FlowerWeb-Info.plist4300885448#464"    cd /Users/Decmac/Desktop/FlowerWeb    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility FlowerWeb-Info.plist -genpkginfo /Users/Decmac/Desktop/FlowerWeb/build/Debug-iphonesimulator/FlowerWeb.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/Decmac/Desktop/FlowerWeb/build/Debug-iphonesimulator/FlowerWeb.app/Info.plist0#
+
+CProcessPCH /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FlowerWeb_Prefix-dvbpvczelyeenubsmifhgvgfbail/FlowerWeb_Prefix.pch.gch FlowerWeb_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s354454539.569409
+e354454541.417625
+r1
+xProcessPCH
+x/var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FlowerWeb_Prefix-dvbpvczelyeenubsmifhgvgfbail/FlowerWeb_Prefix.pch.gch
+xFlowerWeb_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile FlowerWeb_Prefix.pch354454539#354454541#0(0"0(0#0#52"/Users/Decmac/Desktop/FlowerWeb/FlowerWeb_Prefix.pch7801975577352954880#1719"    cd /Users/Decmac/Desktop/FlowerWeb    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/FlowerWeb/build/FlowerWeb.build/Debug-iphonesimulator/FlowerWeb.build/FlowerWeb-generated-files.hmap -I/Users/Decmac/Desktop/FlowerWeb/build/FlowerWeb.build/Debug-iphonesimulator/FlowerWeb.build/FlowerWeb-own-target-headers.hmap -I/Users/Decmac/Desktop/FlowerWeb/build/FlowerWeb.build/Debug-iphonesimulator/FlowerWeb.build/FlowerWeb-all-target-headers.hmap -iquote /Users/Decmac/Desktop/FlowerWeb/build/FlowerWeb.build/Debug-iphonesimulator/FlowerWeb.build/FlowerWeb-project-headers.hmap -F/Users/Decmac/Desktop/FlowerWeb/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/FlowerWeb/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/FlowerWeb/build/FlowerWeb.build/Debug-iphonesimulator/FlowerWeb.build/DerivedSources/i386 -I/Users/Decmac/Desktop/FlowerWeb/build/FlowerWeb.build/Debug-iphonesimulator/FlowerWeb.build/DerivedSources -c /Users/Decmac/Desktop/FlowerWeb/FlowerWeb_Prefix.pch -o /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FlowerWeb_Prefix-dvbpvczelyeenubsmifhgvgfbail/FlowerWeb_Prefix.pch.gch0#
+
+CTouch /Users/Decmac/Desktop/FlowerWeb/build/Debug-iphonesimulator/FlowerWeb.app
+s354457320.445623
+e354457320.454602
+r1
+xTouch
+x/Users/Decmac/Desktop/FlowerWeb/build/Debug-iphonesimulator/FlowerWeb.app
+lSLF07#2@79"Touch /Users/Decmac/Desktop/FlowerWeb/build/Debug-iphonesimulator/FlowerWeb.app354457320#354457320#0(0"0(0#0#0"4300885448#266"    cd /Users/Decmac/Desktop/FlowerWeb    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/Decmac/Desktop/FlowerWeb/build/Debug-iphonesimulator/FlowerWeb.app0#
+

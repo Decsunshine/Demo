@@ -1,0 +1,315 @@
+TiBountyHunter
+v7
+r0
+t352719823.161161
+cCheck dependencies
+cProcessInfoPlistFile /Users/Decmac/Desktop/iBountyHunter/build/Debug-iphonesimulator/iBountyHunter.app/Info.plist iBountyHunter-Info.plist
+cCompileXIB /Users/Decmac/Desktop/iBountyHunter/MainWindow.xib
+cProcessPCH /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iBountyHunter_Prefix-hebwsaaruhshbpdcrjrfnyddqryx/iBountyHunter_Prefix.pch.gch iBountyHunter_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cDataModelCompile /Users/Decmac/Desktop/iBountyHunter/build/Debug-iphonesimulator/iBountyHunter.app/iBountyHunter.mom /Users/Decmac/Desktop/iBountyHunter/iBountyHunter.xcdatamodel
+cCompileC build/iBountyHunter.build/Debug-iphonesimulator/iBountyHunter.build/Objects-normal/i386/main.o /Users/Decmac/Desktop/iBountyHunter/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iBountyHunter.build/Debug-iphonesimulator/iBountyHunter.build/Objects-normal/i386/iBountyHunterAppDelegate.o /Users/Decmac/Desktop/iBountyHunter/Classes/iBountyHunterAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iBountyHunter.build/Debug-iphonesimulator/iBountyHunter.build/Objects-normal/i386/FugitiveListViewController.o /Users/Decmac/Desktop/iBountyHunter/Classes/../FugitiveListViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iBountyHunter.build/Debug-iphonesimulator/iBountyHunter.build/Objects-normal/i386/CapturedListViewController.o /Users/Decmac/Desktop/iBountyHunter/Classes/CapturedListViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/Decmac/Desktop/iBountyHunter/build/Debug-iphonesimulator/iBountyHunter.app/iBountyHunter normal i386
+cGenerateDSYMFile /Users/Decmac/Desktop/iBountyHunter/build/Debug-iphonesimulator/iBountyHunter.app.dSYM /Users/Decmac/Desktop/iBountyHunter/build/Debug-iphonesimulator/iBountyHunter.app/iBountyHunter
+cTouch /Users/Decmac/Desktop/iBountyHunter/build/Debug-iphonesimulator/iBountyHunter.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk
+c000000004F3A580900000000000000EE
+t1329223689
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+c000000004B2B4E070000000000185440
+t1261129223
+s1594432
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.h
+c000000004B2B4DFB000000000000046B
+t1261129211
+s1131
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B2B4CC3000000000026EE30
+t1261128899
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B2B4DC8000000000027E880
+t1261129160
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B2B4DAE0000000000001355
+t1261129134
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B2B61620000000000000788
+t1261134178
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B2B62B500000000016721E0
+t1261134517
+s23536096
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/usr/include/Availability.h
+c000000004B2B4EE200000000000019F9
+t1261129442
+s6649
+
+N/Users/Decmac/Desktop/iBountyHunter/Classes/../FugitiveListViewController.m
+c000000004F55D3DC00000000000010A9
+t1331024860
+s4265
+i"FugitiveListViewController.h"
+
+N/Users/Decmac/Desktop/iBountyHunter/Classes/CapturedListViewController.h
+c000000004F55D40E00000000000000FF
+t1331024910
+s255
+i<UIKit/UIKit.h>
+
+N/Users/Decmac/Desktop/iBountyHunter/Classes/CapturedListViewController.m
+c000000004F55D40E00000000000010A9
+t1331024910
+s4265
+i"CapturedListViewController.h"
+
+N/Users/Decmac/Desktop/iBountyHunter/Classes/iBountyHunterAppDelegate.h
+c000000004F55DAF2000000000000038B
+t1331026674
+s907
+
+N/Users/Decmac/Desktop/iBountyHunter/Classes/iBountyHunterAppDelegate.m
+c000000004F55DB2F00000000000011E3
+t1331026735
+s4579
+i"iBountyHunterAppDelegate.h"
+
+N/Users/Decmac/Desktop/iBountyHunter/FugitiveListViewController.h
+c000000004F55D3DC00000000000000FF
+t1331024860
+s255
+i<UIKit/UIKit.h>
+
+N/Users/Decmac/Desktop/iBountyHunter/FugitiveListViewController.m
+c000000004F55D3DC00000000000010A9
+t1331024860
+s4265
+i"FugitiveListViewController.h"
+
+N/Users/Decmac/Desktop/iBountyHunter/MainWindow.xib
+c000000004F55DC4800000000000080AE
+t1331027016
+s32942
+
+N/Users/Decmac/Desktop/iBountyHunter/build/Debug-iphonesimulator/iBountyHunter.app
+t1331027023
+s238
+
+N/Users/Decmac/Desktop/iBountyHunter/build/Debug-iphonesimulator/iBountyHunter.app.dSYM
+t1331027023
+s102
+
+N/Users/Decmac/Desktop/iBountyHunter/build/Debug-iphonesimulator/iBountyHunter.app/Info.plist
+t1331027019
+s588
+
+N/Users/Decmac/Desktop/iBountyHunter/build/Debug-iphonesimulator/iBountyHunter.app/MainWindow.nib
+t1331027019
+s3690
+
+N/Users/Decmac/Desktop/iBountyHunter/build/Debug-iphonesimulator/iBountyHunter.app/PkgInfo
+t1331027019
+s8
+
+N/Users/Decmac/Desktop/iBountyHunter/build/Debug-iphonesimulator/iBountyHunter.app/iBountyHunter
+t1331027022
+s23412
+
+N/Users/Decmac/Desktop/iBountyHunter/build/Debug-iphonesimulator/iBountyHunter.app/iBountyHunter.mom
+t1331027022
+s488
+
+N/Users/Decmac/Desktop/iBountyHunter/build/iBountyHunter.build/Debug-iphonesimulator/iBountyHunter.build/Objects-normal/i386/CapturedListViewController.o
+t1331027022
+s32884
+
+N/Users/Decmac/Desktop/iBountyHunter/build/iBountyHunter.build/Debug-iphonesimulator/iBountyHunter.build/Objects-normal/i386/FugitiveListViewController.o
+t1331027022
+s32888
+
+N/Users/Decmac/Desktop/iBountyHunter/build/iBountyHunter.build/Debug-iphonesimulator/iBountyHunter.build/Objects-normal/i386/iBountyHunter.LinkFileList
+c000000004F55DC4A000000000000024C
+t1331027018
+s588
+
+N/Users/Decmac/Desktop/iBountyHunter/build/iBountyHunter.build/Debug-iphonesimulator/iBountyHunter.build/Objects-normal/i386/iBountyHunterAppDelegate.o
+t1331027022
+s48804
+
+N/Users/Decmac/Desktop/iBountyHunter/build/iBountyHunter.build/Debug-iphonesimulator/iBountyHunter.build/Objects-normal/i386/main.o
+t1331027022
+s5952
+
+N/Users/Decmac/Desktop/iBountyHunter/iBountyHunter.xcdatamodel
+c000000004F55D26D0000000000000088
+t1331024493
+s136
+
+N/Users/Decmac/Desktop/iBountyHunter/iBountyHunter_Prefix.pch
+c000000004F55D26D000000000000016E
+t1331024493
+s366
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+
+N/Users/Decmac/Desktop/iBountyHunter/main.m
+c000000004F55D26D000000000000016B
+t1331024493
+s363
+i<UIKit/UIKit.h>
+
+N/var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iBountyHunter_Prefix-hebwsaaruhshbpdcrjrfnyddqryx/iBountyHunter_Prefix.pch.gch
+t1331027021
+s13887728
+
+NiBountyHunter-Info.plist
+c000000004F55D26D000000000000038D
+t1331024493
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies352719818#352719818#0(0"0(0#1#0"28992373579448432#0"0#
+
+CCompileC build/iBountyHunter.build/Debug-iphonesimulator/iBountyHunter.build/Objects-normal/i386/CapturedListViewController.o /Users/Decmac/Desktop/iBountyHunter/Classes/CapturedListViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s352719822.464306
+e352719822.642565
+r1
+xCompileC
+xbuild/iBountyHunter.build/Debug-iphonesimulator/iBountyHunter.build/Objects-normal/i386/CapturedListViewController.o
+x/Users/Decmac/Desktop/iBountyHunter/Classes/CapturedListViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/Decmac/Desktop/iBountyHunter/Classes/CapturedListViewController.m352719822#352719822#0(0"0(0#0#72"/Users/Decmac/Desktop/iBountyHunter/Classes/CapturedListViewController.m4300885448#2072"    cd /Users/Decmac/Desktop/iBountyHunter    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/iBountyHunter/build/iBountyHunter.build/Debug-iphonesimulator/iBountyHunter.build/iBountyHunter-generated-files.hmap -I/Users/Decmac/Desktop/iBountyHunter/build/iBountyHunter.build/Debug-iphonesimulator/iBountyHunter.build/iBountyHunter-own-target-headers.hmap -I/Users/Decmac/Desktop/iBountyHunter/build/iBountyHunter.build/Debug-iphonesimulator/iBountyHunter.build/iBountyHunter-all-target-headers.hmap -iquote /Users/Decmac/Desktop/iBountyHunter/build/iBountyHunter.build/Debug-iphonesimulator/iBountyHunter.build/iBountyHunter-project-headers.hmap -F/Users/Decmac/Desktop/iBountyHunter/build/Debug-iphonesimulator "-F/Volumes/Skiiing2/CD/ViewBased/Unknown Path/System/Library/Frameworks" -I/Users/Decmac/Desktop/iBountyHunter/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/iBountyHunter/build/iBountyHunter.build/Debug-iphonesimulator/iBountyHunter.build/DerivedSources/i386 -I/Users/Decmac/Desktop/iBountyHunter/build/iBountyHunter.build/Debug-iphonesimulator/iBountyHunter.build/DerivedSources -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iBountyHunter_Prefix-hebwsaaruhshbpdcrjrfnyddqryx/iBountyHunter_Prefix.pch -c /Users/Decmac/Desktop/iBountyHunter/Classes/CapturedListViewController.m -o /Users/Decmac/Desktop/iBountyHunter/build/iBountyHunter.build/Debug-iphonesimulator/iBountyHunter.build/Objects-normal/i386/CapturedListViewController.o0#
+
+CCompileC build/iBountyHunter.build/Debug-iphonesimulator/iBountyHunter.build/Objects-normal/i386/FugitiveListViewController.o /Users/Decmac/Desktop/iBountyHunter/Classes/../FugitiveListViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s352719822.266542
+e352719822.463913
+r1
+xCompileC
+xbuild/iBountyHunter.build/Debug-iphonesimulator/iBountyHunter.build/Objects-normal/i386/FugitiveListViewController.o
+x/Users/Decmac/Desktop/iBountyHunter/Classes/../FugitiveListViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/Decmac/Desktop/iBountyHunter/Classes/../FugitiveListViewController.m352719822#352719822#0(0"0(0#0#75"/Users/Decmac/Desktop/iBountyHunter/Classes/../FugitiveListViewController.m4300885448#2075"    cd /Users/Decmac/Desktop/iBountyHunter    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/iBountyHunter/build/iBountyHunter.build/Debug-iphonesimulator/iBountyHunter.build/iBountyHunter-generated-files.hmap -I/Users/Decmac/Desktop/iBountyHunter/build/iBountyHunter.build/Debug-iphonesimulator/iBountyHunter.build/iBountyHunter-own-target-headers.hmap -I/Users/Decmac/Desktop/iBountyHunter/build/iBountyHunter.build/Debug-iphonesimulator/iBountyHunter.build/iBountyHunter-all-target-headers.hmap -iquote /Users/Decmac/Desktop/iBountyHunter/build/iBountyHunter.build/Debug-iphonesimulator/iBountyHunter.build/iBountyHunter-project-headers.hmap -F/Users/Decmac/Desktop/iBountyHunter/build/Debug-iphonesimulator "-F/Volumes/Skiiing2/CD/ViewBased/Unknown Path/System/Library/Frameworks" -I/Users/Decmac/Desktop/iBountyHunter/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/iBountyHunter/build/iBountyHunter.build/Debug-iphonesimulator/iBountyHunter.build/DerivedSources/i386 -I/Users/Decmac/Desktop/iBountyHunter/build/iBountyHunter.build/Debug-iphonesimulator/iBountyHunter.build/DerivedSources -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iBountyHunter_Prefix-hebwsaaruhshbpdcrjrfnyddqryx/iBountyHunter_Prefix.pch -c /Users/Decmac/Desktop/iBountyHunter/Classes/../FugitiveListViewController.m -o /Users/Decmac/Desktop/iBountyHunter/build/iBountyHunter.build/Debug-iphonesimulator/iBountyHunter.build/Objects-normal/i386/FugitiveListViewController.o0#
+
+CCompileC build/iBountyHunter.build/Debug-iphonesimulator/iBountyHunter.build/Objects-normal/i386/FugitiveListViewController.o /Users/Decmac/Desktop/iBountyHunter/FugitiveListViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/iBountyHunter.build/Debug-iphonesimulator/iBountyHunter.build/Objects-normal/i386/iBountyHunterAppDelegate.o /Users/Decmac/Desktop/iBountyHunter/Classes/iBountyHunterAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s352719822.246775
+e352719822.525796
+r1
+xCompileC
+xbuild/iBountyHunter.build/Debug-iphonesimulator/iBountyHunter.build/Objects-normal/i386/iBountyHunterAppDelegate.o
+x/Users/Decmac/Desktop/iBountyHunter/Classes/iBountyHunterAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/Decmac/Desktop/iBountyHunter/Classes/iBountyHunterAppDelegate.m352719822#352719822#0(0"0(0#0#70"/Users/Decmac/Desktop/iBountyHunter/Classes/iBountyHunterAppDelegate.m4300885448#2068"    cd /Users/Decmac/Desktop/iBountyHunter    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/iBountyHunter/build/iBountyHunter.build/Debug-iphonesimulator/iBountyHunter.build/iBountyHunter-generated-files.hmap -I/Users/Decmac/Desktop/iBountyHunter/build/iBountyHunter.build/Debug-iphonesimulator/iBountyHunter.build/iBountyHunter-own-target-headers.hmap -I/Users/Decmac/Desktop/iBountyHunter/build/iBountyHunter.build/Debug-iphonesimulator/iBountyHunter.build/iBountyHunter-all-target-headers.hmap -iquote /Users/Decmac/Desktop/iBountyHunter/build/iBountyHunter.build/Debug-iphonesimulator/iBountyHunter.build/iBountyHunter-project-headers.hmap -F/Users/Decmac/Desktop/iBountyHunter/build/Debug-iphonesimulator "-F/Volumes/Skiiing2/CD/ViewBased/Unknown Path/System/Library/Frameworks" -I/Users/Decmac/Desktop/iBountyHunter/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/iBountyHunter/build/iBountyHunter.build/Debug-iphonesimulator/iBountyHunter.build/DerivedSources/i386 -I/Users/Decmac/Desktop/iBountyHunter/build/iBountyHunter.build/Debug-iphonesimulator/iBountyHunter.build/DerivedSources -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iBountyHunter_Prefix-hebwsaaruhshbpdcrjrfnyddqryx/iBountyHunter_Prefix.pch -c /Users/Decmac/Desktop/iBountyHunter/Classes/iBountyHunterAppDelegate.m -o /Users/Decmac/Desktop/iBountyHunter/build/iBountyHunter.build/Debug-iphonesimulator/iBountyHunter.build/Objects-normal/i386/iBountyHunterAppDelegate.o0#
+
+CCompileC build/iBountyHunter.build/Debug-iphonesimulator/iBountyHunter.build/Objects-normal/i386/main.o /Users/Decmac/Desktop/iBountyHunter/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s352719822.056284
+e352719822.266259
+r1
+xCompileC
+xbuild/iBountyHunter.build/Debug-iphonesimulator/iBountyHunter.build/Objects-normal/i386/main.o
+x/Users/Decmac/Desktop/iBountyHunter/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@50"Compile /Users/Decmac/Desktop/iBountyHunter/main.m352719822#352719822#0(0"0(0#0#42"/Users/Decmac/Desktop/iBountyHunter/main.m4300885448#2020"    cd /Users/Decmac/Desktop/iBountyHunter    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/iBountyHunter/build/iBountyHunter.build/Debug-iphonesimulator/iBountyHunter.build/iBountyHunter-generated-files.hmap -I/Users/Decmac/Desktop/iBountyHunter/build/iBountyHunter.build/Debug-iphonesimulator/iBountyHunter.build/iBountyHunter-own-target-headers.hmap -I/Users/Decmac/Desktop/iBountyHunter/build/iBountyHunter.build/Debug-iphonesimulator/iBountyHunter.build/iBountyHunter-all-target-headers.hmap -iquote /Users/Decmac/Desktop/iBountyHunter/build/iBountyHunter.build/Debug-iphonesimulator/iBountyHunter.build/iBountyHunter-project-headers.hmap -F/Users/Decmac/Desktop/iBountyHunter/build/Debug-iphonesimulator "-F/Volumes/Skiiing2/CD/ViewBased/Unknown Path/System/Library/Frameworks" -I/Users/Decmac/Desktop/iBountyHunter/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/iBountyHunter/build/iBountyHunter.build/Debug-iphonesimulator/iBountyHunter.build/DerivedSources/i386 -I/Users/Decmac/Desktop/iBountyHunter/build/iBountyHunter.build/Debug-iphonesimulator/iBountyHunter.build/DerivedSources -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iBountyHunter_Prefix-hebwsaaruhshbpdcrjrfnyddqryx/iBountyHunter_Prefix.pch -c /Users/Decmac/Desktop/iBountyHunter/main.m -o /Users/Decmac/Desktop/iBountyHunter/build/iBountyHunter.build/Debug-iphonesimulator/iBountyHunter.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/Decmac/Desktop/iBountyHunter/MainWindow.xib
+s352719819.030732
+e352719819.960304
+r1
+xCompileXIB
+x/Users/Decmac/Desktop/iBountyHunter/MainWindow.xib
+o2012-03-06 09:43:39.102 ibtool[371:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 35
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@25"CompileXIB MainWindow.xib352719819#352719819#0(191"2012-03-06 09:43:39.102 ibtool[371:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 35Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#50"/Users/Decmac/Desktop/iBountyHunter/MainWindow.xib4300885448#479"    cd /Users/Decmac/Desktop/iBountyHunter    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Decmac/Desktop/iBountyHunter/build/Debug-iphonesimulator/iBountyHunter.app/MainWindow.nib /Users/Decmac/Desktop/iBountyHunter/MainWindow.xib0#
+
+CDataModelCompile /Users/Decmac/Desktop/iBountyHunter/build/Debug-iphonesimulator/iBountyHunter.app/iBountyHunter.mom /Users/Decmac/Desktop/iBountyHunter/iBountyHunter.xcdatamodel
+s352719822.054103
+e352719822.246497
+r1
+xDataModelCompile
+x/Users/Decmac/Desktop/iBountyHunter/build/Debug-iphonesimulator/iBountyHunter.app/iBountyHunter.mom
+x/Users/Decmac/Desktop/iBountyHunter/iBountyHunter.xcdatamodel
+o2012-03-06 09:43:42.218 momc[377:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 35
+lSLF07#2@69"Compile /Users/Decmac/Desktop/iBountyHunter/iBountyHunter.xcdatamodel352719822#352719822#0(105"2012-03-06 09:43:42.218 momc[377:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 350(0#0#61"/Users/Decmac/Desktop/iBountyHunter/iBountyHunter.xcdatamodel4300885448#393"    cd /Users/Decmac/Desktop/iBountyHunter    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/momc -XD_MOMC_TARGET_VERSION=10.5 /Users/Decmac/Desktop/iBountyHunter/iBountyHunter.xcdatamodel /Users/Decmac/Desktop/iBountyHunter/build/Debug-iphonesimulator/iBountyHunter.app/iBountyHunter.mom0#
+
+CGenerateDSYMFile /Users/Decmac/Desktop/iBountyHunter/build/Debug-iphonesimulator/iBountyHunter.app.dSYM /Users/Decmac/Desktop/iBountyHunter/build/Debug-iphonesimulator/iBountyHunter.app/iBountyHunter
+s352719823.000195
+e352719823.117216
+r1
+xGenerateDSYMFile
+x/Users/Decmac/Desktop/iBountyHunter/build/Debug-iphonesimulator/iBountyHunter.app.dSYM
+x/Users/Decmac/Desktop/iBountyHunter/build/Debug-iphonesimulator/iBountyHunter.app/iBountyHunter
+o2012-03-06 09:43:43.102 dsymutil[402:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 35
+lSLF07#2@127"GenerateDSYMFile build/Debug-iphonesimulator/iBountyHunter.app.dSYM build/Debug-iphonesimulator/iBountyHunter.app/iBountyHunter352719823#352719823#0(109"2012-03-06 09:43:43.102 dsymutil[402:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 350(0#0#95"/Users/Decmac/Desktop/iBountyHunter/build/Debug-iphonesimulator/iBountyHunter.app/iBountyHunter4300885448#392"    cd /Users/Decmac/Desktop/iBountyHunter    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/Decmac/Desktop/iBountyHunter/build/Debug-iphonesimulator/iBountyHunter.app/iBountyHunter -o /Users/Decmac/Desktop/iBountyHunter/build/Debug-iphonesimulator/iBountyHunter.app.dSYM0#
+
+CLd /Users/Decmac/Desktop/iBountyHunter/build/Debug-iphonesimulator/iBountyHunter.app/iBountyHunter normal i386
+s352719822.642811
+e352719822.999928
+r1
+xLd
+x/Users/Decmac/Desktop/iBountyHunter/build/Debug-iphonesimulator/iBountyHunter.app/iBountyHunter
+xnormal
+xi386
+lSLF07#2@100"Link /Users/Decmac/Desktop/iBountyHunter/build/Debug-iphonesimulator/iBountyHunter.app/iBountyHunter352719822#352719822#0(0"0(0#0#0"4300885448#973"    cd /Users/Decmac/Desktop/iBountyHunter    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -L/Users/Decmac/Desktop/iBountyHunter/build/Debug-iphonesimulator -F/Users/Decmac/Desktop/iBountyHunter/build/Debug-iphonesimulator "-F/Volumes/Skiiing2/CD/ViewBased/Unknown Path/System/Library/Frameworks" -filelist /Users/Decmac/Desktop/iBountyHunter/build/iBountyHunter.build/Debug-iphonesimulator/iBountyHunter.build/Objects-normal/i386/iBountyHunter.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -framework CoreData -o /Users/Decmac/Desktop/iBountyHunter/build/Debug-iphonesimulator/iBountyHunter.app/iBountyHunter0#
+
+CProcessInfoPlistFile /Users/Decmac/Desktop/iBountyHunter/build/Debug-iphonesimulator/iBountyHunter.app/Info.plist iBountyHunter-Info.plist
+s352719818.979052
+e352719819.030447
+r1
+xProcessInfoPlistFile
+x/Users/Decmac/Desktop/iBountyHunter/build/Debug-iphonesimulator/iBountyHunter.app/Info.plist
+xiBountyHunter-Info.plist
+lSLF07#2@32"Process iBountyHunter-Info.plist352719819#352719819#0(0"0(0#0#60"/Users/Decmac/Desktop/iBountyHunter/iBountyHunter-Info.plist29273878621126700#488"    cd /Users/Decmac/Desktop/iBountyHunter    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility iBountyHunter-Info.plist -genpkginfo /Users/Decmac/Desktop/iBountyHunter/build/Debug-iphonesimulator/iBountyHunter.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/Decmac/Desktop/iBountyHunter/build/Debug-iphonesimulator/iBountyHunter.app/Info.plist0#
+
+CProcessPCH /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iBountyHunter_Prefix-hebwsaaruhshbpdcrjrfnyddqryx/iBountyHunter_Prefix.pch.gch iBountyHunter_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s352719819.960818
+e352719822.053710
+r1
+xProcessPCH
+x/var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iBountyHunter_Prefix-hebwsaaruhshbpdcrjrfnyddqryx/iBountyHunter_Prefix.pch.gch
+xiBountyHunter_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@35"Precompile iBountyHunter_Prefix.pch352719819#352719822#0(0"0(0#0#60"/Users/Decmac/Desktop/iBountyHunter/iBountyHunter_Prefix.pch4300885448#1909"    cd /Users/Decmac/Desktop/iBountyHunter    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/iBountyHunter/build/iBountyHunter.build/Debug-iphonesimulator/iBountyHunter.build/iBountyHunter-generated-files.hmap -I/Users/Decmac/Desktop/iBountyHunter/build/iBountyHunter.build/Debug-iphonesimulator/iBountyHunter.build/iBountyHunter-own-target-headers.hmap -I/Users/Decmac/Desktop/iBountyHunter/build/iBountyHunter.build/Debug-iphonesimulator/iBountyHunter.build/iBountyHunter-all-target-headers.hmap -iquote /Users/Decmac/Desktop/iBountyHunter/build/iBountyHunter.build/Debug-iphonesimulator/iBountyHunter.build/iBountyHunter-project-headers.hmap -F/Users/Decmac/Desktop/iBountyHunter/build/Debug-iphonesimulator "-F/Volumes/Skiiing2/CD/ViewBased/Unknown Path/System/Library/Frameworks" -I/Users/Decmac/Desktop/iBountyHunter/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/iBountyHunter/build/iBountyHunter.build/Debug-iphonesimulator/iBountyHunter.build/DerivedSources/i386 -I/Users/Decmac/Desktop/iBountyHunter/build/iBountyHunter.build/Debug-iphonesimulator/iBountyHunter.build/DerivedSources -c /Users/Decmac/Desktop/iBountyHunter/iBountyHunter_Prefix.pch -o /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iBountyHunter_Prefix-hebwsaaruhshbpdcrjrfnyddqryx/iBountyHunter_Prefix.pch.gch0#
+
+CTouch /Users/Decmac/Desktop/iBountyHunter/build/Debug-iphonesimulator/iBountyHunter.app
+s352719823.117450
+e352719823.160989
+r1
+xTouch
+x/Users/Decmac/Desktop/iBountyHunter/build/Debug-iphonesimulator/iBountyHunter.app
+lSLF07#2@87"Touch /Users/Decmac/Desktop/iBountyHunter/build/Debug-iphonesimulator/iBountyHunter.app352719823#352719823#0(0"0(0#0#0"4300885448#278"    cd /Users/Decmac/Desktop/iBountyHunter    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/Decmac/Desktop/iBountyHunter/build/Debug-iphonesimulator/iBountyHunter.app0#
+

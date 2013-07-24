@@ -1,0 +1,259 @@
+TColorTilt
+v7
+r0
+t354748332.754150
+cCheck dependencies
+cProcessInfoPlistFile /Users/Decmac/Desktop/ColorTilt/build/Debug-iphonesimulator/ColorTilt.app/Info.plist ColorTilt-Info.plist
+cCompileXIB /Users/Decmac/Desktop/ColorTilt/MainWindow.xib
+cCompileXIB /Users/Decmac/Desktop/ColorTilt/ColorTiltViewController.xib
+cProcessPCH /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ColorTilt_Prefix-dsftiqoyhnoykhhhhnamqtyoxwaz/ColorTilt_Prefix.pch.gch ColorTilt_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ColorTilt.build/Debug-iphonesimulator/ColorTilt.build/Objects-normal/i386/main.o /Users/Decmac/Desktop/ColorTilt/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ColorTilt.build/Debug-iphonesimulator/ColorTilt.build/Objects-normal/i386/ColorTiltAppDelegate.o /Users/Decmac/Desktop/ColorTilt/Classes/ColorTiltAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ColorTilt.build/Debug-iphonesimulator/ColorTilt.build/Objects-normal/i386/ColorTiltViewController.o /Users/Decmac/Desktop/ColorTilt/Classes/ColorTiltViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/Decmac/Desktop/ColorTilt/build/Debug-iphonesimulator/ColorTilt.app/ColorTilt normal i386
+cGenerateDSYMFile /Users/Decmac/Desktop/ColorTilt/build/Debug-iphonesimulator/ColorTilt.app.dSYM /Users/Decmac/Desktop/ColorTilt/build/Debug-iphonesimulator/ColorTilt.app/ColorTilt
+cTouch /Users/Decmac/Desktop/ColorTilt/build/Debug-iphonesimulator/ColorTilt.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk
+c000000004F3A580900000000000000EE
+t1329223689
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B2B4CC3000000000026EE30
+t1261128899
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B2B4DC8000000000027E880
+t1261129160
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B2B4DAE0000000000001355
+t1261129134
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B2B61620000000000000788
+t1261134178
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B2B62B500000000016721E0
+t1261134517
+s23536096
+
+N/Users/Decmac/Desktop/ColorTilt/Classes/ColorTiltAppDelegate.h
+c000000004F74CE1F00000000000001E8
+t1333055007
+s488
+i<UIKit/UIKit.h>
+
+N/Users/Decmac/Desktop/ColorTilt/Classes/ColorTiltAppDelegate.m
+c000000004F74CE1F0000000000000271
+t1333055007
+s625
+i"ColorTiltAppDelegate.h"
+i"ColorTiltViewController.h"
+
+N/Users/Decmac/Desktop/ColorTilt/Classes/ColorTiltViewController.h
+c000000004F74CE69000000000000015A
+t1333055081
+s346
+i<UIKit/UIKit.h>
+
+N/Users/Decmac/Desktop/ColorTilt/Classes/ColorTiltViewController.m
+c000000004F74D028000000000000079A
+t1333055528
+s1946
+i"ColorTiltViewController.h"
+
+N/Users/Decmac/Desktop/ColorTilt/ColorTiltViewController.xib
+c000000004F74CE9E0000000000003BB7
+t1333055134
+s15287
+
+N/Users/Decmac/Desktop/ColorTilt/ColorTilt_Prefix.pch
+c000000004F74CE1F00000000000000BB
+t1333055007
+s187
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/Decmac/Desktop/ColorTilt/MainWindow.xib
+c000000004F74CE1F0000000000002464
+t1333055007
+s9316
+
+N/Users/Decmac/Desktop/ColorTilt/build/ColorTilt.build/Debug-iphonesimulator/ColorTilt.build/Objects-normal/i386/ColorTilt.LinkFileList
+c000000004F74D0290000000000000188
+t1333055529
+s392
+
+N/Users/Decmac/Desktop/ColorTilt/build/ColorTilt.build/Debug-iphonesimulator/ColorTilt.build/Objects-normal/i386/ColorTiltAppDelegate.o
+t1333055532
+s38152
+
+N/Users/Decmac/Desktop/ColorTilt/build/ColorTilt.build/Debug-iphonesimulator/ColorTilt.build/Objects-normal/i386/ColorTiltViewController.o
+t1333055532
+s34564
+
+N/Users/Decmac/Desktop/ColorTilt/build/ColorTilt.build/Debug-iphonesimulator/ColorTilt.build/Objects-normal/i386/main.o
+t1333055532
+s5944
+
+N/Users/Decmac/Desktop/ColorTilt/build/Debug-iphonesimulator/ColorTilt.app
+t1333055532
+s238
+
+N/Users/Decmac/Desktop/ColorTilt/build/Debug-iphonesimulator/ColorTilt.app.dSYM
+t1333055532
+s102
+
+N/Users/Decmac/Desktop/ColorTilt/build/Debug-iphonesimulator/ColorTilt.app/ColorTilt
+t1333055532
+s20108
+
+N/Users/Decmac/Desktop/ColorTilt/build/Debug-iphonesimulator/ColorTilt.app/ColorTiltViewController.nib
+t1333055530
+s1197
+
+N/Users/Decmac/Desktop/ColorTilt/build/Debug-iphonesimulator/ColorTilt.app/Info.plist
+t1333055529
+s572
+
+N/Users/Decmac/Desktop/ColorTilt/build/Debug-iphonesimulator/ColorTilt.app/MainWindow.nib
+t1333055530
+s1499
+
+N/Users/Decmac/Desktop/ColorTilt/build/Debug-iphonesimulator/ColorTilt.app/PkgInfo
+t1333055529
+s8
+
+N/Users/Decmac/Desktop/ColorTilt/main.m
+c000000004F74CE1F0000000000000168
+t1333055007
+s360
+i<UIKit/UIKit.h>
+
+N/var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ColorTilt_Prefix-dsftiqoyhnoykhhhhnamqtyoxwaz/ColorTilt_Prefix.pch.gch
+t1333055532
+s13034960
+
+NColorTilt-Info.plist
+c000000004F74CE1F000000000000038D
+t1333055007
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies354748329#354748329#0(0"0(0#1#0"7947009927035180032#0"0#
+
+CCompileC build/ColorTilt.build/Debug-iphonesimulator/ColorTilt.build/Objects-normal/i386/ColorTiltAppDelegate.o /Users/Decmac/Desktop/ColorTilt/Classes/ColorTiltAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354748332.300602
+e354748332.508896
+r1
+xCompileC
+xbuild/ColorTilt.build/Debug-iphonesimulator/ColorTilt.build/Objects-normal/i386/ColorTiltAppDelegate.o
+x/Users/Decmac/Desktop/ColorTilt/Classes/ColorTiltAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/Decmac/Desktop/ColorTilt/Classes/ColorTiltAppDelegate.m354748332#354748332#0(0"0(0#0#62"/Users/Decmac/Desktop/ColorTilt/Classes/ColorTiltAppDelegate.m4300885448#1862"    cd /Users/Decmac/Desktop/ColorTilt    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/ColorTilt/build/ColorTilt.build/Debug-iphonesimulator/ColorTilt.build/ColorTilt-generated-files.hmap -I/Users/Decmac/Desktop/ColorTilt/build/ColorTilt.build/Debug-iphonesimulator/ColorTilt.build/ColorTilt-own-target-headers.hmap -I/Users/Decmac/Desktop/ColorTilt/build/ColorTilt.build/Debug-iphonesimulator/ColorTilt.build/ColorTilt-all-target-headers.hmap -iquote /Users/Decmac/Desktop/ColorTilt/build/ColorTilt.build/Debug-iphonesimulator/ColorTilt.build/ColorTilt-project-headers.hmap -F/Users/Decmac/Desktop/ColorTilt/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/ColorTilt/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/ColorTilt/build/ColorTilt.build/Debug-iphonesimulator/ColorTilt.build/DerivedSources/i386 -I/Users/Decmac/Desktop/ColorTilt/build/ColorTilt.build/Debug-iphonesimulator/ColorTilt.build/DerivedSources -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ColorTilt_Prefix-dsftiqoyhnoykhhhhnamqtyoxwaz/ColorTilt_Prefix.pch -c /Users/Decmac/Desktop/ColorTilt/Classes/ColorTiltAppDelegate.m -o /Users/Decmac/Desktop/ColorTilt/build/ColorTilt.build/Debug-iphonesimulator/ColorTilt.build/Objects-normal/i386/ColorTiltAppDelegate.o0#
+
+CCompileC build/ColorTilt.build/Debug-iphonesimulator/ColorTilt.build/Objects-normal/i386/ColorTiltViewController.o /Users/Decmac/Desktop/ColorTilt/Classes/ColorTiltViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354748332.429600
+e354748332.646042
+r1
+xCompileC
+xbuild/ColorTilt.build/Debug-iphonesimulator/ColorTilt.build/Objects-normal/i386/ColorTiltViewController.o
+x/Users/Decmac/Desktop/ColorTilt/Classes/ColorTiltViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/Decmac/Desktop/ColorTilt/Classes/ColorTiltViewController.m354748332#354748332#0(0"0(0#0#65"/Users/Decmac/Desktop/ColorTilt/Classes/ColorTiltViewController.m4300885448#1868"    cd /Users/Decmac/Desktop/ColorTilt    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/ColorTilt/build/ColorTilt.build/Debug-iphonesimulator/ColorTilt.build/ColorTilt-generated-files.hmap -I/Users/Decmac/Desktop/ColorTilt/build/ColorTilt.build/Debug-iphonesimulator/ColorTilt.build/ColorTilt-own-target-headers.hmap -I/Users/Decmac/Desktop/ColorTilt/build/ColorTilt.build/Debug-iphonesimulator/ColorTilt.build/ColorTilt-all-target-headers.hmap -iquote /Users/Decmac/Desktop/ColorTilt/build/ColorTilt.build/Debug-iphonesimulator/ColorTilt.build/ColorTilt-project-headers.hmap -F/Users/Decmac/Desktop/ColorTilt/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/ColorTilt/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/ColorTilt/build/ColorTilt.build/Debug-iphonesimulator/ColorTilt.build/DerivedSources/i386 -I/Users/Decmac/Desktop/ColorTilt/build/ColorTilt.build/Debug-iphonesimulator/ColorTilt.build/DerivedSources -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ColorTilt_Prefix-dsftiqoyhnoykhhhhnamqtyoxwaz/ColorTilt_Prefix.pch -c /Users/Decmac/Desktop/ColorTilt/Classes/ColorTiltViewController.m -o /Users/Decmac/Desktop/ColorTilt/build/ColorTilt.build/Debug-iphonesimulator/ColorTilt.build/Objects-normal/i386/ColorTiltViewController.o0#
+
+CCompileC build/ColorTilt.build/Debug-iphonesimulator/ColorTilt.build/Objects-normal/i386/main.o /Users/Decmac/Desktop/ColorTilt/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354748332.297878
+e354748332.429294
+r1
+xCompileC
+xbuild/ColorTilt.build/Debug-iphonesimulator/ColorTilt.build/Objects-normal/i386/main.o
+x/Users/Decmac/Desktop/ColorTilt/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@46"Compile /Users/Decmac/Desktop/ColorTilt/main.m354748332#354748332#0(0"0(0#0#38"/Users/Decmac/Desktop/ColorTilt/main.m4300885448#1822"    cd /Users/Decmac/Desktop/ColorTilt    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/ColorTilt/build/ColorTilt.build/Debug-iphonesimulator/ColorTilt.build/ColorTilt-generated-files.hmap -I/Users/Decmac/Desktop/ColorTilt/build/ColorTilt.build/Debug-iphonesimulator/ColorTilt.build/ColorTilt-own-target-headers.hmap -I/Users/Decmac/Desktop/ColorTilt/build/ColorTilt.build/Debug-iphonesimulator/ColorTilt.build/ColorTilt-all-target-headers.hmap -iquote /Users/Decmac/Desktop/ColorTilt/build/ColorTilt.build/Debug-iphonesimulator/ColorTilt.build/ColorTilt-project-headers.hmap -F/Users/Decmac/Desktop/ColorTilt/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/ColorTilt/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/ColorTilt/build/ColorTilt.build/Debug-iphonesimulator/ColorTilt.build/DerivedSources/i386 -I/Users/Decmac/Desktop/ColorTilt/build/ColorTilt.build/Debug-iphonesimulator/ColorTilt.build/DerivedSources -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ColorTilt_Prefix-dsftiqoyhnoykhhhhnamqtyoxwaz/ColorTilt_Prefix.pch -c /Users/Decmac/Desktop/ColorTilt/main.m -o /Users/Decmac/Desktop/ColorTilt/build/ColorTilt.build/Debug-iphonesimulator/ColorTilt.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/Decmac/Desktop/ColorTilt/ColorTiltViewController.xib
+s354748329.497291
+e354748330.508818
+r1
+xCompileXIB
+x/Users/Decmac/Desktop/ColorTilt/ColorTiltViewController.xib
+o2012-03-29 21:12:09.771 ibtool[424:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 35
+lSLF07#2@38"CompileXIB ColorTiltViewController.xib354748329#354748330#0(107"2012-03-29 21:12:09.771 ibtool[424:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 350(0#0#59"/Users/Decmac/Desktop/ColorTilt/ColorTiltViewController.xib4300885448#489"    cd /Users/Decmac/Desktop/ColorTilt    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Decmac/Desktop/ColorTilt/build/Debug-iphonesimulator/ColorTilt.app/ColorTiltViewController.nib /Users/Decmac/Desktop/ColorTilt/ColorTiltViewController.xib0#
+
+CCompileXIB /Users/Decmac/Desktop/ColorTilt/MainWindow.xib
+s354748329.494122
+e354748330.479822
+r1
+xCompileXIB
+x/Users/Decmac/Desktop/ColorTilt/MainWindow.xib
+o2012-03-29 21:12:09.678 ibtool[423:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 35
+lSLF07#2@25"CompileXIB MainWindow.xib354748329#354748330#0(107"2012-03-29 21:12:09.678 ibtool[423:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 350(0#0#46"/Users/Decmac/Desktop/ColorTilt/MainWindow.xib4300885448#463"    cd /Users/Decmac/Desktop/ColorTilt    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Decmac/Desktop/ColorTilt/build/Debug-iphonesimulator/ColorTilt.app/MainWindow.nib /Users/Decmac/Desktop/ColorTilt/MainWindow.xib0#
+
+CGenerateDSYMFile /Users/Decmac/Desktop/ColorTilt/build/Debug-iphonesimulator/ColorTilt.app.dSYM /Users/Decmac/Desktop/ColorTilt/build/Debug-iphonesimulator/ColorTilt.app/ColorTilt
+s354748332.701804
+e354748332.746203
+r1
+xGenerateDSYMFile
+x/Users/Decmac/Desktop/ColorTilt/build/Debug-iphonesimulator/ColorTilt.app.dSYM
+x/Users/Decmac/Desktop/ColorTilt/build/Debug-iphonesimulator/ColorTilt.app/ColorTilt
+o2012-03-29 21:12:12.731 dsymutil[452:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 35
+lSLF07#2@115"GenerateDSYMFile build/Debug-iphonesimulator/ColorTilt.app.dSYM build/Debug-iphonesimulator/ColorTilt.app/ColorTilt354748332#354748332#0(109"2012-03-29 21:12:12.731 dsymutil[452:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 350(0#0#83"/Users/Decmac/Desktop/ColorTilt/build/Debug-iphonesimulator/ColorTilt.app/ColorTilt4300885448#368"    cd /Users/Decmac/Desktop/ColorTilt    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/Decmac/Desktop/ColorTilt/build/Debug-iphonesimulator/ColorTilt.app/ColorTilt -o /Users/Decmac/Desktop/ColorTilt/build/Debug-iphonesimulator/ColorTilt.app.dSYM0#
+
+CLd /Users/Decmac/Desktop/ColorTilt/build/Debug-iphonesimulator/ColorTilt.app/ColorTilt normal i386
+s354748332.646289
+e354748332.701503
+r1
+xLd
+x/Users/Decmac/Desktop/ColorTilt/build/Debug-iphonesimulator/ColorTilt.app/ColorTilt
+xnormal
+xi386
+lSLF07#2@88"Link /Users/Decmac/Desktop/ColorTilt/build/Debug-iphonesimulator/ColorTilt.app/ColorTilt354748332#354748332#0(0"0(0#0#0"4300885448#839"    cd /Users/Decmac/Desktop/ColorTilt    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -L/Users/Decmac/Desktop/ColorTilt/build/Debug-iphonesimulator -F/Users/Decmac/Desktop/ColorTilt/build/Debug-iphonesimulator -filelist /Users/Decmac/Desktop/ColorTilt/build/ColorTilt.build/Debug-iphonesimulator/ColorTilt.build/Objects-normal/i386/ColorTilt.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/Decmac/Desktop/ColorTilt/build/Debug-iphonesimulator/ColorTilt.app/ColorTilt0#
+
+CProcessInfoPlistFile /Users/Decmac/Desktop/ColorTilt/build/Debug-iphonesimulator/ColorTilt.app/Info.plist ColorTilt-Info.plist
+s354748329.462630
+e354748329.493857
+r1
+xProcessInfoPlistFile
+x/Users/Decmac/Desktop/ColorTilt/build/Debug-iphonesimulator/ColorTilt.app/Info.plist
+xColorTilt-Info.plist
+lSLF07#2@28"Process ColorTilt-Info.plist354748329#354748329#0(0"0(0#0#52"/Users/Decmac/Desktop/ColorTilt/ColorTilt-Info.plist4300885448#464"    cd /Users/Decmac/Desktop/ColorTilt    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility ColorTilt-Info.plist -genpkginfo /Users/Decmac/Desktop/ColorTilt/build/Debug-iphonesimulator/ColorTilt.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/Decmac/Desktop/ColorTilt/build/Debug-iphonesimulator/ColorTilt.app/Info.plist0#
+
+CProcessPCH /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ColorTilt_Prefix-dsftiqoyhnoykhhhhnamqtyoxwaz/ColorTilt_Prefix.pch.gch ColorTilt_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s354748330.509137
+e354748332.297422
+r1
+xProcessPCH
+x/var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ColorTilt_Prefix-dsftiqoyhnoykhhhhnamqtyoxwaz/ColorTilt_Prefix.pch.gch
+xColorTilt_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile ColorTilt_Prefix.pch354748330#354748332#0(0"0(0#0#52"/Users/Decmac/Desktop/ColorTilt/ColorTilt_Prefix.pch4300885448#1719"    cd /Users/Decmac/Desktop/ColorTilt    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/ColorTilt/build/ColorTilt.build/Debug-iphonesimulator/ColorTilt.build/ColorTilt-generated-files.hmap -I/Users/Decmac/Desktop/ColorTilt/build/ColorTilt.build/Debug-iphonesimulator/ColorTilt.build/ColorTilt-own-target-headers.hmap -I/Users/Decmac/Desktop/ColorTilt/build/ColorTilt.build/Debug-iphonesimulator/ColorTilt.build/ColorTilt-all-target-headers.hmap -iquote /Users/Decmac/Desktop/ColorTilt/build/ColorTilt.build/Debug-iphonesimulator/ColorTilt.build/ColorTilt-project-headers.hmap -F/Users/Decmac/Desktop/ColorTilt/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/ColorTilt/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/ColorTilt/build/ColorTilt.build/Debug-iphonesimulator/ColorTilt.build/DerivedSources/i386 -I/Users/Decmac/Desktop/ColorTilt/build/ColorTilt.build/Debug-iphonesimulator/ColorTilt.build/DerivedSources -c /Users/Decmac/Desktop/ColorTilt/ColorTilt_Prefix.pch -o /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ColorTilt_Prefix-dsftiqoyhnoykhhhhnamqtyoxwaz/ColorTilt_Prefix.pch.gch0#
+
+CTouch /Users/Decmac/Desktop/ColorTilt/build/Debug-iphonesimulator/ColorTilt.app
+s354748332.746440
+e354748332.754032
+r1
+xTouch
+x/Users/Decmac/Desktop/ColorTilt/build/Debug-iphonesimulator/ColorTilt.app
+lSLF07#2@79"Touch /Users/Decmac/Desktop/ColorTilt/build/Debug-iphonesimulator/ColorTilt.app354748332#354748332#0(0"0(0#0#0"4300885448#266"    cd /Users/Decmac/Desktop/ColorTilt    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/Decmac/Desktop/ColorTilt/build/Debug-iphonesimulator/ColorTilt.app0#
+

@@ -1,0 +1,259 @@
+TSimpleSpin
+v7
+r0
+t354643236.947739
+cCheck dependencies
+cProcessInfoPlistFile /Users/Decmac/Desktop/SimpleSpin/build/Debug-iphonesimulator/SimpleSpin.app/Info.plist SimpleSpin-Info.plist
+cCompileXIB /Users/Decmac/Desktop/SimpleSpin/MainWindow.xib
+cCompileXIB /Users/Decmac/Desktop/SimpleSpin/SimpleSpinViewController.xib
+cProcessPCH /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleSpin_Prefix-avyzzmljgaulilbpkxsilfwbyizu/SimpleSpin_Prefix.pch.gch SimpleSpin_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SimpleSpin.build/Debug-iphonesimulator/SimpleSpin.build/Objects-normal/i386/main.o /Users/Decmac/Desktop/SimpleSpin/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SimpleSpin.build/Debug-iphonesimulator/SimpleSpin.build/Objects-normal/i386/SimpleSpinAppDelegate.o /Users/Decmac/Desktop/SimpleSpin/Classes/SimpleSpinAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SimpleSpin.build/Debug-iphonesimulator/SimpleSpin.build/Objects-normal/i386/SimpleSpinViewController.o /Users/Decmac/Desktop/SimpleSpin/Classes/SimpleSpinViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/Decmac/Desktop/SimpleSpin/build/Debug-iphonesimulator/SimpleSpin.app/SimpleSpin normal i386
+cGenerateDSYMFile /Users/Decmac/Desktop/SimpleSpin/build/Debug-iphonesimulator/SimpleSpin.app.dSYM /Users/Decmac/Desktop/SimpleSpin/build/Debug-iphonesimulator/SimpleSpin.app/SimpleSpin
+cTouch /Users/Decmac/Desktop/SimpleSpin/build/Debug-iphonesimulator/SimpleSpin.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk
+c000000004F3A580900000000000000EE
+t1329223689
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B2B4CC3000000000026EE30
+t1261128899
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B2B4DC8000000000027E880
+t1261129160
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B2B4DAE0000000000001355
+t1261129134
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B2B61620000000000000788
+t1261134178
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B2B62B500000000016721E0
+t1261134517
+s23536096
+
+N/Users/Decmac/Desktop/SimpleSpin/Classes/SimpleSpinAppDelegate.h
+c000000004F73327200000000000001EE
+t1332949618
+s494
+i<UIKit/UIKit.h>
+
+N/Users/Decmac/Desktop/SimpleSpin/Classes/SimpleSpinAppDelegate.m
+c000000004F7332720000000000000276
+t1332949618
+s630
+i"SimpleSpinAppDelegate.h"
+i"SimpleSpinViewController.h"
+
+N/Users/Decmac/Desktop/SimpleSpin/Classes/SimpleSpinViewController.h
+c000000004F73327200000000000000F4
+t1332949618
+s244
+i<UIKit/UIKit.h>
+
+N/Users/Decmac/Desktop/SimpleSpin/Classes/SimpleSpinViewController.m
+c000000004F7332B70000000000000586
+t1332949687
+s1414
+i"SimpleSpinViewController.h"
+
+N/Users/Decmac/Desktop/SimpleSpin/MainWindow.xib
+c000000004F733272000000000000246F
+t1332949618
+s9327
+
+N/Users/Decmac/Desktop/SimpleSpin/SimpleSpinViewController.xib
+c000000004F7335A00000000000005956
+t1332950432
+s22870
+
+N/Users/Decmac/Desktop/SimpleSpin/SimpleSpin_Prefix.pch
+c000000004F73327200000000000000BD
+t1332949618
+s189
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/Decmac/Desktop/SimpleSpin/build/Debug-iphonesimulator/SimpleSpin.app
+t1332950436
+s238
+
+N/Users/Decmac/Desktop/SimpleSpin/build/Debug-iphonesimulator/SimpleSpin.app.dSYM
+t1332950436
+s102
+
+N/Users/Decmac/Desktop/SimpleSpin/build/Debug-iphonesimulator/SimpleSpin.app/Info.plist
+t1332950433
+s576
+
+N/Users/Decmac/Desktop/SimpleSpin/build/Debug-iphonesimulator/SimpleSpin.app/MainWindow.nib
+t1332950434
+s1501
+
+N/Users/Decmac/Desktop/SimpleSpin/build/Debug-iphonesimulator/SimpleSpin.app/PkgInfo
+t1332950433
+s8
+
+N/Users/Decmac/Desktop/SimpleSpin/build/Debug-iphonesimulator/SimpleSpin.app/SimpleSpin
+t1332950436
+s19644
+
+N/Users/Decmac/Desktop/SimpleSpin/build/Debug-iphonesimulator/SimpleSpin.app/SimpleSpinViewController.nib
+t1332950434
+s3434
+
+N/Users/Decmac/Desktop/SimpleSpin/build/SimpleSpin.build/Debug-iphonesimulator/SimpleSpin.build/Objects-normal/i386/SimpleSpin.LinkFileList
+c000000004F7335A10000000000000193
+t1332950433
+s403
+
+N/Users/Decmac/Desktop/SimpleSpin/build/SimpleSpin.build/Debug-iphonesimulator/SimpleSpin.build/Objects-normal/i386/SimpleSpinAppDelegate.o
+t1332950436
+s38128
+
+N/Users/Decmac/Desktop/SimpleSpin/build/SimpleSpin.build/Debug-iphonesimulator/SimpleSpin.build/Objects-normal/i386/SimpleSpinViewController.o
+t1332950436
+s30440
+
+N/Users/Decmac/Desktop/SimpleSpin/build/SimpleSpin.build/Debug-iphonesimulator/SimpleSpin.build/Objects-normal/i386/main.o
+t1332950436
+s5944
+
+N/Users/Decmac/Desktop/SimpleSpin/main.m
+c000000004F7332720000000000000169
+t1332949618
+s361
+i<UIKit/UIKit.h>
+
+N/var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleSpin_Prefix-avyzzmljgaulilbpkxsilfwbyizu/SimpleSpin_Prefix.pch.gch
+t1332950436
+s13034960
+
+NSimpleSpin-Info.plist
+c000000004F733272000000000000038D
+t1332949618
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies354643233#354643233#0(0"0(0#1#0"4300885448#0"0#
+
+CCompileC build/SimpleSpin.build/Debug-iphonesimulator/SimpleSpin.build/Objects-normal/i386/SimpleSpinAppDelegate.o /Users/Decmac/Desktop/SimpleSpin/Classes/SimpleSpinAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354643236.535108
+e354643236.745932
+r1
+xCompileC
+xbuild/SimpleSpin.build/Debug-iphonesimulator/SimpleSpin.build/Objects-normal/i386/SimpleSpinAppDelegate.o
+x/Users/Decmac/Desktop/SimpleSpin/Classes/SimpleSpinAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/Decmac/Desktop/SimpleSpin/Classes/SimpleSpinAppDelegate.m354643236#354643236#0(0"0(0#0#64"/Users/Decmac/Desktop/SimpleSpin/Classes/SimpleSpinAppDelegate.m4300885448#1895"    cd /Users/Decmac/Desktop/SimpleSpin    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/SimpleSpin/build/SimpleSpin.build/Debug-iphonesimulator/SimpleSpin.build/SimpleSpin-generated-files.hmap -I/Users/Decmac/Desktop/SimpleSpin/build/SimpleSpin.build/Debug-iphonesimulator/SimpleSpin.build/SimpleSpin-own-target-headers.hmap -I/Users/Decmac/Desktop/SimpleSpin/build/SimpleSpin.build/Debug-iphonesimulator/SimpleSpin.build/SimpleSpin-all-target-headers.hmap -iquote /Users/Decmac/Desktop/SimpleSpin/build/SimpleSpin.build/Debug-iphonesimulator/SimpleSpin.build/SimpleSpin-project-headers.hmap -F/Users/Decmac/Desktop/SimpleSpin/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/SimpleSpin/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/SimpleSpin/build/SimpleSpin.build/Debug-iphonesimulator/SimpleSpin.build/DerivedSources/i386 -I/Users/Decmac/Desktop/SimpleSpin/build/SimpleSpin.build/Debug-iphonesimulator/SimpleSpin.build/DerivedSources -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleSpin_Prefix-avyzzmljgaulilbpkxsilfwbyizu/SimpleSpin_Prefix.pch -c /Users/Decmac/Desktop/SimpleSpin/Classes/SimpleSpinAppDelegate.m -o /Users/Decmac/Desktop/SimpleSpin/build/SimpleSpin.build/Debug-iphonesimulator/SimpleSpin.build/Objects-normal/i386/SimpleSpinAppDelegate.o0#
+
+CCompileC build/SimpleSpin.build/Debug-iphonesimulator/SimpleSpin.build/Objects-normal/i386/SimpleSpinViewController.o /Users/Decmac/Desktop/SimpleSpin/Classes/SimpleSpinViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354643236.663877
+e354643236.843112
+r1
+xCompileC
+xbuild/SimpleSpin.build/Debug-iphonesimulator/SimpleSpin.build/Objects-normal/i386/SimpleSpinViewController.o
+x/Users/Decmac/Desktop/SimpleSpin/Classes/SimpleSpinViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/Decmac/Desktop/SimpleSpin/Classes/SimpleSpinViewController.m354643236#354643236#0(0"0(0#0#67"/Users/Decmac/Desktop/SimpleSpin/Classes/SimpleSpinViewController.m4300885448#1901"    cd /Users/Decmac/Desktop/SimpleSpin    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/SimpleSpin/build/SimpleSpin.build/Debug-iphonesimulator/SimpleSpin.build/SimpleSpin-generated-files.hmap -I/Users/Decmac/Desktop/SimpleSpin/build/SimpleSpin.build/Debug-iphonesimulator/SimpleSpin.build/SimpleSpin-own-target-headers.hmap -I/Users/Decmac/Desktop/SimpleSpin/build/SimpleSpin.build/Debug-iphonesimulator/SimpleSpin.build/SimpleSpin-all-target-headers.hmap -iquote /Users/Decmac/Desktop/SimpleSpin/build/SimpleSpin.build/Debug-iphonesimulator/SimpleSpin.build/SimpleSpin-project-headers.hmap -F/Users/Decmac/Desktop/SimpleSpin/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/SimpleSpin/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/SimpleSpin/build/SimpleSpin.build/Debug-iphonesimulator/SimpleSpin.build/DerivedSources/i386 -I/Users/Decmac/Desktop/SimpleSpin/build/SimpleSpin.build/Debug-iphonesimulator/SimpleSpin.build/DerivedSources -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleSpin_Prefix-avyzzmljgaulilbpkxsilfwbyizu/SimpleSpin_Prefix.pch -c /Users/Decmac/Desktop/SimpleSpin/Classes/SimpleSpinViewController.m -o /Users/Decmac/Desktop/SimpleSpin/build/SimpleSpin.build/Debug-iphonesimulator/SimpleSpin.build/Objects-normal/i386/SimpleSpinViewController.o0#
+
+CCompileC build/SimpleSpin.build/Debug-iphonesimulator/SimpleSpin.build/Objects-normal/i386/main.o /Users/Decmac/Desktop/SimpleSpin/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354643236.532404
+e354643236.663590
+r1
+xCompileC
+xbuild/SimpleSpin.build/Debug-iphonesimulator/SimpleSpin.build/Objects-normal/i386/main.o
+x/Users/Decmac/Desktop/SimpleSpin/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@47"Compile /Users/Decmac/Desktop/SimpleSpin/main.m354643236#354643236#0(0"0(0#0#39"/Users/Decmac/Desktop/SimpleSpin/main.m4300885448#1853"    cd /Users/Decmac/Desktop/SimpleSpin    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/SimpleSpin/build/SimpleSpin.build/Debug-iphonesimulator/SimpleSpin.build/SimpleSpin-generated-files.hmap -I/Users/Decmac/Desktop/SimpleSpin/build/SimpleSpin.build/Debug-iphonesimulator/SimpleSpin.build/SimpleSpin-own-target-headers.hmap -I/Users/Decmac/Desktop/SimpleSpin/build/SimpleSpin.build/Debug-iphonesimulator/SimpleSpin.build/SimpleSpin-all-target-headers.hmap -iquote /Users/Decmac/Desktop/SimpleSpin/build/SimpleSpin.build/Debug-iphonesimulator/SimpleSpin.build/SimpleSpin-project-headers.hmap -F/Users/Decmac/Desktop/SimpleSpin/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/SimpleSpin/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/SimpleSpin/build/SimpleSpin.build/Debug-iphonesimulator/SimpleSpin.build/DerivedSources/i386 -I/Users/Decmac/Desktop/SimpleSpin/build/SimpleSpin.build/Debug-iphonesimulator/SimpleSpin.build/DerivedSources -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleSpin_Prefix-avyzzmljgaulilbpkxsilfwbyizu/SimpleSpin_Prefix.pch -c /Users/Decmac/Desktop/SimpleSpin/main.m -o /Users/Decmac/Desktop/SimpleSpin/build/SimpleSpin.build/Debug-iphonesimulator/SimpleSpin.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/Decmac/Desktop/SimpleSpin/MainWindow.xib
+s354643233.498827
+e354643234.296345
+r1
+xCompileXIB
+x/Users/Decmac/Desktop/SimpleSpin/MainWindow.xib
+o2012-03-28 16:00:33.584 ibtool[1319:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 35
+lSLF07#2@25"CompileXIB MainWindow.xib354643233#354643234#0(108"2012-03-28 16:00:33.584 ibtool[1319:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 350(0#0#47"/Users/Decmac/Desktop/SimpleSpin/MainWindow.xib4300885448#467"    cd /Users/Decmac/Desktop/SimpleSpin    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Decmac/Desktop/SimpleSpin/build/Debug-iphonesimulator/SimpleSpin.app/MainWindow.nib /Users/Decmac/Desktop/SimpleSpin/MainWindow.xib0#
+
+CCompileXIB /Users/Decmac/Desktop/SimpleSpin/SimpleSpinViewController.xib
+s354643233.500769
+e354643234.587148
+r1
+xCompileXIB
+x/Users/Decmac/Desktop/SimpleSpin/SimpleSpinViewController.xib
+o2012-03-28 16:00:33.591 ibtool[1320:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 35
+lSLF07#2@39"CompileXIB SimpleSpinViewController.xib354643233#354643234#0(108"2012-03-28 16:00:33.591 ibtool[1320:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 350(0#0#61"/Users/Decmac/Desktop/SimpleSpin/SimpleSpinViewController.xib4300885448#495"    cd /Users/Decmac/Desktop/SimpleSpin    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Decmac/Desktop/SimpleSpin/build/Debug-iphonesimulator/SimpleSpin.app/SimpleSpinViewController.nib /Users/Decmac/Desktop/SimpleSpin/SimpleSpinViewController.xib0#
+
+CGenerateDSYMFile /Users/Decmac/Desktop/SimpleSpin/build/Debug-iphonesimulator/SimpleSpin.app.dSYM /Users/Decmac/Desktop/SimpleSpin/build/Debug-iphonesimulator/SimpleSpin.app/SimpleSpin
+s354643236.894850
+e354643236.940002
+r1
+xGenerateDSYMFile
+x/Users/Decmac/Desktop/SimpleSpin/build/Debug-iphonesimulator/SimpleSpin.app.dSYM
+x/Users/Decmac/Desktop/SimpleSpin/build/Debug-iphonesimulator/SimpleSpin.app/SimpleSpin
+o2012-03-28 16:00:36.925 dsymutil[1346:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 35
+lSLF07#2@118"GenerateDSYMFile build/Debug-iphonesimulator/SimpleSpin.app.dSYM build/Debug-iphonesimulator/SimpleSpin.app/SimpleSpin354643236#354643236#0(110"2012-03-28 16:00:36.925 dsymutil[1346:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 350(0#0#86"/Users/Decmac/Desktop/SimpleSpin/build/Debug-iphonesimulator/SimpleSpin.app/SimpleSpin4300885448#374"    cd /Users/Decmac/Desktop/SimpleSpin    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/Decmac/Desktop/SimpleSpin/build/Debug-iphonesimulator/SimpleSpin.app/SimpleSpin -o /Users/Decmac/Desktop/SimpleSpin/build/Debug-iphonesimulator/SimpleSpin.app.dSYM0#
+
+CLd /Users/Decmac/Desktop/SimpleSpin/build/Debug-iphonesimulator/SimpleSpin.app/SimpleSpin normal i386
+s354643236.843355
+e354643236.894587
+r1
+xLd
+x/Users/Decmac/Desktop/SimpleSpin/build/Debug-iphonesimulator/SimpleSpin.app/SimpleSpin
+xnormal
+xi386
+lSLF07#2@91"Link /Users/Decmac/Desktop/SimpleSpin/build/Debug-iphonesimulator/SimpleSpin.app/SimpleSpin354643236#354643236#0(0"0(0#0#0"4300885448#849"    cd /Users/Decmac/Desktop/SimpleSpin    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -L/Users/Decmac/Desktop/SimpleSpin/build/Debug-iphonesimulator -F/Users/Decmac/Desktop/SimpleSpin/build/Debug-iphonesimulator -filelist /Users/Decmac/Desktop/SimpleSpin/build/SimpleSpin.build/Debug-iphonesimulator/SimpleSpin.build/Objects-normal/i386/SimpleSpin.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/Decmac/Desktop/SimpleSpin/build/Debug-iphonesimulator/SimpleSpin.app/SimpleSpin0#
+
+CProcessInfoPlistFile /Users/Decmac/Desktop/SimpleSpin/build/Debug-iphonesimulator/SimpleSpin.app/Info.plist SimpleSpin-Info.plist
+s354643233.470847
+e354643233.498502
+r1
+xProcessInfoPlistFile
+x/Users/Decmac/Desktop/SimpleSpin/build/Debug-iphonesimulator/SimpleSpin.app/Info.plist
+xSimpleSpin-Info.plist
+lSLF07#2@29"Process SimpleSpin-Info.plist354643233#354643233#0(0"0(0#0#54"/Users/Decmac/Desktop/SimpleSpin/SimpleSpin-Info.plist4300885448#470"    cd /Users/Decmac/Desktop/SimpleSpin    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility SimpleSpin-Info.plist -genpkginfo /Users/Decmac/Desktop/SimpleSpin/build/Debug-iphonesimulator/SimpleSpin.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/Decmac/Desktop/SimpleSpin/build/Debug-iphonesimulator/SimpleSpin.app/Info.plist0#
+
+CProcessPCH /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleSpin_Prefix-avyzzmljgaulilbpkxsilfwbyizu/SimpleSpin_Prefix.pch.gch SimpleSpin_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s354643234.587489
+e354643236.531920
+r1
+xProcessPCH
+x/var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleSpin_Prefix-avyzzmljgaulilbpkxsilfwbyizu/SimpleSpin_Prefix.pch.gch
+xSimpleSpin_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile SimpleSpin_Prefix.pch354643234#354643236#0(0"0(0#0#54"/Users/Decmac/Desktop/SimpleSpin/SimpleSpin_Prefix.pch4300885448#1748"    cd /Users/Decmac/Desktop/SimpleSpin    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/SimpleSpin/build/SimpleSpin.build/Debug-iphonesimulator/SimpleSpin.build/SimpleSpin-generated-files.hmap -I/Users/Decmac/Desktop/SimpleSpin/build/SimpleSpin.build/Debug-iphonesimulator/SimpleSpin.build/SimpleSpin-own-target-headers.hmap -I/Users/Decmac/Desktop/SimpleSpin/build/SimpleSpin.build/Debug-iphonesimulator/SimpleSpin.build/SimpleSpin-all-target-headers.hmap -iquote /Users/Decmac/Desktop/SimpleSpin/build/SimpleSpin.build/Debug-iphonesimulator/SimpleSpin.build/SimpleSpin-project-headers.hmap -F/Users/Decmac/Desktop/SimpleSpin/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/SimpleSpin/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/SimpleSpin/build/SimpleSpin.build/Debug-iphonesimulator/SimpleSpin.build/DerivedSources/i386 -I/Users/Decmac/Desktop/SimpleSpin/build/SimpleSpin.build/Debug-iphonesimulator/SimpleSpin.build/DerivedSources -c /Users/Decmac/Desktop/SimpleSpin/SimpleSpin_Prefix.pch -o /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleSpin_Prefix-avyzzmljgaulilbpkxsilfwbyizu/SimpleSpin_Prefix.pch.gch0#
+
+CTouch /Users/Decmac/Desktop/SimpleSpin/build/Debug-iphonesimulator/SimpleSpin.app
+s354643236.940236
+e354643236.947609
+r1
+xTouch
+x/Users/Decmac/Desktop/SimpleSpin/build/Debug-iphonesimulator/SimpleSpin.app
+lSLF07#2@81"Touch /Users/Decmac/Desktop/SimpleSpin/build/Debug-iphonesimulator/SimpleSpin.app354643236#354643236#0(0"0(0#0#0"4300885448#269"    cd /Users/Decmac/Desktop/SimpleSpin    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/Decmac/Desktop/SimpleSpin/build/Debug-iphonesimulator/SimpleSpin.app0#
+

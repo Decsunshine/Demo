@@ -1,0 +1,281 @@
+TBest Friend
+v7
+r0
+t354821577.289848
+cCheck dependencies
+cProcessInfoPlistFile "/Users/Decmac/Desktop/Best Friend/build/Debug-iphonesimulator/Best Friend.app/Info.plist" Best_Friend-Info.plist
+cCompileXIB "/Users/Decmac/Desktop/Best Friend/MainWindow.xib"
+cCompileXIB "/Users/Decmac/Desktop/Best Friend/Best_FriendViewController.xib"
+cProcessPCH /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Best_Friend_Prefix-gyqwsujplcoiredsnboiiycmndyf/Best_Friend_Prefix.pch.gch Best_Friend_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Best Friend.build/Debug-iphonesimulator/Best Friend.build/Objects-normal/i386/main.o" "/Users/Decmac/Desktop/Best Friend/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Best Friend.build/Debug-iphonesimulator/Best Friend.build/Objects-normal/i386/Best_FriendAppDelegate.o" "/Users/Decmac/Desktop/Best Friend/Classes/Best_FriendAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Best Friend.build/Debug-iphonesimulator/Best Friend.build/Objects-normal/i386/Best_FriendViewController.o" "/Users/Decmac/Desktop/Best Friend/Classes/Best_FriendViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/Decmac/Desktop/Best Friend/build/Debug-iphonesimulator/Best Friend.app/Best Friend" normal i386
+cGenerateDSYMFile "/Users/Decmac/Desktop/Best Friend/build/Debug-iphonesimulator/Best Friend.app.dSYM" "/Users/Decmac/Desktop/Best Friend/build/Debug-iphonesimulator/Best Friend.app/Best Friend"
+cTouch "/Users/Decmac/Desktop/Best Friend/build/Debug-iphonesimulator/Best Friend.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk
+c000000004F3A580900000000000000EE
+t1329223689
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/AddressBook.framework/AddressBook
+c000000004B2B51AB000000000003E730
+t1261130155
+s255792
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/AddressBook.framework/Headers/AddressBook.h
+c000000004B2B51A60000000000000425
+t1261130150
+s1061
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/AddressBookUI.framework/AddressBookUI
+c000000004B2B631000000000000D4BE0
+t1261134608
+s871392
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/AddressBookUI.framework/Headers/AddressBookUI.h
+c000000004B2B62FB00000000000001D0
+t1261134587
+s464
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B2B4CC3000000000026EE30
+t1261128899
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B2B4DC8000000000027E880
+t1261129160
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B2B4DAE0000000000001355
+t1261129134
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B2B61620000000000000788
+t1261134178
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B2B62B500000000016721E0
+t1261134517
+s23536096
+
+N/Users/Decmac/Desktop/Best Friend/Best_FriendViewController.xib
+c000000004F75E4440000000000005911
+t1333126212
+s22801
+
+N/Users/Decmac/Desktop/Best Friend/Best_Friend_Prefix.pch
+c000000004F75E23C00000000000000BF
+t1333125692
+s191
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/Decmac/Desktop/Best Friend/Classes/Best_FriendAppDelegate.h
+c000000004F75E23C00000000000001F4
+t1333125692
+s500
+i<UIKit/UIKit.h>
+
+N/Users/Decmac/Desktop/Best Friend/Classes/Best_FriendAppDelegate.m
+c000000004F75E23C000000000000027B
+t1333125692
+s635
+i"Best_FriendAppDelegate.h"
+i"Best_FriendViewController.h"
+
+N/Users/Decmac/Desktop/Best Friend/Classes/Best_FriendViewController.h
+c000000004F75E32D0000000000000226
+t1333125933
+s550
+i<UIKit/UIKit.h>
+i<AddressBook/AddressBook.h>
+i<AddressBookUI/AddressBookUI.h>
+
+N/Users/Decmac/Desktop/Best Friend/Classes/Best_FriendViewController.m
+c000000004F75EE480000000000000B1D
+t1333128776
+s2845
+i"Best_FriendViewController.h"
+
+N/Users/Decmac/Desktop/Best Friend/MainWindow.xib
+c000000004F75E23C000000000000247A
+t1333125692
+s9338
+
+N/Users/Decmac/Desktop/Best Friend/build/Best Friend.build/Debug-iphonesimulator/Best Friend.build/Objects-normal/i386/Best Friend.LinkFileList
+c000000004F75E922000000000000019E
+t1333127458
+s414
+
+N/Users/Decmac/Desktop/Best Friend/build/Best Friend.build/Debug-iphonesimulator/Best Friend.build/Objects-normal/i386/Best_FriendAppDelegate.o
+t1333127461
+s38220
+
+N/Users/Decmac/Desktop/Best Friend/build/Best Friend.build/Debug-iphonesimulator/Best Friend.build/Objects-normal/i386/Best_FriendViewController.o
+t1333128777
+s39408
+
+N/Users/Decmac/Desktop/Best Friend/build/Best Friend.build/Debug-iphonesimulator/Best Friend.build/Objects-normal/i386/main.o
+t1333127461
+s5948
+
+N/Users/Decmac/Desktop/Best Friend/build/Debug-iphonesimulator/Best Friend.app
+t1333128777
+s238
+
+N/Users/Decmac/Desktop/Best Friend/build/Debug-iphonesimulator/Best Friend.app.dSYM
+t1333128777
+s102
+
+N/Users/Decmac/Desktop/Best Friend/build/Debug-iphonesimulator/Best Friend.app/Best Friend
+t1333128777
+s21220
+
+N/Users/Decmac/Desktop/Best Friend/build/Debug-iphonesimulator/Best Friend.app/Best_FriendViewController.nib
+t1333127459
+s3263
+
+N/Users/Decmac/Desktop/Best Friend/build/Debug-iphonesimulator/Best Friend.app/Info.plist
+t1333127458
+s580
+
+N/Users/Decmac/Desktop/Best Friend/build/Debug-iphonesimulator/Best Friend.app/MainWindow.nib
+t1333127459
+s1503
+
+N/Users/Decmac/Desktop/Best Friend/build/Debug-iphonesimulator/Best Friend.app/PkgInfo
+t1333127458
+s8
+
+N/Users/Decmac/Desktop/Best Friend/main.m
+c000000004F75E23C000000000000016A
+t1333125692
+s362
+i<UIKit/UIKit.h>
+
+N/var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Best_Friend_Prefix-gyqwsujplcoiredsnboiiycmndyf/Best_Friend_Prefix.pch.gch
+t1333127461
+s13034960
+
+NBest_Friend-Info.plist
+c000000004F75E23C000000000000038D
+t1333125692
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies354821576#354821576#0(0"0(0#1#0"4300885448#0"0#
+
+CCompileC "build/Best Friend.build/Debug-iphonesimulator/Best Friend.build/Objects-normal/i386/Best_FriendAppDelegate.o" "/Users/Decmac/Desktop/Best Friend/Classes/Best_FriendAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s354820261.739014
+e354820261.979023
+r1
+xCompileC
+xbuild/Best Friend.build/Debug-iphonesimulator/Best Friend.build/Objects-normal/i386/Best_FriendAppDelegate.o
+x/Users/Decmac/Desktop/Best Friend/Classes/Best_FriendAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/Decmac/Desktop/Best Friend/Classes/Best_FriendAppDelegate.m354820261#354820261#0(0"0(0#0#66"/Users/Decmac/Desktop/Best Friend/Classes/Best_FriendAppDelegate.m4300885448#1950"    cd "/Users/Decmac/Desktop/Best Friend"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/Decmac/Desktop/Best Friend/build/Best Friend.build/Debug-iphonesimulator/Best Friend.build/Best Friend-generated-files.hmap" "-I/Users/Decmac/Desktop/Best Friend/build/Best Friend.build/Debug-iphonesimulator/Best Friend.build/Best Friend-own-target-headers.hmap" "-I/Users/Decmac/Desktop/Best Friend/build/Best Friend.build/Debug-iphonesimulator/Best Friend.build/Best Friend-all-target-headers.hmap" -iquote "/Users/Decmac/Desktop/Best Friend/build/Best Friend.build/Debug-iphonesimulator/Best Friend.build/Best Friend-project-headers.hmap" "-F/Users/Decmac/Desktop/Best Friend/build/Debug-iphonesimulator" "-I/Users/Decmac/Desktop/Best Friend/build/Debug-iphonesimulator/include" "-I/Users/Decmac/Desktop/Best Friend/build/Best Friend.build/Debug-iphonesimulator/Best Friend.build/DerivedSources/i386" "-I/Users/Decmac/Desktop/Best Friend/build/Best Friend.build/Debug-iphonesimulator/Best Friend.build/DerivedSources" -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Best_Friend_Prefix-gyqwsujplcoiredsnboiiycmndyf/Best_Friend_Prefix.pch -c "/Users/Decmac/Desktop/Best Friend/Classes/Best_FriendAppDelegate.m" -o "/Users/Decmac/Desktop/Best Friend/build/Best Friend.build/Debug-iphonesimulator/Best Friend.build/Objects-normal/i386/Best_FriendAppDelegate.o"0#
+
+CCompileC "build/Best Friend.build/Debug-iphonesimulator/Best Friend.build/Objects-normal/i386/Best_FriendViewController.o" "/Users/Decmac/Desktop/Best Friend/Classes/Best_FriendViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s354821576.532661
+e354821577.168610
+r1
+xCompileC
+xbuild/Best Friend.build/Debug-iphonesimulator/Best Friend.build/Objects-normal/i386/Best_FriendViewController.o
+x/Users/Decmac/Desktop/Best Friend/Classes/Best_FriendViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/Decmac/Desktop/Best Friend/Classes/Best_FriendViewController.m354821576#354821577#0(0"0(0#0#69"/Users/Decmac/Desktop/Best Friend/Classes/Best_FriendViewController.m4300885448#1956"    cd "/Users/Decmac/Desktop/Best Friend"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/Decmac/Desktop/Best Friend/build/Best Friend.build/Debug-iphonesimulator/Best Friend.build/Best Friend-generated-files.hmap" "-I/Users/Decmac/Desktop/Best Friend/build/Best Friend.build/Debug-iphonesimulator/Best Friend.build/Best Friend-own-target-headers.hmap" "-I/Users/Decmac/Desktop/Best Friend/build/Best Friend.build/Debug-iphonesimulator/Best Friend.build/Best Friend-all-target-headers.hmap" -iquote "/Users/Decmac/Desktop/Best Friend/build/Best Friend.build/Debug-iphonesimulator/Best Friend.build/Best Friend-project-headers.hmap" "-F/Users/Decmac/Desktop/Best Friend/build/Debug-iphonesimulator" "-I/Users/Decmac/Desktop/Best Friend/build/Debug-iphonesimulator/include" "-I/Users/Decmac/Desktop/Best Friend/build/Best Friend.build/Debug-iphonesimulator/Best Friend.build/DerivedSources/i386" "-I/Users/Decmac/Desktop/Best Friend/build/Best Friend.build/Debug-iphonesimulator/Best Friend.build/DerivedSources" -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Best_Friend_Prefix-gyqwsujplcoiredsnboiiycmndyf/Best_Friend_Prefix.pch -c "/Users/Decmac/Desktop/Best Friend/Classes/Best_FriendViewController.m" -o "/Users/Decmac/Desktop/Best Friend/build/Best Friend.build/Debug-iphonesimulator/Best Friend.build/Objects-normal/i386/Best_FriendViewController.o"0#
+
+CCompileC "build/Best Friend.build/Debug-iphonesimulator/Best Friend.build/Objects-normal/i386/main.o" "/Users/Decmac/Desktop/Best Friend/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s354820261.736146
+e354820261.861038
+r1
+xCompileC
+xbuild/Best Friend.build/Debug-iphonesimulator/Best Friend.build/Objects-normal/i386/main.o
+x/Users/Decmac/Desktop/Best Friend/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@48"Compile /Users/Decmac/Desktop/Best Friend/main.m354820261#354820261#0(0"0(0#0#40"/Users/Decmac/Desktop/Best Friend/main.m4300885448#1906"    cd "/Users/Decmac/Desktop/Best Friend"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/Decmac/Desktop/Best Friend/build/Best Friend.build/Debug-iphonesimulator/Best Friend.build/Best Friend-generated-files.hmap" "-I/Users/Decmac/Desktop/Best Friend/build/Best Friend.build/Debug-iphonesimulator/Best Friend.build/Best Friend-own-target-headers.hmap" "-I/Users/Decmac/Desktop/Best Friend/build/Best Friend.build/Debug-iphonesimulator/Best Friend.build/Best Friend-all-target-headers.hmap" -iquote "/Users/Decmac/Desktop/Best Friend/build/Best Friend.build/Debug-iphonesimulator/Best Friend.build/Best Friend-project-headers.hmap" "-F/Users/Decmac/Desktop/Best Friend/build/Debug-iphonesimulator" "-I/Users/Decmac/Desktop/Best Friend/build/Debug-iphonesimulator/include" "-I/Users/Decmac/Desktop/Best Friend/build/Best Friend.build/Debug-iphonesimulator/Best Friend.build/DerivedSources/i386" "-I/Users/Decmac/Desktop/Best Friend/build/Best Friend.build/Debug-iphonesimulator/Best Friend.build/DerivedSources" -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Best_Friend_Prefix-gyqwsujplcoiredsnboiiycmndyf/Best_Friend_Prefix.pch -c "/Users/Decmac/Desktop/Best Friend/main.m" -o "/Users/Decmac/Desktop/Best Friend/build/Best Friend.build/Debug-iphonesimulator/Best Friend.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/Decmac/Desktop/Best Friend/Best_FriendViewController.xib"
+s354820258.673048
+e354820259.942488
+r1
+xCompileXIB
+x/Users/Decmac/Desktop/Best Friend/Best_FriendViewController.xib
+o2012-03-30 17:10:58.811 ibtool[1167:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 35
+lSLF07#2@40"CompileXIB Best_FriendViewController.xib354820258#354820259#0(108"2012-03-30 17:10:58.811 ibtool[1167:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 350(0#0#63"/Users/Decmac/Desktop/Best Friend/Best_FriendViewController.xib4300885448#507"    cd "/Users/Decmac/Desktop/Best Friend"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/Decmac/Desktop/Best Friend/build/Debug-iphonesimulator/Best Friend.app/Best_FriendViewController.nib" "/Users/Decmac/Desktop/Best Friend/Best_FriendViewController.xib"0#
+
+CCompileXIB "/Users/Decmac/Desktop/Best Friend/MainWindow.xib"
+s354820258.670341
+e354820259.661914
+r1
+xCompileXIB
+x/Users/Decmac/Desktop/Best Friend/MainWindow.xib
+o2012-03-30 17:10:58.858 ibtool[1166:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 35
+lSLF07#2@25"CompileXIB MainWindow.xib354820258#354820259#0(108"2012-03-30 17:10:58.858 ibtool[1166:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 350(0#0#48"/Users/Decmac/Desktop/Best Friend/MainWindow.xib4300885448#477"    cd "/Users/Decmac/Desktop/Best Friend"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/Decmac/Desktop/Best Friend/build/Debug-iphonesimulator/Best Friend.app/MainWindow.nib" "/Users/Decmac/Desktop/Best Friend/MainWindow.xib"0#
+
+CGenerateDSYMFile "/Users/Decmac/Desktop/Best Friend/build/Debug-iphonesimulator/Best Friend.app.dSYM" "/Users/Decmac/Desktop/Best Friend/build/Debug-iphonesimulator/Best Friend.app/Best Friend"
+s354821577.234715
+e354821577.282443
+r1
+xGenerateDSYMFile
+x/Users/Decmac/Desktop/Best Friend/build/Debug-iphonesimulator/Best Friend.app.dSYM
+x/Users/Decmac/Desktop/Best Friend/build/Debug-iphonesimulator/Best Friend.app/Best Friend
+o2012-03-30 17:32:57.266 dsymutil[1664:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 35
+lSLF07#2@125"GenerateDSYMFile "build/Debug-iphonesimulator/Best Friend.app.dSYM" "build/Debug-iphonesimulator/Best Friend.app/Best Friend"354821577#354821577#0(110"2012-03-30 17:32:57.266 dsymutil[1664:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 350(0#0#89"/Users/Decmac/Desktop/Best Friend/build/Debug-iphonesimulator/Best Friend.app/Best Friend4300885448#386"    cd "/Users/Decmac/Desktop/Best Friend"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/Decmac/Desktop/Best Friend/build/Debug-iphonesimulator/Best Friend.app/Best Friend" -o "/Users/Decmac/Desktop/Best Friend/build/Debug-iphonesimulator/Best Friend.app.dSYM"0#
+
+CLd "/Users/Decmac/Desktop/Best Friend/build/Debug-iphonesimulator/Best Friend.app/Best Friend" normal i386
+s354821577.168856
+e354821577.234403
+r1
+xLd
+x/Users/Decmac/Desktop/Best Friend/build/Debug-iphonesimulator/Best Friend.app/Best Friend
+xnormal
+xi386
+lSLF07#2@94"Link /Users/Decmac/Desktop/Best Friend/build/Debug-iphonesimulator/Best Friend.app/Best Friend354821577#354821577#0(0"0(0#0#0"4300885448#917"    cd "/Users/Decmac/Desktop/Best Friend"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk "-L/Users/Decmac/Desktop/Best Friend/build/Debug-iphonesimulator" "-F/Users/Decmac/Desktop/Best Friend/build/Debug-iphonesimulator" -filelist "/Users/Decmac/Desktop/Best Friend/build/Best Friend.build/Debug-iphonesimulator/Best Friend.build/Objects-normal/i386/Best Friend.LinkFileList" -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -framework AddressBook -framework AddressBookUI -o "/Users/Decmac/Desktop/Best Friend/build/Debug-iphonesimulator/Best Friend.app/Best Friend"0#
+
+CProcessInfoPlistFile "/Users/Decmac/Desktop/Best Friend/build/Debug-iphonesimulator/Best Friend.app/Info.plist" Best_Friend-Info.plist
+s354820258.657362
+e354820258.670066
+r1
+xProcessInfoPlistFile
+x/Users/Decmac/Desktop/Best Friend/build/Debug-iphonesimulator/Best Friend.app/Info.plist
+xBest_Friend-Info.plist
+lSLF07#2@30"Process Best_Friend-Info.plist354820258#354820259#0(0"0(0#0#56"/Users/Decmac/Desktop/Best Friend/Best_Friend-Info.plist4300885448#482"    cd "/Users/Decmac/Desktop/Best Friend"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Best_Friend-Info.plist -genpkginfo "/Users/Decmac/Desktop/Best Friend/build/Debug-iphonesimulator/Best Friend.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/Decmac/Desktop/Best Friend/build/Debug-iphonesimulator/Best Friend.app/Info.plist"0#
+
+CProcessPCH /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Best_Friend_Prefix-gyqwsujplcoiredsnboiiycmndyf/Best_Friend_Prefix.pch.gch Best_Friend_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s354820259.942804
+e354820261.735647
+r1
+xProcessPCH
+x/var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Best_Friend_Prefix-gyqwsujplcoiredsnboiiycmndyf/Best_Friend_Prefix.pch.gch
+xBest_Friend_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile Best_Friend_Prefix.pch354820259#354820261#0(0"0(0#0#56"/Users/Decmac/Desktop/Best Friend/Best_Friend_Prefix.pch4300885448#1797"    cd "/Users/Decmac/Desktop/Best Friend"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/Decmac/Desktop/Best Friend/build/Best Friend.build/Debug-iphonesimulator/Best Friend.build/Best Friend-generated-files.hmap" "-I/Users/Decmac/Desktop/Best Friend/build/Best Friend.build/Debug-iphonesimulator/Best Friend.build/Best Friend-own-target-headers.hmap" "-I/Users/Decmac/Desktop/Best Friend/build/Best Friend.build/Debug-iphonesimulator/Best Friend.build/Best Friend-all-target-headers.hmap" -iquote "/Users/Decmac/Desktop/Best Friend/build/Best Friend.build/Debug-iphonesimulator/Best Friend.build/Best Friend-project-headers.hmap" "-F/Users/Decmac/Desktop/Best Friend/build/Debug-iphonesimulator" "-I/Users/Decmac/Desktop/Best Friend/build/Debug-iphonesimulator/include" "-I/Users/Decmac/Desktop/Best Friend/build/Best Friend.build/Debug-iphonesimulator/Best Friend.build/DerivedSources/i386" "-I/Users/Decmac/Desktop/Best Friend/build/Best Friend.build/Debug-iphonesimulator/Best Friend.build/DerivedSources" -c "/Users/Decmac/Desktop/Best Friend/Best_Friend_Prefix.pch" -o /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Best_Friend_Prefix-gyqwsujplcoiredsnboiiycmndyf/Best_Friend_Prefix.pch.gch0#
+
+CTouch "/Users/Decmac/Desktop/Best Friend/build/Debug-iphonesimulator/Best Friend.app"
+s354821577.282681
+e354821577.289716
+r1
+xTouch
+x/Users/Decmac/Desktop/Best Friend/build/Debug-iphonesimulator/Best Friend.app
+lSLF07#2@83"Touch /Users/Decmac/Desktop/Best Friend/build/Debug-iphonesimulator/Best Friend.app354821577#354821577#0(0"0(0#0#0"4300885448#276"    cd "/Users/Decmac/Desktop/Best Friend"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/Decmac/Desktop/Best Friend/build/Debug-iphonesimulator/Best Friend.app"0#
+

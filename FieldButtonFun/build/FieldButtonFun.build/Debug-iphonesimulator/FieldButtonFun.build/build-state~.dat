@@ -1,0 +1,262 @@
+TFieldButtonFun
+v7
+r0
+t354402396.994239
+cCheck dependencies
+cProcessInfoPlistFile /Users/Decmac/Desktop/FieldButtonFun/build/Debug-iphonesimulator/FieldButtonFun.app/Info.plist FieldButtonFun-Info.plist
+cCompileXIB /Users/Decmac/Desktop/FieldButtonFun/MainWindow.xib
+cCompileXIB /Users/Decmac/Desktop/FieldButtonFun/FieldButtonFunViewController.xib
+cProcessPCH /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FieldButtonFun_Prefix-ehkbmpsozwhvuuhhhzudprikalci/FieldButtonFun_Prefix.pch.gch FieldButtonFun_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FieldButtonFun.build/Debug-iphonesimulator/FieldButtonFun.build/Objects-normal/i386/main.o /Users/Decmac/Desktop/FieldButtonFun/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FieldButtonFun.build/Debug-iphonesimulator/FieldButtonFun.build/Objects-normal/i386/FieldButtonFunAppDelegate.o /Users/Decmac/Desktop/FieldButtonFun/Classes/FieldButtonFunAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FieldButtonFun.build/Debug-iphonesimulator/FieldButtonFun.build/Objects-normal/i386/FieldButtonFunViewController.o /Users/Decmac/Desktop/FieldButtonFun/Classes/FieldButtonFunViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/Decmac/Desktop/FieldButtonFun/build/Debug-iphonesimulator/FieldButtonFun.app/FieldButtonFun normal i386
+cGenerateDSYMFile /Users/Decmac/Desktop/FieldButtonFun/build/Debug-iphonesimulator/FieldButtonFun.app.dSYM /Users/Decmac/Desktop/FieldButtonFun/build/Debug-iphonesimulator/FieldButtonFun.app/FieldButtonFun
+cTouch /Users/Decmac/Desktop/FieldButtonFun/build/Debug-iphonesimulator/FieldButtonFun.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk
+c000000004F3A580900000000000000EE
+t1329223689
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B2B4CC3000000000026EE30
+t1261128899
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B2B4DC8000000000027E880
+t1261129160
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B2B4DAE0000000000001355
+t1261129134
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B2B61620000000000000788
+t1261134178
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B2B62B500000000016721E0
+t1261134517
+s23536096
+
+N/Users/Decmac/Desktop/FieldButtonFun/Classes/FieldButtonFunAppDelegate.h
+c000000004F6F84620000000000000206
+t1332708450
+s518
+i<UIKit/UIKit.h>
+
+N/Users/Decmac/Desktop/FieldButtonFun/Classes/FieldButtonFunAppDelegate.m
+c000000004F6F8462000000000000028A
+t1332708450
+s650
+i"FieldButtonFunAppDelegate.h"
+i"FieldButtonFunViewController.h"
+
+N/Users/Decmac/Desktop/FieldButtonFun/Classes/FieldButtonFunViewController.h
+c000000004F6F86E8000000000000032F
+t1332709096
+s815
+i<UIKit/UIKit.h>
+
+N/Users/Decmac/Desktop/FieldButtonFun/Classes/FieldButtonFunViewController.m
+c000000004F6F88D800000000000002E1
+t1332709592
+s737
+i"FieldButtonFunViewController.h"
+
+N/Users/Decmac/Desktop/FieldButtonFun/FieldButtonFunViewController.xib
+c000000004F6F846200000000000018F7
+t1332708450
+s6391
+
+N/Users/Decmac/Desktop/FieldButtonFun/FieldButtonFun_Prefix.pch
+c000000004F6F846200000000000000C5
+t1332708450
+s197
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/Decmac/Desktop/FieldButtonFun/MainWindow.xib
+c000000004F6F8462000000000000249B
+t1332708450
+s9371
+
+N/Users/Decmac/Desktop/FieldButtonFun/build/Debug-iphonesimulator/FieldButtonFun.app
+t1332709596
+s238
+
+N/Users/Decmac/Desktop/FieldButtonFun/build/Debug-iphonesimulator/FieldButtonFun.app.dSYM
+t1332709596
+s102
+
+N/Users/Decmac/Desktop/FieldButtonFun/build/Debug-iphonesimulator/FieldButtonFun.app/FieldButtonFun
+t1332709596
+s21380
+
+N/Users/Decmac/Desktop/FieldButtonFun/build/Debug-iphonesimulator/FieldButtonFun.app/FieldButtonFunViewController.nib
+t1332709593
+s1151
+
+N/Users/Decmac/Desktop/FieldButtonFun/build/Debug-iphonesimulator/FieldButtonFun.app/Info.plist
+t1332709593
+s592
+
+N/Users/Decmac/Desktop/FieldButtonFun/build/Debug-iphonesimulator/FieldButtonFun.app/MainWindow.nib
+t1332709594
+s1509
+
+N/Users/Decmac/Desktop/FieldButtonFun/build/Debug-iphonesimulator/FieldButtonFun.app/PkgInfo
+t1332709593
+s8
+
+N/Users/Decmac/Desktop/FieldButtonFun/build/FieldButtonFun.build/Debug-iphonesimulator/FieldButtonFun.build/Objects-normal/i386/FieldButtonFun.LinkFileList
+c000000004F6F88D900000000000001BF
+t1332709593
+s447
+
+N/Users/Decmac/Desktop/FieldButtonFun/build/FieldButtonFun.build/Debug-iphonesimulator/FieldButtonFun.build/Objects-normal/i386/FieldButtonFunAppDelegate.o
+t1332709596
+s39892
+
+N/Users/Decmac/Desktop/FieldButtonFun/build/FieldButtonFun.build/Debug-iphonesimulator/FieldButtonFun.build/Objects-normal/i386/FieldButtonFunViewController.o
+t1332709596
+s38512
+
+N/Users/Decmac/Desktop/FieldButtonFun/build/FieldButtonFun.build/Debug-iphonesimulator/FieldButtonFun.build/Objects-normal/i386/main.o
+t1332709596
+s5952
+
+N/Users/Decmac/Desktop/FieldButtonFun/main.m
+c000000004F6F8462000000000000016D
+t1332708450
+s365
+i<UIKit/UIKit.h>
+
+N/var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FieldButtonFun_Prefix-ehkbmpsozwhvuuhhhzudprikalci/FieldButtonFun_Prefix.pch.gch
+t1332709595
+s13034960
+
+NFieldButtonFun-Info.plist
+c000000004F6F8462000000000000038D
+t1332708450
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies354402393#354402393#0(0"0(0#1#0"9007637348679712#0"0#
+
+CCompileC build/FieldButtonFun.build/Debug-iphonesimulator/FieldButtonFun.build/Objects-normal/i386/FieldButtonFunAppDelegate.o /Users/Decmac/Desktop/FieldButtonFun/Classes/FieldButtonFunAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354402396.128838
+e354402396.404701
+r1
+xCompileC
+xbuild/FieldButtonFun.build/Debug-iphonesimulator/FieldButtonFun.build/Objects-normal/i386/FieldButtonFunAppDelegate.o
+x/Users/Decmac/Desktop/FieldButtonFun/Classes/FieldButtonFunAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/Decmac/Desktop/FieldButtonFun/Classes/FieldButtonFunAppDelegate.m354402396#354402396#0(0"0(0#0#72"/Users/Decmac/Desktop/FieldButtonFun/Classes/FieldButtonFunAppDelegate.m4300885448#2027"    cd /Users/Decmac/Desktop/FieldButtonFun    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/FieldButtonFun/build/FieldButtonFun.build/Debug-iphonesimulator/FieldButtonFun.build/FieldButtonFun-generated-files.hmap -I/Users/Decmac/Desktop/FieldButtonFun/build/FieldButtonFun.build/Debug-iphonesimulator/FieldButtonFun.build/FieldButtonFun-own-target-headers.hmap -I/Users/Decmac/Desktop/FieldButtonFun/build/FieldButtonFun.build/Debug-iphonesimulator/FieldButtonFun.build/FieldButtonFun-all-target-headers.hmap -iquote /Users/Decmac/Desktop/FieldButtonFun/build/FieldButtonFun.build/Debug-iphonesimulator/FieldButtonFun.build/FieldButtonFun-project-headers.hmap -F/Users/Decmac/Desktop/FieldButtonFun/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/FieldButtonFun/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/FieldButtonFun/build/FieldButtonFun.build/Debug-iphonesimulator/FieldButtonFun.build/DerivedSources/i386 -I/Users/Decmac/Desktop/FieldButtonFun/build/FieldButtonFun.build/Debug-iphonesimulator/FieldButtonFun.build/DerivedSources -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FieldButtonFun_Prefix-ehkbmpsozwhvuuhhhzudprikalci/FieldButtonFun_Prefix.pch -c /Users/Decmac/Desktop/FieldButtonFun/Classes/FieldButtonFunAppDelegate.m -o /Users/Decmac/Desktop/FieldButtonFun/build/FieldButtonFun.build/Debug-iphonesimulator/FieldButtonFun.build/Objects-normal/i386/FieldButtonFunAppDelegate.o0#
+
+CCompileC build/FieldButtonFun.build/Debug-iphonesimulator/FieldButtonFun.build/Objects-normal/i386/FieldButtonFunViewController.o /Users/Decmac/Desktop/FieldButtonFun/Classes/FieldButtonFunViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354402396.335318
+e354402396.523649
+r1
+xCompileC
+xbuild/FieldButtonFun.build/Debug-iphonesimulator/FieldButtonFun.build/Objects-normal/i386/FieldButtonFunViewController.o
+x/Users/Decmac/Desktop/FieldButtonFun/Classes/FieldButtonFunViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/Decmac/Desktop/FieldButtonFun/Classes/FieldButtonFunViewController.m:37: warning: incomplete implementation of class 'FieldButtonFunViewController'
+o/Users/Decmac/Desktop/FieldButtonFun/Classes/FieldButtonFunViewController.m:37: warning: method definition for '-createStory:' not found
+lSLF07#2@83"Compile /Users/Decmac/Desktop/FieldButtonFun/Classes/FieldButtonFunViewController.m354402396#354402396#0(292"/Users/Decmac/Desktop/FieldButtonFun/Classes/FieldButtonFunViewController.m:37: warning: incomplete implementation of class 'FieldButtonFunViewController'/Users/Decmac/Desktop/FieldButtonFun/Classes/FieldButtonFunViewController.m:37: warning: method definition for '-createStory:' not found2(22@65"Incomplete implementation of class 'FieldButtonFunViewController'354402396#0#155#0(6@75"/Users/Decmac/Desktop/FieldButtonFun/Classes/FieldButtonFunViewController.m354402392#37#0#37#0#38"incomplete implementation of class '*'0(22@47"Method definition for '-createStory:' not found354402396#155#137#0(6@75"/Users/Decmac/Desktop/FieldButtonFun/Classes/FieldButtonFunViewController.m354402392#37#0#37#0#35"method definition for '*' not found0(0#0#75"/Users/Decmac/Desktop/FieldButtonFun/Classes/FieldButtonFunViewController.m4300885448#2033"    cd /Users/Decmac/Desktop/FieldButtonFun    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/FieldButtonFun/build/FieldButtonFun.build/Debug-iphonesimulator/FieldButtonFun.build/FieldButtonFun-generated-files.hmap -I/Users/Decmac/Desktop/FieldButtonFun/build/FieldButtonFun.build/Debug-iphonesimulator/FieldButtonFun.build/FieldButtonFun-own-target-headers.hmap -I/Users/Decmac/Desktop/FieldButtonFun/build/FieldButtonFun.build/Debug-iphonesimulator/FieldButtonFun.build/FieldButtonFun-all-target-headers.hmap -iquote /Users/Decmac/Desktop/FieldButtonFun/build/FieldButtonFun.build/Debug-iphonesimulator/FieldButtonFun.build/FieldButtonFun-project-headers.hmap -F/Users/Decmac/Desktop/FieldButtonFun/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/FieldButtonFun/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/FieldButtonFun/build/FieldButtonFun.build/Debug-iphonesimulator/FieldButtonFun.build/DerivedSources/i386 -I/Users/Decmac/Desktop/FieldButtonFun/build/FieldButtonFun.build/Debug-iphonesimulator/FieldButtonFun.build/DerivedSources -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FieldButtonFun_Prefix-ehkbmpsozwhvuuhhhzudprikalci/FieldButtonFun_Prefix.pch -c /Users/Decmac/Desktop/FieldButtonFun/Classes/FieldButtonFunViewController.m -o /Users/Decmac/Desktop/FieldButtonFun/build/FieldButtonFun.build/Debug-iphonesimulator/FieldButtonFun.build/Objects-normal/i386/FieldButtonFunViewController.o0#
+
+CCompileC build/FieldButtonFun.build/Debug-iphonesimulator/FieldButtonFun.build/Objects-normal/i386/main.o /Users/Decmac/Desktop/FieldButtonFun/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354402396.126061
+e354402396.335033
+r1
+xCompileC
+xbuild/FieldButtonFun.build/Debug-iphonesimulator/FieldButtonFun.build/Objects-normal/i386/main.o
+x/Users/Decmac/Desktop/FieldButtonFun/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@51"Compile /Users/Decmac/Desktop/FieldButtonFun/main.m354402396#354402396#0(0"0(0#0#43"/Users/Decmac/Desktop/FieldButtonFun/main.m4300885448#1977"    cd /Users/Decmac/Desktop/FieldButtonFun    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/FieldButtonFun/build/FieldButtonFun.build/Debug-iphonesimulator/FieldButtonFun.build/FieldButtonFun-generated-files.hmap -I/Users/Decmac/Desktop/FieldButtonFun/build/FieldButtonFun.build/Debug-iphonesimulator/FieldButtonFun.build/FieldButtonFun-own-target-headers.hmap -I/Users/Decmac/Desktop/FieldButtonFun/build/FieldButtonFun.build/Debug-iphonesimulator/FieldButtonFun.build/FieldButtonFun-all-target-headers.hmap -iquote /Users/Decmac/Desktop/FieldButtonFun/build/FieldButtonFun.build/Debug-iphonesimulator/FieldButtonFun.build/FieldButtonFun-project-headers.hmap -F/Users/Decmac/Desktop/FieldButtonFun/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/FieldButtonFun/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/FieldButtonFun/build/FieldButtonFun.build/Debug-iphonesimulator/FieldButtonFun.build/DerivedSources/i386 -I/Users/Decmac/Desktop/FieldButtonFun/build/FieldButtonFun.build/Debug-iphonesimulator/FieldButtonFun.build/DerivedSources -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FieldButtonFun_Prefix-ehkbmpsozwhvuuhhhzudprikalci/FieldButtonFun_Prefix.pch -c /Users/Decmac/Desktop/FieldButtonFun/main.m -o /Users/Decmac/Desktop/FieldButtonFun/build/FieldButtonFun.build/Debug-iphonesimulator/FieldButtonFun.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/Decmac/Desktop/FieldButtonFun/FieldButtonFunViewController.xib
+s354402393.178407
+e354402393.969174
+r1
+xCompileXIB
+x/Users/Decmac/Desktop/FieldButtonFun/FieldButtonFunViewController.xib
+o2012-03-25 21:06:33.328 ibtool[338:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 35
+lSLF07#2@43"CompileXIB FieldButtonFunViewController.xib354402393#354402393#0(107"2012-03-25 21:06:33.328 ibtool[338:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 350(0#0#69"/Users/Decmac/Desktop/FieldButtonFun/FieldButtonFunViewController.xib4300885448#519"    cd /Users/Decmac/Desktop/FieldButtonFun    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Decmac/Desktop/FieldButtonFun/build/Debug-iphonesimulator/FieldButtonFun.app/FieldButtonFunViewController.nib /Users/Decmac/Desktop/FieldButtonFun/FieldButtonFunViewController.xib0#
+
+CCompileXIB /Users/Decmac/Desktop/FieldButtonFun/MainWindow.xib
+s354402393.174430
+e354402394.042547
+r1
+xCompileXIB
+x/Users/Decmac/Desktop/FieldButtonFun/MainWindow.xib
+o2012-03-25 21:06:33.311 ibtool[337:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 35
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@25"CompileXIB MainWindow.xib354402393#354402394#0(191"2012-03-25 21:06:33.311 ibtool[337:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 35Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#51"/Users/Decmac/Desktop/FieldButtonFun/MainWindow.xib4300885448#483"    cd /Users/Decmac/Desktop/FieldButtonFun    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Decmac/Desktop/FieldButtonFun/build/Debug-iphonesimulator/FieldButtonFun.app/MainWindow.nib /Users/Decmac/Desktop/FieldButtonFun/MainWindow.xib0#
+
+CGenerateDSYMFile /Users/Decmac/Desktop/FieldButtonFun/build/Debug-iphonesimulator/FieldButtonFun.app.dSYM /Users/Decmac/Desktop/FieldButtonFun/build/Debug-iphonesimulator/FieldButtonFun.app/FieldButtonFun
+s354402396.874367
+e354402396.976734
+r1
+xGenerateDSYMFile
+x/Users/Decmac/Desktop/FieldButtonFun/build/Debug-iphonesimulator/FieldButtonFun.app.dSYM
+x/Users/Decmac/Desktop/FieldButtonFun/build/Debug-iphonesimulator/FieldButtonFun.app/FieldButtonFun
+o2012-03-25 21:06:36.962 dsymutil[366:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 35
+lSLF07#2@130"GenerateDSYMFile build/Debug-iphonesimulator/FieldButtonFun.app.dSYM build/Debug-iphonesimulator/FieldButtonFun.app/FieldButtonFun354402396#354402396#0(109"2012-03-25 21:06:36.962 dsymutil[366:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 350(0#0#98"/Users/Decmac/Desktop/FieldButtonFun/build/Debug-iphonesimulator/FieldButtonFun.app/FieldButtonFun4300885448#398"    cd /Users/Decmac/Desktop/FieldButtonFun    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/Decmac/Desktop/FieldButtonFun/build/Debug-iphonesimulator/FieldButtonFun.app/FieldButtonFun -o /Users/Decmac/Desktop/FieldButtonFun/build/Debug-iphonesimulator/FieldButtonFun.app.dSYM0#
+
+CLd /Users/Decmac/Desktop/FieldButtonFun/build/Debug-iphonesimulator/FieldButtonFun.app/FieldButtonFun normal i386
+s354402396.523895
+e354402396.874071
+r1
+xLd
+x/Users/Decmac/Desktop/FieldButtonFun/build/Debug-iphonesimulator/FieldButtonFun.app/FieldButtonFun
+xnormal
+xi386
+lSLF07#2@103"Link /Users/Decmac/Desktop/FieldButtonFun/build/Debug-iphonesimulator/FieldButtonFun.app/FieldButtonFun354402396#354402396#0(0"0(0#0#0"31244169098821736#889"    cd /Users/Decmac/Desktop/FieldButtonFun    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -L/Users/Decmac/Desktop/FieldButtonFun/build/Debug-iphonesimulator -F/Users/Decmac/Desktop/FieldButtonFun/build/Debug-iphonesimulator -filelist /Users/Decmac/Desktop/FieldButtonFun/build/FieldButtonFun.build/Debug-iphonesimulator/FieldButtonFun.build/Objects-normal/i386/FieldButtonFun.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/Decmac/Desktop/FieldButtonFun/build/Debug-iphonesimulator/FieldButtonFun.app/FieldButtonFun0#
+
+CProcessInfoPlistFile /Users/Decmac/Desktop/FieldButtonFun/build/Debug-iphonesimulator/FieldButtonFun.app/Info.plist FieldButtonFun-Info.plist
+s354402393.077039
+e354402393.174157
+r1
+xProcessInfoPlistFile
+x/Users/Decmac/Desktop/FieldButtonFun/build/Debug-iphonesimulator/FieldButtonFun.app/Info.plist
+xFieldButtonFun-Info.plist
+lSLF07#2@33"Process FieldButtonFun-Info.plist354402393#354402393#0(0"0(0#0#62"/Users/Decmac/Desktop/FieldButtonFun/FieldButtonFun-Info.plist31525648366108776#494"    cd /Users/Decmac/Desktop/FieldButtonFun    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility FieldButtonFun-Info.plist -genpkginfo /Users/Decmac/Desktop/FieldButtonFun/build/Debug-iphonesimulator/FieldButtonFun.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/Decmac/Desktop/FieldButtonFun/build/Debug-iphonesimulator/FieldButtonFun.app/Info.plist0#
+
+CProcessPCH /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FieldButtonFun_Prefix-ehkbmpsozwhvuuhhhzudprikalci/FieldButtonFun_Prefix.pch.gch FieldButtonFun_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s354402394.043047
+e354402396.125664
+r1
+xProcessPCH
+x/var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FieldButtonFun_Prefix-ehkbmpsozwhvuuhhhzudprikalci/FieldButtonFun_Prefix.pch.gch
+xFieldButtonFun_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@36"Precompile FieldButtonFun_Prefix.pch354402394#354402396#0(0"0(0#0#62"/Users/Decmac/Desktop/FieldButtonFun/FieldButtonFun_Prefix.pch7585802795239171072#1864"    cd /Users/Decmac/Desktop/FieldButtonFun    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/FieldButtonFun/build/FieldButtonFun.build/Debug-iphonesimulator/FieldButtonFun.build/FieldButtonFun-generated-files.hmap -I/Users/Decmac/Desktop/FieldButtonFun/build/FieldButtonFun.build/Debug-iphonesimulator/FieldButtonFun.build/FieldButtonFun-own-target-headers.hmap -I/Users/Decmac/Desktop/FieldButtonFun/build/FieldButtonFun.build/Debug-iphonesimulator/FieldButtonFun.build/FieldButtonFun-all-target-headers.hmap -iquote /Users/Decmac/Desktop/FieldButtonFun/build/FieldButtonFun.build/Debug-iphonesimulator/FieldButtonFun.build/FieldButtonFun-project-headers.hmap -F/Users/Decmac/Desktop/FieldButtonFun/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/FieldButtonFun/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/FieldButtonFun/build/FieldButtonFun.build/Debug-iphonesimulator/FieldButtonFun.build/DerivedSources/i386 -I/Users/Decmac/Desktop/FieldButtonFun/build/FieldButtonFun.build/Debug-iphonesimulator/FieldButtonFun.build/DerivedSources -c /Users/Decmac/Desktop/FieldButtonFun/FieldButtonFun_Prefix.pch -o /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FieldButtonFun_Prefix-ehkbmpsozwhvuuhhhzudprikalci/FieldButtonFun_Prefix.pch.gch0#
+
+CTouch /Users/Decmac/Desktop/FieldButtonFun/build/Debug-iphonesimulator/FieldButtonFun.app
+s354402396.976967
+e354402396.994095
+r1
+xTouch
+x/Users/Decmac/Desktop/FieldButtonFun/build/Debug-iphonesimulator/FieldButtonFun.app
+lSLF07#2@89"Touch /Users/Decmac/Desktop/FieldButtonFun/build/Debug-iphonesimulator/FieldButtonFun.app354402396#354402396#0(0"0(0#0#0"4300885448#281"    cd /Users/Decmac/Desktop/FieldButtonFun    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/Decmac/Desktop/FieldButtonFun/build/Debug-iphonesimulator/FieldButtonFun.app0#
+

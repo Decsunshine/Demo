@@ -1,0 +1,142 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* myDay12 */ = {
+		activeExec = 0;
+		executables = (
+			897FB58514F93F4700319993 /* myDay12 */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* myDay12ViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {691, 526}}";
+			sepNavSelRange = "{395, 0}";
+			sepNavVisRange = "{0, 450}";
+			sepNavWindowFrame = "{{15, 92}, {750, 654}}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* myDay12ViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {867, 1664}}";
+			sepNavSelRange = "{2640, 0}";
+			sepNavVisRange = "{2611, 242}";
+			sepNavWindowFrame = "{{15, 111}, {750, 635}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 897FB58514F93F4700319993 /* myDay12 */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* myDay12 */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* myDay12 */,
+		);
+		codeSenseManager = 897FB58B14F93F6600319993 /* Code sense */;
+		executables = (
+			897FB58514F93F4700319993 /* myDay12 */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 352494419;
+			PBXWorkspaceStateSaveDate = 352494419;
+		};
+		perUserProjectItems = {
+			897FB5F014F951E000319993 /* PBXTextBookmark */ = 897FB5F014F951E000319993 /* PBXTextBookmark */;
+			8981B5AF1502A4BB0027B727 /* XCBuildMessageTextBookmark */ = 8981B5AF1502A4BB0027B727 /* XCBuildMessageTextBookmark */;
+			8981B5B01502A4BB0027B727 /* PBXTextBookmark */ = 8981B5B01502A4BB0027B727 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 897FB58A14F93F6600319993 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	897FB58514F93F4700319993 /* myDay12 */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = myDay12;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	897FB58A14F93F6600319993 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	897FB58B14F93F6600319993 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	897FB5F014F951E000319993 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* myDay12ViewController.h */;
+		name = "myDay12ViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 367;
+		vrLoc = 0;
+	};
+	8981B5AF1502A4BB0027B727 /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Request for member 'startData' in something not a structure or union";
+		fRef = 28D7ACF70DDB3853001CB0EB /* myDay12ViewController.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 0;
+		rLoc = 109;
+		rType = 1;
+	};
+	8981B5B01502A4BB0027B727 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* myDay12ViewController.m */;
+		name = "myDay12ViewController.m: 110";
+		rLen = 0;
+		rLoc = 2640;
+		rType = 0;
+		vrLen = 242;
+		vrLoc = 2611;
+	};
+}

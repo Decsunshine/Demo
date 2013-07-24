@@ -1,0 +1,260 @@
+TOrientation
+v7
+r0
+t354747421.395091
+cCheck dependencies
+cProcessInfoPlistFile /Users/Decmac/Desktop/Orientation/build/Debug-iphonesimulator/Orientation.app/Info.plist Orientation-Info.plist
+cCompileXIB /Users/Decmac/Desktop/Orientation/MainWindow.xib
+cCompileXIB /Users/Decmac/Desktop/Orientation/OrientationViewController.xib
+cProcessPCH /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Orientation_Prefix-eooerxeuqdwwupeyybqsodkirzuj/Orientation_Prefix.pch.gch Orientation_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Orientation.build/Debug-iphonesimulator/Orientation.build/Objects-normal/i386/main.o /Users/Decmac/Desktop/Orientation/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Orientation.build/Debug-iphonesimulator/Orientation.build/Objects-normal/i386/OrientationAppDelegate.o /Users/Decmac/Desktop/Orientation/Classes/OrientationAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Orientation.build/Debug-iphonesimulator/Orientation.build/Objects-normal/i386/OrientationViewController.o /Users/Decmac/Desktop/Orientation/Classes/OrientationViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/Decmac/Desktop/Orientation/build/Debug-iphonesimulator/Orientation.app/Orientation normal i386
+cGenerateDSYMFile /Users/Decmac/Desktop/Orientation/build/Debug-iphonesimulator/Orientation.app.dSYM /Users/Decmac/Desktop/Orientation/build/Debug-iphonesimulator/Orientation.app/Orientation
+cTouch /Users/Decmac/Desktop/Orientation/build/Debug-iphonesimulator/Orientation.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk
+c000000004F3A580900000000000000EE
+t1329223689
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B2B4CC3000000000026EE30
+t1261128899
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B2B4DC8000000000027E880
+t1261129160
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B2B4DAE0000000000001355
+t1261129134
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B2B61620000000000000788
+t1261134178
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B2B62B500000000016721E0
+t1261134517
+s23536096
+
+N/Users/Decmac/Desktop/Orientation/Classes/OrientationAppDelegate.h
+c000000004F74C73400000000000001F4
+t1333053236
+s500
+i<UIKit/UIKit.h>
+
+N/Users/Decmac/Desktop/Orientation/Classes/OrientationAppDelegate.m
+c000000004F74C734000000000000027B
+t1333053236
+s635
+i"OrientationAppDelegate.h"
+i"OrientationViewController.h"
+
+N/Users/Decmac/Desktop/Orientation/Classes/OrientationViewController.h
+c000000004F74C7770000000000000164
+t1333053303
+s356
+i<UIKit/UIKit.h>
+
+N/Users/Decmac/Desktop/Orientation/Classes/OrientationViewController.m
+c000000004F74CC9800000000000008F6
+t1333054616
+s2294
+i"OrientationViewController.h"
+
+N/Users/Decmac/Desktop/Orientation/MainWindow.xib
+c000000004F74C734000000000000247A
+t1333053236
+s9338
+
+N/Users/Decmac/Desktop/Orientation/OrientationViewController.xib
+c000000004F74C7FF0000000000004332
+t1333053439
+s17202
+
+N/Users/Decmac/Desktop/Orientation/Orientation_Prefix.pch
+c000000004F74C73400000000000000BF
+t1333053236
+s191
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/Decmac/Desktop/Orientation/build/Debug-iphonesimulator/Orientation.app
+t1333054621
+s238
+
+N/Users/Decmac/Desktop/Orientation/build/Debug-iphonesimulator/Orientation.app.dSYM
+t1333054621
+s102
+
+N/Users/Decmac/Desktop/Orientation/build/Debug-iphonesimulator/Orientation.app/Info.plist
+t1333054617
+s580
+
+N/Users/Decmac/Desktop/Orientation/build/Debug-iphonesimulator/Orientation.app/MainWindow.nib
+t1333054618
+s1503
+
+N/Users/Decmac/Desktop/Orientation/build/Debug-iphonesimulator/Orientation.app/Orientation
+t1333054621
+s20344
+
+N/Users/Decmac/Desktop/Orientation/build/Debug-iphonesimulator/Orientation.app/OrientationViewController.nib
+t1333054618
+s1755
+
+N/Users/Decmac/Desktop/Orientation/build/Debug-iphonesimulator/Orientation.app/PkgInfo
+t1333054617
+s8
+
+N/Users/Decmac/Desktop/Orientation/build/Orientation.build/Debug-iphonesimulator/Orientation.build/Objects-normal/i386/Orientation.LinkFileList
+c000000004F74CC99000000000000019E
+t1333054617
+s414
+
+N/Users/Decmac/Desktop/Orientation/build/Orientation.build/Debug-iphonesimulator/Orientation.build/Objects-normal/i386/OrientationAppDelegate.o
+t1333054620
+s38208
+
+N/Users/Decmac/Desktop/Orientation/build/Orientation.build/Debug-iphonesimulator/Orientation.build/Objects-normal/i386/OrientationViewController.o
+t1333054620
+s35808
+
+N/Users/Decmac/Desktop/Orientation/build/Orientation.build/Debug-iphonesimulator/Orientation.build/Objects-normal/i386/main.o
+t1333054620
+s5948
+
+N/Users/Decmac/Desktop/Orientation/main.m
+c000000004F74C735000000000000016A
+t1333053237
+s362
+i<UIKit/UIKit.h>
+
+N/var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Orientation_Prefix-eooerxeuqdwwupeyybqsodkirzuj/Orientation_Prefix.pch.gch
+t1333054620
+s13034960
+
+NOrientation-Info.plist
+c000000004F74C734000000000000038D
+t1333053236
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies354747417#354747417#0(0"0(0#1#0"31244212048494624#0"0#
+
+CCompileC build/Orientation.build/Debug-iphonesimulator/Orientation.build/Objects-normal/i386/OrientationAppDelegate.o /Users/Decmac/Desktop/Orientation/Classes/OrientationAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354747420.555223
+e354747420.827283
+r1
+xCompileC
+xbuild/Orientation.build/Debug-iphonesimulator/Orientation.build/Objects-normal/i386/OrientationAppDelegate.o
+x/Users/Decmac/Desktop/Orientation/Classes/OrientationAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/Decmac/Desktop/Orientation/Classes/OrientationAppDelegate.m354747420#354747420#0(0"0(0#0#66"/Users/Decmac/Desktop/Orientation/Classes/OrientationAppDelegate.m4300885448#1928"    cd /Users/Decmac/Desktop/Orientation    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/Orientation/build/Orientation.build/Debug-iphonesimulator/Orientation.build/Orientation-generated-files.hmap -I/Users/Decmac/Desktop/Orientation/build/Orientation.build/Debug-iphonesimulator/Orientation.build/Orientation-own-target-headers.hmap -I/Users/Decmac/Desktop/Orientation/build/Orientation.build/Debug-iphonesimulator/Orientation.build/Orientation-all-target-headers.hmap -iquote /Users/Decmac/Desktop/Orientation/build/Orientation.build/Debug-iphonesimulator/Orientation.build/Orientation-project-headers.hmap -F/Users/Decmac/Desktop/Orientation/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/Orientation/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/Orientation/build/Orientation.build/Debug-iphonesimulator/Orientation.build/DerivedSources/i386 -I/Users/Decmac/Desktop/Orientation/build/Orientation.build/Debug-iphonesimulator/Orientation.build/DerivedSources -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Orientation_Prefix-eooerxeuqdwwupeyybqsodkirzuj/Orientation_Prefix.pch -c /Users/Decmac/Desktop/Orientation/Classes/OrientationAppDelegate.m -o /Users/Decmac/Desktop/Orientation/build/Orientation.build/Debug-iphonesimulator/Orientation.build/Objects-normal/i386/OrientationAppDelegate.o0#
+
+CCompileC build/Orientation.build/Debug-iphonesimulator/Orientation.build/Objects-normal/i386/OrientationViewController.o /Users/Decmac/Desktop/Orientation/Classes/OrientationViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354747420.740452
+e354747420.926110
+r1
+xCompileC
+xbuild/Orientation.build/Debug-iphonesimulator/Orientation.build/Objects-normal/i386/OrientationViewController.o
+x/Users/Decmac/Desktop/Orientation/Classes/OrientationViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/Decmac/Desktop/Orientation/Classes/OrientationViewController.m354747420#354747420#0(0"0(0#0#69"/Users/Decmac/Desktop/Orientation/Classes/OrientationViewController.m4300885448#1934"    cd /Users/Decmac/Desktop/Orientation    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/Orientation/build/Orientation.build/Debug-iphonesimulator/Orientation.build/Orientation-generated-files.hmap -I/Users/Decmac/Desktop/Orientation/build/Orientation.build/Debug-iphonesimulator/Orientation.build/Orientation-own-target-headers.hmap -I/Users/Decmac/Desktop/Orientation/build/Orientation.build/Debug-iphonesimulator/Orientation.build/Orientation-all-target-headers.hmap -iquote /Users/Decmac/Desktop/Orientation/build/Orientation.build/Debug-iphonesimulator/Orientation.build/Orientation-project-headers.hmap -F/Users/Decmac/Desktop/Orientation/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/Orientation/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/Orientation/build/Orientation.build/Debug-iphonesimulator/Orientation.build/DerivedSources/i386 -I/Users/Decmac/Desktop/Orientation/build/Orientation.build/Debug-iphonesimulator/Orientation.build/DerivedSources -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Orientation_Prefix-eooerxeuqdwwupeyybqsodkirzuj/Orientation_Prefix.pch -c /Users/Decmac/Desktop/Orientation/Classes/OrientationViewController.m -o /Users/Decmac/Desktop/Orientation/build/Orientation.build/Debug-iphonesimulator/Orientation.build/Objects-normal/i386/OrientationViewController.o0#
+
+CCompileC build/Orientation.build/Debug-iphonesimulator/Orientation.build/Objects-normal/i386/main.o /Users/Decmac/Desktop/Orientation/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354747420.552512
+e354747420.740152
+r1
+xCompileC
+xbuild/Orientation.build/Debug-iphonesimulator/Orientation.build/Objects-normal/i386/main.o
+x/Users/Decmac/Desktop/Orientation/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@48"Compile /Users/Decmac/Desktop/Orientation/main.m354747420#354747420#0(0"0(0#0#40"/Users/Decmac/Desktop/Orientation/main.m4300885448#1884"    cd /Users/Decmac/Desktop/Orientation    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/Orientation/build/Orientation.build/Debug-iphonesimulator/Orientation.build/Orientation-generated-files.hmap -I/Users/Decmac/Desktop/Orientation/build/Orientation.build/Debug-iphonesimulator/Orientation.build/Orientation-own-target-headers.hmap -I/Users/Decmac/Desktop/Orientation/build/Orientation.build/Debug-iphonesimulator/Orientation.build/Orientation-all-target-headers.hmap -iquote /Users/Decmac/Desktop/Orientation/build/Orientation.build/Debug-iphonesimulator/Orientation.build/Orientation-project-headers.hmap -F/Users/Decmac/Desktop/Orientation/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/Orientation/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/Orientation/build/Orientation.build/Debug-iphonesimulator/Orientation.build/DerivedSources/i386 -I/Users/Decmac/Desktop/Orientation/build/Orientation.build/Debug-iphonesimulator/Orientation.build/DerivedSources -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Orientation_Prefix-eooerxeuqdwwupeyybqsodkirzuj/Orientation_Prefix.pch -c /Users/Decmac/Desktop/Orientation/main.m -o /Users/Decmac/Desktop/Orientation/build/Orientation.build/Debug-iphonesimulator/Orientation.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/Decmac/Desktop/Orientation/MainWindow.xib
+s354747417.286276
+e354747418.154669
+r1
+xCompileXIB
+x/Users/Decmac/Desktop/Orientation/MainWindow.xib
+o2012-03-29 20:56:57.441 ibtool[287:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 35
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@25"CompileXIB MainWindow.xib354747417#354747418#0(191"2012-03-29 20:56:57.441 ibtool[287:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 35Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#48"/Users/Decmac/Desktop/Orientation/MainWindow.xib4300885448#471"    cd /Users/Decmac/Desktop/Orientation    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Decmac/Desktop/Orientation/build/Debug-iphonesimulator/Orientation.app/MainWindow.nib /Users/Decmac/Desktop/Orientation/MainWindow.xib0#
+
+CCompileXIB /Users/Decmac/Desktop/Orientation/OrientationViewController.xib
+s354747417.290302
+e354747418.297955
+r1
+xCompileXIB
+x/Users/Decmac/Desktop/Orientation/OrientationViewController.xib
+o2012-03-29 20:56:57.460 ibtool[288:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 35
+lSLF07#2@40"CompileXIB OrientationViewController.xib354747417#354747418#0(107"2012-03-29 20:56:57.460 ibtool[288:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 350(0#0#63"/Users/Decmac/Desktop/Orientation/OrientationViewController.xib4300885448#501"    cd /Users/Decmac/Desktop/Orientation    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Decmac/Desktop/Orientation/build/Debug-iphonesimulator/Orientation.app/OrientationViewController.nib /Users/Decmac/Desktop/Orientation/OrientationViewController.xib0#
+
+CGenerateDSYMFile /Users/Decmac/Desktop/Orientation/build/Debug-iphonesimulator/Orientation.app.dSYM /Users/Decmac/Desktop/Orientation/build/Debug-iphonesimulator/Orientation.app/Orientation
+s354747421.263633
+e354747421.377155
+r1
+xGenerateDSYMFile
+x/Users/Decmac/Desktop/Orientation/build/Debug-iphonesimulator/Orientation.app.dSYM
+x/Users/Decmac/Desktop/Orientation/build/Debug-iphonesimulator/Orientation.app/Orientation
+o2012-03-29 20:57:01.361 dsymutil[316:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 35
+lSLF07#2@121"GenerateDSYMFile build/Debug-iphonesimulator/Orientation.app.dSYM build/Debug-iphonesimulator/Orientation.app/Orientation354747421#354747421#0(109"2012-03-29 20:57:01.361 dsymutil[316:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 350(0#0#89"/Users/Decmac/Desktop/Orientation/build/Debug-iphonesimulator/Orientation.app/Orientation4300885448#380"    cd /Users/Decmac/Desktop/Orientation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/Decmac/Desktop/Orientation/build/Debug-iphonesimulator/Orientation.app/Orientation -o /Users/Decmac/Desktop/Orientation/build/Debug-iphonesimulator/Orientation.app.dSYM0#
+
+CLd /Users/Decmac/Desktop/Orientation/build/Debug-iphonesimulator/Orientation.app/Orientation normal i386
+s354747420.926354
+e354747421.263357
+r1
+xLd
+x/Users/Decmac/Desktop/Orientation/build/Debug-iphonesimulator/Orientation.app/Orientation
+xnormal
+xi386
+lSLF07#2@94"Link /Users/Decmac/Desktop/Orientation/build/Debug-iphonesimulator/Orientation.app/Orientation354747420#354747421#0(0"0(0#0#0"4300885448#859"    cd /Users/Decmac/Desktop/Orientation    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -L/Users/Decmac/Desktop/Orientation/build/Debug-iphonesimulator -F/Users/Decmac/Desktop/Orientation/build/Debug-iphonesimulator -filelist /Users/Decmac/Desktop/Orientation/build/Orientation.build/Debug-iphonesimulator/Orientation.build/Objects-normal/i386/Orientation.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/Decmac/Desktop/Orientation/build/Debug-iphonesimulator/Orientation.app/Orientation0#
+
+CProcessInfoPlistFile /Users/Decmac/Desktop/Orientation/build/Debug-iphonesimulator/Orientation.app/Info.plist Orientation-Info.plist
+s354747417.171661
+e354747417.285972
+r1
+xProcessInfoPlistFile
+x/Users/Decmac/Desktop/Orientation/build/Debug-iphonesimulator/Orientation.app/Info.plist
+xOrientation-Info.plist
+lSLF07#2@30"Process Orientation-Info.plist354747417#354747417#0(0"0(0#0#56"/Users/Decmac/Desktop/Orientation/Orientation-Info.plist30962724186357872#476"    cd /Users/Decmac/Desktop/Orientation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Orientation-Info.plist -genpkginfo /Users/Decmac/Desktop/Orientation/build/Debug-iphonesimulator/Orientation.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/Decmac/Desktop/Orientation/build/Debug-iphonesimulator/Orientation.app/Info.plist0#
+
+CProcessPCH /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Orientation_Prefix-eooerxeuqdwwupeyybqsodkirzuj/Orientation_Prefix.pch.gch Orientation_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s354747418.298455
+e354747420.552120
+r1
+xProcessPCH
+x/var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Orientation_Prefix-eooerxeuqdwwupeyybqsodkirzuj/Orientation_Prefix.pch.gch
+xOrientation_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile Orientation_Prefix.pch354747418#354747420#0(0"0(0#0#56"/Users/Decmac/Desktop/Orientation/Orientation_Prefix.pch8236854416370918400#1777"    cd /Users/Decmac/Desktop/Orientation    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/Orientation/build/Orientation.build/Debug-iphonesimulator/Orientation.build/Orientation-generated-files.hmap -I/Users/Decmac/Desktop/Orientation/build/Orientation.build/Debug-iphonesimulator/Orientation.build/Orientation-own-target-headers.hmap -I/Users/Decmac/Desktop/Orientation/build/Orientation.build/Debug-iphonesimulator/Orientation.build/Orientation-all-target-headers.hmap -iquote /Users/Decmac/Desktop/Orientation/build/Orientation.build/Debug-iphonesimulator/Orientation.build/Orientation-project-headers.hmap -F/Users/Decmac/Desktop/Orientation/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/Orientation/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/Orientation/build/Orientation.build/Debug-iphonesimulator/Orientation.build/DerivedSources/i386 -I/Users/Decmac/Desktop/Orientation/build/Orientation.build/Debug-iphonesimulator/Orientation.build/DerivedSources -c /Users/Decmac/Desktop/Orientation/Orientation_Prefix.pch -o /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Orientation_Prefix-eooerxeuqdwwupeyybqsodkirzuj/Orientation_Prefix.pch.gch0#
+
+CTouch /Users/Decmac/Desktop/Orientation/build/Debug-iphonesimulator/Orientation.app
+s354747421.377381
+e354747421.394940
+r1
+xTouch
+x/Users/Decmac/Desktop/Orientation/build/Debug-iphonesimulator/Orientation.app
+lSLF07#2@83"Touch /Users/Decmac/Desktop/Orientation/build/Debug-iphonesimulator/Orientation.app354747421#354747421#0(0"0(0#0#0"4300885448#272"    cd /Users/Decmac/Desktop/Orientation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/Decmac/Desktop/Orientation/build/Debug-iphonesimulator/Orientation.app0#
+

@@ -1,0 +1,512 @@
+TAddressBook
+v7
+r0
+t354299941.350131
+cCheck dependencies
+cProcessInfoPlistFile /Users/Decmac/Desktop/AddressBook/build/Debug-iphonesimulator/AddressBook.app/Info.plist AddressBook-Info.plist
+cCompileXIB /Users/Decmac/Desktop/AddressBook/MainWindow.xib
+cCompileXIB /Users/Decmac/Desktop/AddressBook/RootViewController.xib
+cCompileXIB /Users/Decmac/Desktop/AddressBook/Classes/AddViewController.xib
+cCompileXIB /Users/Decmac/Desktop/AddressBook/Classes/ContactViewController.xib
+cProcessPCH /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AddressBook_Prefix-fpocccunjwdirnexorafoxwdczpm/AddressBook_Prefix.pch.gch AddressBook_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AddressBook.build/Debug-iphonesimulator/AddressBook.build/Objects-normal/i386/main.o /Users/Decmac/Desktop/AddressBook/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AddressBook.build/Debug-iphonesimulator/AddressBook.build/Objects-normal/i386/AddressBookAppDelegate.o /Users/Decmac/Desktop/AddressBook/Classes/AddressBookAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AddressBook.build/Debug-iphonesimulator/AddressBook.build/Objects-normal/i386/RootViewController.o /Users/Decmac/Desktop/AddressBook/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AddressBook.build/Debug-iphonesimulator/AddressBook.build/Objects-normal/i386/AddViewController.o /Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AddressBook.build/Debug-iphonesimulator/AddressBook.build/Objects-normal/i386/ContactViewController.o /Users/Decmac/Desktop/AddressBook/Classes/ContactViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AddressBook.build/Debug-iphonesimulator/AddressBook.build/Objects-normal/i386/EditableCell.o /Users/Decmac/Desktop/AddressBook/Classes/EditableCell.m normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk
+c000000004F3A580900000000000000EE
+t1329223689
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B2B4CC3000000000026EE30
+t1261128899
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B2B4DC8000000000027E880
+t1261129160
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B2B4DAE0000000000001355
+t1261129134
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B2B61620000000000000788
+t1261134178
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B2B62B500000000016721E0
+t1261134517
+s23536096
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/usr/include/Availability.h
+c000000004B2B4EE200000000000019F9
+t1261129442
+s6649
+
+N/Users/Decmac/Desktop/AddressBook/AddressBook_Prefix.pch
+c000000004F6D9B900000000000000148
+t1332583312
+s328
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.h
+c000000004F6DAFD100000000000003A1
+t1332588497
+s929
+i<UIKit/UIKit.h>
+i"EditableCell.h"
+
+N/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m
+c000000004F6DF0380000000000000E44
+t1332604984
+s3652
+i"AddViewController.h"
+
+N/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.xib
+c000000004F6D9C6D000000000000186E
+t1332583533
+s6254
+
+N/Users/Decmac/Desktop/AddressBook/Classes/AddressBookAppDelegate.h
+c000000004F6DB01600000000000001C4
+t1332588566
+s452
+
+N/Users/Decmac/Desktop/AddressBook/Classes/AddressBookAppDelegate.m
+c000000004F6D9B900000000000000343
+t1332583312
+s835
+i"AddressBookAppDelegate.h"
+i"RootViewController.h"
+
+N/Users/Decmac/Desktop/AddressBook/Classes/ContactViewController.h
+c000000004F6DF0DA0000000000000166
+t1332605146
+s358
+i<UIKit/UIKit.h>
+
+N/Users/Decmac/Desktop/AddressBook/Classes/ContactViewController.m
+c000000004F6DF3990000000000000627
+t1332605849
+s1575
+i"ContactViewController.h"
+i"EditableCell.h"
+
+N/Users/Decmac/Desktop/AddressBook/Classes/ContactViewController.xib
+c000000004F6D9CB2000000000000187A
+t1332583602
+s6266
+
+N/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.h
+c000000004F6DF5910000000000000309
+t1332606353
+s777
+i<UIKit/UIKit.h>
+
+N/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.m
+c000000004F6DF89F00000000000006DC
+t1332607135
+s1756
+i"EditableCell.h"
+
+N/Users/Decmac/Desktop/AddressBook/Classes/RootViewController.h
+c000000004F6D9F2E00000000000001FA
+t1332584238
+s506
+i<UIKit/UIKit.h>
+i"AddViewController.h"
+i"ContactViewController.h"
+
+N/Users/Decmac/Desktop/AddressBook/Classes/RootViewController.m
+c000000004F6DACE400000000000011F8
+t1332587748
+s4600
+i"RootViewController.h"
+i"AddressBookAppDelegate.h"
+
+N/Users/Decmac/Desktop/AddressBook/MainWindow.xib
+c000000004F6D9B900000000000002C71
+t1332583312
+s11377
+
+N/Users/Decmac/Desktop/AddressBook/RootViewController.xib
+c000000004F6D9B900000000000004325
+t1332583312
+s17189
+
+N/Users/Decmac/Desktop/AddressBook/build/AddressBook.build/Debug-iphonesimulator/AddressBook.build/Objects-normal/i386/AddViewController.o
+t2
+s0
+
+N/Users/Decmac/Desktop/AddressBook/build/AddressBook.build/Debug-iphonesimulator/AddressBook.build/Objects-normal/i386/AddressBook.LinkFileList
+c000000004F6DF8A20000000000000334
+t1332607138
+s820
+
+N/Users/Decmac/Desktop/AddressBook/build/AddressBook.build/Debug-iphonesimulator/AddressBook.build/Objects-normal/i386/AddressBookAppDelegate.o
+t2
+s0
+
+N/Users/Decmac/Desktop/AddressBook/build/AddressBook.build/Debug-iphonesimulator/AddressBook.build/Objects-normal/i386/ContactViewController.o
+t2
+s0
+
+N/Users/Decmac/Desktop/AddressBook/build/AddressBook.build/Debug-iphonesimulator/AddressBook.build/Objects-normal/i386/EditableCell.o
+t2
+s0
+
+N/Users/Decmac/Desktop/AddressBook/build/AddressBook.build/Debug-iphonesimulator/AddressBook.build/Objects-normal/i386/RootViewController.o
+t2
+s0
+
+N/Users/Decmac/Desktop/AddressBook/build/AddressBook.build/Debug-iphonesimulator/AddressBook.build/Objects-normal/i386/main.o
+t1332607141
+s5948
+
+N/Users/Decmac/Desktop/AddressBook/build/Debug-iphonesimulator/AddressBook.app
+t2
+s0
+
+N/Users/Decmac/Desktop/AddressBook/build/Debug-iphonesimulator/AddressBook.app.dSYM
+t2
+s0
+
+N/Users/Decmac/Desktop/AddressBook/build/Debug-iphonesimulator/AddressBook.app/AddViewController.nib
+t1332607139
+s1106
+
+N/Users/Decmac/Desktop/AddressBook/build/Debug-iphonesimulator/AddressBook.app/AddressBook
+t2
+s0
+
+N/Users/Decmac/Desktop/AddressBook/build/Debug-iphonesimulator/AddressBook.app/ContactViewController.nib
+t1332607139
+s1106
+
+N/Users/Decmac/Desktop/AddressBook/build/Debug-iphonesimulator/AddressBook.app/Info.plist
+t1332607138
+s580
+
+N/Users/Decmac/Desktop/AddressBook/build/Debug-iphonesimulator/AddressBook.app/MainWindow.nib
+t1332607139
+s2016
+
+N/Users/Decmac/Desktop/AddressBook/build/Debug-iphonesimulator/AddressBook.app/PkgInfo
+t1332607138
+s8
+
+N/Users/Decmac/Desktop/AddressBook/build/Debug-iphonesimulator/AddressBook.app/RootViewController.nib
+t1332607139
+s1388
+
+N/Users/Decmac/Desktop/AddressBook/main.m
+c000000004F6D9B90000000000000016A
+t1332583312
+s362
+i<UIKit/UIKit.h>
+
+N/var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AddressBook_Prefix-fpocccunjwdirnexorafoxwdczpm/AddressBook_Prefix.pch.gch
+t1332607140
+s13034960
+
+NAddressBook-Info.plist
+c000000004F6D9B90000000000000038D
+t1332583312
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies354299938#354299938#0(0"0(0#1#0"31244212048494624#0"0#
+
+CCompileC build/AddressBook.build/Debug-iphonesimulator/AddressBook.build/Objects-normal/i386/AddViewController.o /Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354299941.141922
+e354299941.262607
+r0
+xCompileC
+xbuild/AddressBook.build/Debug-iphonesimulator/AddressBook.build/Objects-normal/i386/AddViewController.o
+x/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/Decmac/Desktop/AddressBook/Classes/AddViewController.h:10,
+o                 from /Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:9:
+o/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.h:13: error: cannot find interface declaration for 'UITabelViewCell', superclass of 'EditableCell'
+oIn file included from /Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:9:
+o/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.h:13: error: no type or storage class may be specified here before 'protocol'
+o/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.h:36: error: expected ')' before 'AddViewController'
+o/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:13: warning: cannot find interface declaration for 'AddViewController'
+o/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:13: error: no declaration of property 'delegate' found in the interface
+o/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:14: error: no declaration of property 'table' found in the interface
+o/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m: In function '-[AddViewController initWithNibName:bundle:]':
+o/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:18: error: no super class declared in @interface for 'AddViewController'
+o/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:19: error: 'fields' undeclared (first use in this function)
+o/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:19: error: (Each undeclared identifier is reported only once
+o/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:19: error: for each function it appears in.)
+o/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:21: error: 'data' undeclared (first use in this function)
+o/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:23: error: 'keyboardShown' undeclared (first use in this function)
+o/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:25: error: 'currentCell' undeclared (first use in this function)
+o/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m: In function '-[AddViewController doneAdding:]':
+o/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:32: error: 'currentCell' undeclared (first use in this function)
+o/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:33: error: 'data' undeclared (first use in this function)
+o/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:35: error: 'delegate' undeclared (first use in this function)
+o/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m: In function '-[AddViewController values]':
+o/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:41: error: 'data' undeclared (first use in this function)
+o/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m: In function '-[AddViewController editableCellDidBeginEditing:]':
+o/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:49: error: 'keyboardShown' undeclared (first use in this function)
+o/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:53: error: 'table' undeclared (first use in this function)
+o/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:60: error: 'currentCell' undeclared (first use in this function)
+o/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m: In function '-[AddViewController editableCellDidEndEditing:]':
+o/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:69: error: 'data' undeclared (first use in this function)
+o/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m: In function '-[AddViewController editableCellDidEndOnExit:]':
+o/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:74: error: 'table' undeclared (first use in this function)
+o/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:78: error: 'keyboardShown' undeclared (first use in this function)
+o/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:79: error: 'currentCell' undeclared (first use in this function)
+o/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m: In function '-[AddViewController tableView:numberOfRowsInSection:]':
+o/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:93: error: 'fields' undeclared (first use in this function)
+o/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:96: warning: control reaches end of non-void function
+o/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m: In function '-[AddViewController tableView:cellForRowAtIndexPath:]':
+o/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:111: error: 'table' undeclared (first use in this function)
+o/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:114: warning: 'EditableCell' may not respond to '+alloc'
+o/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:114: warning: (Messages without a matching method signature
+o/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:114: warning: will be assumed to return 'id' and accept
+o/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:114: warning: '...' as arguments.)
+o/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:117: error: 'fields' undeclared (first use in this function)
+o/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:118: warning: 'NSString' may not respond to '-:'
+o/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:120: error: 'data' undeclared (first use in this function)
+o/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:128: error: request for member 'editing' in something not a structure or union
+o/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:131: warning: class 'AddViewController' does not implement the 'EditableCellDelegate' protocol
+o/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:131: error: expected ';' before 'cell'
+o/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:132: warning: incompatible Objective-C types returning 'struct EditableCell *', expected 'struct UITableViewCell *'
+o/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m: In function '-[AddViewController didReceiveMemoryWarning]':
+o/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:142: error: no super class declared in @interface for 'AddViewController'
+o/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m: In function '-[AddViewController dealloc]':
+o/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:148: error: 'fields' undeclared (first use in this function)
+o/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:149: error: 'data' undeclared (first use in this function)
+o/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:150: error: 'table' undeclared (first use in this function)
+o/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:151: error: expected ']' before 'dealloc'
+lSLF07#2@69"Compile /Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m354299941#354299941#0(6860"In file included from /Users/Decmac/Desktop/AddressBook/Classes/AddViewController.h:10,                 from /Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:9:/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.h:13: error: cannot find interface declaration for 'UITabelViewCell', superclass of 'EditableCell'In file included from /Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:9:/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.h:13: error: no type or storage class may be specified here before 'protocol'/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.h:36: error: expected ')' before 'AddViewController'/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:13: warning: cannot find interface declaration for 'AddViewController'/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:13: error: no declaration of property 'delegate' found in the interface/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:14: error: no declaration of property 'table' found in the interface/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m: In function '-[AddViewController initWithNibName:bundle:]':/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:18: error: no super class declared in @interface for 'AddViewController'/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:19: error: 'fields' undeclared (first use in this function)/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:19: error: (Each undeclared identifier is reported only once/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:19: error: for each function it appears in.)/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:21: error: 'data' undeclared (first use in this function)/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:23: error: 'keyboardShown' undeclared (first use in this function)/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:25: error: 'currentCell' undeclared (first use in this function)/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m: In function '-[AddViewController doneAdding:]':/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:32: error: 'currentCell' undeclared (first use in this function)/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:33: error: 'data' undeclared (first use in this function)/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:35: error: 'delegate' undeclared (first use in this function)/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m: In function '-[AddViewController values]':/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:41: error: 'data' undeclared (first use in this function)/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m: In function '-[AddViewController editableCellDidBeginEditing:]':/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:49: error: 'keyboardShown' undeclared (first use in this function)/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:53: error: 'table' undeclared (first use in this function)/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:60: error: 'currentCell' undeclared (first use in this function)/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m: In function '-[AddViewController editableCellDidEndEditing:]':/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:69: error: 'data' undeclared (first use in this function)/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m: In function '-[AddViewController editableCellDidEndOnExit:]':/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:74: error: 'table' undeclared (first use in this function)/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:78: error: 'keyboardShown' undeclared (first use in this function)/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:79: error: 'currentCell' undeclared (first use in this function)/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m: In function '-[AddViewController tableView:numberOfRowsInSection:]':/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:93: error: 'fields' undeclared (first use in this function)/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:96: warning: control reaches end of non-void function/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m: In function '-[AddViewController tableView:cellForRowAtIndexPath:]':/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:111: error: 'table' undeclared (first use in this function)/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:114: warning: 'EditableCell' may not respond to '+alloc'/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:114: warning: (Messages without a matching method signature/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:114: warning: will be assumed to return 'id' and accept/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:114: warning: '...' as arguments.)/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:117: error: 'fields' undeclared (first use in this function)/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:118: warning: 'NSString' may not respond to '-:'/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:120: error: 'data' undeclared (first use in this function)/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:128: error: request for member 'editing' in something not a structure or union/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:131: warning: class 'AddViewController' does not implement the 'EditableCellDelegate' protocol/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:131: error: expected ';' before 'cell'/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:132: warning: incompatible Objective-C types returning 'struct EditableCell *', expected 'struct UITableViewCell *'/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m: In function '-[AddViewController didReceiveMemoryWarning]':/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:142: error: no super class declared in @interface for 'AddViewController'/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m: In function '-[AddViewController dealloc]':/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:148: error: 'fields' undeclared (first use in this function)/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:149: error: 'data' undeclared (first use in this function)/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:150: error: 'table' undeclared (first use in this function)/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:151: error: expected ']' before 'dealloc'39(4@85"Cannot find interface declaration for 'UITabelViewCell', superclass of 'EditableCell'354299941#175#154#3(7@83"In file included from /Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m354299941#18446744073709551615#0#0(6@61"/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m354297784#9#0#9#0#0"0(7@83"In file included from /Users/Decmac/Desktop/AddressBook/Classes/AddViewController.h354299941#18446744073709551615#0#0(6@61"/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.h354281297#10#0#10#0#0"0(13@145"Cannot find interface declaration for 'UITabelViewCell', superclass of 'EditableCell' in /Users/Decmac/Desktop/AddressBook/Classes/EditableCell.h354299941#18446744073709551615#0#0(6@56"/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.h354299153#13#0#13#0#0"0(6@56"/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.h354299153#13#0#13#0#60"cannot find interface declaration for '*', superclass of '*'0(4@64"No type or storage class may be specified here before 'protocol'354299941#416#138#2(7@83"In file included from /Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m354299941#18446744073709551615#0#0(6@61"/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m354297784#9#0#9#0#0"0(13@129"No type or storage class may be specified here before 'protocol' in /Users/Decmac/Desktop/AddressBook/Classes/AddViewController.h354299941#18446744073709551615#0#0(6@61"/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.h354281297#13#0#13#0#0"0(6@61"/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.h354281297#13#0#13#0#0"0(4@39"Expected ')' before 'AddViewController'354299941#554#113#2(7@83"In file included from /Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m354299941#18446744073709551615#0#0(6@61"/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m354297784#9#0#9#0#0"0(13@104"Expected ')' before 'AddViewController' in /Users/Decmac/Desktop/AddressBook/Classes/AddViewController.h354299941#18446744073709551615#0#0(6@61"/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.h354281297#36#0#36#0#0"0(6@61"/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.h354281297#36#0#36#0#19"expected * before *0(22@57"Cannot find interface declaration for 'AddViewController'354299941#667#133#0(6@61"/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m354297784#13#0#13#0#0"0(4@60"No declaration of property 'delegate' found in the interface354299941#800#134#0(6@61"/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m354297784#13#0#13#0#0"0(4@57"No declaration of property 'table' found in the interface354299941#934#131#0(6@61"/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m354297784#14#0#14#0#0"0(4@61"No super class declared in @interface for 'AddViewController'354299941#1188#135#0(6@61"/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m354297784#18#0#18#0#0"0(4@48"'fields' undeclared (first use in this function)354299941#1323#122#0(6@61"/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m354297784#19#0#19#0#43"'*' undeclared (first use in this function)0(4@46"'data' undeclared (first use in this function)354299941#1675#120#0(6@61"/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m354297784#21#0#21#0#43"'*' undeclared (first use in this function)0(4@55"'keyboardShown' undeclared (first use in this function)354299941#1795#129#0(6@61"/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m354297784#23#0#23#0#43"'*' undeclared (first use in this function)0(4@53"'currentCell' undeclared (first use in this function)354299941#1924#127#0(6@61"/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m354297784#25#0#25#0#43"'*' undeclared (first use in this function)0(4@53"'currentCell' undeclared (first use in this function)354299941#2162#127#0(6@61"/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m354297784#32#0#32#0#43"'*' undeclared (first use in this function)0(4@46"'data' undeclared (first use in this function)354299941#2289#120#0(6@61"/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m354297784#33#0#33#0#43"'*' undeclared (first use in this function)0(4@50"'delegate' undeclared (first use in this function)354299941#2409#124#0(6@61"/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m354297784#35#0#35#0#43"'*' undeclared (first use in this function)0(4@46"'data' undeclared (first use in this function)354299941#2639#120#0(6@61"/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m354297784#41#0#41#0#43"'*' undeclared (first use in this function)0(4@55"'keyboardShown' undeclared (first use in this function)354299941#2887#129#0(6@61"/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m354297784#49#0#49#0#43"'*' undeclared (first use in this function)0(4@47"'table' undeclared (first use in this function)354299941#3016#121#0(6@61"/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m354297784#53#0#53#0#43"'*' undeclared (first use in this function)0(4@53"'currentCell' undeclared (first use in this function)354299941#3137#127#0(6@61"/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m354297784#60#0#60#0#43"'*' undeclared (first use in this function)0(4@46"'data' undeclared (first use in this function)354299941#3390#120#0(6@61"/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m354297784#69#0#69#0#43"'*' undeclared (first use in this function)0(4@47"'table' undeclared (first use in this function)354299941#3635#121#0(6@61"/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m354297784#74#0#74#0#43"'*' undeclared (first use in this function)0(4@55"'keyboardShown' undeclared (first use in this function)354299941#3756#129#0(6@61"/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m354297784#78#0#78#0#43"'*' undeclared (first use in this function)0(4@53"'currentCell' undeclared (first use in this function)354299941#3885#127#0(6@61"/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m354297784#79#0#79#0#43"'*' undeclared (first use in this function)0(4@48"'fields' undeclared (first use in this function)354299941#4144#122#0(6@61"/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m354297784#93#0#93#0#43"'*' undeclared (first use in this function)0(22@40"Control reaches end of non-void function354299941#4266#116#0(6@61"/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m354297784#96#0#96#0#40"control reaches end of non-void function0(4@47"'table' undeclared (first use in this function)354299941#4514#122#0(6@61"/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m354297784#111#0#111#0#43"'*' undeclared (first use in this function)0(22@42"'EditableCell' may not respond to '+alloc'354299941#4636#119#0(6@61"/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m354297784#114#0#114#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)354299941#4755#122#0(6@61"/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m354297784#114#0#114#0#0"0(4@48"'fields' undeclared (first use in this function)354299941#5092#123#0(6@61"/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m354297784#117#0#117#0#43"'*' undeclared (first use in this function)0(22@34"'NSString' may not respond to '-:'354299941#5215#111#0(6@61"/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m354297784#118#0#118#0#26"'*' may not respond to '*'0(4@46"'data' undeclared (first use in this function)354299941#5326#121#0(6@61"/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m354297784#120#0#120#0#43"'*' undeclared (first use in this function)0(4@66"Request for member 'editing' in something not a structure or union354299941#5447#141#0(6@61"/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m354297784#128#0#128#0#0"0(22@80"Class 'AddViewController' does not implement the 'EditableCellDelegate' protocol354299941#5588#157#0(6@61"/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m354297784#131#0#131#0#45"class '*' does not implement the '*' protocol0(4@26"Expected ';' before 'cell'354299941#5745#101#0(6@61"/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m354297784#131#0#131#0#19"expected * before *0(22@101"Incompatible Objective-C types returning 'struct EditableCell *', expected 'struct UITableViewCell *'354299941#5846#178#0(6@61"/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m354297784#132#0#132#0#0"0(4@61"No super class declared in @interface for 'AddViewController'354299941#6147#136#0(6@61"/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m354297784#142#0#142#0#0"0(4@48"'fields' undeclared (first use in this function)354299941#6390#123#0(6@61"/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m354297784#148#0#148#0#43"'*' undeclared (first use in this function)0(4@46"'data' undeclared (first use in this function)354299941#6513#121#0(6@61"/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m354297784#149#0#149#0#43"'*' undeclared (first use in this function)0(4@47"'table' undeclared (first use in this function)354299941#6634#122#0(6@61"/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m354297784#150#0#150#0#43"'*' undeclared (first use in this function)0(4@29"Expected ']' before 'dealloc'354299941#6756#104#0(6@61"/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m354297784#151#0#151#0#19"expected * before *0(0#0#61"/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m4300885448#1918"    cd /Users/Decmac/Desktop/AddressBook    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/AddressBook/build/AddressBook.build/Debug-iphonesimulator/AddressBook.build/AddressBook-generated-files.hmap -I/Users/Decmac/Desktop/AddressBook/build/AddressBook.build/Debug-iphonesimulator/AddressBook.build/AddressBook-own-target-headers.hmap -I/Users/Decmac/Desktop/AddressBook/build/AddressBook.build/Debug-iphonesimulator/AddressBook.build/AddressBook-all-target-headers.hmap -iquote /Users/Decmac/Desktop/AddressBook/build/AddressBook.build/Debug-iphonesimulator/AddressBook.build/AddressBook-project-headers.hmap -F/Users/Decmac/Desktop/AddressBook/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/AddressBook/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/AddressBook/build/AddressBook.build/Debug-iphonesimulator/AddressBook.build/DerivedSources/i386 -I/Users/Decmac/Desktop/AddressBook/build/AddressBook.build/Debug-iphonesimulator/AddressBook.build/DerivedSources -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AddressBook_Prefix-fpocccunjwdirnexorafoxwdczpm/AddressBook_Prefix.pch -c /Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m -o /Users/Decmac/Desktop/AddressBook/build/AddressBook.build/Debug-iphonesimulator/AddressBook.build/Objects-normal/i386/AddViewController.o1#
+
+CCompileC build/AddressBook.build/Debug-iphonesimulator/AddressBook.build/Objects-normal/i386/AddressBookAppDelegate.o /Users/Decmac/Desktop/AddressBook/Classes/AddressBookAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354299940.971576
+e354299941.135627
+r0
+xCompileC
+xbuild/AddressBook.build/Debug-iphonesimulator/AddressBook.build/Objects-normal/i386/AddressBookAppDelegate.o
+x/Users/Decmac/Desktop/AddressBook/Classes/AddressBookAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/Decmac/Desktop/AddressBook/Classes/AddViewController.h:10,
+o                 from /Users/Decmac/Desktop/AddressBook/Classes/RootViewController.h:9,
+o                 from /Users/Decmac/Desktop/AddressBook/Classes/AddressBookAppDelegate.m:10:
+o/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.h:13: error: cannot find interface declaration for 'UITabelViewCell', superclass of 'EditableCell'
+oIn file included from /Users/Decmac/Desktop/AddressBook/Classes/RootViewController.h:9,
+o                 from /Users/Decmac/Desktop/AddressBook/Classes/AddressBookAppDelegate.m:10:
+o/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.h:13: error: no type or storage class may be specified here before 'protocol'
+o/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.h:36: error: expected ')' before 'AddViewController'
+lSLF07#2@74"Compile /Users/Decmac/Desktop/AddressBook/Classes/AddressBookAppDelegate.m354299940#354299941#0(855"In file included from /Users/Decmac/Desktop/AddressBook/Classes/AddViewController.h:10,                 from /Users/Decmac/Desktop/AddressBook/Classes/RootViewController.h:9,                 from /Users/Decmac/Desktop/AddressBook/Classes/AddressBookAppDelegate.m:10:/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.h:13: error: cannot find interface declaration for 'UITabelViewCell', superclass of 'EditableCell'In file included from /Users/Decmac/Desktop/AddressBook/Classes/RootViewController.h:9,                 from /Users/Decmac/Desktop/AddressBook/Classes/AddressBookAppDelegate.m:10:/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.h:13: error: no type or storage class may be specified here before 'protocol'/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.h:36: error: expected ')' before 'AddViewController'3(4@85"Cannot find interface declaration for 'UITabelViewCell', superclass of 'EditableCell'354299941#269#154#4(7@88"In file included from /Users/Decmac/Desktop/AddressBook/Classes/AddressBookAppDelegate.m354299941#18446744073709551615#0#0(6@66"/Users/Decmac/Desktop/AddressBook/Classes/AddressBookAppDelegate.m354276112#10#0#10#0#0"0(7@84"In file included from /Users/Decmac/Desktop/AddressBook/Classes/RootViewController.h354299941#18446744073709551615#0#0(6@62"/Users/Decmac/Desktop/AddressBook/Classes/RootViewController.h354277038#9#0#9#0#0"0(7@83"In file included from /Users/Decmac/Desktop/AddressBook/Classes/AddViewController.h354299941#18446744073709551615#0#0(6@61"/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.h354281297#10#0#10#0#0"0(13@145"Cannot find interface declaration for 'UITabelViewCell', superclass of 'EditableCell' in /Users/Decmac/Desktop/AddressBook/Classes/EditableCell.h354299941#18446744073709551615#0#0(6@56"/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.h354299153#13#0#13#0#0"0(6@56"/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.h354299153#13#0#13#0#60"cannot find interface declaration for '*', superclass of '*'0(4@64"No type or storage class may be specified here before 'protocol'354299941#604#138#3(7@88"In file included from /Users/Decmac/Desktop/AddressBook/Classes/AddressBookAppDelegate.m354299941#18446744073709551615#0#0(6@66"/Users/Decmac/Desktop/AddressBook/Classes/AddressBookAppDelegate.m354276112#10#0#10#0#0"0(7@84"In file included from /Users/Decmac/Desktop/AddressBook/Classes/RootViewController.h354299941#18446744073709551615#0#0(6@62"/Users/Decmac/Desktop/AddressBook/Classes/RootViewController.h354277038#9#0#9#0#0"0(13@129"No type or storage class may be specified here before 'protocol' in /Users/Decmac/Desktop/AddressBook/Classes/AddViewController.h354299941#18446744073709551615#0#0(6@61"/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.h354281297#13#0#13#0#0"0(6@61"/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.h354281297#13#0#13#0#0"0(4@39"Expected ')' before 'AddViewController'354299941#742#113#3(7@88"In file included from /Users/Decmac/Desktop/AddressBook/Classes/AddressBookAppDelegate.m354299941#18446744073709551615#0#0(6@66"/Users/Decmac/Desktop/AddressBook/Classes/AddressBookAppDelegate.m354276112#10#0#10#0#0"0(7@84"In file included from /Users/Decmac/Desktop/AddressBook/Classes/RootViewController.h354299941#18446744073709551615#0#0(6@62"/Users/Decmac/Desktop/AddressBook/Classes/RootViewController.h354277038#9#0#9#0#0"0(13@104"Expected ')' before 'AddViewController' in /Users/Decmac/Desktop/AddressBook/Classes/AddViewController.h354299941#18446744073709551615#0#0(6@61"/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.h354281297#36#0#36#0#0"0(6@61"/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.h354281297#36#0#36#0#19"expected * before *0(0#0#66"/Users/Decmac/Desktop/AddressBook/Classes/AddressBookAppDelegate.m4300885448#1928"    cd /Users/Decmac/Desktop/AddressBook    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/AddressBook/build/AddressBook.build/Debug-iphonesimulator/AddressBook.build/AddressBook-generated-files.hmap -I/Users/Decmac/Desktop/AddressBook/build/AddressBook.build/Debug-iphonesimulator/AddressBook.build/AddressBook-own-target-headers.hmap -I/Users/Decmac/Desktop/AddressBook/build/AddressBook.build/Debug-iphonesimulator/AddressBook.build/AddressBook-all-target-headers.hmap -iquote /Users/Decmac/Desktop/AddressBook/build/AddressBook.build/Debug-iphonesimulator/AddressBook.build/AddressBook-project-headers.hmap -F/Users/Decmac/Desktop/AddressBook/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/AddressBook/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/AddressBook/build/AddressBook.build/Debug-iphonesimulator/AddressBook.build/DerivedSources/i386 -I/Users/Decmac/Desktop/AddressBook/build/AddressBook.build/Debug-iphonesimulator/AddressBook.build/DerivedSources -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AddressBook_Prefix-fpocccunjwdirnexorafoxwdczpm/AddressBook_Prefix.pch -c /Users/Decmac/Desktop/AddressBook/Classes/AddressBookAppDelegate.m -o /Users/Decmac/Desktop/AddressBook/build/AddressBook.build/Debug-iphonesimulator/AddressBook.build/Objects-normal/i386/AddressBookAppDelegate.o1#
+
+CCompileC build/AddressBook.build/Debug-iphonesimulator/AddressBook.build/Objects-normal/i386/ContactViewController.o /Users/Decmac/Desktop/AddressBook/Classes/ContactViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354299941.230009
+e354299941.335384
+r0
+xCompileC
+xbuild/AddressBook.build/Debug-iphonesimulator/AddressBook.build/Objects-normal/i386/ContactViewController.o
+x/Users/Decmac/Desktop/AddressBook/Classes/ContactViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/Decmac/Desktop/AddressBook/Classes/ContactViewController.m:10:
+o/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.h:13: error: cannot find interface declaration for 'UITabelViewCell', superclass of 'EditableCell'
+o/Users/Decmac/Desktop/AddressBook/Classes/ContactViewController.m:12: error: no type or storage class may be specified here before 'implementation'
+o/Users/Decmac/Desktop/AddressBook/Classes/ContactViewController.m:17: error: expected ';' before '{' token
+o/Users/Decmac/Desktop/AddressBook/Classes/ContactViewController.m:67: warning: '@end' missing in implementation context
+o/Users/Decmac/Desktop/AddressBook/Classes/ContactViewController.m:67: warning: property 'person' requires method '-person' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/Decmac/Desktop/AddressBook/Classes/ContactViewController.m:67: warning: property 'person' requires the method 'setPerson:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/Decmac/Desktop/AddressBook/Classes/ContactViewController.m:67: warning: incomplete implementation of class 'ContactViewController'
+o/Users/Decmac/Desktop/AddressBook/Classes/ContactViewController.m:67: warning: method definition for '-updateTitle' not found
+o/Users/Decmac/Desktop/AddressBook/Classes/ContactViewController.m:67: warning: incomplete implementation of class 'ContactViewController'
+o/Users/Decmac/Desktop/AddressBook/Classes/ContactViewController.m:67: warning: method definition for '-tableView:cellForRowAtIndexPath:' not found
+o/Users/Decmac/Desktop/AddressBook/Classes/ContactViewController.m:67: warning: method definition for '-tableView:numberOfRowsInSection:' not found
+o/Users/Decmac/Desktop/AddressBook/Classes/ContactViewController.m:67: warning: class 'ContactViewController' does not fully implement the 'UITableViewDataSource' protocol
+lSLF07#2@73"Compile /Users/Decmac/Desktop/AddressBook/Classes/ContactViewController.m354299941#354299941#0(1895"In file included from /Users/Decmac/Desktop/AddressBook/Classes/ContactViewController.m:10:/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.h:13: error: cannot find interface declaration for 'UITabelViewCell', superclass of 'EditableCell'/Users/Decmac/Desktop/AddressBook/Classes/ContactViewController.m:12: error: no type or storage class may be specified here before 'implementation'/Users/Decmac/Desktop/AddressBook/Classes/ContactViewController.m:17: error: expected ';' before '{' token/Users/Decmac/Desktop/AddressBook/Classes/ContactViewController.m:67: warning: '@end' missing in implementation context/Users/Decmac/Desktop/AddressBook/Classes/ContactViewController.m:67: warning: property 'person' requires method '-person' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/Decmac/Desktop/AddressBook/Classes/ContactViewController.m:67: warning: property 'person' requires the method 'setPerson:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/Decmac/Desktop/AddressBook/Classes/ContactViewController.m:67: warning: incomplete implementation of class 'ContactViewController'/Users/Decmac/Desktop/AddressBook/Classes/ContactViewController.m:67: warning: method definition for '-updateTitle' not found/Users/Decmac/Desktop/AddressBook/Classes/ContactViewController.m:67: warning: incomplete implementation of class 'ContactViewController'/Users/Decmac/Desktop/AddressBook/Classes/ContactViewController.m:67: warning: method definition for '-tableView:cellForRowAtIndexPath:' not found/Users/Decmac/Desktop/AddressBook/Classes/ContactViewController.m:67: warning: method definition for '-tableView:numberOfRowsInSection:' not found/Users/Decmac/Desktop/AddressBook/Classes/ContactViewController.m:67: warning: class 'ContactViewController' does not fully implement the 'UITableViewDataSource' protocol12(4@85"Cannot find interface declaration for 'UITabelViewCell', superclass of 'EditableCell'354299941#92#154#2(7@87"In file included from /Users/Decmac/Desktop/AddressBook/Classes/ContactViewController.m354299941#18446744073709551615#0#0(6@65"/Users/Decmac/Desktop/AddressBook/Classes/ContactViewController.m354298649#10#0#10#0#0"0(13@145"Cannot find interface declaration for 'UITabelViewCell', superclass of 'EditableCell' in /Users/Decmac/Desktop/AddressBook/Classes/EditableCell.h354299941#18446744073709551615#0#0(6@56"/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.h354299153#13#0#13#0#0"0(6@56"/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.h354299153#13#0#13#0#60"cannot find interface declaration for '*', superclass of '*'0(4@70"No type or storage class may be specified here before 'implementation'354299941#246#148#0(6@65"/Users/Decmac/Desktop/AddressBook/Classes/ContactViewController.m354298649#12#0#12#0#0"0(4@29"Expected ';' before '{' token354299941#394#107#0(6@65"/Users/Decmac/Desktop/AddressBook/Classes/ContactViewController.m354298649#17#0#17#0#19"expected * before *0(22@40"'@end' missing in implementation context354299941#501#120#0(6@65"/Users/Decmac/Desktop/AddressBook/Classes/ContactViewController.m354298649#67#0#67#0#40"'@end' missing in implementation context0(22@120"Property 'person' requires method '-person' to be defined - use @synthesize, @dynamic or provide a method implementation354299941#621#200#0(6@65"/Users/Decmac/Desktop/AddressBook/Classes/ContactViewController.m354298649#67#0#67#0#0"0(22@127"Property 'person' requires the method 'setPerson:' to be defined - use @synthesize, @dynamic or provide a method implementation354299941#821#207#0(6@65"/Users/Decmac/Desktop/AddressBook/Classes/ContactViewController.m354298649#67#0#67#0#0"0(22@58"Incomplete implementation of class 'ContactViewController'354299941#1028#138#0(6@65"/Users/Decmac/Desktop/AddressBook/Classes/ContactViewController.m354298649#67#0#67#0#38"incomplete implementation of class '*'0(22@46"Method definition for '-updateTitle' not found354299941#1166#126#0(6@65"/Users/Decmac/Desktop/AddressBook/Classes/ContactViewController.m354298649#67#0#67#0#35"method definition for '*' not found0(22@58"Incomplete implementation of class 'ContactViewController'354299941#1292#138#0(6@65"/Users/Decmac/Desktop/AddressBook/Classes/ContactViewController.m354298649#67#0#67#0#38"incomplete implementation of class '*'0(22@67"Method definition for '-tableView:cellForRowAtIndexPath:' not found354299941#1430#147#0(6@65"/Users/Decmac/Desktop/AddressBook/Classes/ContactViewController.m354298649#67#0#67#0#35"method definition for '*' not found0(22@67"Method definition for '-tableView:numberOfRowsInSection:' not found354299941#1577#147#0(6@65"/Users/Decmac/Desktop/AddressBook/Classes/ContactViewController.m354298649#67#0#67#0#35"method definition for '*' not found0(22@91"Class 'ContactViewController' does not fully implement the 'UITableViewDataSource' protocol354299941#1724#171#0(6@65"/Users/Decmac/Desktop/AddressBook/Classes/ContactViewController.m354298649#67#0#67#0#51"class '*' does not fully implement the '*' protocol0(0#0#65"/Users/Decmac/Desktop/AddressBook/Classes/ContactViewController.m4300885448#1926"    cd /Users/Decmac/Desktop/AddressBook    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/AddressBook/build/AddressBook.build/Debug-iphonesimulator/AddressBook.build/AddressBook-generated-files.hmap -I/Users/Decmac/Desktop/AddressBook/build/AddressBook.build/Debug-iphonesimulator/AddressBook.build/AddressBook-own-target-headers.hmap -I/Users/Decmac/Desktop/AddressBook/build/AddressBook.build/Debug-iphonesimulator/AddressBook.build/AddressBook-all-target-headers.hmap -iquote /Users/Decmac/Desktop/AddressBook/build/AddressBook.build/Debug-iphonesimulator/AddressBook.build/AddressBook-project-headers.hmap -F/Users/Decmac/Desktop/AddressBook/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/AddressBook/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/AddressBook/build/AddressBook.build/Debug-iphonesimulator/AddressBook.build/DerivedSources/i386 -I/Users/Decmac/Desktop/AddressBook/build/AddressBook.build/Debug-iphonesimulator/AddressBook.build/DerivedSources -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AddressBook_Prefix-fpocccunjwdirnexorafoxwdczpm/AddressBook_Prefix.pch -c /Users/Decmac/Desktop/AddressBook/Classes/ContactViewController.m -o /Users/Decmac/Desktop/AddressBook/build/AddressBook.build/Debug-iphonesimulator/AddressBook.build/Objects-normal/i386/ContactViewController.o1#
+
+CCompileC build/AddressBook.build/Debug-iphonesimulator/AddressBook.build/Objects-normal/i386/EditableCell.o /Users/Decmac/Desktop/AddressBook/Classes/EditableCell.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354299941.262783
+e354299941.350002
+r0
+xCompileC
+xbuild/AddressBook.build/Debug-iphonesimulator/AddressBook.build/Objects-normal/i386/EditableCell.o
+x/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/Decmac/Desktop/AddressBook/Classes/EditableCell.m:9:
+o/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.h:13: error: cannot find interface declaration for 'UITabelViewCell', superclass of 'EditableCell'
+o/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.m:12: error: no type or storage class may be specified here before 'implementation'
+o/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.m:15: error: expected identifier or '(' before 'synthesize'
+o/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.m:16: error: expected identifier or '(' before 'synthesize'
+o/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.m:19: error: expected ';' before '{' token
+o/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.m:81: warning: '@end' missing in implementation context
+o/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.m:81: warning: property 'textField' requires method '-textField' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.m:81: warning: property 'textField' requires the method 'setTextField:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.m:81: warning: property 'label' requires method '-label' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.m:81: warning: property 'delegate' requires method '-delegate' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.m:81: warning: property 'delegate' requires the method 'setDelegate:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.m:81: warning: incomplete implementation of class 'EditableCell'
+o/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.m:81: warning: method definition for '-clearText' not found
+o/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.m:81: warning: method definition for '-setLabelText:' not found
+o/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.m:81: warning: incomplete implementation of class 'EditableCell'
+o/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.m:81: warning: method definition for '-description' not found
+o/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.m:81: warning: method definition for '-retainCount' not found
+o/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.m:81: warning: method definition for '-autorelease' not found
+o/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.m:81: warning: method definition for '-release' not found
+o/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.m:81: warning: method definition for '-retain' not found
+o/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.m:81: warning: method definition for '-respondsToSelector:' not found
+o/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.m:81: warning: method definition for '-conformsToProtocol:' not found
+o/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.m:81: warning: method definition for '-isMemberOfClass:' not found
+o/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.m:81: warning: method definition for '-isKindOfClass:' not found
+o/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.m:81: warning: method definition for '-isProxy' not found
+o/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.m:81: warning: method definition for '-performSelector:withObject:withObject:' not found
+o/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.m:81: warning: method definition for '-performSelector:withObject:' not found
+o/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.m:81: warning: method definition for '-performSelector:' not found
+o/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.m:81: warning: method definition for '-zone' not found
+o/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.m:81: warning: method definition for '-self' not found
+o/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.m:81: warning: method definition for '-class' not found
+o/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.m:81: warning: method definition for '-superclass' not found
+o/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.m:81: warning: method definition for '-hash' not found
+o/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.m:81: warning: method definition for '-isEqual:' not found
+o/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.m:81: warning: class 'EditableCell' does not fully implement the 'NSObject' protocol
+lSLF07#2@64"Compile /Users/Decmac/Desktop/AddressBook/Classes/EditableCell.m354299941#354299941#0(4666"In file included from /Users/Decmac/Desktop/AddressBook/Classes/EditableCell.m:9:/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.h:13: error: cannot find interface declaration for 'UITabelViewCell', superclass of 'EditableCell'/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.m:12: error: no type or storage class may be specified here before 'implementation'/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.m:15: error: expected identifier or '(' before 'synthesize'/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.m:16: error: expected identifier or '(' before 'synthesize'/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.m:19: error: expected ';' before '{' token/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.m:81: warning: '@end' missing in implementation context/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.m:81: warning: property 'textField' requires method '-textField' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.m:81: warning: property 'textField' requires the method 'setTextField:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.m:81: warning: property 'label' requires method '-label' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.m:81: warning: property 'delegate' requires method '-delegate' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.m:81: warning: property 'delegate' requires the method 'setDelegate:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.m:81: warning: incomplete implementation of class 'EditableCell'/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.m:81: warning: method definition for '-clearText' not found/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.m:81: warning: method definition for '-setLabelText:' not found/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.m:81: warning: incomplete implementation of class 'EditableCell'/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.m:81: warning: method definition for '-description' not found/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.m:81: warning: method definition for '-retainCount' not found/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.m:81: warning: method definition for '-autorelease' not found/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.m:81: warning: method definition for '-release' not found/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.m:81: warning: method definition for '-retain' not found/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.m:81: warning: method definition for '-respondsToSelector:' not found/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.m:81: warning: method definition for '-conformsToProtocol:' not found/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.m:81: warning: method definition for '-isMemberOfClass:' not found/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.m:81: warning: method definition for '-isKindOfClass:' not found/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.m:81: warning: method definition for '-isProxy' not found/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.m:81: warning: method definition for '-performSelector:withObject:withObject:' not found/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.m:81: warning: method definition for '-performSelector:withObject:' not found/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.m:81: warning: method definition for '-performSelector:' not found/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.m:81: warning: method definition for '-zone' not found/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.m:81: warning: method definition for '-self' not found/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.m:81: warning: method definition for '-class' not found/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.m:81: warning: method definition for '-superclass' not found/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.m:81: warning: method definition for '-hash' not found/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.m:81: warning: method definition for '-isEqual:' not found/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.m:81: warning: class 'EditableCell' does not fully implement the 'NSObject' protocol35(4@85"Cannot find interface declaration for 'UITabelViewCell', superclass of 'EditableCell'354299941#82#154#2(7@78"In file included from /Users/Decmac/Desktop/AddressBook/Classes/EditableCell.m354299941#18446744073709551615#0#0(6@56"/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.m354299935#9#0#9#0#0"0(13@145"Cannot find interface declaration for 'UITabelViewCell', superclass of 'EditableCell' in /Users/Decmac/Desktop/AddressBook/Classes/EditableCell.h354299941#18446744073709551615#0#0(6@56"/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.h354299153#13#0#13#0#0"0(6@56"/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.h354299153#13#0#13#0#60"cannot find interface declaration for '*', superclass of '*'0(4@70"No type or storage class may be specified here before 'implementation'354299941#236#139#0(6@56"/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.m354299935#12#0#12#0#0"0(4@46"Expected identifier or '(' before 'synthesize'354299941#375#115#0(6@56"/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.m354299935#15#0#15#0#19"expected * before *0(4@46"Expected identifier or '(' before 'synthesize'354299941#490#115#0(6@56"/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.m354299935#16#0#16#0#19"expected * before *0(4@29"Expected ';' before '{' token354299941#605#98#0(6@56"/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.m354299935#19#0#19#0#19"expected * before *0(22@40"'@end' missing in implementation context354299941#703#111#0(6@56"/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.m354299935#81#0#81#0#40"'@end' missing in implementation context0(22@126"Property 'textField' requires method '-textField' to be defined - use @synthesize, @dynamic or provide a method implementation354299941#814#197#0(6@56"/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.m354299935#81#0#81#0#0"0(22@133"Property 'textField' requires the method 'setTextField:' to be defined - use @synthesize, @dynamic or provide a method implementation354299941#1011#204#0(6@56"/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.m354299935#81#0#81#0#0"0(22@118"Property 'label' requires method '-label' to be defined - use @synthesize, @dynamic or provide a method implementation354299941#1215#189#0(6@56"/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.m354299935#81#0#81#0#0"0(22@124"Property 'delegate' requires method '-delegate' to be defined - use @synthesize, @dynamic or provide a method implementation354299941#1404#195#0(6@56"/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.m354299935#81#0#81#0#0"0(22@131"Property 'delegate' requires the method 'setDelegate:' to be defined - use @synthesize, @dynamic or provide a method implementation354299941#1599#202#0(6@56"/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.m354299935#81#0#81#0#0"0(22@49"Incomplete implementation of class 'EditableCell'354299941#1801#120#0(6@56"/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.m354299935#81#0#81#0#38"incomplete implementation of class '*'0(22@44"Method definition for '-clearText' not found354299941#1921#115#0(6@56"/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.m354299935#81#0#81#0#35"method definition for '*' not found0(22@48"Method definition for '-setLabelText:' not found354299941#2036#119#0(6@56"/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.m354299935#81#0#81#0#35"method definition for '*' not found0(22@49"Incomplete implementation of class 'EditableCell'354299941#2155#120#0(6@56"/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.m354299935#81#0#81#0#38"incomplete implementation of class '*'0(22@46"Method definition for '-description' not found354299941#2275#117#0(6@56"/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.m354299935#81#0#81#0#35"method definition for '*' not found0(22@46"Method definition for '-retainCount' not found354299941#2392#117#0(6@56"/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.m354299935#81#0#81#0#35"method definition for '*' not found0(22@46"Method definition for '-autorelease' not found354299941#2509#117#0(6@56"/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.m354299935#81#0#81#0#35"method definition for '*' not found0(22@42"Method definition for '-release' not found354299941#2626#113#0(6@56"/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.m354299935#81#0#81#0#35"method definition for '*' not found0(22@41"Method definition for '-retain' not found354299941#2739#112#0(6@56"/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.m354299935#81#0#81#0#35"method definition for '*' not found0(22@54"Method definition for '-respondsToSelector:' not found354299941#2851#125#0(6@56"/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.m354299935#81#0#81#0#35"method definition for '*' not found0(22@54"Method definition for '-conformsToProtocol:' not found354299941#2976#125#0(6@56"/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.m354299935#81#0#81#0#35"method definition for '*' not found0(22@51"Method definition for '-isMemberOfClass:' not found354299941#3101#122#0(6@56"/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.m354299935#81#0#81#0#35"method definition for '*' not found0(22@49"Method definition for '-isKindOfClass:' not found354299941#3223#120#0(6@56"/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.m354299935#81#0#81#0#35"method definition for '*' not found0(22@42"Method definition for '-isProxy' not found354299941#3343#113#0(6@56"/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.m354299935#81#0#81#0#35"method definition for '*' not found0(22@73"Method definition for '-performSelector:withObject:withObject:' not found354299941#3456#144#0(6@56"/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.m354299935#81#0#81#0#35"method definition for '*' not found0(22@62"Method definition for '-performSelector:withObject:' not found354299941#3600#133#0(6@56"/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.m354299935#81#0#81#0#35"method definition for '*' not found0(22@51"Method definition for '-performSelector:' not found354299941#3733#122#0(6@56"/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.m354299935#81#0#81#0#35"method definition for '*' not found0(22@39"Method definition for '-zone' not found354299941#3855#110#0(6@56"/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.m354299935#81#0#81#0#35"method definition for '*' not found0(22@39"Method definition for '-self' not found354299941#3965#110#0(6@56"/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.m354299935#81#0#81#0#35"method definition for '*' not found0(22@40"Method definition for '-class' not found354299941#4075#111#0(6@56"/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.m354299935#81#0#81#0#35"method definition for '*' not found0(22@45"Method definition for '-superclass' not found354299941#4186#116#0(6@56"/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.m354299935#81#0#81#0#35"method definition for '*' not found0(22@39"Method definition for '-hash' not found354299941#4302#110#0(6@56"/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.m354299935#81#0#81#0#35"method definition for '*' not found0(22@43"Method definition for '-isEqual:' not found354299941#4412#114#0(6@56"/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.m354299935#81#0#81#0#35"method definition for '*' not found0(22@69"Class 'EditableCell' does not fully implement the 'NSObject' protocol354299941#4526#140#0(6@56"/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.m354299935#81#0#81#0#51"class '*' does not fully implement the '*' protocol0(0#0#56"/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.m4300885448#1908"    cd /Users/Decmac/Desktop/AddressBook    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/AddressBook/build/AddressBook.build/Debug-iphonesimulator/AddressBook.build/AddressBook-generated-files.hmap -I/Users/Decmac/Desktop/AddressBook/build/AddressBook.build/Debug-iphonesimulator/AddressBook.build/AddressBook-own-target-headers.hmap -I/Users/Decmac/Desktop/AddressBook/build/AddressBook.build/Debug-iphonesimulator/AddressBook.build/AddressBook-all-target-headers.hmap -iquote /Users/Decmac/Desktop/AddressBook/build/AddressBook.build/Debug-iphonesimulator/AddressBook.build/AddressBook-project-headers.hmap -F/Users/Decmac/Desktop/AddressBook/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/AddressBook/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/AddressBook/build/AddressBook.build/Debug-iphonesimulator/AddressBook.build/DerivedSources/i386 -I/Users/Decmac/Desktop/AddressBook/build/AddressBook.build/Debug-iphonesimulator/AddressBook.build/DerivedSources -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AddressBook_Prefix-fpocccunjwdirnexorafoxwdczpm/AddressBook_Prefix.pch -c /Users/Decmac/Desktop/AddressBook/Classes/EditableCell.m -o /Users/Decmac/Desktop/AddressBook/build/AddressBook.build/Debug-iphonesimulator/AddressBook.build/Objects-normal/i386/EditableCell.o1#
+
+CCompileC build/AddressBook.build/Debug-iphonesimulator/AddressBook.build/Objects-normal/i386/RootViewController.o /Users/Decmac/Desktop/AddressBook/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354299941.135836
+e354299941.229855
+r0
+xCompileC
+xbuild/AddressBook.build/Debug-iphonesimulator/AddressBook.build/Objects-normal/i386/RootViewController.o
+x/Users/Decmac/Desktop/AddressBook/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/Decmac/Desktop/AddressBook/Classes/AddViewController.h:10,
+o                 from /Users/Decmac/Desktop/AddressBook/Classes/RootViewController.h:9,
+o                 from /Users/Decmac/Desktop/AddressBook/Classes/RootViewController.m:9:
+o/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.h:13: error: cannot find interface declaration for 'UITabelViewCell', superclass of 'EditableCell'
+oIn file included from /Users/Decmac/Desktop/AddressBook/Classes/RootViewController.h:9,
+o                 from /Users/Decmac/Desktop/AddressBook/Classes/RootViewController.m:9:
+o/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.h:13: error: no type or storage class may be specified here before 'protocol'
+o/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.h:36: error: expected ')' before 'AddViewController'
+o/Users/Decmac/Desktop/AddressBook/Classes/RootViewController.m: In function '-[RootViewController viewDidLoad]':
+o/Users/Decmac/Desktop/AddressBook/Classes/RootViewController.m:24: warning: 'NSFileManager' may not respond to '-fileExistsAtPath'
+o/Users/Decmac/Desktop/AddressBook/Classes/RootViewController.m:24: warning: (Messages without a matching method signature
+o/Users/Decmac/Desktop/AddressBook/Classes/RootViewController.m:24: warning: will be assumed to return 'id' and accept
+o/Users/Decmac/Desktop/AddressBook/Classes/RootViewController.m:24: warning: '...' as arguments.)
+o/Users/Decmac/Desktop/AddressBook/Classes/RootViewController.m: In function '-[RootViewController addContact]':
+o/Users/Decmac/Desktop/AddressBook/Classes/RootViewController.m:46: error: 'AddViewController' undeclared (first use in this function)
+o/Users/Decmac/Desktop/AddressBook/Classes/RootViewController.m:46: error: (Each undeclared identifier is reported only once
+o/Users/Decmac/Desktop/AddressBook/Classes/RootViewController.m:46: error: for each function it appears in.)
+o/Users/Decmac/Desktop/AddressBook/Classes/RootViewController.m:46: error: 'controller' undeclared (first use in this function)
+o/Users/Decmac/Desktop/AddressBook/Classes/RootViewController.m: At top level:
+o/Users/Decmac/Desktop/AddressBook/Classes/RootViewController.m:53: error: expected ')' before 'AddViewController'
+o/Users/Decmac/Desktop/AddressBook/Classes/RootViewController.m: In function '-[RootViewController tableView:commitEditingStyle:forRowAtIndexPath:]':
+o/Users/Decmac/Desktop/AddressBook/Classes/RootViewController.m:137: error: expected ']' before 'deleteRowsAtIndexPaths'
+o/Users/Decmac/Desktop/AddressBook/Classes/RootViewController.m:137: error: array subscript is not an integer
+lSLF07#2@70"Compile /Users/Decmac/Desktop/AddressBook/Classes/RootViewController.m354299941#354299941#0(2601"In file included from /Users/Decmac/Desktop/AddressBook/Classes/AddViewController.h:10,                 from /Users/Decmac/Desktop/AddressBook/Classes/RootViewController.h:9,                 from /Users/Decmac/Desktop/AddressBook/Classes/RootViewController.m:9:/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.h:13: error: cannot find interface declaration for 'UITabelViewCell', superclass of 'EditableCell'In file included from /Users/Decmac/Desktop/AddressBook/Classes/RootViewController.h:9,                 from /Users/Decmac/Desktop/AddressBook/Classes/RootViewController.m:9:/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.h:13: error: no type or storage class may be specified here before 'protocol'/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.h:36: error: expected ')' before 'AddViewController'/Users/Decmac/Desktop/AddressBook/Classes/RootViewController.m: In function '-[RootViewController viewDidLoad]':/Users/Decmac/Desktop/AddressBook/Classes/RootViewController.m:24: warning: 'NSFileManager' may not respond to '-fileExistsAtPath'/Users/Decmac/Desktop/AddressBook/Classes/RootViewController.m:24: warning: (Messages without a matching method signature/Users/Decmac/Desktop/AddressBook/Classes/RootViewController.m:24: warning: will be assumed to return 'id' and accept/Users/Decmac/Desktop/AddressBook/Classes/RootViewController.m:24: warning: '...' as arguments.)/Users/Decmac/Desktop/AddressBook/Classes/RootViewController.m: In function '-[RootViewController addContact]':/Users/Decmac/Desktop/AddressBook/Classes/RootViewController.m:46: error: 'AddViewController' undeclared (first use in this function)/Users/Decmac/Desktop/AddressBook/Classes/RootViewController.m:46: error: (Each undeclared identifier is reported only once/Users/Decmac/Desktop/AddressBook/Classes/RootViewController.m:46: error: for each function it appears in.)/Users/Decmac/Desktop/AddressBook/Classes/RootViewController.m:46: error: 'controller' undeclared (first use in this function)/Users/Decmac/Desktop/AddressBook/Classes/RootViewController.m: At top level:/Users/Decmac/Desktop/AddressBook/Classes/RootViewController.m:53: error: expected ')' before 'AddViewController'/Users/Decmac/Desktop/AddressBook/Classes/RootViewController.m: In function '-[RootViewController tableView:commitEditingStyle:forRowAtIndexPath:]':/Users/Decmac/Desktop/AddressBook/Classes/RootViewController.m:137: error: expected ']' before 'deleteRowsAtIndexPaths'/Users/Decmac/Desktop/AddressBook/Classes/RootViewController.m:137: error: array subscript is not an integer11(4@85"Cannot find interface declaration for 'UITabelViewCell', superclass of 'EditableCell'354299941#264#154#4(7@84"In file included from /Users/Decmac/Desktop/AddressBook/Classes/RootViewController.m354299941#18446744073709551615#0#0(6@62"/Users/Decmac/Desktop/AddressBook/Classes/RootViewController.m354280548#9#0#9#0#0"0(7@84"In file included from /Users/Decmac/Desktop/AddressBook/Classes/RootViewController.h354299941#18446744073709551615#0#0(6@62"/Users/Decmac/Desktop/AddressBook/Classes/RootViewController.h354277038#9#0#9#0#0"0(7@83"In file included from /Users/Decmac/Desktop/AddressBook/Classes/AddViewController.h354299941#18446744073709551615#0#0(6@61"/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.h354281297#10#0#10#0#0"0(13@145"Cannot find interface declaration for 'UITabelViewCell', superclass of 'EditableCell' in /Users/Decmac/Desktop/AddressBook/Classes/EditableCell.h354299941#18446744073709551615#0#0(6@56"/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.h354299153#13#0#13#0#0"0(6@56"/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.h354299153#13#0#13#0#60"cannot find interface declaration for '*', superclass of '*'0(4@64"No type or storage class may be specified here before 'protocol'354299941#594#138#3(7@84"In file included from /Users/Decmac/Desktop/AddressBook/Classes/RootViewController.m354299941#18446744073709551615#0#0(6@62"/Users/Decmac/Desktop/AddressBook/Classes/RootViewController.m354280548#9#0#9#0#0"0(7@84"In file included from /Users/Decmac/Desktop/AddressBook/Classes/RootViewController.h354299941#18446744073709551615#0#0(6@62"/Users/Decmac/Desktop/AddressBook/Classes/RootViewController.h354277038#9#0#9#0#0"0(13@129"No type or storage class may be specified here before 'protocol' in /Users/Decmac/Desktop/AddressBook/Classes/AddViewController.h354299941#18446744073709551615#0#0(6@61"/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.h354281297#13#0#13#0#0"0(6@61"/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.h354281297#13#0#13#0#0"0(4@39"Expected ')' before 'AddViewController'354299941#732#113#3(7@84"In file included from /Users/Decmac/Desktop/AddressBook/Classes/RootViewController.m354299941#18446744073709551615#0#0(6@62"/Users/Decmac/Desktop/AddressBook/Classes/RootViewController.m354280548#9#0#9#0#0"0(7@84"In file included from /Users/Decmac/Desktop/AddressBook/Classes/RootViewController.h354299941#18446744073709551615#0#0(6@62"/Users/Decmac/Desktop/AddressBook/Classes/RootViewController.h354277038#9#0#9#0#0"0(13@104"Expected ')' before 'AddViewController' in /Users/Decmac/Desktop/AddressBook/Classes/AddViewController.h354299941#18446744073709551615#0#0(6@61"/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.h354281297#36#0#36#0#0"0(6@61"/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.h354281297#36#0#36#0#19"expected * before *0(22@54"'NSFileManager' may not respond to '-fileExistsAtPath'354299941#958#131#0(6@62"/Users/Decmac/Desktop/AddressBook/Classes/RootViewController.m354280548#24#0#24#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)354299941#1089#122#0(6@62"/Users/Decmac/Desktop/AddressBook/Classes/RootViewController.m354280548#24#0#24#0#0"0(4@59"'AddViewController' undeclared (first use in this function)354299941#1538#134#0(6@62"/Users/Decmac/Desktop/AddressBook/Classes/RootViewController.m354280548#46#0#46#0#43"'*' undeclared (first use in this function)0(4@52"'controller' undeclared (first use in this function)354299941#1904#127#0(6@62"/Users/Decmac/Desktop/AddressBook/Classes/RootViewController.m354280548#46#0#46#0#43"'*' undeclared (first use in this function)0(23@13"At top level:354299941#2031#78#0(6@62"/Users/Decmac/Desktop/AddressBook/Classes/RootViewController.m354280548#0#0#0#0#0"0(4@39"Expected ')' before 'AddViewController'354299941#2109#114#0(6@62"/Users/Decmac/Desktop/AddressBook/Classes/RootViewController.m354280548#53#0#53#0#19"expected * before *0(4@44"Expected ']' before 'deleteRowsAtIndexPaths'354299941#2372#120#0(6@62"/Users/Decmac/Desktop/AddressBook/Classes/RootViewController.m354280548#137#0#137#0#19"expected * before *0(4@33"Array subscript is not an integer354299941#2492#109#0(6@62"/Users/Decmac/Desktop/AddressBook/Classes/RootViewController.m354280548#137#0#137#0#0"0(0#0#62"/Users/Decmac/Desktop/AddressBook/Classes/RootViewController.m4300885448#1920"    cd /Users/Decmac/Desktop/AddressBook    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/AddressBook/build/AddressBook.build/Debug-iphonesimulator/AddressBook.build/AddressBook-generated-files.hmap -I/Users/Decmac/Desktop/AddressBook/build/AddressBook.build/Debug-iphonesimulator/AddressBook.build/AddressBook-own-target-headers.hmap -I/Users/Decmac/Desktop/AddressBook/build/AddressBook.build/Debug-iphonesimulator/AddressBook.build/AddressBook-all-target-headers.hmap -iquote /Users/Decmac/Desktop/AddressBook/build/AddressBook.build/Debug-iphonesimulator/AddressBook.build/AddressBook-project-headers.hmap -F/Users/Decmac/Desktop/AddressBook/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/AddressBook/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/AddressBook/build/AddressBook.build/Debug-iphonesimulator/AddressBook.build/DerivedSources/i386 -I/Users/Decmac/Desktop/AddressBook/build/AddressBook.build/Debug-iphonesimulator/AddressBook.build/DerivedSources -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AddressBook_Prefix-fpocccunjwdirnexorafoxwdczpm/AddressBook_Prefix.pch -c /Users/Decmac/Desktop/AddressBook/Classes/RootViewController.m -o /Users/Decmac/Desktop/AddressBook/build/AddressBook.build/Debug-iphonesimulator/AddressBook.build/Objects-normal/i386/RootViewController.o1#
+
+CCompileC build/AddressBook.build/Debug-iphonesimulator/AddressBook.build/Objects-normal/i386/main.o /Users/Decmac/Desktop/AddressBook/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354299940.969675
+e354299941.141736
+r1
+xCompileC
+xbuild/AddressBook.build/Debug-iphonesimulator/AddressBook.build/Objects-normal/i386/main.o
+x/Users/Decmac/Desktop/AddressBook/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@48"Compile /Users/Decmac/Desktop/AddressBook/main.m354299940#354299941#0(0"0(0#0#40"/Users/Decmac/Desktop/AddressBook/main.m4300885448#1884"    cd /Users/Decmac/Desktop/AddressBook    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/AddressBook/build/AddressBook.build/Debug-iphonesimulator/AddressBook.build/AddressBook-generated-files.hmap -I/Users/Decmac/Desktop/AddressBook/build/AddressBook.build/Debug-iphonesimulator/AddressBook.build/AddressBook-own-target-headers.hmap -I/Users/Decmac/Desktop/AddressBook/build/AddressBook.build/Debug-iphonesimulator/AddressBook.build/AddressBook-all-target-headers.hmap -iquote /Users/Decmac/Desktop/AddressBook/build/AddressBook.build/Debug-iphonesimulator/AddressBook.build/AddressBook-project-headers.hmap -F/Users/Decmac/Desktop/AddressBook/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/AddressBook/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/AddressBook/build/AddressBook.build/Debug-iphonesimulator/AddressBook.build/DerivedSources/i386 -I/Users/Decmac/Desktop/AddressBook/build/AddressBook.build/Debug-iphonesimulator/AddressBook.build/DerivedSources -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AddressBook_Prefix-fpocccunjwdirnexorafoxwdczpm/AddressBook_Prefix.pch -c /Users/Decmac/Desktop/AddressBook/main.m -o /Users/Decmac/Desktop/AddressBook/build/AddressBook.build/Debug-iphonesimulator/AddressBook.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/Decmac/Desktop/AddressBook/Classes/AddViewController.xib
+s354299939.236883
+e354299939.684106
+r1
+xCompileXIB
+x/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.xib
+o2012-03-24 16:38:59.303 ibtool[311:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 35
+lSLF07#2@40"CompileXIB Classes/AddViewController.xib354299939#354299939#0(107"2012-03-24 16:38:59.303 ibtool[311:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 350(0#0#63"/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.xib4300885448#493"    cd /Users/Decmac/Desktop/AddressBook    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Decmac/Desktop/AddressBook/build/Debug-iphonesimulator/AddressBook.app/AddViewController.nib /Users/Decmac/Desktop/AddressBook/Classes/AddViewController.xib0#
+
+CCompileXIB /Users/Decmac/Desktop/AddressBook/Classes/ContactViewController.xib
+s354299939.253081
+e354299939.678718
+r1
+xCompileXIB
+x/Users/Decmac/Desktop/AddressBook/Classes/ContactViewController.xib
+o2012-03-24 16:38:59.307 ibtool[312:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 35
+lSLF07#2@44"CompileXIB Classes/ContactViewController.xib354299939#354299939#0(107"2012-03-24 16:38:59.307 ibtool[312:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 350(0#0#67"/Users/Decmac/Desktop/AddressBook/Classes/ContactViewController.xib4300885448#501"    cd /Users/Decmac/Desktop/AddressBook    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Decmac/Desktop/AddressBook/build/Debug-iphonesimulator/AddressBook.app/ContactViewController.nib /Users/Decmac/Desktop/AddressBook/Classes/ContactViewController.xib0#
+
+CCompileXIB /Users/Decmac/Desktop/AddressBook/MainWindow.xib
+s354299938.681141
+e354299939.252929
+r1
+xCompileXIB
+x/Users/Decmac/Desktop/AddressBook/MainWindow.xib
+o2012-03-24 16:38:58.734 ibtool[307:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 35
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@25"CompileXIB MainWindow.xib354299938#354299939#0(191"2012-03-24 16:38:58.734 ibtool[307:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 35Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#48"/Users/Decmac/Desktop/AddressBook/MainWindow.xib4300885448#471"    cd /Users/Decmac/Desktop/AddressBook    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Decmac/Desktop/AddressBook/build/Debug-iphonesimulator/AddressBook.app/MainWindow.nib /Users/Decmac/Desktop/AddressBook/MainWindow.xib0#
+
+CCompileXIB /Users/Decmac/Desktop/AddressBook/RootViewController.xib
+s354299938.683763
+e354299939.236720
+r1
+xCompileXIB
+x/Users/Decmac/Desktop/AddressBook/RootViewController.xib
+o2012-03-24 16:38:58.734 ibtool[308:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 35
+lSLF07#2@33"CompileXIB RootViewController.xib354299938#354299939#0(107"2012-03-24 16:38:58.734 ibtool[308:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 350(0#0#56"/Users/Decmac/Desktop/AddressBook/RootViewController.xib4300885448#487"    cd /Users/Decmac/Desktop/AddressBook    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Decmac/Desktop/AddressBook/build/Debug-iphonesimulator/AddressBook.app/RootViewController.nib /Users/Decmac/Desktop/AddressBook/RootViewController.xib0#
+
+CGenerateDSYMFile /Users/Decmac/Desktop/AddressBook/build/Debug-iphonesimulator/AddressBook.app.dSYM /Users/Decmac/Desktop/AddressBook/build/Debug-iphonesimulator/AddressBook.app/AddressBook
+r0
+
+CLd /Users/Decmac/Desktop/AddressBook/build/Debug-iphonesimulator/AddressBook.app/AddressBook normal i386
+r0
+
+CProcessInfoPlistFile /Users/Decmac/Desktop/AddressBook/build/Debug-iphonesimulator/AddressBook.app/Info.plist AddressBook-Info.plist
+s354299938.660979
+e354299938.680789
+r1
+xProcessInfoPlistFile
+x/Users/Decmac/Desktop/AddressBook/build/Debug-iphonesimulator/AddressBook.app/Info.plist
+xAddressBook-Info.plist
+lSLF07#2@30"Process AddressBook-Info.plist354299938#354299938#0(0"0(0#0#56"/Users/Decmac/Desktop/AddressBook/AddressBook-Info.plist30962724186357872#476"    cd /Users/Decmac/Desktop/AddressBook    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility AddressBook-Info.plist -genpkginfo /Users/Decmac/Desktop/AddressBook/build/Debug-iphonesimulator/AddressBook.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/Decmac/Desktop/AddressBook/build/Debug-iphonesimulator/AddressBook.app/Info.plist0#
+
+CProcessPCH /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AddressBook_Prefix-fpocccunjwdirnexorafoxwdczpm/AddressBook_Prefix.pch.gch AddressBook_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s354299939.684395
+e354299940.969342
+r1
+xProcessPCH
+x/var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AddressBook_Prefix-fpocccunjwdirnexorafoxwdczpm/AddressBook_Prefix.pch.gch
+xAddressBook_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile AddressBook_Prefix.pch354299939#354299940#0(0"0(0#0#56"/Users/Decmac/Desktop/AddressBook/AddressBook_Prefix.pch4300885448#1777"    cd /Users/Decmac/Desktop/AddressBook    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/AddressBook/build/AddressBook.build/Debug-iphonesimulator/AddressBook.build/AddressBook-generated-files.hmap -I/Users/Decmac/Desktop/AddressBook/build/AddressBook.build/Debug-iphonesimulator/AddressBook.build/AddressBook-own-target-headers.hmap -I/Users/Decmac/Desktop/AddressBook/build/AddressBook.build/Debug-iphonesimulator/AddressBook.build/AddressBook-all-target-headers.hmap -iquote /Users/Decmac/Desktop/AddressBook/build/AddressBook.build/Debug-iphonesimulator/AddressBook.build/AddressBook-project-headers.hmap -F/Users/Decmac/Desktop/AddressBook/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/AddressBook/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/AddressBook/build/AddressBook.build/Debug-iphonesimulator/AddressBook.build/DerivedSources/i386 -I/Users/Decmac/Desktop/AddressBook/build/AddressBook.build/Debug-iphonesimulator/AddressBook.build/DerivedSources -c /Users/Decmac/Desktop/AddressBook/AddressBook_Prefix.pch -o /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AddressBook_Prefix-fpocccunjwdirnexorafoxwdczpm/AddressBook_Prefix.pch.gch0#
+
+CTouch /Users/Decmac/Desktop/AddressBook/build/Debug-iphonesimulator/AddressBook.app
+r0
+

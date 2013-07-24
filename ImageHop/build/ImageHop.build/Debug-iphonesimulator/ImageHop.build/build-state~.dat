@@ -1,0 +1,658 @@
+TImageHop
+v7
+r0
+t354408649.777028
+cCheck dependencies
+cProcessInfoPlistFile /Users/Decmac/Desktop/ImageHop/build/Debug-iphonesimulator/ImageHop.app/Info.plist ImageHop-Info.plist
+cCompileXIB /Users/Decmac/Desktop/ImageHop/MainWindow.xib
+cCompileXIB /Users/Decmac/Desktop/ImageHop/ImageHopViewController.xib
+cCpResource build/Debug-iphonesimulator/ImageHop.app/frame-1.png frame-1.png
+cCpResource build/Debug-iphonesimulator/ImageHop.app/frame-2.png frame-2.png
+cCpResource build/Debug-iphonesimulator/ImageHop.app/frame-3.png frame-3.png
+cCpResource build/Debug-iphonesimulator/ImageHop.app/frame-4.png frame-4.png
+cCpResource build/Debug-iphonesimulator/ImageHop.app/frame-5.png frame-5.png
+cCpResource build/Debug-iphonesimulator/ImageHop.app/frame-6.png frame-6.png
+cCpResource build/Debug-iphonesimulator/ImageHop.app/frame-7.png frame-7.png
+cCpResource build/Debug-iphonesimulator/ImageHop.app/frame-8.png frame-8.png
+cCpResource build/Debug-iphonesimulator/ImageHop.app/frame-9.png frame-9.png
+cCpResource build/Debug-iphonesimulator/ImageHop.app/frame-10.png frame-10.png
+cCpResource build/Debug-iphonesimulator/ImageHop.app/frame-11.png frame-11.png
+cCpResource build/Debug-iphonesimulator/ImageHop.app/frame-12.png frame-12.png
+cCpResource build/Debug-iphonesimulator/ImageHop.app/frame-13.png frame-13.png
+cCpResource build/Debug-iphonesimulator/ImageHop.app/frame-14.png frame-14.png
+cCpResource build/Debug-iphonesimulator/ImageHop.app/frame-15.png frame-15.png
+cCpResource build/Debug-iphonesimulator/ImageHop.app/frame-16.png frame-16.png
+cCpResource build/Debug-iphonesimulator/ImageHop.app/frame-17.png frame-17.png
+cCpResource build/Debug-iphonesimulator/ImageHop.app/frame-18.png frame-18.png
+cCpResource build/Debug-iphonesimulator/ImageHop.app/frame-19.png frame-19.png
+cCpResource build/Debug-iphonesimulator/ImageHop.app/frame-20.png frame-20.png
+cCpResource build/Debug-iphonesimulator/ImageHop.app/icon.png icon.png
+cProcessPCH /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ImageHop_Prefix-hggsinlkkptgscaxzkpvpmyruldi/ImageHop_Prefix.pch.gch ImageHop_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ImageHop.build/Debug-iphonesimulator/ImageHop.build/Objects-normal/i386/main.o /Users/Decmac/Desktop/ImageHop/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ImageHop.build/Debug-iphonesimulator/ImageHop.build/Objects-normal/i386/ImageHopAppDelegate.o /Users/Decmac/Desktop/ImageHop/Classes/ImageHopAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ImageHop.build/Debug-iphonesimulator/ImageHop.build/Objects-normal/i386/ImageHopViewController.o /Users/Decmac/Desktop/ImageHop/Classes/ImageHopViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/Decmac/Desktop/ImageHop/build/Debug-iphonesimulator/ImageHop.app/ImageHop normal i386
+cGenerateDSYMFile /Users/Decmac/Desktop/ImageHop/build/Debug-iphonesimulator/ImageHop.app.dSYM /Users/Decmac/Desktop/ImageHop/build/Debug-iphonesimulator/ImageHop.app/ImageHop
+cTouch /Users/Decmac/Desktop/ImageHop/build/Debug-iphonesimulator/ImageHop.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk
+c000000004F3A580900000000000000EE
+t1329223689
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B2B4CC3000000000026EE30
+t1261128899
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B2B4DC8000000000027E880
+t1261129160
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B2B4DAE0000000000001355
+t1261129134
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B2B61620000000000000788
+t1261134178
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B2B62B500000000016721E0
+t1261134517
+s23536096
+
+N/Users/Decmac/Desktop/ImageHop/Classes/ImageHopAppDelegate.h
+c000000004F6FA07000000000000001E2
+t1332715632
+s482
+i<UIKit/UIKit.h>
+
+N/Users/Decmac/Desktop/ImageHop/Classes/ImageHopAppDelegate.m
+c000000004F6FA070000000000000026C
+t1332715632
+s620
+i"ImageHopAppDelegate.h"
+i"ImageHopViewController.h"
+
+N/Users/Decmac/Desktop/ImageHop/Classes/ImageHopViewController.h
+c000000004F6FA07000000000000000EE
+t1332715632
+s238
+i<UIKit/UIKit.h>
+
+N/Users/Decmac/Desktop/ImageHop/Classes/ImageHopViewController.m
+c000000004F6FA07000000000000005B8
+t1332715632
+s1464
+i"ImageHopViewController.h"
+
+N/Users/Decmac/Desktop/ImageHop/ImageHopViewController.xib
+c000000004F6FA07000000000000018DF
+t1332715632
+s6367
+
+N/Users/Decmac/Desktop/ImageHop/ImageHop_Prefix.pch
+c000000004F6FA07000000000000000B9
+t1332715632
+s185
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/Decmac/Desktop/ImageHop/MainWindow.xib
+c000000004F6FA0700000000000002459
+t1332715632
+s9305
+
+N/Users/Decmac/Desktop/ImageHop/build/Debug-iphonesimulator/ImageHop.app
+t1332715849
+s952
+
+N/Users/Decmac/Desktop/ImageHop/build/Debug-iphonesimulator/ImageHop.app.dSYM
+t1332715849
+s102
+
+N/Users/Decmac/Desktop/ImageHop/build/Debug-iphonesimulator/ImageHop.app/ImageHop
+t1332715849
+s19376
+
+N/Users/Decmac/Desktop/ImageHop/build/Debug-iphonesimulator/ImageHop.app/ImageHopViewController.nib
+t1332715847
+s1151
+
+N/Users/Decmac/Desktop/ImageHop/build/Debug-iphonesimulator/ImageHop.app/Info.plist
+t1332715846
+s568
+
+N/Users/Decmac/Desktop/ImageHop/build/Debug-iphonesimulator/ImageHop.app/MainWindow.nib
+t1332715847
+s1497
+
+N/Users/Decmac/Desktop/ImageHop/build/Debug-iphonesimulator/ImageHop.app/PkgInfo
+t1332715846
+s8
+
+N/Users/Decmac/Desktop/ImageHop/build/Debug-iphonesimulator/ImageHop.app/frame-1.png
+t1332715847
+s20104
+
+N/Users/Decmac/Desktop/ImageHop/build/Debug-iphonesimulator/ImageHop.app/frame-10.png
+t1332715847
+s30147
+
+N/Users/Decmac/Desktop/ImageHop/build/Debug-iphonesimulator/ImageHop.app/frame-11.png
+t1332715847
+s30145
+
+N/Users/Decmac/Desktop/ImageHop/build/Debug-iphonesimulator/ImageHop.app/frame-12.png
+t1332715847
+s29948
+
+N/Users/Decmac/Desktop/ImageHop/build/Debug-iphonesimulator/ImageHop.app/frame-13.png
+t1332715847
+s32086
+
+N/Users/Decmac/Desktop/ImageHop/build/Debug-iphonesimulator/ImageHop.app/frame-14.png
+t1332715847
+s31388
+
+N/Users/Decmac/Desktop/ImageHop/build/Debug-iphonesimulator/ImageHop.app/frame-15.png
+t1332715847
+s31601
+
+N/Users/Decmac/Desktop/ImageHop/build/Debug-iphonesimulator/ImageHop.app/frame-16.png
+t1332715847
+s29615
+
+N/Users/Decmac/Desktop/ImageHop/build/Debug-iphonesimulator/ImageHop.app/frame-17.png
+t1332715847
+s29631
+
+N/Users/Decmac/Desktop/ImageHop/build/Debug-iphonesimulator/ImageHop.app/frame-18.png
+t1332715847
+s29614
+
+N/Users/Decmac/Desktop/ImageHop/build/Debug-iphonesimulator/ImageHop.app/frame-19.png
+t1332715847
+s29613
+
+N/Users/Decmac/Desktop/ImageHop/build/Debug-iphonesimulator/ImageHop.app/frame-2.png
+t1332715847
+s20107
+
+N/Users/Decmac/Desktop/ImageHop/build/Debug-iphonesimulator/ImageHop.app/frame-20.png
+t1332715847
+s29615
+
+N/Users/Decmac/Desktop/ImageHop/build/Debug-iphonesimulator/ImageHop.app/frame-3.png
+t1332715847
+s20107
+
+N/Users/Decmac/Desktop/ImageHop/build/Debug-iphonesimulator/ImageHop.app/frame-4.png
+t1332715847
+s20108
+
+N/Users/Decmac/Desktop/ImageHop/build/Debug-iphonesimulator/ImageHop.app/frame-5.png
+t1332715847
+s20107
+
+N/Users/Decmac/Desktop/ImageHop/build/Debug-iphonesimulator/ImageHop.app/frame-6.png
+t1332715847
+s20107
+
+N/Users/Decmac/Desktop/ImageHop/build/Debug-iphonesimulator/ImageHop.app/frame-7.png
+t1332715847
+s20106
+
+N/Users/Decmac/Desktop/ImageHop/build/Debug-iphonesimulator/ImageHop.app/frame-8.png
+t1332715847
+s26420
+
+N/Users/Decmac/Desktop/ImageHop/build/Debug-iphonesimulator/ImageHop.app/frame-9.png
+t1332715847
+s29717
+
+N/Users/Decmac/Desktop/ImageHop/build/Debug-iphonesimulator/ImageHop.app/icon.png
+t1332715847
+s5469
+
+N/Users/Decmac/Desktop/ImageHop/build/ImageHop.build/Debug-iphonesimulator/ImageHop.build/Objects-normal/i386/ImageHop.LinkFileList
+c000000004F6FA146000000000000017D
+t1332715846
+s381
+
+N/Users/Decmac/Desktop/ImageHop/build/ImageHop.build/Debug-iphonesimulator/ImageHop.build/Objects-normal/i386/ImageHopAppDelegate.o
+t1332715849
+s38072
+
+N/Users/Decmac/Desktop/ImageHop/build/ImageHop.build/Debug-iphonesimulator/ImageHop.build/Objects-normal/i386/ImageHopViewController.o
+t1332715849
+s29944
+
+N/Users/Decmac/Desktop/ImageHop/build/ImageHop.build/Debug-iphonesimulator/ImageHop.build/Objects-normal/i386/main.o
+t1332715849
+s5940
+
+N/Users/Decmac/Desktop/ImageHop/frame-1.png
+c000000004A43ED940000000000004E88
+t1245965716
+s20104
+
+N/Users/Decmac/Desktop/ImageHop/frame-10.png
+c000000004A43EEA400000000000075C3
+t1245965988
+s30147
+
+N/Users/Decmac/Desktop/ImageHop/frame-11.png
+c000000004A43EEC200000000000075C1
+t1245966018
+s30145
+
+N/Users/Decmac/Desktop/ImageHop/frame-12.png
+c000000004A43EEFC00000000000074FC
+t1245966076
+s29948
+
+N/Users/Decmac/Desktop/ImageHop/frame-13.png
+c000000004A43EF200000000000007D56
+t1245966112
+s32086
+
+N/Users/Decmac/Desktop/ImageHop/frame-14.png
+c000000004A43EF400000000000007A9C
+t1245966144
+s31388
+
+N/Users/Decmac/Desktop/ImageHop/frame-15.png
+c000000004A43EF680000000000007B71
+t1245966184
+s31601
+
+N/Users/Decmac/Desktop/ImageHop/frame-16.png
+c000000004A43EF9000000000000073AF
+t1245966224
+s29615
+
+N/Users/Decmac/Desktop/ImageHop/frame-17.png
+c000000004A43EFAE00000000000073BF
+t1245966254
+s29631
+
+N/Users/Decmac/Desktop/ImageHop/frame-18.png
+c000000004A43EFC800000000000073AE
+t1245966280
+s29614
+
+N/Users/Decmac/Desktop/ImageHop/frame-19.png
+c000000004A43EFDC00000000000073AD
+t1245966300
+s29613
+
+N/Users/Decmac/Desktop/ImageHop/frame-2.png
+c000000004A43EDAA0000000000004E8B
+t1245965738
+s20107
+
+N/Users/Decmac/Desktop/ImageHop/frame-20.png
+c000000004A43EFF600000000000073AF
+t1245966326
+s29615
+
+N/Users/Decmac/Desktop/ImageHop/frame-3.png
+c000000004A43EDC00000000000004E8B
+t1245965760
+s20107
+
+N/Users/Decmac/Desktop/ImageHop/frame-4.png
+c000000004A43EDF60000000000004E8C
+t1245965814
+s20108
+
+N/Users/Decmac/Desktop/ImageHop/frame-5.png
+c000000004A43EE080000000000004E8B
+t1245965832
+s20107
+
+N/Users/Decmac/Desktop/ImageHop/frame-6.png
+c000000004A43EE1C0000000000004E8B
+t1245965852
+s20107
+
+N/Users/Decmac/Desktop/ImageHop/frame-7.png
+c000000004A43EE380000000000004E8A
+t1245965880
+s20106
+
+N/Users/Decmac/Desktop/ImageHop/frame-8.png
+c000000004A43EE660000000000006734
+t1245965926
+s26420
+
+N/Users/Decmac/Desktop/ImageHop/frame-9.png
+c000000004A43EE840000000000007415
+t1245965956
+s29717
+
+N/Users/Decmac/Desktop/ImageHop/icon.png
+c000000004A464D3A000000000000155D
+t1246121274
+s5469
+
+N/Users/Decmac/Desktop/ImageHop/main.m
+c000000004F6FA0700000000000000167
+t1332715632
+s359
+i<UIKit/UIKit.h>
+
+N/var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ImageHop_Prefix-hggsinlkkptgscaxzkpvpmyruldi/ImageHop_Prefix.pch.gch
+t1332715849
+s13034960
+
+NImageHop-Info.plist
+c000000004F6FA070000000000000038D
+t1332715632
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies354408646#354408646#0(0"0(0#1#0"4300885448#0"0#
+
+CCompileC build/ImageHop.build/Debug-iphonesimulator/ImageHop.build/Objects-normal/i386/ImageHopAppDelegate.o /Users/Decmac/Desktop/ImageHop/Classes/ImageHopAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354408649.329590
+e354408649.572041
+r1
+xCompileC
+xbuild/ImageHop.build/Debug-iphonesimulator/ImageHop.build/Objects-normal/i386/ImageHopAppDelegate.o
+x/Users/Decmac/Desktop/ImageHop/Classes/ImageHopAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/Decmac/Desktop/ImageHop/Classes/ImageHopAppDelegate.m354408649#354408649#0(0"0(0#0#60"/Users/Decmac/Desktop/ImageHop/Classes/ImageHopAppDelegate.m4300885448#1829"    cd /Users/Decmac/Desktop/ImageHop    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/ImageHop/build/ImageHop.build/Debug-iphonesimulator/ImageHop.build/ImageHop-generated-files.hmap -I/Users/Decmac/Desktop/ImageHop/build/ImageHop.build/Debug-iphonesimulator/ImageHop.build/ImageHop-own-target-headers.hmap -I/Users/Decmac/Desktop/ImageHop/build/ImageHop.build/Debug-iphonesimulator/ImageHop.build/ImageHop-all-target-headers.hmap -iquote /Users/Decmac/Desktop/ImageHop/build/ImageHop.build/Debug-iphonesimulator/ImageHop.build/ImageHop-project-headers.hmap -F/Users/Decmac/Desktop/ImageHop/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/ImageHop/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/ImageHop/build/ImageHop.build/Debug-iphonesimulator/ImageHop.build/DerivedSources/i386 -I/Users/Decmac/Desktop/ImageHop/build/ImageHop.build/Debug-iphonesimulator/ImageHop.build/DerivedSources -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ImageHop_Prefix-hggsinlkkptgscaxzkpvpmyruldi/ImageHop_Prefix.pch -c /Users/Decmac/Desktop/ImageHop/Classes/ImageHopAppDelegate.m -o /Users/Decmac/Desktop/ImageHop/build/ImageHop.build/Debug-iphonesimulator/ImageHop.build/Objects-normal/i386/ImageHopAppDelegate.o0#
+
+CCompileC build/ImageHop.build/Debug-iphonesimulator/ImageHop.build/Objects-normal/i386/ImageHopViewController.o /Users/Decmac/Desktop/ImageHop/Classes/ImageHopViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354408649.495370
+e354408649.665602
+r1
+xCompileC
+xbuild/ImageHop.build/Debug-iphonesimulator/ImageHop.build/Objects-normal/i386/ImageHopViewController.o
+x/Users/Decmac/Desktop/ImageHop/Classes/ImageHopViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/Decmac/Desktop/ImageHop/Classes/ImageHopViewController.m354408649#354408649#0(0"0(0#0#63"/Users/Decmac/Desktop/ImageHop/Classes/ImageHopViewController.m4300885448#1835"    cd /Users/Decmac/Desktop/ImageHop    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/ImageHop/build/ImageHop.build/Debug-iphonesimulator/ImageHop.build/ImageHop-generated-files.hmap -I/Users/Decmac/Desktop/ImageHop/build/ImageHop.build/Debug-iphonesimulator/ImageHop.build/ImageHop-own-target-headers.hmap -I/Users/Decmac/Desktop/ImageHop/build/ImageHop.build/Debug-iphonesimulator/ImageHop.build/ImageHop-all-target-headers.hmap -iquote /Users/Decmac/Desktop/ImageHop/build/ImageHop.build/Debug-iphonesimulator/ImageHop.build/ImageHop-project-headers.hmap -F/Users/Decmac/Desktop/ImageHop/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/ImageHop/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/ImageHop/build/ImageHop.build/Debug-iphonesimulator/ImageHop.build/DerivedSources/i386 -I/Users/Decmac/Desktop/ImageHop/build/ImageHop.build/Debug-iphonesimulator/ImageHop.build/DerivedSources -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ImageHop_Prefix-hggsinlkkptgscaxzkpvpmyruldi/ImageHop_Prefix.pch -c /Users/Decmac/Desktop/ImageHop/Classes/ImageHopViewController.m -o /Users/Decmac/Desktop/ImageHop/build/ImageHop.build/Debug-iphonesimulator/ImageHop.build/Objects-normal/i386/ImageHopViewController.o0#
+
+CCompileC build/ImageHop.build/Debug-iphonesimulator/ImageHop.build/Objects-normal/i386/main.o /Users/Decmac/Desktop/ImageHop/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354408649.326548
+e354408649.495075
+r1
+xCompileC
+xbuild/ImageHop.build/Debug-iphonesimulator/ImageHop.build/Objects-normal/i386/main.o
+x/Users/Decmac/Desktop/ImageHop/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@45"Compile /Users/Decmac/Desktop/ImageHop/main.m354408649#354408649#0(0"0(0#0#37"/Users/Decmac/Desktop/ImageHop/main.m4300885448#1791"    cd /Users/Decmac/Desktop/ImageHop    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/ImageHop/build/ImageHop.build/Debug-iphonesimulator/ImageHop.build/ImageHop-generated-files.hmap -I/Users/Decmac/Desktop/ImageHop/build/ImageHop.build/Debug-iphonesimulator/ImageHop.build/ImageHop-own-target-headers.hmap -I/Users/Decmac/Desktop/ImageHop/build/ImageHop.build/Debug-iphonesimulator/ImageHop.build/ImageHop-all-target-headers.hmap -iquote /Users/Decmac/Desktop/ImageHop/build/ImageHop.build/Debug-iphonesimulator/ImageHop.build/ImageHop-project-headers.hmap -F/Users/Decmac/Desktop/ImageHop/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/ImageHop/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/ImageHop/build/ImageHop.build/Debug-iphonesimulator/ImageHop.build/DerivedSources/i386 -I/Users/Decmac/Desktop/ImageHop/build/ImageHop.build/Debug-iphonesimulator/ImageHop.build/DerivedSources -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ImageHop_Prefix-hggsinlkkptgscaxzkpvpmyruldi/ImageHop_Prefix.pch -c /Users/Decmac/Desktop/ImageHop/main.m -o /Users/Decmac/Desktop/ImageHop/build/ImageHop.build/Debug-iphonesimulator/ImageHop.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/Decmac/Desktop/ImageHop/ImageHopViewController.xib
+s354408646.526160
+e354408647.282615
+r1
+xCompileXIB
+x/Users/Decmac/Desktop/ImageHop/ImageHopViewController.xib
+o2012-03-25 22:50:46.667 ibtool[1272:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 35
+lSLF07#2@37"CompileXIB ImageHopViewController.xib354408646#354408647#0(108"2012-03-25 22:50:46.667 ibtool[1272:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 350(0#0#57"/Users/Decmac/Desktop/ImageHop/ImageHopViewController.xib4300885448#483"    cd /Users/Decmac/Desktop/ImageHop    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Decmac/Desktop/ImageHop/build/Debug-iphonesimulator/ImageHop.app/ImageHopViewController.nib /Users/Decmac/Desktop/ImageHop/ImageHopViewController.xib0#
+
+CCompileXIB /Users/Decmac/Desktop/ImageHop/MainWindow.xib
+s354408646.519669
+e354408647.457022
+r1
+xCompileXIB
+x/Users/Decmac/Desktop/ImageHop/MainWindow.xib
+o2012-03-25 22:50:46.663 ibtool[1271:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 35
+lSLF07#2@25"CompileXIB MainWindow.xib354408646#354408647#0(108"2012-03-25 22:50:46.663 ibtool[1271:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 350(0#0#45"/Users/Decmac/Desktop/ImageHop/MainWindow.xib4300885448#459"    cd /Users/Decmac/Desktop/ImageHop    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Decmac/Desktop/ImageHop/build/Debug-iphonesimulator/ImageHop.app/MainWindow.nib /Users/Decmac/Desktop/ImageHop/MainWindow.xib0#
+
+CCpResource build/Debug-iphonesimulator/ImageHop.app/frame-1.png frame-1.png
+s354408647.282861
+e354408647.357270
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ImageHop.app/frame-1.png
+xframe-1.png
+lSLF07#2@16"Copy frame-1.png354408647#354408647#0(0"0(0#0#42"/Users/Decmac/Desktop/ImageHop/frame-1.png4300885448#432"    cd /Users/Decmac/Desktop/ImageHop    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Decmac/Desktop/ImageHop/frame-1.png /Users/Decmac/Desktop/ImageHop/build/Debug-iphonesimulator/ImageHop.app0#
+
+CCpResource build/Debug-iphonesimulator/ImageHop.app/frame-10.png frame-10.png
+s354408647.359778
+e354408647.457485
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ImageHop.app/frame-10.png
+xframe-10.png
+lSLF07#2@17"Copy frame-10.png354408647#354408647#0(0"0(0#0#43"/Users/Decmac/Desktop/ImageHop/frame-10.png4300885448#433"    cd /Users/Decmac/Desktop/ImageHop    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Decmac/Desktop/ImageHop/frame-10.png /Users/Decmac/Desktop/ImageHop/build/Debug-iphonesimulator/ImageHop.app0#
+
+CCpResource build/Debug-iphonesimulator/ImageHop.app/frame-11.png frame-11.png
+s354408647.372290
+e354408647.457897
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ImageHop.app/frame-11.png
+xframe-11.png
+lSLF07#2@17"Copy frame-11.png354408647#354408647#0(0"0(0#0#43"/Users/Decmac/Desktop/ImageHop/frame-11.png4300885448#433"    cd /Users/Decmac/Desktop/ImageHop    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Decmac/Desktop/ImageHop/frame-11.png /Users/Decmac/Desktop/ImageHop/build/Debug-iphonesimulator/ImageHop.app0#
+
+CCpResource build/Debug-iphonesimulator/ImageHop.app/frame-12.png frame-12.png
+s354408647.377195
+e354408647.458286
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ImageHop.app/frame-12.png
+xframe-12.png
+lSLF07#2@17"Copy frame-12.png354408647#354408647#0(0"0(0#0#43"/Users/Decmac/Desktop/ImageHop/frame-12.png4300885448#433"    cd /Users/Decmac/Desktop/ImageHop    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Decmac/Desktop/ImageHop/frame-12.png /Users/Decmac/Desktop/ImageHop/build/Debug-iphonesimulator/ImageHop.app0#
+
+CCpResource build/Debug-iphonesimulator/ImageHop.app/frame-13.png frame-13.png
+s354408647.383078
+e354408647.458679
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ImageHop.app/frame-13.png
+xframe-13.png
+lSLF07#2@17"Copy frame-13.png354408647#354408647#0(0"0(0#0#43"/Users/Decmac/Desktop/ImageHop/frame-13.png4300885448#433"    cd /Users/Decmac/Desktop/ImageHop    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Decmac/Desktop/ImageHop/frame-13.png /Users/Decmac/Desktop/ImageHop/build/Debug-iphonesimulator/ImageHop.app0#
+
+CCpResource build/Debug-iphonesimulator/ImageHop.app/frame-14.png frame-14.png
+s354408647.401185
+e354408647.459061
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ImageHop.app/frame-14.png
+xframe-14.png
+lSLF07#2@17"Copy frame-14.png354408647#354408647#0(0"0(0#0#43"/Users/Decmac/Desktop/ImageHop/frame-14.png4300885448#433"    cd /Users/Decmac/Desktop/ImageHop    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Decmac/Desktop/ImageHop/frame-14.png /Users/Decmac/Desktop/ImageHop/build/Debug-iphonesimulator/ImageHop.app0#
+
+CCpResource build/Debug-iphonesimulator/ImageHop.app/frame-15.png frame-15.png
+s354408647.417443
+e354408647.459454
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ImageHop.app/frame-15.png
+xframe-15.png
+lSLF07#2@17"Copy frame-15.png354408647#354408647#0(0"0(0#0#43"/Users/Decmac/Desktop/ImageHop/frame-15.png4300885448#433"    cd /Users/Decmac/Desktop/ImageHop    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Decmac/Desktop/ImageHop/frame-15.png /Users/Decmac/Desktop/ImageHop/build/Debug-iphonesimulator/ImageHop.app0#
+
+CCpResource build/Debug-iphonesimulator/ImageHop.app/frame-16.png frame-16.png
+s354408647.441575
+e354408647.542495
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ImageHop.app/frame-16.png
+xframe-16.png
+lSLF07#2@17"Copy frame-16.png354408647#354408647#0(0"0(0#0#43"/Users/Decmac/Desktop/ImageHop/frame-16.png4300885448#433"    cd /Users/Decmac/Desktop/ImageHop    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Decmac/Desktop/ImageHop/frame-16.png /Users/Decmac/Desktop/ImageHop/build/Debug-iphonesimulator/ImageHop.app0#
+
+CCpResource build/Debug-iphonesimulator/ImageHop.app/frame-17.png frame-17.png
+s354408647.462906
+e354408647.540816
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ImageHop.app/frame-17.png
+xframe-17.png
+lSLF07#2@17"Copy frame-17.png354408647#354408647#0(0"0(0#0#43"/Users/Decmac/Desktop/ImageHop/frame-17.png4300885448#433"    cd /Users/Decmac/Desktop/ImageHop    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Decmac/Desktop/ImageHop/frame-17.png /Users/Decmac/Desktop/ImageHop/build/Debug-iphonesimulator/ImageHop.app0#
+
+CCpResource build/Debug-iphonesimulator/ImageHop.app/frame-18.png frame-18.png
+s354408647.469277
+e354408647.541275
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ImageHop.app/frame-18.png
+xframe-18.png
+lSLF07#2@17"Copy frame-18.png354408647#354408647#0(0"0(0#0#43"/Users/Decmac/Desktop/ImageHop/frame-18.png4300885448#433"    cd /Users/Decmac/Desktop/ImageHop    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Decmac/Desktop/ImageHop/frame-18.png /Users/Decmac/Desktop/ImageHop/build/Debug-iphonesimulator/ImageHop.app0#
+
+CCpResource build/Debug-iphonesimulator/ImageHop.app/frame-19.png frame-19.png
+s354408647.485889
+e354408647.541696
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ImageHop.app/frame-19.png
+xframe-19.png
+lSLF07#2@17"Copy frame-19.png354408647#354408647#0(0"0(0#0#43"/Users/Decmac/Desktop/ImageHop/frame-19.png4300885448#433"    cd /Users/Decmac/Desktop/ImageHop    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Decmac/Desktop/ImageHop/frame-19.png /Users/Decmac/Desktop/ImageHop/build/Debug-iphonesimulator/ImageHop.app0#
+
+CCpResource build/Debug-iphonesimulator/ImageHop.app/frame-2.png frame-2.png
+s354408647.285406
+e354408647.357666
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ImageHop.app/frame-2.png
+xframe-2.png
+lSLF07#2@16"Copy frame-2.png354408647#354408647#0(0"0(0#0#42"/Users/Decmac/Desktop/ImageHop/frame-2.png4300885448#432"    cd /Users/Decmac/Desktop/ImageHop    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Decmac/Desktop/ImageHop/frame-2.png /Users/Decmac/Desktop/ImageHop/build/Debug-iphonesimulator/ImageHop.app0#
+
+CCpResource build/Debug-iphonesimulator/ImageHop.app/frame-20.png frame-20.png
+s354408647.501483
+e354408647.542087
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ImageHop.app/frame-20.png
+xframe-20.png
+lSLF07#2@17"Copy frame-20.png354408647#354408647#0(0"0(0#0#43"/Users/Decmac/Desktop/ImageHop/frame-20.png4300885448#433"    cd /Users/Decmac/Desktop/ImageHop    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Decmac/Desktop/ImageHop/frame-20.png /Users/Decmac/Desktop/ImageHop/build/Debug-iphonesimulator/ImageHop.app0#
+
+CCpResource build/Debug-iphonesimulator/ImageHop.app/frame-3.png frame-3.png
+s354408647.295498
+e354408647.358029
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ImageHop.app/frame-3.png
+xframe-3.png
+lSLF07#2@16"Copy frame-3.png354408647#354408647#0(0"0(0#0#42"/Users/Decmac/Desktop/ImageHop/frame-3.png4300885448#432"    cd /Users/Decmac/Desktop/ImageHop    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Decmac/Desktop/ImageHop/frame-3.png /Users/Decmac/Desktop/ImageHop/build/Debug-iphonesimulator/ImageHop.app0#
+
+CCpResource build/Debug-iphonesimulator/ImageHop.app/frame-4.png frame-4.png
+s354408647.310625
+e354408647.358405
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ImageHop.app/frame-4.png
+xframe-4.png
+lSLF07#2@16"Copy frame-4.png354408647#354408647#0(0"0(0#0#42"/Users/Decmac/Desktop/ImageHop/frame-4.png4300885448#432"    cd /Users/Decmac/Desktop/ImageHop    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Decmac/Desktop/ImageHop/frame-4.png /Users/Decmac/Desktop/ImageHop/build/Debug-iphonesimulator/ImageHop.app0#
+
+CCpResource build/Debug-iphonesimulator/ImageHop.app/frame-5.png frame-5.png
+s354408647.314029
+e354408647.358794
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ImageHop.app/frame-5.png
+xframe-5.png
+lSLF07#2@16"Copy frame-5.png354408647#354408647#0(0"0(0#0#42"/Users/Decmac/Desktop/ImageHop/frame-5.png4300885448#432"    cd /Users/Decmac/Desktop/ImageHop    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Decmac/Desktop/ImageHop/frame-5.png /Users/Decmac/Desktop/ImageHop/build/Debug-iphonesimulator/ImageHop.app0#
+
+CCpResource build/Debug-iphonesimulator/ImageHop.app/frame-6.png frame-6.png
+s354408647.316607
+e354408647.359165
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ImageHop.app/frame-6.png
+xframe-6.png
+lSLF07#2@16"Copy frame-6.png354408647#354408647#0(0"0(0#0#42"/Users/Decmac/Desktop/ImageHop/frame-6.png4300885448#432"    cd /Users/Decmac/Desktop/ImageHop    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Decmac/Desktop/ImageHop/frame-6.png /Users/Decmac/Desktop/ImageHop/build/Debug-iphonesimulator/ImageHop.app0#
+
+CCpResource build/Debug-iphonesimulator/ImageHop.app/frame-7.png frame-7.png
+s354408647.328515
+e354408647.359551
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ImageHop.app/frame-7.png
+xframe-7.png
+lSLF07#2@16"Copy frame-7.png354408647#354408647#0(0"0(0#0#42"/Users/Decmac/Desktop/ImageHop/frame-7.png4300885448#432"    cd /Users/Decmac/Desktop/ImageHop    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Decmac/Desktop/ImageHop/frame-7.png /Users/Decmac/Desktop/ImageHop/build/Debug-iphonesimulator/ImageHop.app0#
+
+CCpResource build/Debug-iphonesimulator/ImageHop.app/frame-8.png frame-8.png
+s354408647.331684
+e354408647.459861
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ImageHop.app/frame-8.png
+xframe-8.png
+lSLF07#2@16"Copy frame-8.png354408647#354408647#0(0"0(0#0#42"/Users/Decmac/Desktop/ImageHop/frame-8.png4300885448#432"    cd /Users/Decmac/Desktop/ImageHop    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Decmac/Desktop/ImageHop/frame-8.png /Users/Decmac/Desktop/ImageHop/build/Debug-iphonesimulator/ImageHop.app0#
+
+CCpResource build/Debug-iphonesimulator/ImageHop.app/frame-9.png frame-9.png
+s354408647.342336
+e354408647.462561
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ImageHop.app/frame-9.png
+xframe-9.png
+lSLF07#2@16"Copy frame-9.png354408647#354408647#0(0"0(0#0#42"/Users/Decmac/Desktop/ImageHop/frame-9.png4300885448#432"    cd /Users/Decmac/Desktop/ImageHop    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Decmac/Desktop/ImageHop/frame-9.png /Users/Decmac/Desktop/ImageHop/build/Debug-iphonesimulator/ImageHop.app0#
+
+CCpResource build/Debug-iphonesimulator/ImageHop.app/icon.png icon.png
+s354408647.537967
+e354408647.553073
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ImageHop.app/icon.png
+xicon.png
+lSLF07#2@13"Copy icon.png354408647#354408647#0(0"0(0#0#39"/Users/Decmac/Desktop/ImageHop/icon.png4300885448#429"    cd /Users/Decmac/Desktop/ImageHop    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Decmac/Desktop/ImageHop/icon.png /Users/Decmac/Desktop/ImageHop/build/Debug-iphonesimulator/ImageHop.app0#
+
+CGenerateDSYMFile /Users/Decmac/Desktop/ImageHop/build/Debug-iphonesimulator/ImageHop.app.dSYM /Users/Decmac/Desktop/ImageHop/build/Debug-iphonesimulator/ImageHop.app/ImageHop
+s354408649.718884
+e354408649.766082
+r1
+xGenerateDSYMFile
+x/Users/Decmac/Desktop/ImageHop/build/Debug-iphonesimulator/ImageHop.app.dSYM
+x/Users/Decmac/Desktop/ImageHop/build/Debug-iphonesimulator/ImageHop.app/ImageHop
+o2012-03-25 22:50:49.750 dsymutil[1319:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 35
+lSLF07#2@112"GenerateDSYMFile build/Debug-iphonesimulator/ImageHop.app.dSYM build/Debug-iphonesimulator/ImageHop.app/ImageHop354408649#354408649#0(110"2012-03-25 22:50:49.750 dsymutil[1319:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 350(0#0#80"/Users/Decmac/Desktop/ImageHop/build/Debug-iphonesimulator/ImageHop.app/ImageHop4300885448#362"    cd /Users/Decmac/Desktop/ImageHop    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/Decmac/Desktop/ImageHop/build/Debug-iphonesimulator/ImageHop.app/ImageHop -o /Users/Decmac/Desktop/ImageHop/build/Debug-iphonesimulator/ImageHop.app.dSYM0#
+
+CLd /Users/Decmac/Desktop/ImageHop/build/Debug-iphonesimulator/ImageHop.app/ImageHop normal i386
+s354408649.665845
+e354408649.718605
+r1
+xLd
+x/Users/Decmac/Desktop/ImageHop/build/Debug-iphonesimulator/ImageHop.app/ImageHop
+xnormal
+xi386
+lSLF07#2@85"Link /Users/Decmac/Desktop/ImageHop/build/Debug-iphonesimulator/ImageHop.app/ImageHop354408649#354408649#0(0"0(0#0#0"4300885448#829"    cd /Users/Decmac/Desktop/ImageHop    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -L/Users/Decmac/Desktop/ImageHop/build/Debug-iphonesimulator -F/Users/Decmac/Desktop/ImageHop/build/Debug-iphonesimulator -filelist /Users/Decmac/Desktop/ImageHop/build/ImageHop.build/Debug-iphonesimulator/ImageHop.build/Objects-normal/i386/ImageHop.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/Decmac/Desktop/ImageHop/build/Debug-iphonesimulator/ImageHop.app/ImageHop0#
+
+CProcessInfoPlistFile /Users/Decmac/Desktop/ImageHop/build/Debug-iphonesimulator/ImageHop.app/Info.plist ImageHop-Info.plist
+s354408646.509718
+e354408646.519411
+r1
+xProcessInfoPlistFile
+x/Users/Decmac/Desktop/ImageHop/build/Debug-iphonesimulator/ImageHop.app/Info.plist
+xImageHop-Info.plist
+lSLF07#2@27"Process ImageHop-Info.plist354408646#354408646#0(0"0(0#0#50"/Users/Decmac/Desktop/ImageHop/ImageHop-Info.plist4300885448#458"    cd /Users/Decmac/Desktop/ImageHop    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility ImageHop-Info.plist -genpkginfo /Users/Decmac/Desktop/ImageHop/build/Debug-iphonesimulator/ImageHop.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/Decmac/Desktop/ImageHop/build/Debug-iphonesimulator/ImageHop.app/Info.plist0#
+
+CProcessPCH /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ImageHop_Prefix-hggsinlkkptgscaxzkpvpmyruldi/ImageHop_Prefix.pch.gch ImageHop_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s354408647.553390
+e354408649.326045
+r1
+xProcessPCH
+x/var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ImageHop_Prefix-hggsinlkkptgscaxzkpvpmyruldi/ImageHop_Prefix.pch.gch
+xImageHop_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile ImageHop_Prefix.pch354408647#354408649#0(0"0(0#0#50"/Users/Decmac/Desktop/ImageHop/ImageHop_Prefix.pch4300885448#1690"    cd /Users/Decmac/Desktop/ImageHop    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/ImageHop/build/ImageHop.build/Debug-iphonesimulator/ImageHop.build/ImageHop-generated-files.hmap -I/Users/Decmac/Desktop/ImageHop/build/ImageHop.build/Debug-iphonesimulator/ImageHop.build/ImageHop-own-target-headers.hmap -I/Users/Decmac/Desktop/ImageHop/build/ImageHop.build/Debug-iphonesimulator/ImageHop.build/ImageHop-all-target-headers.hmap -iquote /Users/Decmac/Desktop/ImageHop/build/ImageHop.build/Debug-iphonesimulator/ImageHop.build/ImageHop-project-headers.hmap -F/Users/Decmac/Desktop/ImageHop/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/ImageHop/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/ImageHop/build/ImageHop.build/Debug-iphonesimulator/ImageHop.build/DerivedSources/i386 -I/Users/Decmac/Desktop/ImageHop/build/ImageHop.build/Debug-iphonesimulator/ImageHop.build/DerivedSources -c /Users/Decmac/Desktop/ImageHop/ImageHop_Prefix.pch -o /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ImageHop_Prefix-hggsinlkkptgscaxzkpvpmyruldi/ImageHop_Prefix.pch.gch0#
+
+CTouch /Users/Decmac/Desktop/ImageHop/build/Debug-iphonesimulator/ImageHop.app
+s354408649.766426
+e354408649.776864
+r1
+xTouch
+x/Users/Decmac/Desktop/ImageHop/build/Debug-iphonesimulator/ImageHop.app
+lSLF07#2@77"Touch /Users/Decmac/Desktop/ImageHop/build/Debug-iphonesimulator/ImageHop.app354408649#354408649#0(0"0(0#0#0"4300885448#263"    cd /Users/Decmac/Desktop/ImageHop    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/Decmac/Desktop/ImageHop/build/Debug-iphonesimulator/ImageHop.app0#
+

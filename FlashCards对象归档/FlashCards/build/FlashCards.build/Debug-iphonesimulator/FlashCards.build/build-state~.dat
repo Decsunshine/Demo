@@ -1,0 +1,318 @@
+TFlashCards
+v7
+r0
+t353670184.043267
+cCheck dependencies
+cProcessInfoPlistFile /Users/Decmac/Desktop/FlashCards/build/Debug-iphonesimulator/FlashCards.app/Info.plist FlashCards-Info.plist
+cCompileXIB /Users/Decmac/Desktop/FlashCards/MainWindow.xib
+cCompileXIB /Users/Decmac/Desktop/FlashCards/FlashCardsViewController.xib
+cProcessPCH /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FlashCards_Prefix-fhnrwrlxptwkjnexhtcnzhqqoxbq/FlashCards_Prefix.pch.gch FlashCards_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FlashCards.build/Debug-iphonesimulator/FlashCards.build/Objects-normal/i386/main.o /Users/Decmac/Desktop/FlashCards/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FlashCards.build/Debug-iphonesimulator/FlashCards.build/Objects-normal/i386/FlashCardsAppDelegate.o /Users/Decmac/Desktop/FlashCards/Classes/FlashCardsAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FlashCards.build/Debug-iphonesimulator/FlashCards.build/Objects-normal/i386/FlashCardsViewController.o /Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FlashCards.build/Debug-iphonesimulator/FlashCards.build/Objects-normal/i386/FlashCard.o /Users/Decmac/Desktop/FlashCards/Classes/FlashCard.m normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk
+c000000004F3A580900000000000000EE
+t1329223689
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B2B4CC3000000000026EE30
+t1261128899
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B2B4DC8000000000027E880
+t1261129160
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B2B4DAE0000000000001355
+t1261129134
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B2B61620000000000000788
+t1261134178
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B2B62B500000000016721E0
+t1261134517
+s23536096
+
+N/Users/Decmac/Desktop/FlashCards/Classes/FlashCard.h
+c000000004F6459870000000000000250
+t1331976583
+s592
+i<Foundation/Foundation.h>
+
+N/Users/Decmac/Desktop/FlashCards/Classes/FlashCard.m
+c000000004F6459F600000000000001E1
+t1331976694
+s481
+i"FlashCard.h"
+
+N/Users/Decmac/Desktop/FlashCards/Classes/FlashCardsAppDelegate.h
+c000000004F64585400000000000001EE
+t1331976276
+s494
+i<UIKit/UIKit.h>
+
+N/Users/Decmac/Desktop/FlashCards/Classes/FlashCardsAppDelegate.m
+c000000004F6458540000000000000276
+t1331976276
+s630
+i"FlashCardsAppDelegate.h"
+i"FlashCardsViewController.h"
+
+N/Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.h
+c000000004F645CA4000000000000059F
+t1331977380
+s1439
+i<UIKit/UIKit.h>
+i"FlashCard.h"
+
+N/Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.m
+c000000004F64585400000000000005C0
+t1331976276
+s1472
+i"FlashCardsViewController.h"
+
+N/Users/Decmac/Desktop/FlashCards/FlashCardsViewController.xib
+c000000004F64585400000000000018E7
+t1331976276
+s6375
+
+N/Users/Decmac/Desktop/FlashCards/FlashCards_Prefix.pch
+c000000004F64585400000000000000BD
+t1331976276
+s189
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/Decmac/Desktop/FlashCards/MainWindow.xib
+c000000004F645854000000000000246F
+t1331976276
+s9327
+
+N/Users/Decmac/Desktop/FlashCards/build/Debug-iphonesimulator/FlashCards.app
+t2
+s0
+
+N/Users/Decmac/Desktop/FlashCards/build/Debug-iphonesimulator/FlashCards.app.dSYM
+t2
+s0
+
+N/Users/Decmac/Desktop/FlashCards/build/Debug-iphonesimulator/FlashCards.app/FlashCards
+t2
+s0
+
+N/Users/Decmac/Desktop/FlashCards/build/Debug-iphonesimulator/FlashCards.app/FlashCardsViewController.nib
+t1331977381
+s1151
+
+N/Users/Decmac/Desktop/FlashCards/build/Debug-iphonesimulator/FlashCards.app/Info.plist
+t1331977380
+s576
+
+N/Users/Decmac/Desktop/FlashCards/build/Debug-iphonesimulator/FlashCards.app/MainWindow.nib
+t1331977381
+s1501
+
+N/Users/Decmac/Desktop/FlashCards/build/Debug-iphonesimulator/FlashCards.app/PkgInfo
+t1331977380
+s8
+
+N/Users/Decmac/Desktop/FlashCards/build/FlashCards.build/Debug-iphonesimulator/FlashCards.build/Objects-normal/i386/FlashCard.o
+t2
+s0
+
+N/Users/Decmac/Desktop/FlashCards/build/FlashCards.build/Debug-iphonesimulator/FlashCards.build/Objects-normal/i386/FlashCards.LinkFileList
+c000000004F645CA40000000000000212
+t1331977380
+s530
+
+N/Users/Decmac/Desktop/FlashCards/build/FlashCards.build/Debug-iphonesimulator/FlashCards.build/Objects-normal/i386/FlashCardsAppDelegate.o
+t2
+s0
+
+N/Users/Decmac/Desktop/FlashCards/build/FlashCards.build/Debug-iphonesimulator/FlashCards.build/Objects-normal/i386/FlashCardsViewController.o
+t2
+s0
+
+N/Users/Decmac/Desktop/FlashCards/build/FlashCards.build/Debug-iphonesimulator/FlashCards.build/Objects-normal/i386/main.o
+t1331977383
+s5944
+
+N/Users/Decmac/Desktop/FlashCards/main.m
+c000000004F6458540000000000000169
+t1331976276
+s361
+i<UIKit/UIKit.h>
+
+N/var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FlashCards_Prefix-fhnrwrlxptwkjnexhtcnzhqqoxbq/FlashCards_Prefix.pch.gch
+t1331977383
+s13034960
+
+NFlashCards-Info.plist
+c000000004F645854000000000000038D
+t1331976276
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies353670180#353670181#0(0"0(0#1#0"7947009927035180032#0"0#
+
+CCompileC build/FlashCards.build/Debug-iphonesimulator/FlashCards.build/Objects-normal/i386/FlashCard.o /Users/Decmac/Desktop/FlashCards/Classes/FlashCard.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s353670183.905042
+e353670184.043046
+r0
+xCompileC
+xbuild/FlashCards.build/Debug-iphonesimulator/FlashCards.build/Objects-normal/i386/FlashCard.o
+x/Users/Decmac/Desktop/FlashCards/Classes/FlashCard.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/Decmac/Desktop/FlashCards/Classes/FlashCard.m:9:
+o/Users/Decmac/Desktop/FlashCards/Classes/FlashCard.h:29: error: property 'wrongCount' with 'retain' attribute must be of object type
+o/Users/Decmac/Desktop/FlashCards/Classes/FlashCard.h:29: error: property 'rightCount' with 'retain' attribute must be of object type
+o/Users/Decmac/Desktop/FlashCards/Classes/FlashCard.m: In function '-[FlashCard setWrongCount:]':
+o/Users/Decmac/Desktop/FlashCards/Classes/FlashCard.m:14: warning: passing argument 4 of 'objc_setProperty' makes pointer from integer without a cast
+o/Users/Decmac/Desktop/FlashCards/Classes/FlashCard.m: In function '-[FlashCard setRightCount:]':
+o/Users/Decmac/Desktop/FlashCards/Classes/FlashCard.m:14: warning: passing argument 4 of 'objc_setProperty' makes pointer from integer without a cast
+lSLF07#2@60"Compile /Users/Decmac/Desktop/FlashCards/Classes/FlashCard.m353670183#353670184#0(836"In file included from /Users/Decmac/Desktop/FlashCards/Classes/FlashCard.m:9:/Users/Decmac/Desktop/FlashCards/Classes/FlashCard.h:29: error: property 'wrongCount' with 'retain' attribute must be of object type/Users/Decmac/Desktop/FlashCards/Classes/FlashCard.h:29: error: property 'rightCount' with 'retain' attribute must be of object type/Users/Decmac/Desktop/FlashCards/Classes/FlashCard.m: In function '-[FlashCard setWrongCount:]':/Users/Decmac/Desktop/FlashCards/Classes/FlashCard.m:14: warning: passing argument 4 of 'objc_setProperty' makes pointer from integer without a cast/Users/Decmac/Desktop/FlashCards/Classes/FlashCard.m: In function '-[FlashCard setRightCount:]':/Users/Decmac/Desktop/FlashCards/Classes/FlashCard.m:14: warning: passing argument 4 of 'objc_setProperty' makes pointer from integer without a cast4(4@68"Property 'wrongCount' with 'retain' attribute must be of object type353670183#78#133#2(7@74"In file included from /Users/Decmac/Desktop/FlashCards/Classes/FlashCard.m353670183#18446744073709551615#0#0(6@52"/Users/Decmac/Desktop/FlashCards/Classes/FlashCard.m353669494#9#0#9#0#0"0(13@124"Property 'wrongCount' with 'retain' attribute must be of object type in /Users/Decmac/Desktop/FlashCards/Classes/FlashCard.h353670183#18446744073709551615#0#0(6@52"/Users/Decmac/Desktop/FlashCards/Classes/FlashCard.h353669383#29#0#29#0#0"0(6@52"/Users/Decmac/Desktop/FlashCards/Classes/FlashCard.h353669383#29#0#29#0#0"0(4@68"Property 'rightCount' with 'retain' attribute must be of object type353670183#211#133#2(7@74"In file included from /Users/Decmac/Desktop/FlashCards/Classes/FlashCard.m353670183#18446744073709551615#0#0(6@52"/Users/Decmac/Desktop/FlashCards/Classes/FlashCard.m353669494#9#0#9#0#0"0(13@124"Property 'rightCount' with 'retain' attribute must be of object type in /Users/Decmac/Desktop/FlashCards/Classes/FlashCard.h353670183#18446744073709551615#0#0(6@52"/Users/Decmac/Desktop/FlashCards/Classes/FlashCard.h353669383#29#0#29#0#0"0(6@52"/Users/Decmac/Desktop/FlashCards/Classes/FlashCard.h353669383#29#0#29#0#0"0(22@82"Passing argument 4 of 'objc_setProperty' makes pointer from integer without a cast353670183#441#149#0(6@52"/Users/Decmac/Desktop/FlashCards/Classes/FlashCard.m353669494#14#0#14#0#0"0(22@82"Passing argument 4 of 'objc_setProperty' makes pointer from integer without a cast353670183#687#149#0(6@52"/Users/Decmac/Desktop/FlashCards/Classes/FlashCard.m353669494#14#0#14#0#0"0(0#0#52"/Users/Decmac/Desktop/FlashCards/Classes/FlashCard.m4300885448#1871"    cd /Users/Decmac/Desktop/FlashCards    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/FlashCards/build/FlashCards.build/Debug-iphonesimulator/FlashCards.build/FlashCards-generated-files.hmap -I/Users/Decmac/Desktop/FlashCards/build/FlashCards.build/Debug-iphonesimulator/FlashCards.build/FlashCards-own-target-headers.hmap -I/Users/Decmac/Desktop/FlashCards/build/FlashCards.build/Debug-iphonesimulator/FlashCards.build/FlashCards-all-target-headers.hmap -iquote /Users/Decmac/Desktop/FlashCards/build/FlashCards.build/Debug-iphonesimulator/FlashCards.build/FlashCards-project-headers.hmap -F/Users/Decmac/Desktop/FlashCards/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/FlashCards/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/FlashCards/build/FlashCards.build/Debug-iphonesimulator/FlashCards.build/DerivedSources/i386 -I/Users/Decmac/Desktop/FlashCards/build/FlashCards.build/Debug-iphonesimulator/FlashCards.build/DerivedSources -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FlashCards_Prefix-fhnrwrlxptwkjnexhtcnzhqqoxbq/FlashCards_Prefix.pch -c /Users/Decmac/Desktop/FlashCards/Classes/FlashCard.m -o /Users/Decmac/Desktop/FlashCards/build/FlashCards.build/Debug-iphonesimulator/FlashCards.build/Objects-normal/i386/FlashCard.o1#
+
+CCompileC build/FlashCards.build/Debug-iphonesimulator/FlashCards.build/Objects-normal/i386/FlashCardsAppDelegate.o /Users/Decmac/Desktop/FlashCards/Classes/FlashCardsAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s353670183.681689
+e353670183.822861
+r0
+xCompileC
+xbuild/FlashCards.build/Debug-iphonesimulator/FlashCards.build/Objects-normal/i386/FlashCardsAppDelegate.o
+x/Users/Decmac/Desktop/FlashCards/Classes/FlashCardsAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.h:10,
+o                 from /Users/Decmac/Desktop/FlashCards/Classes/FlashCardsAppDelegate.m:10:
+o/Users/Decmac/Desktop/FlashCards/Classes/FlashCard.h:29: error: property 'wrongCount' with 'retain' attribute must be of object type
+o/Users/Decmac/Desktop/FlashCards/Classes/FlashCard.h:29: error: property 'rightCount' with 'retain' attribute must be of object type
+oIn file included from /Users/Decmac/Desktop/FlashCards/Classes/FlashCardsAppDelegate.m:10:
+o/Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.h:41: error: expected specifier-qualifier-list before 'FlahCard'
+o/Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.h:49: error: property 'currentCardCounter' with 'retain' attribute must be of object type
+lSLF07#2@72"Compile /Users/Decmac/Desktop/FlashCards/Classes/FlashCardsAppDelegate.m353670183#353670183#0(829"In file included from /Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.h:10,                 from /Users/Decmac/Desktop/FlashCards/Classes/FlashCardsAppDelegate.m:10:/Users/Decmac/Desktop/FlashCards/Classes/FlashCard.h:29: error: property 'wrongCount' with 'retain' attribute must be of object type/Users/Decmac/Desktop/FlashCards/Classes/FlashCard.h:29: error: property 'rightCount' with 'retain' attribute must be of object typeIn file included from /Users/Decmac/Desktop/FlashCards/Classes/FlashCardsAppDelegate.m:10:/Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.h:41: error: expected specifier-qualifier-list before 'FlahCard'/Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.h:49: error: property 'currentCardCounter' with 'retain' attribute must be of object type4(4@68"Property 'wrongCount' with 'retain' attribute must be of object type353670183#185#133#3(7@86"In file included from /Users/Decmac/Desktop/FlashCards/Classes/FlashCardsAppDelegate.m353670183#18446744073709551615#0#0(6@64"/Users/Decmac/Desktop/FlashCards/Classes/FlashCardsAppDelegate.m353669076#10#0#10#0#0"0(7@89"In file included from /Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.h353670183#18446744073709551615#0#0(6@67"/Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.h353670180#10#0#10#0#0"0(13@124"Property 'wrongCount' with 'retain' attribute must be of object type in /Users/Decmac/Desktop/FlashCards/Classes/FlashCard.h353670183#18446744073709551615#0#0(6@52"/Users/Decmac/Desktop/FlashCards/Classes/FlashCard.h353669383#29#0#29#0#0"0(6@52"/Users/Decmac/Desktop/FlashCards/Classes/FlashCard.h353669383#29#0#29#0#0"0(4@68"Property 'rightCount' with 'retain' attribute must be of object type353670183#318#133#3(7@86"In file included from /Users/Decmac/Desktop/FlashCards/Classes/FlashCardsAppDelegate.m353670183#18446744073709551615#0#0(6@64"/Users/Decmac/Desktop/FlashCards/Classes/FlashCardsAppDelegate.m353669076#10#0#10#0#0"0(7@89"In file included from /Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.h353670183#18446744073709551615#0#0(6@67"/Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.h353670180#10#0#10#0#0"0(13@124"Property 'rightCount' with 'retain' attribute must be of object type in /Users/Decmac/Desktop/FlashCards/Classes/FlashCard.h353670183#18446744073709551615#0#0(6@52"/Users/Decmac/Desktop/FlashCards/Classes/FlashCard.h353669383#29#0#29#0#0"0(6@52"/Users/Decmac/Desktop/FlashCards/Classes/FlashCard.h353669383#29#0#29#0#0"0(4@51"Expected specifier-qualifier-list before 'FlahCard'353670183#542#131#2(7@86"In file included from /Users/Decmac/Desktop/FlashCards/Classes/FlashCardsAppDelegate.m353670183#18446744073709551615#0#0(6@64"/Users/Decmac/Desktop/FlashCards/Classes/FlashCardsAppDelegate.m353669076#10#0#10#0#0"0(13@122"Expected specifier-qualifier-list before 'FlahCard' in /Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.h353670183#18446744073709551615#0#0(6@67"/Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.h353670180#41#0#41#0#0"0(6@67"/Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.h353670180#41#0#41#0#19"expected * before *0(4@76"Property 'currentCardCounter' with 'retain' attribute must be of object type353670183#673#156#2(7@86"In file included from /Users/Decmac/Desktop/FlashCards/Classes/FlashCardsAppDelegate.m353670183#18446744073709551615#0#0(6@64"/Users/Decmac/Desktop/FlashCards/Classes/FlashCardsAppDelegate.m353669076#10#0#10#0#0"0(13@147"Property 'currentCardCounter' with 'retain' attribute must be of object type in /Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.h353670183#18446744073709551615#0#0(6@67"/Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.h353670180#49#0#49#0#0"0(6@67"/Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.h353670180#49#0#49#0#0"0(0#0#64"/Users/Decmac/Desktop/FlashCards/Classes/FlashCardsAppDelegate.m4300885448#1895"    cd /Users/Decmac/Desktop/FlashCards    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/FlashCards/build/FlashCards.build/Debug-iphonesimulator/FlashCards.build/FlashCards-generated-files.hmap -I/Users/Decmac/Desktop/FlashCards/build/FlashCards.build/Debug-iphonesimulator/FlashCards.build/FlashCards-own-target-headers.hmap -I/Users/Decmac/Desktop/FlashCards/build/FlashCards.build/Debug-iphonesimulator/FlashCards.build/FlashCards-all-target-headers.hmap -iquote /Users/Decmac/Desktop/FlashCards/build/FlashCards.build/Debug-iphonesimulator/FlashCards.build/FlashCards-project-headers.hmap -F/Users/Decmac/Desktop/FlashCards/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/FlashCards/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/FlashCards/build/FlashCards.build/Debug-iphonesimulator/FlashCards.build/DerivedSources/i386 -I/Users/Decmac/Desktop/FlashCards/build/FlashCards.build/Debug-iphonesimulator/FlashCards.build/DerivedSources -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FlashCards_Prefix-fhnrwrlxptwkjnexhtcnzhqqoxbq/FlashCards_Prefix.pch -c /Users/Decmac/Desktop/FlashCards/Classes/FlashCardsAppDelegate.m -o /Users/Decmac/Desktop/FlashCards/build/FlashCards.build/Debug-iphonesimulator/FlashCards.build/Objects-normal/i386/FlashCardsAppDelegate.o1#
+
+CCompileC build/FlashCards.build/Debug-iphonesimulator/FlashCards.build/Objects-normal/i386/FlashCardsViewController.o /Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s353670183.823116
+e353670183.979048
+r0
+xCompileC
+xbuild/FlashCards.build/Debug-iphonesimulator/FlashCards.build/Objects-normal/i386/FlashCardsViewController.o
+x/Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.h:10,
+o                 from /Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.m:9:
+o/Users/Decmac/Desktop/FlashCards/Classes/FlashCard.h:29: error: property 'wrongCount' with 'retain' attribute must be of object type
+o/Users/Decmac/Desktop/FlashCards/Classes/FlashCard.h:29: error: property 'rightCount' with 'retain' attribute must be of object type
+oIn file included from /Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.m:9:
+o/Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.h:41: error: expected specifier-qualifier-list before 'FlahCard'
+o/Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.h:49: error: property 'currentCardCounter' with 'retain' attribute must be of object type
+o/Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.m:65: warning: property 'cardCount' requires method '-cardCount' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.m:65: warning: property 'cardCount' requires the method 'setCardCount:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.m:65: warning: property 'wrongCount' requires method '-wrongCount' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.m:65: warning: property 'wrongCount' requires the method 'setWrongCount:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.m:65: warning: property 'rightCount' requires method '-rightCount' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.m:65: warning: property 'rightCount' requires the method 'setRightCount:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.m:65: warning: property 'question' requires method '-question' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.m:65: warning: property 'question' requires the method 'setQuestion:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.m:65: warning: property 'answer' requires method '-answer' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.m:65: warning: property 'answer' requires the method 'setAnswer:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.m:65: warning: property 'deleteButton' requires method '-deleteButton' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.m:65: warning: property 'deleteButton' requires the method 'setDeleteButton:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.m:65: warning: property 'rightButton' requires method '-rightButton' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.m:65: warning: property 'rightButton' requires the method 'setRightButton:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.m:65: warning: property 'wrongButton' requires method '-wrongButton' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.m:65: warning: property 'wrongButton' requires the method 'setWrongButton:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.m:65: warning: property 'actionButton' requires method '-actionButton' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.m:65: warning: property 'actionButton' requires the method 'setActionButton:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.m:65: warning: property 'flashCards' requires method '-flashCards' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.m:65: warning: property 'flashCards' requires the method 'setFlashCards:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.m:65: warning: property 'currentCardCounter' requires method '-currentCardCounter' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.m:65: warning: property 'currentCardCounter' requires the method 'setCurrentCardCounter:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.m:65: warning: incomplete implementation of class 'FlashCardsViewController'
+o/Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.m:65: warning: method definition for '-deleteCard' not found
+o/Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.m:65: warning: method definition for '-addCard' not found
+o/Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.m:65: warning: method definition for '-nextAction' not found
+o/Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.m:65: warning: method definition for '-markRight' not found
+o/Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.m:65: warning: method definition for '-markWrong' not found
+lSLF07#2@75"Compile /Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.m353670183#353670183#0(6331"In file included from /Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.h:10,                 from /Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.m:9:/Users/Decmac/Desktop/FlashCards/Classes/FlashCard.h:29: error: property 'wrongCount' with 'retain' attribute must be of object type/Users/Decmac/Desktop/FlashCards/Classes/FlashCard.h:29: error: property 'rightCount' with 'retain' attribute must be of object typeIn file included from /Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.m:9:/Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.h:41: error: expected specifier-qualifier-list before 'FlahCard'/Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.h:49: error: property 'currentCardCounter' with 'retain' attribute must be of object type/Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.m:65: warning: property 'cardCount' requires method '-cardCount' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.m:65: warning: property 'cardCount' requires the method 'setCardCount:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.m:65: warning: property 'wrongCount' requires method '-wrongCount' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.m:65: warning: property 'wrongCount' requires the method 'setWrongCount:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.m:65: warning: property 'rightCount' requires method '-rightCount' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.m:65: warning: property 'rightCount' requires the method 'setRightCount:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.m:65: warning: property 'question' requires method '-question' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.m:65: warning: property 'question' requires the method 'setQuestion:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.m:65: warning: property 'answer' requires method '-answer' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.m:65: warning: property 'answer' requires the method 'setAnswer:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.m:65: warning: property 'deleteButton' requires method '-deleteButton' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.m:65: warning: property 'deleteButton' requires the method 'setDeleteButton:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.m:65: warning: property 'rightButton' requires method '-rightButton' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.m:65: warning: property 'rightButton' requires the method 'setRightButton:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.m:65: warning: property 'wrongButton' requires method '-wrongButton' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.m:65: warning: property 'wrongButton' requires the method 'setWrongButton:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.m:65: warning: property 'actionButton' requires method '-actionButton' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.m:65: warning: property 'actionButton' requires the method 'setActionButton:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.m:65: warning: property 'flashCards' requires method '-flashCards' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.m:65: warning: property 'flashCards' requires the method 'setFlashCards:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.m:65: warning: property 'currentCardCounter' requires method '-currentCardCounter' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.m:65: warning: property 'currentCardCounter' requires the method 'setCurrentCardCounter:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.m:65: warning: incomplete implementation of class 'FlashCardsViewController'/Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.m:65: warning: method definition for '-deleteCard' not found/Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.m:65: warning: method definition for '-addCard' not found/Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.m:65: warning: method definition for '-nextAction' not found/Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.m:65: warning: method definition for '-markRight' not found/Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.m:65: warning: method definition for '-markWrong' not found32(4@68"Property 'wrongCount' with 'retain' attribute must be of object type353670183#187#133#3(7@89"In file included from /Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.m353670183#18446744073709551615#0#0(6@67"/Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.m353669076#9#0#9#0#0"0(7@89"In file included from /Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.h353670183#18446744073709551615#0#0(6@67"/Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.h353670180#10#0#10#0#0"0(13@124"Property 'wrongCount' with 'retain' attribute must be of object type in /Users/Decmac/Desktop/FlashCards/Classes/FlashCard.h353670183#18446744073709551615#0#0(6@52"/Users/Decmac/Desktop/FlashCards/Classes/FlashCard.h353669383#29#0#29#0#0"0(6@52"/Users/Decmac/Desktop/FlashCards/Classes/FlashCard.h353669383#29#0#29#0#0"0(4@68"Property 'rightCount' with 'retain' attribute must be of object type353670183#320#133#3(7@89"In file included from /Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.m353670183#18446744073709551615#0#0(6@67"/Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.m353669076#9#0#9#0#0"0(7@89"In file included from /Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.h353670183#18446744073709551615#0#0(6@67"/Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.h353670180#10#0#10#0#0"0(13@124"Property 'rightCount' with 'retain' attribute must be of object type in /Users/Decmac/Desktop/FlashCards/Classes/FlashCard.h353670183#18446744073709551615#0#0(6@52"/Users/Decmac/Desktop/FlashCards/Classes/FlashCard.h353669383#29#0#29#0#0"0(6@52"/Users/Decmac/Desktop/FlashCards/Classes/FlashCard.h353669383#29#0#29#0#0"0(4@51"Expected specifier-qualifier-list before 'FlahCard'353670183#546#131#2(7@89"In file included from /Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.m353670183#18446744073709551615#0#0(6@67"/Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.m353669076#9#0#9#0#0"0(13@122"Expected specifier-qualifier-list before 'FlahCard' in /Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.h353670183#18446744073709551615#0#0(6@67"/Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.h353670180#41#0#41#0#0"0(6@67"/Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.h353670180#41#0#41#0#19"expected * before *0(4@76"Property 'currentCardCounter' with 'retain' attribute must be of object type353670183#677#156#2(7@89"In file included from /Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.m353670183#18446744073709551615#0#0(6@67"/Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.m353669076#9#0#9#0#0"0(13@147"Property 'currentCardCounter' with 'retain' attribute must be of object type in /Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.h353670183#18446744073709551615#0#0(6@67"/Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.h353670180#49#0#49#0#0"0(6@67"/Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.h353670180#49#0#49#0#0"0(22@126"Property 'cardCount' requires method '-cardCount' to be defined - use @synthesize, @dynamic or provide a method implementation353670183#833#208#0(6@67"/Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.m353669076#65#0#65#0#0"0(22@133"Property 'cardCount' requires the method 'setCardCount:' to be defined - use @synthesize, @dynamic or provide a method implementation353670183#1041#215#0(6@67"/Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.m353669076#65#0#65#0#0"0(22@128"Property 'wrongCount' requires method '-wrongCount' to be defined - use @synthesize, @dynamic or provide a method implementation353670183#1256#210#0(6@67"/Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.m353669076#65#0#65#0#0"0(22@135"Property 'wrongCount' requires the method 'setWrongCount:' to be defined - use @synthesize, @dynamic or provide a method implementation353670183#1466#217#0(6@67"/Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.m353669076#65#0#65#0#0"0(22@128"Property 'rightCount' requires method '-rightCount' to be defined - use @synthesize, @dynamic or provide a method implementation353670183#1683#210#0(6@67"/Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.m353669076#65#0#65#0#0"0(22@135"Property 'rightCount' requires the method 'setRightCount:' to be defined - use @synthesize, @dynamic or provide a method implementation353670183#1893#217#0(6@67"/Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.m353669076#65#0#65#0#0"0(22@124"Property 'question' requires method '-question' to be defined - use @synthesize, @dynamic or provide a method implementation353670183#2110#206#0(6@67"/Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.m353669076#65#0#65#0#0"0(22@131"Property 'question' requires the method 'setQuestion:' to be defined - use @synthesize, @dynamic or provide a method implementation353670183#2316#213#0(6@67"/Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.m353669076#65#0#65#0#0"0(22@120"Property 'answer' requires method '-answer' to be defined - use @synthesize, @dynamic or provide a method implementation353670183#2529#202#0(6@67"/Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.m353669076#65#0#65#0#0"0(22@127"Property 'answer' requires the method 'setAnswer:' to be defined - use @synthesize, @dynamic or provide a method implementation353670183#2731#209#0(6@67"/Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.m353669076#65#0#65#0#0"0(22@132"Property 'deleteButton' requires method '-deleteButton' to be defined - use @synthesize, @dynamic or provide a method implementation353670183#2940#214#0(6@67"/Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.m353669076#65#0#65#0#0"0(22@139"Property 'deleteButton' requires the method 'setDeleteButton:' to be defined - use @synthesize, @dynamic or provide a method implementation353670183#3154#221#0(6@67"/Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.m353669076#65#0#65#0#0"0(22@130"Property 'rightButton' requires method '-rightButton' to be defined - use @synthesize, @dynamic or provide a method implementation353670183#3375#212#0(6@67"/Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.m353669076#65#0#65#0#0"0(22@137"Property 'rightButton' requires the method 'setRightButton:' to be defined - use @synthesize, @dynamic or provide a method implementation353670183#3587#219#0(6@67"/Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.m353669076#65#0#65#0#0"0(22@130"Property 'wrongButton' requires method '-wrongButton' to be defined - use @synthesize, @dynamic or provide a method implementation353670183#3806#212#0(6@67"/Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.m353669076#65#0#65#0#0"0(22@137"Property 'wrongButton' requires the method 'setWrongButton:' to be defined - use @synthesize, @dynamic or provide a method implementation353670183#4018#219#0(6@67"/Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.m353669076#65#0#65#0#0"0(22@132"Property 'actionButton' requires method '-actionButton' to be defined - use @synthesize, @dynamic or provide a method implementation353670183#4237#214#0(6@67"/Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.m353669076#65#0#65#0#0"0(22@139"Property 'actionButton' requires the method 'setActionButton:' to be defined - use @synthesize, @dynamic or provide a method implementation353670183#4451#221#0(6@67"/Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.m353669076#65#0#65#0#0"0(22@128"Property 'flashCards' requires method '-flashCards' to be defined - use @synthesize, @dynamic or provide a method implementation353670183#4672#210#0(6@67"/Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.m353669076#65#0#65#0#0"0(22@135"Property 'flashCards' requires the method 'setFlashCards:' to be defined - use @synthesize, @dynamic or provide a method implementation353670183#4882#217#0(6@67"/Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.m353669076#65#0#65#0#0"0(22@144"Property 'currentCardCounter' requires method '-currentCardCounter' to be defined - use @synthesize, @dynamic or provide a method implementation353670183#5099#226#0(6@67"/Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.m353669076#65#0#65#0#0"0(22@151"Property 'currentCardCounter' requires the method 'setCurrentCardCounter:' to be defined - use @synthesize, @dynamic or provide a method implementation353670183#5325#233#0(6@67"/Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.m353669076#65#0#65#0#0"0(22@61"Incomplete implementation of class 'FlashCardsViewController'353670183#5558#143#0(6@67"/Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.m353669076#65#0#65#0#38"incomplete implementation of class '*'0(22@45"Method definition for '-deleteCard' not found353670183#5701#127#0(6@67"/Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.m353669076#65#0#65#0#35"method definition for '*' not found0(22@42"Method definition for '-addCard' not found353670183#5828#124#0(6@67"/Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.m353669076#65#0#65#0#35"method definition for '*' not found0(22@45"Method definition for '-nextAction' not found353670183#5952#127#0(6@67"/Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.m353669076#65#0#65#0#35"method definition for '*' not found0(22@44"Method definition for '-markRight' not found353670183#6079#126#0(6@67"/Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.m353669076#65#0#65#0#35"method definition for '*' not found0(22@44"Method definition for '-markWrong' not found353670183#6205#126#0(6@67"/Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.m353669076#65#0#65#0#35"method definition for '*' not found0(0#0#67"/Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.m4300885448#1901"    cd /Users/Decmac/Desktop/FlashCards    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/FlashCards/build/FlashCards.build/Debug-iphonesimulator/FlashCards.build/FlashCards-generated-files.hmap -I/Users/Decmac/Desktop/FlashCards/build/FlashCards.build/Debug-iphonesimulator/FlashCards.build/FlashCards-own-target-headers.hmap -I/Users/Decmac/Desktop/FlashCards/build/FlashCards.build/Debug-iphonesimulator/FlashCards.build/FlashCards-all-target-headers.hmap -iquote /Users/Decmac/Desktop/FlashCards/build/FlashCards.build/Debug-iphonesimulator/FlashCards.build/FlashCards-project-headers.hmap -F/Users/Decmac/Desktop/FlashCards/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/FlashCards/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/FlashCards/build/FlashCards.build/Debug-iphonesimulator/FlashCards.build/DerivedSources/i386 -I/Users/Decmac/Desktop/FlashCards/build/FlashCards.build/Debug-iphonesimulator/FlashCards.build/DerivedSources -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FlashCards_Prefix-fhnrwrlxptwkjnexhtcnzhqqoxbq/FlashCards_Prefix.pch -c /Users/Decmac/Desktop/FlashCards/Classes/FlashCardsViewController.m -o /Users/Decmac/Desktop/FlashCards/build/FlashCards.build/Debug-iphonesimulator/FlashCards.build/Objects-normal/i386/FlashCardsViewController.o1#
+
+CCompileC build/FlashCards.build/Debug-iphonesimulator/FlashCards.build/Objects-normal/i386/main.o /Users/Decmac/Desktop/FlashCards/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s353670183.678971
+e353670183.904773
+r1
+xCompileC
+xbuild/FlashCards.build/Debug-iphonesimulator/FlashCards.build/Objects-normal/i386/main.o
+x/Users/Decmac/Desktop/FlashCards/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@47"Compile /Users/Decmac/Desktop/FlashCards/main.m353670183#353670183#0(0"0(0#0#39"/Users/Decmac/Desktop/FlashCards/main.m4300885448#1853"    cd /Users/Decmac/Desktop/FlashCards    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/FlashCards/build/FlashCards.build/Debug-iphonesimulator/FlashCards.build/FlashCards-generated-files.hmap -I/Users/Decmac/Desktop/FlashCards/build/FlashCards.build/Debug-iphonesimulator/FlashCards.build/FlashCards-own-target-headers.hmap -I/Users/Decmac/Desktop/FlashCards/build/FlashCards.build/Debug-iphonesimulator/FlashCards.build/FlashCards-all-target-headers.hmap -iquote /Users/Decmac/Desktop/FlashCards/build/FlashCards.build/Debug-iphonesimulator/FlashCards.build/FlashCards-project-headers.hmap -F/Users/Decmac/Desktop/FlashCards/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/FlashCards/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/FlashCards/build/FlashCards.build/Debug-iphonesimulator/FlashCards.build/DerivedSources/i386 -I/Users/Decmac/Desktop/FlashCards/build/FlashCards.build/Debug-iphonesimulator/FlashCards.build/DerivedSources -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FlashCards_Prefix-fhnrwrlxptwkjnexhtcnzhqqoxbq/FlashCards_Prefix.pch -c /Users/Decmac/Desktop/FlashCards/main.m -o /Users/Decmac/Desktop/FlashCards/build/FlashCards.build/Debug-iphonesimulator/FlashCards.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/Decmac/Desktop/FlashCards/FlashCardsViewController.xib
+s353670180.800206
+e353670181.722609
+r1
+xCompileXIB
+x/Users/Decmac/Desktop/FlashCards/FlashCardsViewController.xib
+o2012-03-17 09:43:00.953 ibtool[285:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 35
+lSLF07#2@39"CompileXIB FlashCardsViewController.xib353670180#353670181#0(107"2012-03-17 09:43:00.953 ibtool[285:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 350(0#0#61"/Users/Decmac/Desktop/FlashCards/FlashCardsViewController.xib4300885448#495"    cd /Users/Decmac/Desktop/FlashCards    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Decmac/Desktop/FlashCards/build/Debug-iphonesimulator/FlashCards.app/FlashCardsViewController.nib /Users/Decmac/Desktop/FlashCards/FlashCardsViewController.xib0#
+
+CCompileXIB /Users/Decmac/Desktop/FlashCards/MainWindow.xib
+s353670180.796087
+e353670181.735619
+r1
+xCompileXIB
+x/Users/Decmac/Desktop/FlashCards/MainWindow.xib
+o2012-03-17 09:43:00.966 ibtool[284:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 35
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@25"CompileXIB MainWindow.xib353670180#353670181#0(191"2012-03-17 09:43:00.966 ibtool[284:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 35Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#47"/Users/Decmac/Desktop/FlashCards/MainWindow.xib4300885448#467"    cd /Users/Decmac/Desktop/FlashCards    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Decmac/Desktop/FlashCards/build/Debug-iphonesimulator/FlashCards.app/MainWindow.nib /Users/Decmac/Desktop/FlashCards/MainWindow.xib0#
+
+CGenerateDSYMFile /Users/Decmac/Desktop/FlashCards/build/Debug-iphonesimulator/FlashCards.app.dSYM /Users/Decmac/Desktop/FlashCards/build/Debug-iphonesimulator/FlashCards.app/FlashCards
+r0
+
+CLd /Users/Decmac/Desktop/FlashCards/build/Debug-iphonesimulator/FlashCards.app/FlashCards normal i386
+r0
+
+CProcessInfoPlistFile /Users/Decmac/Desktop/FlashCards/build/Debug-iphonesimulator/FlashCards.app/Info.plist FlashCards-Info.plist
+s353670180.754603
+e353670180.795777
+r1
+xProcessInfoPlistFile
+x/Users/Decmac/Desktop/FlashCards/build/Debug-iphonesimulator/FlashCards.app/Info.plist
+xFlashCards-Info.plist
+lSLF07#2@29"Process FlashCards-Info.plist353670180#353670181#0(0"0(0#0#54"/Users/Decmac/Desktop/FlashCards/FlashCards-Info.plist28429445101453416#470"    cd /Users/Decmac/Desktop/FlashCards    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility FlashCards-Info.plist -genpkginfo /Users/Decmac/Desktop/FlashCards/build/Debug-iphonesimulator/FlashCards.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/Decmac/Desktop/FlashCards/build/Debug-iphonesimulator/FlashCards.app/Info.plist0#
+
+CProcessPCH /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FlashCards_Prefix-fhnrwrlxptwkjnexhtcnzhqqoxbq/FlashCards_Prefix.pch.gch FlashCards_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s353670181.736028
+e353670183.678503
+r1
+xProcessPCH
+x/var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FlashCards_Prefix-fhnrwrlxptwkjnexhtcnzhqqoxbq/FlashCards_Prefix.pch.gch
+xFlashCards_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile FlashCards_Prefix.pch353670181#353670183#0(0"0(0#0#54"/Users/Decmac/Desktop/FlashCards/FlashCards_Prefix.pch7801975577352954880#1748"    cd /Users/Decmac/Desktop/FlashCards    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/FlashCards/build/FlashCards.build/Debug-iphonesimulator/FlashCards.build/FlashCards-generated-files.hmap -I/Users/Decmac/Desktop/FlashCards/build/FlashCards.build/Debug-iphonesimulator/FlashCards.build/FlashCards-own-target-headers.hmap -I/Users/Decmac/Desktop/FlashCards/build/FlashCards.build/Debug-iphonesimulator/FlashCards.build/FlashCards-all-target-headers.hmap -iquote /Users/Decmac/Desktop/FlashCards/build/FlashCards.build/Debug-iphonesimulator/FlashCards.build/FlashCards-project-headers.hmap -F/Users/Decmac/Desktop/FlashCards/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/FlashCards/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/FlashCards/build/FlashCards.build/Debug-iphonesimulator/FlashCards.build/DerivedSources/i386 -I/Users/Decmac/Desktop/FlashCards/build/FlashCards.build/Debug-iphonesimulator/FlashCards.build/DerivedSources -c /Users/Decmac/Desktop/FlashCards/FlashCards_Prefix.pch -o /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FlashCards_Prefix-fhnrwrlxptwkjnexhtcnzhqqoxbq/FlashCards_Prefix.pch.gch0#
+
+CTouch /Users/Decmac/Desktop/FlashCards/build/Debug-iphonesimulator/FlashCards.app
+r0
+

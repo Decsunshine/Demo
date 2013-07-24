@@ -1,0 +1,10 @@
+/Users/Decmac/Desktop/SimonSays/Classes/Instruction.m: In function '-[Instruction description]':
+/Users/Decmac/Desktop/SimonSays/Classes/Instruction.m:39: error: 'Pinch' undeclared (first use in this function)
+/Users/Decmac/Desktop/SimonSays/Classes/Instruction.m:39: error: (Each undeclared identifier is reported only once
+/Users/Decmac/Desktop/SimonSays/Classes/Instruction.m:39: error: for each function it appears in.)
+{standard input}:56:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000001$pb"
+{standard input}:56:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression
+{standard input}:52:non-relocatable subtraction expression, "L_OBJC_CLASS_Instruction" minus "L00000000001$pb"
+{standard input}:52:symbol: "L_OBJC_CLASS_Instruction" can't be undefined in a subtraction expression
+{standard input}:unknown:Undefined local symbol L_OBJC_CLASS_Instruction
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_0

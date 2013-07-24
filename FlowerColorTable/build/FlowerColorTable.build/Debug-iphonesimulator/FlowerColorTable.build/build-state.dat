@@ -1,0 +1,258 @@
+TFlowerColorTable
+v7
+r0
+t354555154.617680
+cCheck dependencies
+cProcessInfoPlistFile /Users/Decmac/Desktop/FlowerColorTable/build/Debug-iphonesimulator/FlowerColorTable.app/Info.plist FlowerColorTable-Info.plist
+cCompileXIB /Users/Decmac/Desktop/FlowerColorTable/MainWindow.xib
+cProcessPCH /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FlowerColorTable_Prefix-fglnhqatparxqhbdiauyollcsezz/FlowerColorTable_Prefix.pch.gch FlowerColorTable_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FlowerColorTable.build/Debug-iphonesimulator/FlowerColorTable.build/Objects-normal/i386/main.o /Users/Decmac/Desktop/FlowerColorTable/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FlowerColorTable.build/Debug-iphonesimulator/FlowerColorTable.build/Objects-normal/i386/FlowerColorTableAppDelegate.o /Users/Decmac/Desktop/FlowerColorTable/Classes/FlowerColorTableAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FlowerColorTable.build/Debug-iphonesimulator/FlowerColorTable.build/Objects-normal/i386/FlowerColorTableViewController.o /Users/Decmac/Desktop/FlowerColorTable/Classes/FlowerColorTableViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/Decmac/Desktop/FlowerColorTable/build/Debug-iphonesimulator/FlowerColorTable.app/FlowerColorTable normal i386
+cGenerateDSYMFile /Users/Decmac/Desktop/FlowerColorTable/build/Debug-iphonesimulator/FlowerColorTable.app.dSYM /Users/Decmac/Desktop/FlowerColorTable/build/Debug-iphonesimulator/FlowerColorTable.app/FlowerColorTable
+cTouch /Users/Decmac/Desktop/FlowerColorTable/build/Debug-iphonesimulator/FlowerColorTable.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk
+c000000004F3A580900000000000000EE
+t1329223689
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B2B4CC3000000000026EE30
+t1261128899
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B2B4DC8000000000027E880
+t1261129160
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B2B4DAE0000000000001355
+t1261129134
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B2B61620000000000000788
+t1261134178
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B2B62B500000000016721E0
+t1261134517
+s23536096
+
+N/Users/Decmac/Desktop/FlowerColorTable/Classes/FlowerColorTableAppDelegate.h
+c000000004F71D38B00000000000001D5
+t1332859787
+s469
+i<UIKit/UIKit.h>
+
+N/Users/Decmac/Desktop/FlowerColorTable/Classes/FlowerColorTableAppDelegate.m
+c000000004F71D3DC0000000000000293
+t1332859868
+s659
+i"FlowerColorTableAppDelegate.h"
+i"FlowerColorTableViewController.h"
+
+N/Users/Decmac/Desktop/FlowerColorTable/Classes/FlowerColorTableViewController.h
+c000000004F71D86E0000000000000146
+t1332861038
+s326
+i<UIKit/UIKit.h>
+
+N/Users/Decmac/Desktop/FlowerColorTable/Classes/FlowerColorTableViewController.m
+c000000004F71DD660000000000000D36
+t1332862310
+s3382
+i"FlowerColorTableViewController.h"
+
+N/Users/Decmac/Desktop/FlowerColorTable/Classes/FlowerColorTableViewController.xib
+c000000004F71D9CB0000000000004253
+t1332861387
+s16979
+
+N/Users/Decmac/Desktop/FlowerColorTable/FlowerColorTable_Prefix.pch
+c000000004F71D2A800000000000000C9
+t1332859560
+s201
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/Decmac/Desktop/FlowerColorTable/MainWindow.xib
+c000000004F71DA2500000000000056FE
+t1332861477
+s22270
+
+N/Users/Decmac/Desktop/FlowerColorTable/build/Debug-iphonesimulator/FlowerColorTable.app
+t1332862311
+s238
+
+N/Users/Decmac/Desktop/FlowerColorTable/build/Debug-iphonesimulator/FlowerColorTable.app.dSYM
+t1332862311
+s102
+
+N/Users/Decmac/Desktop/FlowerColorTable/build/Debug-iphonesimulator/FlowerColorTable.app/FlowerColorTable
+t1332862311
+s20956
+
+N/Users/Decmac/Desktop/FlowerColorTable/build/Debug-iphonesimulator/FlowerColorTable.app/FlowerColorTableViewController.nib
+t1332861390
+s1355
+
+N/Users/Decmac/Desktop/FlowerColorTable/build/Debug-iphonesimulator/FlowerColorTable.app/Info.plist
+t1332859871
+s606
+
+N/Users/Decmac/Desktop/FlowerColorTable/build/Debug-iphonesimulator/FlowerColorTable.app/MainWindow.nib
+t1332861479
+s1894
+
+N/Users/Decmac/Desktop/FlowerColorTable/build/Debug-iphonesimulator/FlowerColorTable.app/PkgInfo
+t1332859871
+s8
+
+N/Users/Decmac/Desktop/FlowerColorTable/build/FlowerColorTable.build/Debug-iphonesimulator/FlowerColorTable.build/Objects-normal/i386/FlowerColorTable.LinkFileList
+c000000004F71D3DF00000000000001D5
+t1332859871
+s469
+
+N/Users/Decmac/Desktop/FlowerColorTable/build/FlowerColorTable.build/Debug-iphonesimulator/FlowerColorTable.build/Objects-normal/i386/FlowerColorTableAppDelegate.o
+t1332861038
+s37716
+
+N/Users/Decmac/Desktop/FlowerColorTable/build/FlowerColorTable.build/Debug-iphonesimulator/FlowerColorTable.build/Objects-normal/i386/FlowerColorTableViewController.o
+t1332862311
+s42052
+
+N/Users/Decmac/Desktop/FlowerColorTable/build/FlowerColorTable.build/Debug-iphonesimulator/FlowerColorTable.build/Objects-normal/i386/main.o
+t1332859875
+s5956
+
+N/Users/Decmac/Desktop/FlowerColorTable/main.m
+c000000004F71D2A8000000000000016F
+t1332859560
+s367
+i<UIKit/UIKit.h>
+
+N/var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FlowerColorTable_Prefix-fglnhqatparxqhbdiauyollcsezz/FlowerColorTable_Prefix.pch.gch
+t1332859874
+s13034960
+
+NFlowerColorTable-Info.plist
+c000000004F71D2A8000000000000038D
+t1332859560
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies354555154#354555154#0(0"0(0#1#0"4300885448#0"0#
+
+CCompileC build/FlowerColorTable.build/Debug-iphonesimulator/FlowerColorTable.build/Objects-normal/i386/FlowerColorTableAppDelegate.o /Users/Decmac/Desktop/FlowerColorTable/Classes/FlowerColorTableAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354553838.271801
+e354553838.561719
+r1
+xCompileC
+xbuild/FlowerColorTable.build/Debug-iphonesimulator/FlowerColorTable.build/Objects-normal/i386/FlowerColorTableAppDelegate.o
+x/Users/Decmac/Desktop/FlowerColorTable/Classes/FlowerColorTableAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@84"Compile /Users/Decmac/Desktop/FlowerColorTable/Classes/FlowerColorTableAppDelegate.m354553838#354553838#0(0"0(0#0#76"/Users/Decmac/Desktop/FlowerColorTable/Classes/FlowerColorTableAppDelegate.m4300885448#2093"    cd /Users/Decmac/Desktop/FlowerColorTable    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/FlowerColorTable/build/FlowerColorTable.build/Debug-iphonesimulator/FlowerColorTable.build/FlowerColorTable-generated-files.hmap -I/Users/Decmac/Desktop/FlowerColorTable/build/FlowerColorTable.build/Debug-iphonesimulator/FlowerColorTable.build/FlowerColorTable-own-target-headers.hmap -I/Users/Decmac/Desktop/FlowerColorTable/build/FlowerColorTable.build/Debug-iphonesimulator/FlowerColorTable.build/FlowerColorTable-all-target-headers.hmap -iquote /Users/Decmac/Desktop/FlowerColorTable/build/FlowerColorTable.build/Debug-iphonesimulator/FlowerColorTable.build/FlowerColorTable-project-headers.hmap -F/Users/Decmac/Desktop/FlowerColorTable/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/FlowerColorTable/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/FlowerColorTable/build/FlowerColorTable.build/Debug-iphonesimulator/FlowerColorTable.build/DerivedSources/i386 -I/Users/Decmac/Desktop/FlowerColorTable/build/FlowerColorTable.build/Debug-iphonesimulator/FlowerColorTable.build/DerivedSources -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FlowerColorTable_Prefix-fglnhqatparxqhbdiauyollcsezz/FlowerColorTable_Prefix.pch -c /Users/Decmac/Desktop/FlowerColorTable/Classes/FlowerColorTableAppDelegate.m -o /Users/Decmac/Desktop/FlowerColorTable/build/FlowerColorTable.build/Debug-iphonesimulator/FlowerColorTable.build/Objects-normal/i386/FlowerColorTableAppDelegate.o0#
+
+CCompileC build/FlowerColorTable.build/Debug-iphonesimulator/FlowerColorTable.build/Objects-normal/i386/FlowerColorTableViewController.o /Users/Decmac/Desktop/FlowerColorTable/Classes/FlowerColorTableViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354555111.207775
+e354555111.658839
+r1
+xCompileC
+xbuild/FlowerColorTable.build/Debug-iphonesimulator/FlowerColorTable.build/Objects-normal/i386/FlowerColorTableViewController.o
+x/Users/Decmac/Desktop/FlowerColorTable/Classes/FlowerColorTableViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/Decmac/Desktop/FlowerColorTable/Classes/FlowerColorTableViewController.m354555111#354555111#0(0"0(0#0#79"/Users/Decmac/Desktop/FlowerColorTable/Classes/FlowerColorTableViewController.m4300885448#2099"    cd /Users/Decmac/Desktop/FlowerColorTable    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/FlowerColorTable/build/FlowerColorTable.build/Debug-iphonesimulator/FlowerColorTable.build/FlowerColorTable-generated-files.hmap -I/Users/Decmac/Desktop/FlowerColorTable/build/FlowerColorTable.build/Debug-iphonesimulator/FlowerColorTable.build/FlowerColorTable-own-target-headers.hmap -I/Users/Decmac/Desktop/FlowerColorTable/build/FlowerColorTable.build/Debug-iphonesimulator/FlowerColorTable.build/FlowerColorTable-all-target-headers.hmap -iquote /Users/Decmac/Desktop/FlowerColorTable/build/FlowerColorTable.build/Debug-iphonesimulator/FlowerColorTable.build/FlowerColorTable-project-headers.hmap -F/Users/Decmac/Desktop/FlowerColorTable/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/FlowerColorTable/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/FlowerColorTable/build/FlowerColorTable.build/Debug-iphonesimulator/FlowerColorTable.build/DerivedSources/i386 -I/Users/Decmac/Desktop/FlowerColorTable/build/FlowerColorTable.build/Debug-iphonesimulator/FlowerColorTable.build/DerivedSources -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FlowerColorTable_Prefix-fglnhqatparxqhbdiauyollcsezz/FlowerColorTable_Prefix.pch -c /Users/Decmac/Desktop/FlowerColorTable/Classes/FlowerColorTableViewController.m -o /Users/Decmac/Desktop/FlowerColorTable/build/FlowerColorTable.build/Debug-iphonesimulator/FlowerColorTable.build/Objects-normal/i386/FlowerColorTableViewController.o0#
+
+CCompileC build/FlowerColorTable.build/Debug-iphonesimulator/FlowerColorTable.build/Objects-normal/i386/main.o /Users/Decmac/Desktop/FlowerColorTable/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354552675.087472
+e354552675.300538
+r1
+xCompileC
+xbuild/FlowerColorTable.build/Debug-iphonesimulator/FlowerColorTable.build/Objects-normal/i386/main.o
+x/Users/Decmac/Desktop/FlowerColorTable/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@53"Compile /Users/Decmac/Desktop/FlowerColorTable/main.m354552675#354552675#0(0"0(0#0#45"/Users/Decmac/Desktop/FlowerColorTable/main.m4300885448#2039"    cd /Users/Decmac/Desktop/FlowerColorTable    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/FlowerColorTable/build/FlowerColorTable.build/Debug-iphonesimulator/FlowerColorTable.build/FlowerColorTable-generated-files.hmap -I/Users/Decmac/Desktop/FlowerColorTable/build/FlowerColorTable.build/Debug-iphonesimulator/FlowerColorTable.build/FlowerColorTable-own-target-headers.hmap -I/Users/Decmac/Desktop/FlowerColorTable/build/FlowerColorTable.build/Debug-iphonesimulator/FlowerColorTable.build/FlowerColorTable-all-target-headers.hmap -iquote /Users/Decmac/Desktop/FlowerColorTable/build/FlowerColorTable.build/Debug-iphonesimulator/FlowerColorTable.build/FlowerColorTable-project-headers.hmap -F/Users/Decmac/Desktop/FlowerColorTable/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/FlowerColorTable/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/FlowerColorTable/build/FlowerColorTable.build/Debug-iphonesimulator/FlowerColorTable.build/DerivedSources/i386 -I/Users/Decmac/Desktop/FlowerColorTable/build/FlowerColorTable.build/Debug-iphonesimulator/FlowerColorTable.build/DerivedSources -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FlowerColorTable_Prefix-fglnhqatparxqhbdiauyollcsezz/FlowerColorTable_Prefix.pch -c /Users/Decmac/Desktop/FlowerColorTable/main.m -o /Users/Decmac/Desktop/FlowerColorTable/build/FlowerColorTable.build/Debug-iphonesimulator/FlowerColorTable.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/Decmac/Desktop/FlowerColorTable/Classes/FlowerColorTableViewController.xib
+s354554189.605593
+e354554190.284675
+r1
+xCompileXIB
+x/Users/Decmac/Desktop/FlowerColorTable/Classes/FlowerColorTableViewController.xib
+o2012-03-27 15:16:29.679 ibtool[422:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 35
+lSLF07#2@53"CompileXIB Classes/FlowerColorTableViewController.xib354554189#354554190#0(107"2012-03-27 15:16:29.679 ibtool[422:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 350(0#0#81"/Users/Decmac/Desktop/FlowerColorTable/Classes/FlowerColorTableViewController.xib4300885448#539"    cd /Users/Decmac/Desktop/FlowerColorTable    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Decmac/Desktop/FlowerColorTable/build/Debug-iphonesimulator/FlowerColorTable.app/FlowerColorTableViewController.nib /Users/Decmac/Desktop/FlowerColorTable/Classes/FlowerColorTableViewController.xib0#
+
+CCompileXIB /Users/Decmac/Desktop/FlowerColorTable/MainWindow.xib
+s354554278.391620
+e354554279.161441
+r1
+xCompileXIB
+x/Users/Decmac/Desktop/FlowerColorTable/MainWindow.xib
+o2012-03-27 15:17:58.459 ibtool[463:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 35
+lSLF07#2@25"CompileXIB MainWindow.xib354554278#354554279#0(107"2012-03-27 15:17:58.459 ibtool[463:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 350(0#0#53"/Users/Decmac/Desktop/FlowerColorTable/MainWindow.xib4300885448#491"    cd /Users/Decmac/Desktop/FlowerColorTable    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Decmac/Desktop/FlowerColorTable/build/Debug-iphonesimulator/FlowerColorTable.app/MainWindow.nib /Users/Decmac/Desktop/FlowerColorTable/MainWindow.xib0#
+
+CGenerateDSYMFile /Users/Decmac/Desktop/FlowerColorTable/build/Debug-iphonesimulator/FlowerColorTable.app.dSYM /Users/Decmac/Desktop/FlowerColorTable/build/Debug-iphonesimulator/FlowerColorTable.app/FlowerColorTable
+s354555111.723029
+e354555111.799533
+r1
+xGenerateDSYMFile
+x/Users/Decmac/Desktop/FlowerColorTable/build/Debug-iphonesimulator/FlowerColorTable.app.dSYM
+x/Users/Decmac/Desktop/FlowerColorTable/build/Debug-iphonesimulator/FlowerColorTable.app/FlowerColorTable
+o2012-03-27 15:31:51.782 dsymutil[606:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 35
+lSLF07#2@136"GenerateDSYMFile build/Debug-iphonesimulator/FlowerColorTable.app.dSYM build/Debug-iphonesimulator/FlowerColorTable.app/FlowerColorTable354555111#354555111#0(109"2012-03-27 15:31:51.782 dsymutil[606:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 350(0#0#104"/Users/Decmac/Desktop/FlowerColorTable/build/Debug-iphonesimulator/FlowerColorTable.app/FlowerColorTable4300885448#410"    cd /Users/Decmac/Desktop/FlowerColorTable    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/Decmac/Desktop/FlowerColorTable/build/Debug-iphonesimulator/FlowerColorTable.app/FlowerColorTable -o /Users/Decmac/Desktop/FlowerColorTable/build/Debug-iphonesimulator/FlowerColorTable.app.dSYM0#
+
+CLd /Users/Decmac/Desktop/FlowerColorTable/build/Debug-iphonesimulator/FlowerColorTable.app/FlowerColorTable normal i386
+s354555111.659068
+e354555111.722784
+r1
+xLd
+x/Users/Decmac/Desktop/FlowerColorTable/build/Debug-iphonesimulator/FlowerColorTable.app/FlowerColorTable
+xnormal
+xi386
+lSLF07#2@109"Link /Users/Decmac/Desktop/FlowerColorTable/build/Debug-iphonesimulator/FlowerColorTable.app/FlowerColorTable354555111#354555111#0(0"0(0#0#0"4300885448#909"    cd /Users/Decmac/Desktop/FlowerColorTable    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -L/Users/Decmac/Desktop/FlowerColorTable/build/Debug-iphonesimulator -F/Users/Decmac/Desktop/FlowerColorTable/build/Debug-iphonesimulator -filelist /Users/Decmac/Desktop/FlowerColorTable/build/FlowerColorTable.build/Debug-iphonesimulator/FlowerColorTable.build/Objects-normal/i386/FlowerColorTable.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/Decmac/Desktop/FlowerColorTable/build/Debug-iphonesimulator/FlowerColorTable.app/FlowerColorTable0#
+
+CProcessInfoPlistFile /Users/Decmac/Desktop/FlowerColorTable/build/Debug-iphonesimulator/FlowerColorTable.app/Info.plist FlowerColorTable-Info.plist
+s354552671.854516
+e354552671.895054
+r1
+xProcessInfoPlistFile
+x/Users/Decmac/Desktop/FlowerColorTable/build/Debug-iphonesimulator/FlowerColorTable.app/Info.plist
+xFlowerColorTable-Info.plist
+lSLF07#2@35"Process FlowerColorTable-Info.plist354552671#354552671#0(0"0(0#0#66"/Users/Decmac/Desktop/FlowerColorTable/FlowerColorTable-Info.plist12666816341278818#506"    cd /Users/Decmac/Desktop/FlowerColorTable    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility FlowerColorTable-Info.plist -genpkginfo /Users/Decmac/Desktop/FlowerColorTable/build/Debug-iphonesimulator/FlowerColorTable.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/Decmac/Desktop/FlowerColorTable/build/Debug-iphonesimulator/FlowerColorTable.app/Info.plist0#
+
+CProcessPCH /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FlowerColorTable_Prefix-fglnhqatparxqhbdiauyollcsezz/FlowerColorTable_Prefix.pch.gch FlowerColorTable_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s354552672.875783
+e354552675.087078
+r1
+xProcessPCH
+x/var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FlowerColorTable_Prefix-fglnhqatparxqhbdiauyollcsezz/FlowerColorTable_Prefix.pch.gch
+xFlowerColorTable_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@38"Precompile FlowerColorTable_Prefix.pch354552672#354552675#0(0"0(0#0#66"/Users/Decmac/Desktop/FlowerColorTable/FlowerColorTable_Prefix.pch4300885448#1922"    cd /Users/Decmac/Desktop/FlowerColorTable    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/FlowerColorTable/build/FlowerColorTable.build/Debug-iphonesimulator/FlowerColorTable.build/FlowerColorTable-generated-files.hmap -I/Users/Decmac/Desktop/FlowerColorTable/build/FlowerColorTable.build/Debug-iphonesimulator/FlowerColorTable.build/FlowerColorTable-own-target-headers.hmap -I/Users/Decmac/Desktop/FlowerColorTable/build/FlowerColorTable.build/Debug-iphonesimulator/FlowerColorTable.build/FlowerColorTable-all-target-headers.hmap -iquote /Users/Decmac/Desktop/FlowerColorTable/build/FlowerColorTable.build/Debug-iphonesimulator/FlowerColorTable.build/FlowerColorTable-project-headers.hmap -F/Users/Decmac/Desktop/FlowerColorTable/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/FlowerColorTable/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/FlowerColorTable/build/FlowerColorTable.build/Debug-iphonesimulator/FlowerColorTable.build/DerivedSources/i386 -I/Users/Decmac/Desktop/FlowerColorTable/build/FlowerColorTable.build/Debug-iphonesimulator/FlowerColorTable.build/DerivedSources -c /Users/Decmac/Desktop/FlowerColorTable/FlowerColorTable_Prefix.pch -o /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FlowerColorTable_Prefix-fglnhqatparxqhbdiauyollcsezz/FlowerColorTable_Prefix.pch.gch0#
+
+CTouch /Users/Decmac/Desktop/FlowerColorTable/build/Debug-iphonesimulator/FlowerColorTable.app
+s354555111.799760
+e354555111.808227
+r1
+xTouch
+x/Users/Decmac/Desktop/FlowerColorTable/build/Debug-iphonesimulator/FlowerColorTable.app
+lSLF07#2@93"Touch /Users/Decmac/Desktop/FlowerColorTable/build/Debug-iphonesimulator/FlowerColorTable.app354555111#354555111#0(0"0(0#0#0"4300885448#287"    cd /Users/Decmac/Desktop/FlowerColorTable    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/Decmac/Desktop/FlowerColorTable/build/Debug-iphonesimulator/FlowerColorTable.app0#
+

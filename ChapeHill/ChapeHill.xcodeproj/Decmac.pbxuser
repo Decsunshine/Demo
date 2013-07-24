@@ -1,0 +1,321 @@
+// !$*UTF8*$!
+{
+	1D3623250D0F684500981E51 /* ChapeHillAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 377}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 377}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* ChapeHill */ = {
+		activeExec = 0;
+		executables = (
+			897CE4F215273DE20030E208 /* ChapeHill */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* ChapeHillViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {593, 520}}";
+			sepNavSelRange = "{984, 0}";
+			sepNavVisRange = "{488, 502}";
+			sepNavWindowFrame = "{{103, 114}, {765, 621}}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* ChapeHillViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {706, 2691}}";
+			sepNavSelRange = "{1199, 0}";
+			sepNavVisRange = "{595, 1314}";
+			sepNavWindowFrame = "{{239, 125}, {765, 621}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 897CE4F215273DE20030E208 /* ChapeHill */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* ChapeHill */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* ChapeHill */,
+		);
+		codeSenseManager = 897CE50815273E020030E208 /* Code sense */;
+		executables = (
+			897CE4F215273DE20030E208 /* ChapeHill */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					301,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 354900086;
+			PBXWorkspaceStateSaveDate = 354900086;
+		};
+		perUserProjectItems = {
+			897CE52815274A9D0030E208 /* PBXTextBookmark */ = 897CE52815274A9D0030E208 /* PBXTextBookmark */;
+			897CE52A15274A9D0030E208 /* PBXBookmark */ = 897CE52A15274A9D0030E208 /* PBXBookmark */;
+			897CE52C15274A9D0030E208 /* PBXBookmark */ = 897CE52C15274A9D0030E208 /* PBXBookmark */;
+			897CE55F15274E8E0030E208 /* PBXTextBookmark */ = 897CE55F15274E8E0030E208 /* PBXTextBookmark */;
+			897CE56315274E8E0030E208 /* PBXBookmark */ = 897CE56315274E8E0030E208 /* PBXBookmark */;
+			897CE5C8152755EA0030E208 /* PBXBookmark */ = 897CE5C8152755EA0030E208 /* PBXBookmark */;
+			897CE5C9152755EA0030E208 /* PBXTextBookmark */ = 897CE5C9152755EA0030E208 /* PBXTextBookmark */;
+			897CE5CA152755EA0030E208 /* PBXTextBookmark */ = 897CE5CA152755EA0030E208 /* PBXTextBookmark */;
+			897CE5CB152755EA0030E208 /* PBXTextBookmark */ = 897CE5CB152755EA0030E208 /* PBXTextBookmark */;
+			897CE62915275C8F0030E208 /* XCBuildMessageTextBookmark */ = 897CE62915275C8F0030E208 /* XCBuildMessageTextBookmark */;
+			897CE62C15275C9A0030E208 /* PBXTextBookmark */ = 897CE62C15275C9A0030E208 /* PBXTextBookmark */;
+			897CE62D15275C9A0030E208 /* XCBuildMessageTextBookmark */ = 897CE62D15275C9A0030E208 /* XCBuildMessageTextBookmark */;
+			897CE63215275C9A0030E208 /* PBXTextBookmark */ = 897CE63215275C9A0030E208 /* PBXTextBookmark */;
+			897CE63315275C9A0030E208 /* PBXTextBookmark */ = 897CE63315275C9A0030E208 /* PBXTextBookmark */;
+			897CE66215275D910030E208 /* PBXTextBookmark */ = 897CE66215275D910030E208 /* PBXTextBookmark */;
+			897CE66315275D910030E208 /* PBXTextBookmark */ = 897CE66315275D910030E208 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 897CE50715273E020030E208 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	897CE4F215273DE20030E208 /* ChapeHill */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = ChapeHill;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	897CE50715273E020030E208 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	897CE50815273E020030E208 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	897CE52815274A9D0030E208 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* ChapeHillViewController.m */;
+		name = "ChapeHillViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 521;
+		vrLoc = 0;
+	};
+	897CE52A15274A9D0030E208 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 897CE51A15273F190030E208 /* left_arrow.png */;
+	};
+	897CE52C15274A9D0030E208 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 897CE51615273F0C0030E208 /* right_arrow.png */;
+	};
+	897CE55015274B8C0030E208 /* MapViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {706, 493}}";
+			sepNavSelRange = "{242, 0}";
+			sepNavVisRange = "{0, 423}";
+			sepNavWindowFrame = "{{15, 120}, {765, 621}}";
+		};
+	};
+	897CE55115274B8C0030E208 /* MapViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1146, 1573}}";
+			sepNavSelRange = "{817, 0}";
+			sepNavVisRange = "{623, 451}";
+			sepNavWindowFrame = "{{244, 97}, {765, 621}}";
+		};
+	};
+	897CE55F15274E8E0030E208 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* ChapeHillAppDelegate.m */;
+		name = "ChapeHillAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 377;
+		vrLoc = 0;
+	};
+	897CE56315274E8E0030E208 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 897CE51715273F0C0030E208 /* up_arrow.png */;
+	};
+	897CE572152750BA0030E208 /* MapPin.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 377}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 417}";
+			sepNavWindowFrame = "{{15, 120}, {765, 621}}";
+		};
+	};
+	897CE573152750BA0030E208 /* MapPin.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {439, 481}}";
+			sepNavSelRange = "{373, 0}";
+			sepNavVisRange = "{195, 326}";
+			sepNavWindowFrame = "{{53, 114}, {765, 621}}";
+		};
+	};
+	897CE5C8152755EA0030E208 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 897CE51415273EFA0030E208 /* old_well.png */;
+	};
+	897CE5C9152755EA0030E208 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 897CE55015274B8C0030E208 /* MapViewController.h */;
+		name = "MapViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 320;
+		vrLoc = 0;
+	};
+	897CE5CA152755EA0030E208 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 897CE573152750BA0030E208 /* MapPin.m */;
+		name = "MapPin.m: 35";
+		rLen = 0;
+		rLoc = 599;
+		rType = 0;
+		vrLen = 288;
+		vrLoc = 320;
+	};
+	897CE5CB152755EA0030E208 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 897CE572152750BA0030E208 /* MapPin.h */;
+		name = "MapPin.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 417;
+		vrLoc = 0;
+	};
+	897CE62915275C8F0030E208 /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "'kChapeHillLatitude' undeclared (first use in this function)";
+		fRef = 897CE55115274B8C0030E208 /* MapViewController.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 28;
+		rType = 1;
+	};
+	897CE62C15275C9A0030E208 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 897CE55115274B8C0030E208 /* MapViewController.m */;
+		name = "MapViewController.m: 40";
+		rLen = 0;
+		rLoc = 1100;
+		rType = 0;
+		vrLen = 501;
+		vrLoc = 864;
+	};
+	897CE62D15275C9A0030E208 /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Expected identifier before 'end'";
+		fRef = 28D7ACF60DDB3853001CB0EB /* ChapeHillViewController.h */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 37;
+		rType = 1;
+	};
+	897CE63215275C9A0030E208 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 897CE55015274B8C0030E208 /* MapViewController.h */;
+		name = "MapViewController.h: 12";
+		rLen = 0;
+		rLoc = 242;
+		rType = 0;
+		vrLen = 423;
+		vrLoc = 0;
+	};
+	897CE63315275C9A0030E208 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* ChapeHillViewController.m */;
+		name = "ChapeHillViewController.m: 50";
+		rLen = 0;
+		rLoc = 1199;
+		rType = 0;
+		vrLen = 1314;
+		vrLoc = 595;
+	};
+	897CE66215275D910030E208 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* ChapeHillViewController.h */;
+		name = "ChapeHillViewController.h: 38";
+		rLen = 0;
+		rLoc = 984;
+		rType = 0;
+		vrLen = 502;
+		vrLoc = 488;
+	};
+	897CE66315275D910030E208 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 897CE55115274B8C0030E208 /* MapViewController.m */;
+		name = "MapViewController.m: 30";
+		rLen = 0;
+		rLoc = 893;
+		rType = 0;
+		vrLen = 1151;
+		vrLoc = 621;
+	};
+}

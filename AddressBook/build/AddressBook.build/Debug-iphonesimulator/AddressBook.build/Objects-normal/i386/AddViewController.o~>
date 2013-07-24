@@ -1,0 +1,56 @@
+In file included from /Users/Decmac/Desktop/AddressBook/Classes/AddViewController.h:10,
+                 from /Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:9:
+/Users/Decmac/Desktop/AddressBook/Classes/EditableCell.h:13: error: cannot find interface declaration for 'UITabelViewCell', superclass of 'EditableCell'
+In file included from /Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:9:
+/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.h:13: error: no type or storage class may be specified here before 'protocol'
+/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.h:36: error: expected ')' before 'AddViewController'
+/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:14: warning: cannot find interface declaration for 'AddViewController'
+/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:14: error: no declaration of property 'delegate' found in the interface
+/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:15: error: no declaration of property 'table' found in the interface
+/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m: In function '-[AddViewController initWithNibName:bundle:]':
+/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:19: error: no super class declared in @interface for 'AddViewController'
+/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:20: error: 'fields' undeclared (first use in this function)
+/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:20: error: (Each undeclared identifier is reported only once
+/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:20: error: for each function it appears in.)
+/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:22: error: 'data' undeclared (first use in this function)
+/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:24: error: 'keyboardShown' undeclared (first use in this function)
+/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:26: error: 'currentCell' undeclared (first use in this function)
+/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m: In function '-[AddViewController doneAdding:]':
+/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:33: error: 'currentCell' undeclared (first use in this function)
+/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:34: error: 'data' undeclared (first use in this function)
+/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:36: error: 'delegate' undeclared (first use in this function)
+/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m: In function '-[AddViewController values]':
+/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:42: error: 'data' undeclared (first use in this function)
+/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m: In function '-[AddViewController editableCellDidBeginEditing:]':
+/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:50: error: 'keyboardShown' undeclared (first use in this function)
+/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:54: error: 'table' undeclared (first use in this function)
+/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:61: error: 'currentCell' undeclared (first use in this function)
+/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m: In function '-[AddViewController editableCellDidEndEditing:]':
+/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:70: error: 'data' undeclared (first use in this function)
+/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m: In function '-[AddViewController editableCellDidEndOnExit:]':
+/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:75: error: 'table' undeclared (first use in this function)
+/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:79: error: 'keyboardShown' undeclared (first use in this function)
+/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:80: error: 'currentCell' undeclared (first use in this function)
+/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m: In function '-[AddViewController tableView:numberOfRowsInSection:]':
+/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:94: error: 'fields' undeclared (first use in this function)
+/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:97: warning: control reaches end of non-void function
+/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m: In function '-[AddViewController tableView:cellForRowAtIndexPath:]':
+/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:112: error: 'table' undeclared (first use in this function)
+/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:115: warning: 'EditableCell' may not respond to '+alloc'
+/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:115: warning: (Messages without a matching method signature
+/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:115: warning: will be assumed to return 'id' and accept
+/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:115: warning: '...' as arguments.)
+/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:118: error: 'fields' undeclared (first use in this function)
+/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:119: warning: 'NSString' may not respond to '-:'
+/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:121: error: 'data' undeclared (first use in this function)
+/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:129: error: request for member 'editing' in something not a structure or union
+/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:132: warning: class 'AddViewController' does not implement the 'EditableCellDelegate' protocol
+/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:132: error: expected ';' before 'cell'
+/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:133: warning: incompatible Objective-C types returning 'struct EditableCell *', expected 'struct UITableViewCell *'
+/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m: In function '-[AddViewController didReceiveMemoryWarning]':
+/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:143: error: no super class declared in @interface for 'AddViewController'
+/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m: In function '-[AddViewController dealloc]':
+/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:149: error: 'fields' undeclared (first use in this function)
+/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:150: error: 'data' undeclared (first use in this function)
+/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:151: error: 'table' undeclared (first use in this function)
+/Users/Decmac/Desktop/AddressBook/Classes/AddViewController.m:152: error: expected ']' before 'dealloc'

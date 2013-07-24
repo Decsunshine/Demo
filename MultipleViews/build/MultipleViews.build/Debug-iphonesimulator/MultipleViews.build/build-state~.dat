@@ -1,0 +1,398 @@
+TMultipleViews
+v7
+r0
+t354499749.393726
+cCheck dependencies
+cProcessInfoPlistFile /Users/Decmac/Desktop/MultipleViews/build/Debug-iphonesimulator/MultipleViews.app/Info.plist MultipleViews-Info.plist
+cCompileXIB /Users/Decmac/Desktop/MultipleViews/MainWindow.xib
+cCompileXIB /Users/Decmac/Desktop/MultipleViews/MultipleViewsViewController.xib
+cCompileXIB /Users/Decmac/Desktop/MultipleViews/Classes/FirstViewController.xib
+cCompileXIB /Users/Decmac/Desktop/MultipleViews/Classes/SecondViewController.xib
+cCompileXIB /Users/Decmac/Desktop/MultipleViews/Classes/ThirdViewController.xib
+cProcessPCH /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MultipleViews_Prefix-ffaefnkzsbsieccquaksdkfrashn/MultipleViews_Prefix.pch.gch MultipleViews_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MultipleViews.build/Debug-iphonesimulator/MultipleViews.build/Objects-normal/i386/main.o /Users/Decmac/Desktop/MultipleViews/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MultipleViews.build/Debug-iphonesimulator/MultipleViews.build/Objects-normal/i386/MultipleViewsAppDelegate.o /Users/Decmac/Desktop/MultipleViews/Classes/MultipleViewsAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MultipleViews.build/Debug-iphonesimulator/MultipleViews.build/Objects-normal/i386/MultipleViewsViewController.o /Users/Decmac/Desktop/MultipleViews/Classes/MultipleViewsViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MultipleViews.build/Debug-iphonesimulator/MultipleViews.build/Objects-normal/i386/FirstViewController.o /Users/Decmac/Desktop/MultipleViews/Classes/FirstViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MultipleViews.build/Debug-iphonesimulator/MultipleViews.build/Objects-normal/i386/SecondViewController.o /Users/Decmac/Desktop/MultipleViews/Classes/SecondViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MultipleViews.build/Debug-iphonesimulator/MultipleViews.build/Objects-normal/i386/ThirdViewController.o /Users/Decmac/Desktop/MultipleViews/Classes/ThirdViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk
+c000000004F3A580900000000000000EE
+t1329223689
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B2B4CC3000000000026EE30
+t1261128899
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B2B4DC8000000000027E880
+t1261129160
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B2B4DAE0000000000001355
+t1261129134
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B2B61620000000000000788
+t1261134178
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B2B62B500000000016721E0
+t1261134517
+s23536096
+
+N/Users/Decmac/Desktop/MultipleViews/Classes/FirstViewController.h
+c000000004F70FABA00000000000000ED
+t1332804282
+s237
+i<UIKit/UIKit.h>
+
+N/Users/Decmac/Desktop/MultipleViews/Classes/FirstViewController.m
+c000000004F70FABA000000000000057C
+t1332804282
+s1404
+i"FirstViewController.h"
+
+N/Users/Decmac/Desktop/MultipleViews/Classes/FirstViewController.xib
+c000000004F70FD01000000000000415F
+t1332804865
+s16735
+
+N/Users/Decmac/Desktop/MultipleViews/Classes/MultipleViewsAppDelegate.h
+c000000004F70FA580000000000000200
+t1332804184
+s512
+i<UIKit/UIKit.h>
+
+N/Users/Decmac/Desktop/MultipleViews/Classes/MultipleViewsAppDelegate.m
+c000000004F70FA580000000000000285
+t1332804184
+s645
+i"MultipleViewsAppDelegate.h"
+i"MultipleViewsViewController.h"
+
+N/Users/Decmac/Desktop/MultipleViews/Classes/MultipleViewsViewController.h
+c000000004F70FFC10000000000000357
+t1332805569
+s855
+i<UIKit/UIKit.h>
+
+N/Users/Decmac/Desktop/MultipleViews/Classes/MultipleViewsViewController.m
+c000000004F7105200000000000000446
+t1332806944
+s1094
+i"MultipleViewsViewController.h"
+i"FirstViewController.h"
+i"SecondViewController.h"
+i"ThirdViewController.h"
+
+N/Users/Decmac/Desktop/MultipleViews/Classes/SecondViewController.h
+c000000004F70FACE00000000000000EF
+t1332804302
+s239
+i<UIKit/UIKit.h>
+
+N/Users/Decmac/Desktop/MultipleViews/Classes/SecondViewController.m
+c000000004F70FACE000000000000057F
+t1332804302
+s1407
+i"SecondViewController.h"
+
+N/Users/Decmac/Desktop/MultipleViews/Classes/SecondViewController.xib
+c000000004F70FD0D000000000000413A
+t1332804877
+s16698
+
+N/Users/Decmac/Desktop/MultipleViews/Classes/ThirdViewController.h
+c000000004F70FAE100000000000000ED
+t1332804321
+s237
+i<UIKit/UIKit.h>
+
+N/Users/Decmac/Desktop/MultipleViews/Classes/ThirdViewController.m
+c000000004F70FAE1000000000000057C
+t1332804321
+s1404
+i"ThirdViewController.h"
+
+N/Users/Decmac/Desktop/MultipleViews/Classes/ThirdViewController.xib
+c000000004F70FD0900000000000041B2
+t1332804873
+s16818
+
+N/Users/Decmac/Desktop/MultipleViews/MainWindow.xib
+c000000004F70FA580000000000002490
+t1332804184
+s9360
+
+N/Users/Decmac/Desktop/MultipleViews/MultipleViewsViewController.xib
+c000000004F70FA5800000000000018F3
+t1332804184
+s6387
+
+N/Users/Decmac/Desktop/MultipleViews/MultipleViews_Prefix.pch
+c000000004F70FA5800000000000000C3
+t1332804184
+s195
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/Decmac/Desktop/MultipleViews/build/Debug-iphonesimulator/MultipleViews.app
+t2
+s0
+
+N/Users/Decmac/Desktop/MultipleViews/build/Debug-iphonesimulator/MultipleViews.app.dSYM
+t2
+s0
+
+N/Users/Decmac/Desktop/MultipleViews/build/Debug-iphonesimulator/MultipleViews.app/FirstViewController.nib
+t1332806946
+s1661
+
+N/Users/Decmac/Desktop/MultipleViews/build/Debug-iphonesimulator/MultipleViews.app/Info.plist
+t1332806944
+s588
+
+N/Users/Decmac/Desktop/MultipleViews/build/Debug-iphonesimulator/MultipleViews.app/MainWindow.nib
+t1332806945
+s1507
+
+N/Users/Decmac/Desktop/MultipleViews/build/Debug-iphonesimulator/MultipleViews.app/MultipleViews
+t2
+s0
+
+N/Users/Decmac/Desktop/MultipleViews/build/Debug-iphonesimulator/MultipleViews.app/MultipleViewsViewController.nib
+t1332806945
+s1151
+
+N/Users/Decmac/Desktop/MultipleViews/build/Debug-iphonesimulator/MultipleViews.app/PkgInfo
+t1332806944
+s8
+
+N/Users/Decmac/Desktop/MultipleViews/build/Debug-iphonesimulator/MultipleViews.app/SecondViewController.nib
+t1332806946
+s1637
+
+N/Users/Decmac/Desktop/MultipleViews/build/Debug-iphonesimulator/MultipleViews.app/ThirdViewController.nib
+t1332806946
+s1637
+
+N/Users/Decmac/Desktop/MultipleViews/build/MultipleViews.build/Debug-iphonesimulator/MultipleViews.build/Objects-normal/i386/FirstViewController.o
+t1332806949
+s29916
+
+N/Users/Decmac/Desktop/MultipleViews/build/MultipleViews.build/Debug-iphonesimulator/MultipleViews.build/Objects-normal/i386/MultipleViews.LinkFileList
+c000000004F710520000000000000036B
+t1332806944
+s875
+
+N/Users/Decmac/Desktop/MultipleViews/build/MultipleViews.build/Debug-iphonesimulator/MultipleViews.build/Objects-normal/i386/MultipleViewsAppDelegate.o
+t1332806948
+s38420
+
+N/Users/Decmac/Desktop/MultipleViews/build/MultipleViews.build/Debug-iphonesimulator/MultipleViews.build/Objects-normal/i386/MultipleViewsViewController.o
+t2
+s0
+
+N/Users/Decmac/Desktop/MultipleViews/build/MultipleViews.build/Debug-iphonesimulator/MultipleViews.build/Objects-normal/i386/SecondViewController.o
+t1332806949
+s29932
+
+N/Users/Decmac/Desktop/MultipleViews/build/MultipleViews.build/Debug-iphonesimulator/MultipleViews.build/Objects-normal/i386/ThirdViewController.o
+t1332806949
+s29916
+
+N/Users/Decmac/Desktop/MultipleViews/build/MultipleViews.build/Debug-iphonesimulator/MultipleViews.build/Objects-normal/i386/main.o
+t1332806948
+s5952
+
+N/Users/Decmac/Desktop/MultipleViews/main.m
+c000000004F70FA58000000000000016C
+t1332804184
+s364
+i<UIKit/UIKit.h>
+
+N/var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MultipleViews_Prefix-ffaefnkzsbsieccquaksdkfrashn/MultipleViews_Prefix.pch.gch
+t1332806948
+s13034960
+
+NMultipleViews-Info.plist
+c000000004F70FA58000000000000038D
+t1332804184
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies354499744#354499744#0(0"0(0#1#0"4300885448#0"0#
+
+CCompileC build/MultipleViews.build/Debug-iphonesimulator/MultipleViews.build/Objects-normal/i386/FirstViewController.o /Users/Decmac/Desktop/MultipleViews/Classes/FirstViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354499749.013889
+e354499749.204418
+r1
+xCompileC
+xbuild/MultipleViews.build/Debug-iphonesimulator/MultipleViews.build/Objects-normal/i386/FirstViewController.o
+x/Users/Decmac/Desktop/MultipleViews/Classes/FirstViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/Decmac/Desktop/MultipleViews/Classes/FirstViewController.m354499749#354499749#0(0"0(0#0#65"/Users/Decmac/Desktop/MultipleViews/Classes/FirstViewController.m4300885448#1984"    cd /Users/Decmac/Desktop/MultipleViews    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/MultipleViews/build/MultipleViews.build/Debug-iphonesimulator/MultipleViews.build/MultipleViews-generated-files.hmap -I/Users/Decmac/Desktop/MultipleViews/build/MultipleViews.build/Debug-iphonesimulator/MultipleViews.build/MultipleViews-own-target-headers.hmap -I/Users/Decmac/Desktop/MultipleViews/build/MultipleViews.build/Debug-iphonesimulator/MultipleViews.build/MultipleViews-all-target-headers.hmap -iquote /Users/Decmac/Desktop/MultipleViews/build/MultipleViews.build/Debug-iphonesimulator/MultipleViews.build/MultipleViews-project-headers.hmap -F/Users/Decmac/Desktop/MultipleViews/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/MultipleViews/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/MultipleViews/build/MultipleViews.build/Debug-iphonesimulator/MultipleViews.build/DerivedSources/i386 -I/Users/Decmac/Desktop/MultipleViews/build/MultipleViews.build/Debug-iphonesimulator/MultipleViews.build/DerivedSources -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MultipleViews_Prefix-ffaefnkzsbsieccquaksdkfrashn/MultipleViews_Prefix.pch -c /Users/Decmac/Desktop/MultipleViews/Classes/FirstViewController.m -o /Users/Decmac/Desktop/MultipleViews/build/MultipleViews.build/Debug-iphonesimulator/MultipleViews.build/Objects-normal/i386/FirstViewController.o0#
+
+CCompileC build/MultipleViews.build/Debug-iphonesimulator/MultipleViews.build/Objects-normal/i386/MultipleViewsAppDelegate.o /Users/Decmac/Desktop/MultipleViews/Classes/MultipleViewsAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354499748.763794
+e354499749.013594
+r1
+xCompileC
+xbuild/MultipleViews.build/Debug-iphonesimulator/MultipleViews.build/Objects-normal/i386/MultipleViewsAppDelegate.o
+x/Users/Decmac/Desktop/MultipleViews/Classes/MultipleViewsAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/Decmac/Desktop/MultipleViews/Classes/MultipleViewsAppDelegate.m354499748#354499749#0(0"0(0#0#70"/Users/Decmac/Desktop/MultipleViews/Classes/MultipleViewsAppDelegate.m4300885448#1994"    cd /Users/Decmac/Desktop/MultipleViews    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/MultipleViews/build/MultipleViews.build/Debug-iphonesimulator/MultipleViews.build/MultipleViews-generated-files.hmap -I/Users/Decmac/Desktop/MultipleViews/build/MultipleViews.build/Debug-iphonesimulator/MultipleViews.build/MultipleViews-own-target-headers.hmap -I/Users/Decmac/Desktop/MultipleViews/build/MultipleViews.build/Debug-iphonesimulator/MultipleViews.build/MultipleViews-all-target-headers.hmap -iquote /Users/Decmac/Desktop/MultipleViews/build/MultipleViews.build/Debug-iphonesimulator/MultipleViews.build/MultipleViews-project-headers.hmap -F/Users/Decmac/Desktop/MultipleViews/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/MultipleViews/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/MultipleViews/build/MultipleViews.build/Debug-iphonesimulator/MultipleViews.build/DerivedSources/i386 -I/Users/Decmac/Desktop/MultipleViews/build/MultipleViews.build/Debug-iphonesimulator/MultipleViews.build/DerivedSources -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MultipleViews_Prefix-ffaefnkzsbsieccquaksdkfrashn/MultipleViews_Prefix.pch -c /Users/Decmac/Desktop/MultipleViews/Classes/MultipleViewsAppDelegate.m -o /Users/Decmac/Desktop/MultipleViews/build/MultipleViews.build/Debug-iphonesimulator/MultipleViews.build/Objects-normal/i386/MultipleViewsAppDelegate.o0#
+
+CCompileC build/MultipleViews.build/Debug-iphonesimulator/MultipleViews.build/Objects-normal/i386/MultipleViewsViewController.o /Users/Decmac/Desktop/MultipleViews/Classes/MultipleViewsViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354499748.905431
+e354499749.073518
+r0
+xCompileC
+xbuild/MultipleViews.build/Debug-iphonesimulator/MultipleViews.build/Objects-normal/i386/MultipleViewsViewController.o
+x/Users/Decmac/Desktop/MultipleViews/Classes/MultipleViewsViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/Decmac/Desktop/MultipleViews/Classes/MultipleViewsViewController.m:17: error: expected ';' before 'synthesize'
+o/Users/Decmac/Desktop/MultipleViews/Classes/MultipleViewsViewController.m:49: warning: '@end' missing in implementation context
+o/Users/Decmac/Desktop/MultipleViews/Classes/MultipleViewsViewController.m:49: warning: property 'secondViewController' requires method '-secondViewController' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/Decmac/Desktop/MultipleViews/Classes/MultipleViewsViewController.m:49: warning: property 'secondViewController' requires the method 'setSecondViewController:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/Decmac/Desktop/MultipleViews/Classes/MultipleViewsViewController.m:49: warning: property 'thirdViewController' requires method '-thirdViewController' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/Decmac/Desktop/MultipleViews/Classes/MultipleViewsViewController.m:49: warning: property 'thirdViewController' requires the method 'setThirdViewController:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/Decmac/Desktop/MultipleViews/Classes/MultipleViewsViewController.m:49: warning: incomplete implementation of class 'MultipleViewsViewController'
+o/Users/Decmac/Desktop/MultipleViews/Classes/MultipleViewsViewController.m:49: warning: method definition for '-clearView' not found
+o/Users/Decmac/Desktop/MultipleViews/Classes/MultipleViewsViewController.m:49: warning: method definition for '-loadFirstView:' not found
+o/Users/Decmac/Desktop/MultipleViews/Classes/MultipleViewsViewController.m:49: warning: method definition for '-loadThirdView:' not found
+o/Users/Decmac/Desktop/MultipleViews/Classes/MultipleViewsViewController.m:49: warning: method definition for '-loadSecondView:' not found
+lSLF07#2@81"Compile /Users/Decmac/Desktop/MultipleViews/Classes/MultipleViewsViewController.m354499748#354499749#0(1896"/Users/Decmac/Desktop/MultipleViews/Classes/MultipleViewsViewController.m:17: error: expected ';' before 'synthesize'/Users/Decmac/Desktop/MultipleViews/Classes/MultipleViewsViewController.m:49: warning: '@end' missing in implementation context/Users/Decmac/Desktop/MultipleViews/Classes/MultipleViewsViewController.m:49: warning: property 'secondViewController' requires method '-secondViewController' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/Decmac/Desktop/MultipleViews/Classes/MultipleViewsViewController.m:49: warning: property 'secondViewController' requires the method 'setSecondViewController:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/Decmac/Desktop/MultipleViews/Classes/MultipleViewsViewController.m:49: warning: property 'thirdViewController' requires method '-thirdViewController' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/Decmac/Desktop/MultipleViews/Classes/MultipleViewsViewController.m:49: warning: property 'thirdViewController' requires the method 'setThirdViewController:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/Decmac/Desktop/MultipleViews/Classes/MultipleViewsViewController.m:49: warning: incomplete implementation of class 'MultipleViewsViewController'/Users/Decmac/Desktop/MultipleViews/Classes/MultipleViewsViewController.m:49: warning: method definition for '-clearView' not found/Users/Decmac/Desktop/MultipleViews/Classes/MultipleViewsViewController.m:49: warning: method definition for '-loadFirstView:' not found/Users/Decmac/Desktop/MultipleViews/Classes/MultipleViewsViewController.m:49: warning: method definition for '-loadThirdView:' not found/Users/Decmac/Desktop/MultipleViews/Classes/MultipleViewsViewController.m:49: warning: method definition for '-loadSecondView:' not found11(4@32"Expected ';' before 'synthesize'354499748#0#118#0(6@73"/Users/Decmac/Desktop/MultipleViews/Classes/MultipleViewsViewController.m354499744#17#0#17#0#19"expected * before *0(22@40"'@end' missing in implementation context354499748#118#128#0(6@73"/Users/Decmac/Desktop/MultipleViews/Classes/MultipleViewsViewController.m354499744#49#0#49#0#40"'@end' missing in implementation context0(22@148"Property 'secondViewController' requires method '-secondViewController' to be defined - use @synthesize, @dynamic or provide a method implementation354499748#246#236#0(6@73"/Users/Decmac/Desktop/MultipleViews/Classes/MultipleViewsViewController.m354499744#49#0#49#0#0"0(22@155"Property 'secondViewController' requires the method 'setSecondViewController:' to be defined - use @synthesize, @dynamic or provide a method implementation354499748#482#243#0(6@73"/Users/Decmac/Desktop/MultipleViews/Classes/MultipleViewsViewController.m354499744#49#0#49#0#0"0(22@146"Property 'thirdViewController' requires method '-thirdViewController' to be defined - use @synthesize, @dynamic or provide a method implementation354499748#725#234#0(6@73"/Users/Decmac/Desktop/MultipleViews/Classes/MultipleViewsViewController.m354499744#49#0#49#0#0"0(22@153"Property 'thirdViewController' requires the method 'setThirdViewController:' to be defined - use @synthesize, @dynamic or provide a method implementation354499748#959#241#0(6@73"/Users/Decmac/Desktop/MultipleViews/Classes/MultipleViewsViewController.m354499744#49#0#49#0#0"0(22@64"Incomplete implementation of class 'MultipleViewsViewController'354499748#1200#152#0(6@73"/Users/Decmac/Desktop/MultipleViews/Classes/MultipleViewsViewController.m354499744#49#0#49#0#38"incomplete implementation of class '*'0(22@44"Method definition for '-clearView' not found354499748#1352#132#0(6@73"/Users/Decmac/Desktop/MultipleViews/Classes/MultipleViewsViewController.m354499744#49#0#49#0#35"method definition for '*' not found0(22@49"Method definition for '-loadFirstView:' not found354499748#1484#137#0(6@73"/Users/Decmac/Desktop/MultipleViews/Classes/MultipleViewsViewController.m354499744#49#0#49#0#35"method definition for '*' not found0(22@49"Method definition for '-loadThirdView:' not found354499749#1621#137#0(6@73"/Users/Decmac/Desktop/MultipleViews/Classes/MultipleViewsViewController.m354499744#49#0#49#0#35"method definition for '*' not found0(22@50"Method definition for '-loadSecondView:' not found354499749#1758#138#0(6@73"/Users/Decmac/Desktop/MultipleViews/Classes/MultipleViewsViewController.m354499744#49#0#49#0#35"method definition for '*' not found0(0#0#73"/Users/Decmac/Desktop/MultipleViews/Classes/MultipleViewsViewController.m4300885448#2000"    cd /Users/Decmac/Desktop/MultipleViews    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/MultipleViews/build/MultipleViews.build/Debug-iphonesimulator/MultipleViews.build/MultipleViews-generated-files.hmap -I/Users/Decmac/Desktop/MultipleViews/build/MultipleViews.build/Debug-iphonesimulator/MultipleViews.build/MultipleViews-own-target-headers.hmap -I/Users/Decmac/Desktop/MultipleViews/build/MultipleViews.build/Debug-iphonesimulator/MultipleViews.build/MultipleViews-all-target-headers.hmap -iquote /Users/Decmac/Desktop/MultipleViews/build/MultipleViews.build/Debug-iphonesimulator/MultipleViews.build/MultipleViews-project-headers.hmap -F/Users/Decmac/Desktop/MultipleViews/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/MultipleViews/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/MultipleViews/build/MultipleViews.build/Debug-iphonesimulator/MultipleViews.build/DerivedSources/i386 -I/Users/Decmac/Desktop/MultipleViews/build/MultipleViews.build/Debug-iphonesimulator/MultipleViews.build/DerivedSources -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MultipleViews_Prefix-ffaefnkzsbsieccquaksdkfrashn/MultipleViews_Prefix.pch -c /Users/Decmac/Desktop/MultipleViews/Classes/MultipleViewsViewController.m -o /Users/Decmac/Desktop/MultipleViews/build/MultipleViews.build/Debug-iphonesimulator/MultipleViews.build/Objects-normal/i386/MultipleViewsViewController.o1#
+
+CCompileC build/MultipleViews.build/Debug-iphonesimulator/MultipleViews.build/Objects-normal/i386/SecondViewController.o /Users/Decmac/Desktop/MultipleViews/Classes/SecondViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354499749.074599
+e354499749.315628
+r1
+xCompileC
+xbuild/MultipleViews.build/Debug-iphonesimulator/MultipleViews.build/Objects-normal/i386/SecondViewController.o
+x/Users/Decmac/Desktop/MultipleViews/Classes/SecondViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/Decmac/Desktop/MultipleViews/Classes/SecondViewController.m354499749#354499749#0(0"0(0#0#66"/Users/Decmac/Desktop/MultipleViews/Classes/SecondViewController.m4300885448#1986"    cd /Users/Decmac/Desktop/MultipleViews    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/MultipleViews/build/MultipleViews.build/Debug-iphonesimulator/MultipleViews.build/MultipleViews-generated-files.hmap -I/Users/Decmac/Desktop/MultipleViews/build/MultipleViews.build/Debug-iphonesimulator/MultipleViews.build/MultipleViews-own-target-headers.hmap -I/Users/Decmac/Desktop/MultipleViews/build/MultipleViews.build/Debug-iphonesimulator/MultipleViews.build/MultipleViews-all-target-headers.hmap -iquote /Users/Decmac/Desktop/MultipleViews/build/MultipleViews.build/Debug-iphonesimulator/MultipleViews.build/MultipleViews-project-headers.hmap -F/Users/Decmac/Desktop/MultipleViews/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/MultipleViews/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/MultipleViews/build/MultipleViews.build/Debug-iphonesimulator/MultipleViews.build/DerivedSources/i386 -I/Users/Decmac/Desktop/MultipleViews/build/MultipleViews.build/Debug-iphonesimulator/MultipleViews.build/DerivedSources -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MultipleViews_Prefix-ffaefnkzsbsieccquaksdkfrashn/MultipleViews_Prefix.pch -c /Users/Decmac/Desktop/MultipleViews/Classes/SecondViewController.m -o /Users/Decmac/Desktop/MultipleViews/build/MultipleViews.build/Debug-iphonesimulator/MultipleViews.build/Objects-normal/i386/SecondViewController.o0#
+
+CCompileC build/MultipleViews.build/Debug-iphonesimulator/MultipleViews.build/Objects-normal/i386/ThirdViewController.o /Users/Decmac/Desktop/MultipleViews/Classes/ThirdViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354499749.204720
+e354499749.393519
+r1
+xCompileC
+xbuild/MultipleViews.build/Debug-iphonesimulator/MultipleViews.build/Objects-normal/i386/ThirdViewController.o
+x/Users/Decmac/Desktop/MultipleViews/Classes/ThirdViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/Decmac/Desktop/MultipleViews/Classes/ThirdViewController.m354499749#354499749#0(0"0(0#0#65"/Users/Decmac/Desktop/MultipleViews/Classes/ThirdViewController.m4300885448#1984"    cd /Users/Decmac/Desktop/MultipleViews    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/MultipleViews/build/MultipleViews.build/Debug-iphonesimulator/MultipleViews.build/MultipleViews-generated-files.hmap -I/Users/Decmac/Desktop/MultipleViews/build/MultipleViews.build/Debug-iphonesimulator/MultipleViews.build/MultipleViews-own-target-headers.hmap -I/Users/Decmac/Desktop/MultipleViews/build/MultipleViews.build/Debug-iphonesimulator/MultipleViews.build/MultipleViews-all-target-headers.hmap -iquote /Users/Decmac/Desktop/MultipleViews/build/MultipleViews.build/Debug-iphonesimulator/MultipleViews.build/MultipleViews-project-headers.hmap -F/Users/Decmac/Desktop/MultipleViews/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/MultipleViews/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/MultipleViews/build/MultipleViews.build/Debug-iphonesimulator/MultipleViews.build/DerivedSources/i386 -I/Users/Decmac/Desktop/MultipleViews/build/MultipleViews.build/Debug-iphonesimulator/MultipleViews.build/DerivedSources -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MultipleViews_Prefix-ffaefnkzsbsieccquaksdkfrashn/MultipleViews_Prefix.pch -c /Users/Decmac/Desktop/MultipleViews/Classes/ThirdViewController.m -o /Users/Decmac/Desktop/MultipleViews/build/MultipleViews.build/Debug-iphonesimulator/MultipleViews.build/Objects-normal/i386/ThirdViewController.o0#
+
+CCompileC build/MultipleViews.build/Debug-iphonesimulator/MultipleViews.build/Objects-normal/i386/main.o /Users/Decmac/Desktop/MultipleViews/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354499748.760407
+e354499748.905090
+r1
+xCompileC
+xbuild/MultipleViews.build/Debug-iphonesimulator/MultipleViews.build/Objects-normal/i386/main.o
+x/Users/Decmac/Desktop/MultipleViews/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@50"Compile /Users/Decmac/Desktop/MultipleViews/main.m354499748#354499749#0(0"0(0#0#42"/Users/Decmac/Desktop/MultipleViews/main.m4300885448#1946"    cd /Users/Decmac/Desktop/MultipleViews    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/MultipleViews/build/MultipleViews.build/Debug-iphonesimulator/MultipleViews.build/MultipleViews-generated-files.hmap -I/Users/Decmac/Desktop/MultipleViews/build/MultipleViews.build/Debug-iphonesimulator/MultipleViews.build/MultipleViews-own-target-headers.hmap -I/Users/Decmac/Desktop/MultipleViews/build/MultipleViews.build/Debug-iphonesimulator/MultipleViews.build/MultipleViews-all-target-headers.hmap -iquote /Users/Decmac/Desktop/MultipleViews/build/MultipleViews.build/Debug-iphonesimulator/MultipleViews.build/MultipleViews-project-headers.hmap -F/Users/Decmac/Desktop/MultipleViews/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/MultipleViews/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/MultipleViews/build/MultipleViews.build/Debug-iphonesimulator/MultipleViews.build/DerivedSources/i386 -I/Users/Decmac/Desktop/MultipleViews/build/MultipleViews.build/Debug-iphonesimulator/MultipleViews.build/DerivedSources -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MultipleViews_Prefix-ffaefnkzsbsieccquaksdkfrashn/MultipleViews_Prefix.pch -c /Users/Decmac/Desktop/MultipleViews/main.m -o /Users/Decmac/Desktop/MultipleViews/build/MultipleViews.build/Debug-iphonesimulator/MultipleViews.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/Decmac/Desktop/MultipleViews/Classes/FirstViewController.xib
+s354499745.270528
+e354499746.263682
+r1
+xCompileXIB
+x/Users/Decmac/Desktop/MultipleViews/Classes/FirstViewController.xib
+o2012-03-27 00:09:05.348 ibtool[1776:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 35
+lSLF07#2@42"CompileXIB Classes/FirstViewController.xib354499745#354499746#0(108"2012-03-27 00:09:05.348 ibtool[1776:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 350(0#0#67"/Users/Decmac/Desktop/MultipleViews/Classes/FirstViewController.xib4300885448#505"    cd /Users/Decmac/Desktop/MultipleViews    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Decmac/Desktop/MultipleViews/build/Debug-iphonesimulator/MultipleViews.app/FirstViewController.nib /Users/Decmac/Desktop/MultipleViews/Classes/FirstViewController.xib0#
+
+CCompileXIB /Users/Decmac/Desktop/MultipleViews/Classes/SecondViewController.xib
+s354499745.299571
+e354499746.339000
+r1
+xCompileXIB
+x/Users/Decmac/Desktop/MultipleViews/Classes/SecondViewController.xib
+o2012-03-27 00:09:05.376 ibtool[1777:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 35
+lSLF07#2@43"CompileXIB Classes/SecondViewController.xib354499745#354499746#0(108"2012-03-27 00:09:05.376 ibtool[1777:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 350(0#0#68"/Users/Decmac/Desktop/MultipleViews/Classes/SecondViewController.xib4300885448#507"    cd /Users/Decmac/Desktop/MultipleViews    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Decmac/Desktop/MultipleViews/build/Debug-iphonesimulator/MultipleViews.app/SecondViewController.nib /Users/Decmac/Desktop/MultipleViews/Classes/SecondViewController.xib0#
+
+CCompileXIB /Users/Decmac/Desktop/MultipleViews/Classes/ThirdViewController.xib
+s354499746.264143
+e354499747.004451
+r1
+xCompileXIB
+x/Users/Decmac/Desktop/MultipleViews/Classes/ThirdViewController.xib
+o2012-03-27 00:09:06.366 ibtool[1783:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 35
+lSLF07#2@42"CompileXIB Classes/ThirdViewController.xib354499746#354499747#0(108"2012-03-27 00:09:06.366 ibtool[1783:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 350(0#0#67"/Users/Decmac/Desktop/MultipleViews/Classes/ThirdViewController.xib4300885448#505"    cd /Users/Decmac/Desktop/MultipleViews    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Decmac/Desktop/MultipleViews/build/Debug-iphonesimulator/MultipleViews.app/ThirdViewController.nib /Users/Decmac/Desktop/MultipleViews/Classes/ThirdViewController.xib0#
+
+CCompileXIB /Users/Decmac/Desktop/MultipleViews/MainWindow.xib
+s354499744.309634
+e354499745.299342
+r1
+xCompileXIB
+x/Users/Decmac/Desktop/MultipleViews/MainWindow.xib
+o2012-03-27 00:09:04.423 ibtool[1771:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 35
+lSLF07#2@25"CompileXIB MainWindow.xib354499744#354499745#0(108"2012-03-27 00:09:04.423 ibtool[1771:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 350(0#0#50"/Users/Decmac/Desktop/MultipleViews/MainWindow.xib4300885448#479"    cd /Users/Decmac/Desktop/MultipleViews    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Decmac/Desktop/MultipleViews/build/Debug-iphonesimulator/MultipleViews.app/MainWindow.nib /Users/Decmac/Desktop/MultipleViews/MainWindow.xib0#
+
+CCompileXIB /Users/Decmac/Desktop/MultipleViews/MultipleViewsViewController.xib
+s354499744.318631
+e354499745.270303
+r1
+xCompileXIB
+x/Users/Decmac/Desktop/MultipleViews/MultipleViewsViewController.xib
+o2012-03-27 00:09:04.431 ibtool[1772:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 35
+lSLF07#2@42"CompileXIB MultipleViewsViewController.xib354499744#354499745#0(108"2012-03-27 00:09:04.431 ibtool[1772:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 350(0#0#67"/Users/Decmac/Desktop/MultipleViews/MultipleViewsViewController.xib4300885448#513"    cd /Users/Decmac/Desktop/MultipleViews    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Decmac/Desktop/MultipleViews/build/Debug-iphonesimulator/MultipleViews.app/MultipleViewsViewController.nib /Users/Decmac/Desktop/MultipleViews/MultipleViewsViewController.xib0#
+
+CGenerateDSYMFile /Users/Decmac/Desktop/MultipleViews/build/Debug-iphonesimulator/MultipleViews.app.dSYM /Users/Decmac/Desktop/MultipleViews/build/Debug-iphonesimulator/MultipleViews.app/MultipleViews
+r0
+
+CLd /Users/Decmac/Desktop/MultipleViews/build/Debug-iphonesimulator/MultipleViews.app/MultipleViews normal i386
+r0
+
+CProcessInfoPlistFile /Users/Decmac/Desktop/MultipleViews/build/Debug-iphonesimulator/MultipleViews.app/Info.plist MultipleViews-Info.plist
+s354499744.296812
+e354499744.309355
+r1
+xProcessInfoPlistFile
+x/Users/Decmac/Desktop/MultipleViews/build/Debug-iphonesimulator/MultipleViews.app/Info.plist
+xMultipleViews-Info.plist
+lSLF07#2@32"Process MultipleViews-Info.plist354499744#354499744#0(0"0(0#0#60"/Users/Decmac/Desktop/MultipleViews/MultipleViews-Info.plist4300885448#488"    cd /Users/Decmac/Desktop/MultipleViews    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility MultipleViews-Info.plist -genpkginfo /Users/Decmac/Desktop/MultipleViews/build/Debug-iphonesimulator/MultipleViews.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/Decmac/Desktop/MultipleViews/build/Debug-iphonesimulator/MultipleViews.app/Info.plist0#
+
+CProcessPCH /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MultipleViews_Prefix-ffaefnkzsbsieccquaksdkfrashn/MultipleViews_Prefix.pch.gch MultipleViews_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s354499747.004798
+e354499748.759883
+r1
+xProcessPCH
+x/var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MultipleViews_Prefix-ffaefnkzsbsieccquaksdkfrashn/MultipleViews_Prefix.pch.gch
+xMultipleViews_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@35"Precompile MultipleViews_Prefix.pch354499747#354499748#0(0"0(0#0#60"/Users/Decmac/Desktop/MultipleViews/MultipleViews_Prefix.pch4300885448#1835"    cd /Users/Decmac/Desktop/MultipleViews    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/MultipleViews/build/MultipleViews.build/Debug-iphonesimulator/MultipleViews.build/MultipleViews-generated-files.hmap -I/Users/Decmac/Desktop/MultipleViews/build/MultipleViews.build/Debug-iphonesimulator/MultipleViews.build/MultipleViews-own-target-headers.hmap -I/Users/Decmac/Desktop/MultipleViews/build/MultipleViews.build/Debug-iphonesimulator/MultipleViews.build/MultipleViews-all-target-headers.hmap -iquote /Users/Decmac/Desktop/MultipleViews/build/MultipleViews.build/Debug-iphonesimulator/MultipleViews.build/MultipleViews-project-headers.hmap -F/Users/Decmac/Desktop/MultipleViews/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/MultipleViews/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/MultipleViews/build/MultipleViews.build/Debug-iphonesimulator/MultipleViews.build/DerivedSources/i386 -I/Users/Decmac/Desktop/MultipleViews/build/MultipleViews.build/Debug-iphonesimulator/MultipleViews.build/DerivedSources -c /Users/Decmac/Desktop/MultipleViews/MultipleViews_Prefix.pch -o /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MultipleViews_Prefix-ffaefnkzsbsieccquaksdkfrashn/MultipleViews_Prefix.pch.gch0#
+
+CTouch /Users/Decmac/Desktop/MultipleViews/build/Debug-iphonesimulator/MultipleViews.app
+r0
+

@@ -1,0 +1,681 @@
+TmyDay14
+v7
+r0
+t354456968.236925
+cCheck dependencies
+cProcessInfoPlistFile "/Volumes/新加卷 3/iphone back-up/myDay14/build/Debug-iphonesimulator/myDay14.app/Info.plist" myDay14-Info.plist
+cCompileXIB "/Volumes/新加卷 3/iphone back-up/myDay14/MainWindow.xib"
+cCompileXIB "/Volumes/新加卷 3/iphone back-up/myDay14/myDay14ViewController.xib"
+cCpResource build/Debug-iphonesimulator/myDay14.app/image00.jpg image00.jpg
+cCpResource build/Debug-iphonesimulator/myDay14.app/image01.jpg image01.jpg
+cCpResource build/Debug-iphonesimulator/myDay14.app/image02.jpg image02.jpg
+cCpResource build/Debug-iphonesimulator/myDay14.app/image03.jpg image03.jpg
+cCpResource build/Debug-iphonesimulator/myDay14.app/image04.jpg image04.jpg
+cCpResource build/Debug-iphonesimulator/myDay14.app/image05.jpg image05.jpg
+cProcessPCH /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myDay14_Prefix-bpjibdivqhylgrdyqfusrjvgxizu/myDay14_Prefix.pch.gch myDay14_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/myDay14.build/Debug-iphonesimulator/myDay14.build/Objects-normal/i386/main.o "/Volumes/新加卷 3/iphone back-up/myDay14/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/myDay14.build/Debug-iphonesimulator/myDay14.build/Objects-normal/i386/myDay14AppDelegate.o "/Volumes/新加卷 3/iphone back-up/myDay14/Classes/myDay14AppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/myDay14.build/Debug-iphonesimulator/myDay14.build/Objects-normal/i386/myDay14ViewController.o "/Volumes/新加卷 3/iphone back-up/myDay14/Classes/myDay14ViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Volumes/新加卷 3/iphone back-up/myDay14/build/Debug-iphonesimulator/myDay14.app/myDay14" normal i386
+cGenerateDSYMFile "/Volumes/新加卷 3/iphone back-up/myDay14/build/Debug-iphonesimulator/myDay14.app.dSYM" "/Volumes/新加卷 3/iphone back-up/myDay14/build/Debug-iphonesimulator/myDay14.app/myDay14"
+cTouch "/Volumes/新加卷 3/iphone back-up/myDay14/build/Debug-iphonesimulator/myDay14.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk
+c000000004F3A580900000000000000EE
+t1329223689
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B2B4CC3000000000026EE30
+t1261128899
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B2B4DC8000000000027E880
+t1261129160
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B2B4DAE0000000000001355
+t1261129134
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B2B61620000000000000788
+t1261134178
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B2B62B500000000016721E0
+t1261134517
+s23536096
+
+N/Users/Decmac/Desktop/myDay14/Classes/myDay14AppDelegate.h
+c000000004F494F8E00000000000001DC
+t1330204558
+s476
+i<UIKit/UIKit.h>
+
+N/Users/Decmac/Desktop/myDay14/Classes/myDay14AppDelegate.m
+c000000004F494F8E0000000000000267
+t1330204558
+s615
+i"myDay14AppDelegate.h"
+i"myDay14ViewController.h"
+
+N/Users/Decmac/Desktop/myDay14/Classes/myDay14ViewController.h
+c000000004F49539600000000000001C9
+t1330205590
+s457
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/Decmac/Desktop/myDay14/Classes/myDay14ViewController.m
+c000000004F4962CA00000000000008E4
+t1330209482
+s2276
+i"myDay14ViewController.h"
+
+N/Users/Decmac/Desktop/myDay14/MainWindow.xib
+c000000004F494F8E000000000000244E
+t1330204558
+s9294
+
+N/Users/Decmac/Desktop/myDay14/build/Debug-iphonesimulator/myDay14.app
+t1330209486
+s442
+
+N/Users/Decmac/Desktop/myDay14/build/Debug-iphonesimulator/myDay14.app.dSYM
+t1330209486
+s102
+
+N/Users/Decmac/Desktop/myDay14/build/Debug-iphonesimulator/myDay14.app/Info.plist
+t1330207609
+s564
+
+N/Users/Decmac/Desktop/myDay14/build/Debug-iphonesimulator/myDay14.app/MainWindow.nib
+t1330207609
+s1495
+
+N/Users/Decmac/Desktop/myDay14/build/Debug-iphonesimulator/myDay14.app/PkgInfo
+t1330207609
+s8
+
+N/Users/Decmac/Desktop/myDay14/build/Debug-iphonesimulator/myDay14.app/image00.jpg
+t1330207609
+s27496
+
+N/Users/Decmac/Desktop/myDay14/build/Debug-iphonesimulator/myDay14.app/image01.jpg
+t1330207609
+s15663
+
+N/Users/Decmac/Desktop/myDay14/build/Debug-iphonesimulator/myDay14.app/image02.jpg
+t1330207609
+s21010
+
+N/Users/Decmac/Desktop/myDay14/build/Debug-iphonesimulator/myDay14.app/image03.jpg
+t1330207609
+s12928
+
+N/Users/Decmac/Desktop/myDay14/build/Debug-iphonesimulator/myDay14.app/image04.jpg
+t1330207609
+s28221
+
+N/Users/Decmac/Desktop/myDay14/build/Debug-iphonesimulator/myDay14.app/image05.jpg
+t1330207609
+s19873
+
+N/Users/Decmac/Desktop/myDay14/build/Debug-iphonesimulator/myDay14.app/kuan  6e7e02fdfdd89a6e4cd405e.jpg
+t2
+s0
+
+N/Users/Decmac/Desktop/myDay14/build/Debug-iphonesimulator/myDay14.app/kuan 047d92f005c72f05d26.jpg
+t2
+s0
+
+N/Users/Decmac/Desktop/myDay14/build/Debug-iphonesimulator/myDay14.app/kuan 2db35a3cae974c9d343585e.jpg
+t2
+s0
+
+N/Users/Decmac/Desktop/myDay14/build/Debug-iphonesimulator/myDay14.app/kuan c27280c6c71aed50742b4.jpg
+t2
+s0
+
+N/Users/Decmac/Desktop/myDay14/build/Debug-iphonesimulator/myDay14.app/kuan eb33bfb29aca4fc58ee9039.jpg
+t2
+s0
+
+N/Users/Decmac/Desktop/myDay14/build/Debug-iphonesimulator/myDay14.app/myDay14
+t1330209486
+s21072
+
+N/Users/Decmac/Desktop/myDay14/build/Debug-iphonesimulator/myDay14.app/myDay14ViewController.nib
+t1330208770
+s2064
+
+N/Users/Decmac/Desktop/myDay14/build/myDay14.build/Debug-iphonesimulator/myDay14.build/Objects-normal/i386/main.o
+t1330207610
+s5940
+
+N/Users/Decmac/Desktop/myDay14/build/myDay14.build/Debug-iphonesimulator/myDay14.build/Objects-normal/i386/myDay14.LinkFileList
+c000000004F495B790000000000000172
+t1330207609
+s370
+
+N/Users/Decmac/Desktop/myDay14/build/myDay14.build/Debug-iphonesimulator/myDay14.build/Objects-normal/i386/myDay14AppDelegate.o
+t1330207610
+s38128
+
+N/Users/Decmac/Desktop/myDay14/build/myDay14.build/Debug-iphonesimulator/myDay14.build/Objects-normal/i386/myDay14ViewController.o
+t1330209486
+s38120
+
+N/Users/Decmac/Desktop/myDay14/image00.jpg
+c000000004C76F1B20000000000006B68
+t1282863538
+s27496
+
+N/Users/Decmac/Desktop/myDay14/image01.jpg
+c000000004C76ECE60000000000003E56
+t1282862310
+s15958
+
+N/Users/Decmac/Desktop/myDay14/image02.jpg
+c000000004C76ECC20000000000003664
+t1282862274
+s13924
+
+N/Users/Decmac/Desktop/myDay14/image03.jpg
+c000000004C76ECB80000000000005280
+t1282862264
+s21120
+
+N/Users/Decmac/Desktop/myDay14/image04.jpg
+c000000004C76ECCE00000000000035D8
+t1282862286
+s13784
+
+N/Users/Decmac/Desktop/myDay14/image05.jpg
+c000000004C76EC9A0000000000002068
+t1282862234
+s8296
+
+N/Users/Decmac/Desktop/myDay14/kuan  6e7e02fdfdd89a6e4cd405e.jpg
+c000000004F4902620000000000004DA1
+t1330184802
+s19873
+
+N/Users/Decmac/Desktop/myDay14/kuan 047d92f005c72f05d26.jpg
+c000000004F4902500000000000005212
+t1330184784
+s21010
+
+N/Users/Decmac/Desktop/myDay14/kuan 2db35a3cae974c9d343585e.jpg
+c000000004F49026E0000000000003D2F
+t1330184814
+s15663
+
+N/Users/Decmac/Desktop/myDay14/kuan c27280c6c71aed50742b4.jpg
+c000000004F4902FE0000000000003280
+t1330184958
+s12928
+
+N/Users/Decmac/Desktop/myDay14/kuan eb33bfb29aca4fc58ee9039.jpg
+c000000004F4902960000000000006E3D
+t1330184854
+s28221
+
+N/Users/Decmac/Desktop/myDay14/main.m
+c000000004F494F8E0000000000000166
+t1330204558
+s358
+i<UIKit/UIKit.h>
+
+N/Users/Decmac/Desktop/myDay14/myDay14ViewController.xib
+c000000004F4960000000000000004C77
+t1330208768
+s19575
+
+N/Users/Decmac/Desktop/myDay14/myDay14_Prefix.pch
+c000000004F494F8E00000000000000B7
+t1330204558
+s183
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Volumes/新加卷 3/iphone back-up/myDay14/Classes/myDay14AppDelegate.h
+c000000004F494F8E00000000000001DC
+t1330204558
+s476
+i<UIKit/UIKit.h>
+
+N/Volumes/新加卷 3/iphone back-up/myDay14/Classes/myDay14AppDelegate.m
+c000000004F494F8E0000000000000267
+t1330204558
+s615
+i"myDay14AppDelegate.h"
+i"myDay14ViewController.h"
+
+N/Volumes/新加卷 3/iphone back-up/myDay14/Classes/myDay14ViewController.h
+c000000004F49539600000000000001C9
+t1330205590
+s457
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Volumes/新加卷 3/iphone back-up/myDay14/Classes/myDay14ViewController.m
+c000000004F705E06000000000000091B
+t1332764166
+s2331
+i"myDay14ViewController.h"
+
+N/Volumes/新加卷 3/iphone back-up/myDay14/MainWindow.xib
+c000000004F494F8E000000000000244E
+t1330204558
+s9294
+
+N/Volumes/新加卷 3/iphone back-up/myDay14/build/Debug-iphonesimulator/myDay14.app
+t1332764168
+s16384
+
+N/Volumes/新加卷 3/iphone back-up/myDay14/build/Debug-iphonesimulator/myDay14.app.dSYM
+t1332764168
+s16384
+
+N/Volumes/新加卷 3/iphone back-up/myDay14/build/Debug-iphonesimulator/myDay14.app/Info.plist
+t1330207608
+s564
+
+N/Volumes/新加卷 3/iphone back-up/myDay14/build/Debug-iphonesimulator/myDay14.app/MainWindow.nib
+t1330207608
+s1495
+
+N/Volumes/新加卷 3/iphone back-up/myDay14/build/Debug-iphonesimulator/myDay14.app/PkgInfo
+t1330207608
+s8
+
+N/Volumes/新加卷 3/iphone back-up/myDay14/build/Debug-iphonesimulator/myDay14.app/image00.jpg
+t1330207608
+s27496
+
+N/Volumes/新加卷 3/iphone back-up/myDay14/build/Debug-iphonesimulator/myDay14.app/image01.jpg
+t1330207608
+s15663
+
+N/Volumes/新加卷 3/iphone back-up/myDay14/build/Debug-iphonesimulator/myDay14.app/image02.jpg
+t1330207608
+s21010
+
+N/Volumes/新加卷 3/iphone back-up/myDay14/build/Debug-iphonesimulator/myDay14.app/image03.jpg
+t1330207608
+s12928
+
+N/Volumes/新加卷 3/iphone back-up/myDay14/build/Debug-iphonesimulator/myDay14.app/image04.jpg
+t1330207608
+s28221
+
+N/Volumes/新加卷 3/iphone back-up/myDay14/build/Debug-iphonesimulator/myDay14.app/image05.jpg
+t1330207608
+s19873
+
+N/Volumes/新加卷 3/iphone back-up/myDay14/build/Debug-iphonesimulator/myDay14.app/myDay14
+t1332764168
+s21156
+
+N/Volumes/新加卷 3/iphone back-up/myDay14/build/Debug-iphonesimulator/myDay14.app/myDay14ViewController.nib
+t1332764056
+s2073
+
+N/Volumes/新加卷 3/iphone back-up/myDay14/build/myDay14.build/Debug-iphonesimulator/myDay14.build/Objects-normal/i386/main.o
+t1332764058
+s5968
+
+N/Volumes/新加卷 3/iphone back-up/myDay14/build/myDay14.build/Debug-iphonesimulator/myDay14.build/Objects-normal/i386/myDay14.LinkFileList
+c000000004F705D96000000000000019C
+t1332764054
+s412
+
+N/Volumes/新加卷 3/iphone back-up/myDay14/build/myDay14.build/Debug-iphonesimulator/myDay14.build/Objects-normal/i386/myDay14AppDelegate.o
+t1332764058
+s38156
+
+N/Volumes/新加卷 3/iphone back-up/myDay14/build/myDay14.build/Debug-iphonesimulator/myDay14.build/Objects-normal/i386/myDay14ViewController.o
+t1332764168
+s38304
+
+N/Volumes/新加卷 3/iphone back-up/myDay14/image00.jpg
+c000000004C76F1B20000000000006B68
+t1282863538
+s27496
+
+N/Volumes/新加卷 3/iphone back-up/myDay14/image01.jpg
+c000000004C76ECE60000000000003E56
+t1282862310
+s15958
+
+N/Volumes/新加卷 3/iphone back-up/myDay14/image02.jpg
+c000000004C76ECC20000000000003664
+t1282862274
+s13924
+
+N/Volumes/新加卷 3/iphone back-up/myDay14/image03.jpg
+c000000004C76ECB80000000000005280
+t1282862264
+s21120
+
+N/Volumes/新加卷 3/iphone back-up/myDay14/image04.jpg
+c000000004C76ECCE00000000000035D8
+t1282862286
+s13784
+
+N/Volumes/新加卷 3/iphone back-up/myDay14/image05.jpg
+c000000004C76EC9A0000000000002068
+t1282862234
+s8296
+
+N/Volumes/新加卷 3/iphone back-up/myDay14/main.m
+c000000004F494F8E0000000000000166
+t1330204558
+s358
+i<UIKit/UIKit.h>
+
+N/Volumes/新加卷 3/iphone back-up/myDay14/myDay14ViewController.xib
+c000000004F705D8E0000000000004CB0
+t1332764046
+s19632
+
+N/Volumes/新加卷 3/iphone back-up/myDay14/myDay14_Prefix.pch
+c000000004F494F8E00000000000000B7
+t1330204558
+s183
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myDay14_Prefix-bpjibdivqhylgrdyqfusrjvgxizu/myDay14_Prefix.pch.gch
+t1332764057
+s13034960
+
+N/var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myDay14_Prefix-dtxpqpwnjglaechehsmvpqqfdjsd/myDay14_Prefix.pch.gch
+t1330207610
+s13034960
+
+NmyDay14-Info.plist
+c000000004F494F8E000000000000038D
+t1330204558
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies354456967#354456967#0(0"0(0#1#0"4300885448#0"0#
+
+CCompileC build/myDay14.build/Debug-iphonesimulator/myDay14.build/Objects-normal/i386/main.o "/Volumes/新加卷 3/iphone back-up/myDay14/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s354456858.138656
+e354456858.264657
+r1
+xCompileC
+xbuild/myDay14.build/Debug-iphonesimulator/myDay14.build/Objects-normal/i386/main.o
+x/Volumes/新加卷 3/iphone back-up/myDay14/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@58"Compile /Volumes/新加卷 3/iphone back-up/myDay14/main.m354456858#354456858#0(0"0(0#0#50"/Volumes/新加卷 3/iphone back-up/myDay14/main.m4300885448#1936"    cd "/Volumes/新加卷 3/iphone back-up/myDay14"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Volumes/新加卷 3/iphone back-up/myDay14/build/myDay14.build/Debug-iphonesimulator/myDay14.build/myDay14-generated-files.hmap" "-I/Volumes/新加卷 3/iphone back-up/myDay14/build/myDay14.build/Debug-iphonesimulator/myDay14.build/myDay14-own-target-headers.hmap" "-I/Volumes/新加卷 3/iphone back-up/myDay14/build/myDay14.build/Debug-iphonesimulator/myDay14.build/myDay14-all-target-headers.hmap" -iquote "/Volumes/新加卷 3/iphone back-up/myDay14/build/myDay14.build/Debug-iphonesimulator/myDay14.build/myDay14-project-headers.hmap" "-F/Volumes/新加卷 3/iphone back-up/myDay14/build/Debug-iphonesimulator" "-I/Volumes/新加卷 3/iphone back-up/myDay14/build/Debug-iphonesimulator/include" "-I/Volumes/新加卷 3/iphone back-up/myDay14/build/myDay14.build/Debug-iphonesimulator/myDay14.build/DerivedSources/i386" "-I/Volumes/新加卷 3/iphone back-up/myDay14/build/myDay14.build/Debug-iphonesimulator/myDay14.build/DerivedSources" -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myDay14_Prefix-bpjibdivqhylgrdyqfusrjvgxizu/myDay14_Prefix.pch -c "/Volumes/新加卷 3/iphone back-up/myDay14/main.m" -o "/Volumes/新加卷 3/iphone back-up/myDay14/build/myDay14.build/Debug-iphonesimulator/myDay14.build/Objects-normal/i386/main.o"0#
+
+CCompileC build/myDay14.build/Debug-iphonesimulator/myDay14.build/Objects-normal/i386/main.o /Users/Decmac/Desktop/myDay14/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s351900410.795729
+e351900410.933880
+r1
+xCompileC
+xbuild/myDay14.build/Debug-iphonesimulator/myDay14.build/Objects-normal/i386/main.o
+x/Users/Decmac/Desktop/myDay14/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@44"Compile /Users/Decmac/Desktop/myDay14/main.m351900410#351900410#0(0"0(0#0#36"/Users/Decmac/Desktop/myDay14/main.m4300885448#1760"    cd /Users/Decmac/Desktop/myDay14    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/myDay14/build/myDay14.build/Debug-iphonesimulator/myDay14.build/myDay14-generated-files.hmap -I/Users/Decmac/Desktop/myDay14/build/myDay14.build/Debug-iphonesimulator/myDay14.build/myDay14-own-target-headers.hmap -I/Users/Decmac/Desktop/myDay14/build/myDay14.build/Debug-iphonesimulator/myDay14.build/myDay14-all-target-headers.hmap -iquote /Users/Decmac/Desktop/myDay14/build/myDay14.build/Debug-iphonesimulator/myDay14.build/myDay14-project-headers.hmap -F/Users/Decmac/Desktop/myDay14/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/myDay14/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/myDay14/build/myDay14.build/Debug-iphonesimulator/myDay14.build/DerivedSources/i386 -I/Users/Decmac/Desktop/myDay14/build/myDay14.build/Debug-iphonesimulator/myDay14.build/DerivedSources -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myDay14_Prefix-dtxpqpwnjglaechehsmvpqqfdjsd/myDay14_Prefix.pch -c /Users/Decmac/Desktop/myDay14/main.m -o /Users/Decmac/Desktop/myDay14/build/myDay14.build/Debug-iphonesimulator/myDay14.build/Objects-normal/i386/main.o0#
+
+CCompileC build/myDay14.build/Debug-iphonesimulator/myDay14.build/Objects-normal/i386/myDay14AppDelegate.o "/Volumes/新加卷 3/iphone back-up/myDay14/Classes/myDay14AppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s354456858.141591
+e354456858.347237
+r1
+xCompileC
+xbuild/myDay14.build/Debug-iphonesimulator/myDay14.build/Objects-normal/i386/myDay14AppDelegate.o
+x/Volumes/新加卷 3/iphone back-up/myDay14/Classes/myDay14AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Volumes/新加卷 3/iphone back-up/myDay14/Classes/myDay14AppDelegate.m354456858#354456858#0(0"0(0#0#72"/Volumes/新加卷 3/iphone back-up/myDay14/Classes/myDay14AppDelegate.m4300885448#1972"    cd "/Volumes/新加卷 3/iphone back-up/myDay14"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Volumes/新加卷 3/iphone back-up/myDay14/build/myDay14.build/Debug-iphonesimulator/myDay14.build/myDay14-generated-files.hmap" "-I/Volumes/新加卷 3/iphone back-up/myDay14/build/myDay14.build/Debug-iphonesimulator/myDay14.build/myDay14-own-target-headers.hmap" "-I/Volumes/新加卷 3/iphone back-up/myDay14/build/myDay14.build/Debug-iphonesimulator/myDay14.build/myDay14-all-target-headers.hmap" -iquote "/Volumes/新加卷 3/iphone back-up/myDay14/build/myDay14.build/Debug-iphonesimulator/myDay14.build/myDay14-project-headers.hmap" "-F/Volumes/新加卷 3/iphone back-up/myDay14/build/Debug-iphonesimulator" "-I/Volumes/新加卷 3/iphone back-up/myDay14/build/Debug-iphonesimulator/include" "-I/Volumes/新加卷 3/iphone back-up/myDay14/build/myDay14.build/Debug-iphonesimulator/myDay14.build/DerivedSources/i386" "-I/Volumes/新加卷 3/iphone back-up/myDay14/build/myDay14.build/Debug-iphonesimulator/myDay14.build/DerivedSources" -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myDay14_Prefix-bpjibdivqhylgrdyqfusrjvgxizu/myDay14_Prefix.pch -c "/Volumes/新加卷 3/iphone back-up/myDay14/Classes/myDay14AppDelegate.m" -o "/Volumes/新加卷 3/iphone back-up/myDay14/build/myDay14.build/Debug-iphonesimulator/myDay14.build/Objects-normal/i386/myDay14AppDelegate.o"0#
+
+CCompileC build/myDay14.build/Debug-iphonesimulator/myDay14.build/Objects-normal/i386/myDay14AppDelegate.o /Users/Decmac/Desktop/myDay14/Classes/myDay14AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s351900410.797669
+e351900410.921612
+r1
+xCompileC
+xbuild/myDay14.build/Debug-iphonesimulator/myDay14.build/Objects-normal/i386/myDay14AppDelegate.o
+x/Users/Decmac/Desktop/myDay14/Classes/myDay14AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/Decmac/Desktop/myDay14/Classes/myDay14AppDelegate.m351900410#351900410#0(0"0(0#0#58"/Users/Decmac/Desktop/myDay14/Classes/myDay14AppDelegate.m4300885448#1796"    cd /Users/Decmac/Desktop/myDay14    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/myDay14/build/myDay14.build/Debug-iphonesimulator/myDay14.build/myDay14-generated-files.hmap -I/Users/Decmac/Desktop/myDay14/build/myDay14.build/Debug-iphonesimulator/myDay14.build/myDay14-own-target-headers.hmap -I/Users/Decmac/Desktop/myDay14/build/myDay14.build/Debug-iphonesimulator/myDay14.build/myDay14-all-target-headers.hmap -iquote /Users/Decmac/Desktop/myDay14/build/myDay14.build/Debug-iphonesimulator/myDay14.build/myDay14-project-headers.hmap -F/Users/Decmac/Desktop/myDay14/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/myDay14/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/myDay14/build/myDay14.build/Debug-iphonesimulator/myDay14.build/DerivedSources/i386 -I/Users/Decmac/Desktop/myDay14/build/myDay14.build/Debug-iphonesimulator/myDay14.build/DerivedSources -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myDay14_Prefix-dtxpqpwnjglaechehsmvpqqfdjsd/myDay14_Prefix.pch -c /Users/Decmac/Desktop/myDay14/Classes/myDay14AppDelegate.m -o /Users/Decmac/Desktop/myDay14/build/myDay14.build/Debug-iphonesimulator/myDay14.build/Objects-normal/i386/myDay14AppDelegate.o0#
+
+CCompileC build/myDay14.build/Debug-iphonesimulator/myDay14.build/Objects-normal/i386/myDay14ViewController.o "/Volumes/新加卷 3/iphone back-up/myDay14/Classes/myDay14ViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s354456967.282779
+e354456968.131346
+r1
+xCompileC
+xbuild/myDay14.build/Debug-iphonesimulator/myDay14.build/Objects-normal/i386/myDay14ViewController.o
+x/Volumes/新加卷 3/iphone back-up/myDay14/Classes/myDay14ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Volumes/新加卷 3/iphone back-up/myDay14/Classes/myDay14ViewController.m354456967#354456968#0(0"0(0#0#75"/Volumes/新加卷 3/iphone back-up/myDay14/Classes/myDay14ViewController.m4300885448#1978"    cd "/Volumes/新加卷 3/iphone back-up/myDay14"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Volumes/新加卷 3/iphone back-up/myDay14/build/myDay14.build/Debug-iphonesimulator/myDay14.build/myDay14-generated-files.hmap" "-I/Volumes/新加卷 3/iphone back-up/myDay14/build/myDay14.build/Debug-iphonesimulator/myDay14.build/myDay14-own-target-headers.hmap" "-I/Volumes/新加卷 3/iphone back-up/myDay14/build/myDay14.build/Debug-iphonesimulator/myDay14.build/myDay14-all-target-headers.hmap" -iquote "/Volumes/新加卷 3/iphone back-up/myDay14/build/myDay14.build/Debug-iphonesimulator/myDay14.build/myDay14-project-headers.hmap" "-F/Volumes/新加卷 3/iphone back-up/myDay14/build/Debug-iphonesimulator" "-I/Volumes/新加卷 3/iphone back-up/myDay14/build/Debug-iphonesimulator/include" "-I/Volumes/新加卷 3/iphone back-up/myDay14/build/myDay14.build/Debug-iphonesimulator/myDay14.build/DerivedSources/i386" "-I/Volumes/新加卷 3/iphone back-up/myDay14/build/myDay14.build/Debug-iphonesimulator/myDay14.build/DerivedSources" -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myDay14_Prefix-bpjibdivqhylgrdyqfusrjvgxizu/myDay14_Prefix.pch -c "/Volumes/新加卷 3/iphone back-up/myDay14/Classes/myDay14ViewController.m" -o "/Volumes/新加卷 3/iphone back-up/myDay14/build/myDay14.build/Debug-iphonesimulator/myDay14.build/Objects-normal/i386/myDay14ViewController.o"0#
+
+CCompileC build/myDay14.build/Debug-iphonesimulator/myDay14.build/Objects-normal/i386/myDay14ViewController.o /Users/Decmac/Desktop/myDay14/Classes/myDay14ViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s351902285.912331
+e351902286.120893
+r1
+xCompileC
+xbuild/myDay14.build/Debug-iphonesimulator/myDay14.build/Objects-normal/i386/myDay14ViewController.o
+x/Users/Decmac/Desktop/myDay14/Classes/myDay14ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/Decmac/Desktop/myDay14/Classes/myDay14ViewController.m351902285#351902286#0(0"0(0#0#61"/Users/Decmac/Desktop/myDay14/Classes/myDay14ViewController.m4300885448#1802"    cd /Users/Decmac/Desktop/myDay14    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/myDay14/build/myDay14.build/Debug-iphonesimulator/myDay14.build/myDay14-generated-files.hmap -I/Users/Decmac/Desktop/myDay14/build/myDay14.build/Debug-iphonesimulator/myDay14.build/myDay14-own-target-headers.hmap -I/Users/Decmac/Desktop/myDay14/build/myDay14.build/Debug-iphonesimulator/myDay14.build/myDay14-all-target-headers.hmap -iquote /Users/Decmac/Desktop/myDay14/build/myDay14.build/Debug-iphonesimulator/myDay14.build/myDay14-project-headers.hmap -F/Users/Decmac/Desktop/myDay14/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/myDay14/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/myDay14/build/myDay14.build/Debug-iphonesimulator/myDay14.build/DerivedSources/i386 -I/Users/Decmac/Desktop/myDay14/build/myDay14.build/Debug-iphonesimulator/myDay14.build/DerivedSources -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myDay14_Prefix-dtxpqpwnjglaechehsmvpqqfdjsd/myDay14_Prefix.pch -c /Users/Decmac/Desktop/myDay14/Classes/myDay14ViewController.m -o /Users/Decmac/Desktop/myDay14/build/myDay14.build/Debug-iphonesimulator/myDay14.build/Objects-normal/i386/myDay14ViewController.o0#
+
+CCompileXIB "/Volumes/新加卷 3/iphone back-up/myDay14/MainWindow.xib"
+r0
+
+CCompileXIB "/Volumes/新加卷 3/iphone back-up/myDay14/myDay14ViewController.xib"
+s354456855.574832
+e354456856.364736
+r1
+xCompileXIB
+x/Volumes/新加卷 3/iphone back-up/myDay14/myDay14ViewController.xib
+o2012-03-26 12:14:15.641 ibtool[580:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 35
+lSLF07#2@36"CompileXIB myDay14ViewController.xib354456855#354456856#0(107"2012-03-26 12:14:15.641 ibtool[580:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 350(0#0#69"/Volumes/新加卷 3/iphone back-up/myDay14/myDay14ViewController.xib4300885448#525"    cd "/Volumes/新加卷 3/iphone back-up/myDay14"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Volumes/新加卷 3/iphone back-up/myDay14/build/Debug-iphonesimulator/myDay14.app/myDay14ViewController.nib" "/Volumes/新加卷 3/iphone back-up/myDay14/myDay14ViewController.xib"0#
+
+CCompileXIB /Users/Decmac/Desktop/myDay14/MainWindow.xib
+s351900409.123892
+e351900409.614798
+r1
+xCompileXIB
+x/Users/Decmac/Desktop/myDay14/MainWindow.xib
+o2012-02-25 22:06:49.168 ibtool[976:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 35
+lSLF07#2@25"CompileXIB MainWindow.xib351900409#351900409#0(107"2012-02-25 22:06:49.168 ibtool[976:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 350(0#0#44"/Users/Decmac/Desktop/myDay14/MainWindow.xib4300885448#455"    cd /Users/Decmac/Desktop/myDay14    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Decmac/Desktop/myDay14/build/Debug-iphonesimulator/myDay14.app/MainWindow.nib /Users/Decmac/Desktop/myDay14/MainWindow.xib0#
+
+CCompileXIB /Users/Decmac/Desktop/myDay14/myDay14ViewController.xib
+s351901570.171211
+e351901570.608126
+r1
+xCompileXIB
+x/Users/Decmac/Desktop/myDay14/myDay14ViewController.xib
+o2012-02-25 22:26:10.212 ibtool[1192:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 35
+lSLF07#2@36"CompileXIB myDay14ViewController.xib351901570#351901570#0(108"2012-02-25 22:26:10.212 ibtool[1192:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 350(0#0#55"/Users/Decmac/Desktop/myDay14/myDay14ViewController.xib4300885448#477"    cd /Users/Decmac/Desktop/myDay14    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Decmac/Desktop/myDay14/build/Debug-iphonesimulator/myDay14.app/myDay14ViewController.nib /Users/Decmac/Desktop/myDay14/myDay14ViewController.xib0#
+
+CCpResource "build/Debug-iphonesimulator/myDay14.app/kuan  6e7e02fdfdd89a6e4cd405e.jpg" "kuan  6e7e02fdfdd89a6e4cd405e.jpg"
+r0
+
+CCpResource "build/Debug-iphonesimulator/myDay14.app/kuan 047d92f005c72f05d26.jpg" "kuan 047d92f005c72f05d26.jpg"
+r0
+
+CCpResource "build/Debug-iphonesimulator/myDay14.app/kuan 2db35a3cae974c9d343585e.jpg" "kuan 2db35a3cae974c9d343585e.jpg"
+r0
+
+CCpResource "build/Debug-iphonesimulator/myDay14.app/kuan c27280c6c71aed50742b4.jpg" "kuan c27280c6c71aed50742b4.jpg"
+r0
+
+CCpResource "build/Debug-iphonesimulator/myDay14.app/kuan eb33bfb29aca4fc58ee9039.jpg" "kuan eb33bfb29aca4fc58ee9039.jpg"
+r0
+
+CCpResource build/Debug-iphonesimulator/myDay14.app/image00.jpg image00.jpg
+s351900409.634176
+e351900409.650931
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/myDay14.app/image00.jpg
+ximage00.jpg
+lSLF07#2@16"Copy image00.jpg351900409#351900409#0(0"0(0#0#41"/Users/Decmac/Desktop/myDay14/image00.jpg4300885448#428"    cd /Users/Decmac/Desktop/myDay14    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Decmac/Desktop/myDay14/image00.jpg /Users/Decmac/Desktop/myDay14/build/Debug-iphonesimulator/myDay14.app0#
+
+CCpResource build/Debug-iphonesimulator/myDay14.app/image01.jpg image01.jpg
+s351900409.617771
+e351900409.642647
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/myDay14.app/image01.jpg
+ximage01.jpg
+lSLF07#2@16"Copy image01.jpg351900409#351900409#0(0"0(0#0#41"/Users/Decmac/Desktop/myDay14/image01.jpg4300885448#428"    cd /Users/Decmac/Desktop/myDay14    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Decmac/Desktop/myDay14/image01.jpg /Users/Decmac/Desktop/myDay14/build/Debug-iphonesimulator/myDay14.app0#
+
+CCpResource build/Debug-iphonesimulator/myDay14.app/image02.jpg image02.jpg
+s351900409.619141
+e351900409.642933
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/myDay14.app/image02.jpg
+ximage02.jpg
+lSLF07#2@16"Copy image02.jpg351900409#351900409#0(0"0(0#0#41"/Users/Decmac/Desktop/myDay14/image02.jpg4300885448#428"    cd /Users/Decmac/Desktop/myDay14    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Decmac/Desktop/myDay14/image02.jpg /Users/Decmac/Desktop/myDay14/build/Debug-iphonesimulator/myDay14.app0#
+
+CCpResource build/Debug-iphonesimulator/myDay14.app/image03.jpg image03.jpg
+s351900409.620516
+e351900409.645511
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/myDay14.app/image03.jpg
+ximage03.jpg
+lSLF07#2@16"Copy image03.jpg351900409#351900409#0(0"0(0#0#41"/Users/Decmac/Desktop/myDay14/image03.jpg4300885448#428"    cd /Users/Decmac/Desktop/myDay14    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Decmac/Desktop/myDay14/image03.jpg /Users/Decmac/Desktop/myDay14/build/Debug-iphonesimulator/myDay14.app0#
+
+CCpResource build/Debug-iphonesimulator/myDay14.app/image04.jpg image04.jpg
+s351900409.632452
+e351900409.643310
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/myDay14.app/image04.jpg
+ximage04.jpg
+lSLF07#2@16"Copy image04.jpg351900409#351900409#0(0"0(0#0#41"/Users/Decmac/Desktop/myDay14/image04.jpg4300885448#428"    cd /Users/Decmac/Desktop/myDay14    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Decmac/Desktop/myDay14/image04.jpg /Users/Decmac/Desktop/myDay14/build/Debug-iphonesimulator/myDay14.app0#
+
+CCpResource build/Debug-iphonesimulator/myDay14.app/image05.jpg image05.jpg
+s351900409.614955
+e351900409.642284
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/myDay14.app/image05.jpg
+ximage05.jpg
+lSLF07#2@16"Copy image05.jpg351900409#351900409#0(0"0(0#0#41"/Users/Decmac/Desktop/myDay14/image05.jpg4300885448#428"    cd /Users/Decmac/Desktop/myDay14    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Decmac/Desktop/myDay14/image05.jpg /Users/Decmac/Desktop/myDay14/build/Debug-iphonesimulator/myDay14.app0#
+
+CGenerateDSYMFile "/Volumes/新加卷 3/iphone back-up/myDay14/build/Debug-iphonesimulator/myDay14.app.dSYM" "/Volumes/新加卷 3/iphone back-up/myDay14/build/Debug-iphonesimulator/myDay14.app/myDay14"
+s354456968.183999
+e354456968.229364
+r1
+xGenerateDSYMFile
+x/Volumes/新加卷 3/iphone back-up/myDay14/build/Debug-iphonesimulator/myDay14.app.dSYM
+x/Volumes/新加卷 3/iphone back-up/myDay14/build/Debug-iphonesimulator/myDay14.app/myDay14
+o2012-03-26 12:16:08.214 dsymutil[647:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 35
+lSLF07#2@109"GenerateDSYMFile build/Debug-iphonesimulator/myDay14.app.dSYM build/Debug-iphonesimulator/myDay14.app/myDay14354456968#354456968#0(109"2012-03-26 12:16:08.214 dsymutil[647:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 350(0#0#91"/Volumes/新加卷 3/iphone back-up/myDay14/build/Debug-iphonesimulator/myDay14.app/myDay144300885448#404"    cd "/Volumes/新加卷 3/iphone back-up/myDay14"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Volumes/新加卷 3/iphone back-up/myDay14/build/Debug-iphonesimulator/myDay14.app/myDay14" -o "/Volumes/新加卷 3/iphone back-up/myDay14/build/Debug-iphonesimulator/myDay14.app.dSYM"0#
+
+CGenerateDSYMFile /Users/Decmac/Desktop/myDay14/build/Debug-iphonesimulator/myDay14.app.dSYM /Users/Decmac/Desktop/myDay14/build/Debug-iphonesimulator/myDay14.app/myDay14
+s351902286.151262
+e351902286.191420
+r1
+xGenerateDSYMFile
+x/Users/Decmac/Desktop/myDay14/build/Debug-iphonesimulator/myDay14.app.dSYM
+x/Users/Decmac/Desktop/myDay14/build/Debug-iphonesimulator/myDay14.app/myDay14
+o2012-02-25 22:38:06.182 dsymutil[1380:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 35
+lSLF07#2@109"GenerateDSYMFile build/Debug-iphonesimulator/myDay14.app.dSYM build/Debug-iphonesimulator/myDay14.app/myDay14351902286#351902286#0(110"2012-02-25 22:38:06.182 dsymutil[1380:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 350(0#0#77"/Users/Decmac/Desktop/myDay14/build/Debug-iphonesimulator/myDay14.app/myDay144300885448#356"    cd /Users/Decmac/Desktop/myDay14    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/Decmac/Desktop/myDay14/build/Debug-iphonesimulator/myDay14.app/myDay14 -o /Users/Decmac/Desktop/myDay14/build/Debug-iphonesimulator/myDay14.app.dSYM0#
+
+CLd "/Volumes/新加卷 3/iphone back-up/myDay14/build/Debug-iphonesimulator/myDay14.app/myDay14" normal i386
+s354456968.131663
+e354456968.183710
+r1
+xLd
+x/Volumes/新加卷 3/iphone back-up/myDay14/build/Debug-iphonesimulator/myDay14.app/myDay14
+xnormal
+xi386
+lSLF07#2@96"Link /Volumes/新加卷 3/iphone back-up/myDay14/build/Debug-iphonesimulator/myDay14.app/myDay14354456968#354456968#0(0"0(0#0#0"4300885448#899"    cd "/Volumes/新加卷 3/iphone back-up/myDay14"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk "-L/Volumes/新加卷 3/iphone back-up/myDay14/build/Debug-iphonesimulator" "-F/Volumes/新加卷 3/iphone back-up/myDay14/build/Debug-iphonesimulator" -filelist "/Volumes/新加卷 3/iphone back-up/myDay14/build/myDay14.build/Debug-iphonesimulator/myDay14.build/Objects-normal/i386/myDay14.LinkFileList" -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Volumes/新加卷 3/iphone back-up/myDay14/build/Debug-iphonesimulator/myDay14.app/myDay14"0#
+
+CLd /Users/Decmac/Desktop/myDay14/build/Debug-iphonesimulator/myDay14.app/myDay14 normal i386
+s351902286.121055
+e351902286.151108
+r1
+xLd
+x/Users/Decmac/Desktop/myDay14/build/Debug-iphonesimulator/myDay14.app/myDay14
+xnormal
+xi386
+lSLF07#2@82"Link /Users/Decmac/Desktop/myDay14/build/Debug-iphonesimulator/myDay14.app/myDay14351902286#351902286#0(0"0(0#0#0"4300885448#819"    cd /Users/Decmac/Desktop/myDay14    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -L/Users/Decmac/Desktop/myDay14/build/Debug-iphonesimulator -F/Users/Decmac/Desktop/myDay14/build/Debug-iphonesimulator -filelist /Users/Decmac/Desktop/myDay14/build/myDay14.build/Debug-iphonesimulator/myDay14.build/Objects-normal/i386/myDay14.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/Decmac/Desktop/myDay14/build/Debug-iphonesimulator/myDay14.app/myDay140#
+
+CProcessInfoPlistFile "/Volumes/新加卷 3/iphone back-up/myDay14/build/Debug-iphonesimulator/myDay14.app/Info.plist" myDay14-Info.plist
+r0
+
+CProcessInfoPlistFile /Users/Decmac/Desktop/myDay14/build/Debug-iphonesimulator/myDay14.app/Info.plist myDay14-Info.plist
+s351900409.119067
+e351900409.123728
+r1
+xProcessInfoPlistFile
+x/Users/Decmac/Desktop/myDay14/build/Debug-iphonesimulator/myDay14.app/Info.plist
+xmyDay14-Info.plist
+lSLF07#2@26"Process myDay14-Info.plist351900409#351900409#0(0"0(0#0#48"/Users/Decmac/Desktop/myDay14/myDay14-Info.plist4300885448#452"    cd /Users/Decmac/Desktop/myDay14    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility myDay14-Info.plist -genpkginfo /Users/Decmac/Desktop/myDay14/build/Debug-iphonesimulator/myDay14.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/Decmac/Desktop/myDay14/build/Debug-iphonesimulator/myDay14.app/Info.plist0#
+
+CProcessPCH /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myDay14_Prefix-bpjibdivqhylgrdyqfusrjvgxizu/myDay14_Prefix.pch.gch myDay14_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s354456856.365060
+e354456858.138151
+r1
+xProcessPCH
+x/var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myDay14_Prefix-bpjibdivqhylgrdyqfusrjvgxizu/myDay14_Prefix.pch.gch
+xmyDay14_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile myDay14_Prefix.pch354456856#354456858#0(0"0(0#0#62"/Volumes/新加卷 3/iphone back-up/myDay14/myDay14_Prefix.pch4300885448#1821"    cd "/Volumes/新加卷 3/iphone back-up/myDay14"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Volumes/新加卷 3/iphone back-up/myDay14/build/myDay14.build/Debug-iphonesimulator/myDay14.build/myDay14-generated-files.hmap" "-I/Volumes/新加卷 3/iphone back-up/myDay14/build/myDay14.build/Debug-iphonesimulator/myDay14.build/myDay14-own-target-headers.hmap" "-I/Volumes/新加卷 3/iphone back-up/myDay14/build/myDay14.build/Debug-iphonesimulator/myDay14.build/myDay14-all-target-headers.hmap" -iquote "/Volumes/新加卷 3/iphone back-up/myDay14/build/myDay14.build/Debug-iphonesimulator/myDay14.build/myDay14-project-headers.hmap" "-F/Volumes/新加卷 3/iphone back-up/myDay14/build/Debug-iphonesimulator" "-I/Volumes/新加卷 3/iphone back-up/myDay14/build/Debug-iphonesimulator/include" "-I/Volumes/新加卷 3/iphone back-up/myDay14/build/myDay14.build/Debug-iphonesimulator/myDay14.build/DerivedSources/i386" "-I/Volumes/新加卷 3/iphone back-up/myDay14/build/myDay14.build/Debug-iphonesimulator/myDay14.build/DerivedSources" -c "/Volumes/新加卷 3/iphone back-up/myDay14/myDay14_Prefix.pch" -o /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myDay14_Prefix-bpjibdivqhylgrdyqfusrjvgxizu/myDay14_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myDay14_Prefix-dtxpqpwnjglaechehsmvpqqfdjsd/myDay14_Prefix.pch.gch myDay14_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s351900409.706825
+e351900410.795383
+r1
+xProcessPCH
+x/var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myDay14_Prefix-dtxpqpwnjglaechehsmvpqqfdjsd/myDay14_Prefix.pch.gch
+xmyDay14_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile myDay14_Prefix.pch351900409#351900410#0(0"0(0#0#48"/Users/Decmac/Desktop/myDay14/myDay14_Prefix.pch4300885448#1661"    cd /Users/Decmac/Desktop/myDay14    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/myDay14/build/myDay14.build/Debug-iphonesimulator/myDay14.build/myDay14-generated-files.hmap -I/Users/Decmac/Desktop/myDay14/build/myDay14.build/Debug-iphonesimulator/myDay14.build/myDay14-own-target-headers.hmap -I/Users/Decmac/Desktop/myDay14/build/myDay14.build/Debug-iphonesimulator/myDay14.build/myDay14-all-target-headers.hmap -iquote /Users/Decmac/Desktop/myDay14/build/myDay14.build/Debug-iphonesimulator/myDay14.build/myDay14-project-headers.hmap -F/Users/Decmac/Desktop/myDay14/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/myDay14/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/myDay14/build/myDay14.build/Debug-iphonesimulator/myDay14.build/DerivedSources/i386 -I/Users/Decmac/Desktop/myDay14/build/myDay14.build/Debug-iphonesimulator/myDay14.build/DerivedSources -c /Users/Decmac/Desktop/myDay14/myDay14_Prefix.pch -o /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myDay14_Prefix-dtxpqpwnjglaechehsmvpqqfdjsd/myDay14_Prefix.pch.gch0#
+
+CTouch "/Volumes/新加卷 3/iphone back-up/myDay14/build/Debug-iphonesimulator/myDay14.app"
+s354456968.229595
+e354456968.236785
+r1
+xTouch
+x/Volumes/新加卷 3/iphone back-up/myDay14/build/Debug-iphonesimulator/myDay14.app
+lSLF07#2@89"Touch /Volumes/新加卷 3/iphone back-up/myDay14/build/Debug-iphonesimulator/myDay14.app354456968#354456968#0(0"0(0#0#0"4300885448#292"    cd "/Volumes/新加卷 3/iphone back-up/myDay14"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Volumes/新加卷 3/iphone back-up/myDay14/build/Debug-iphonesimulator/myDay14.app"0#
+
+CTouch /Users/Decmac/Desktop/myDay14/build/Debug-iphonesimulator/myDay14.app
+s351902286.191896
+e351902286.195863
+r1
+xTouch
+x/Users/Decmac/Desktop/myDay14/build/Debug-iphonesimulator/myDay14.app
+lSLF07#2@75"Touch /Users/Decmac/Desktop/myDay14/build/Debug-iphonesimulator/myDay14.app351902286#351902286#0(0"0(0#0#0"4300885448#260"    cd /Users/Decmac/Desktop/myDay14    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/Decmac/Desktop/myDay14/build/Debug-iphonesimulator/myDay14.app0#
+

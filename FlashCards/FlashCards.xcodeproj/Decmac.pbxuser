@@ -1,0 +1,261 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* FlashCards */ = {
+		activeExec = 0;
+		executables = (
+			898EEC9B15148FD4004E711A /* FlashCards */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* FlashCardsViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {551, 715}}";
+			sepNavSelRange = "{1344, 0}";
+			sepNavVisRange = "{49, 352}";
+			sepNavWindowFrame = "{{379, 127}, {685, 619}}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* FlashCardsViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {911, 2301}}";
+			sepNavSelRange = "{3441, 0}";
+			sepNavVisRange = "{2660, 1021}";
+			sepNavWindowFrame = "{{54, 100}, {970, 646}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 898EEC9B15148FD4004E711A /* FlashCards */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* FlashCards */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* FlashCards */,
+		);
+		breakpoints = (
+			8984276D151940870048D277 /* FlashCardsViewController.m:141 */,
+			8981C189151F70B5001E27C7 /* FlashCard.h:30 */,
+		);
+		codeSenseManager = 898EECAD15148FF5004E711A /* Code sense */;
+		executables = (
+			898EEC9B15148FD4004E711A /* FlashCards */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 354637310;
+			PBXWorkspaceStateSaveDate = 354637310;
+		};
+		perUserProjectItems = {
+			897A68671523566D00E2A5F3 /* PBXTextBookmark */ = 897A68671523566D00E2A5F3 /* PBXTextBookmark */;
+			897A68681523566D00E2A5F3 /* PBXTextBookmark */ = 897A68681523566D00E2A5F3 /* PBXTextBookmark */;
+			897A68691523566D00E2A5F3 /* PBXTextBookmark */ = 897A68691523566D00E2A5F3 /* PBXTextBookmark */;
+			897A686A1523566D00E2A5F3 /* PBXTextBookmark */ = 897A686A1523566D00E2A5F3 /* PBXTextBookmark */;
+			89842772151940970048D277 /* PBXTextBookmark */ = 89842772151940970048D277 /* PBXTextBookmark */;
+			8984279E151944DF0048D277 /* PBXTextBookmark */ = 8984279E151944DF0048D277 /* PBXTextBookmark */;
+			8984279F151944DF0048D277 /* PBXTextBookmark */ = 8984279F151944DF0048D277 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 898EECAC15148FF5004E711A /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	897A68671523566D00E2A5F3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 898EECCD15149924004E711A /* CreateCardViewController.m */;
+		name = "CreateCardViewController.m: 13";
+		rLen = 0;
+		rLoc = 226;
+		rType = 0;
+		vrLen = 252;
+		vrLoc = 52;
+	};
+	897A68681523566D00E2A5F3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 898EECAE15149001004E711A /* FlashCard.h */;
+		name = "FlashCard.h: 30";
+		rLen = 0;
+		rLoc = 587;
+		rType = 0;
+		vrLen = 362;
+		vrLoc = 224;
+	};
+	897A68691523566D00E2A5F3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 898EECAF15149001004E711A /* FlashCard.m */;
+		name = "FlashCard.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 309;
+		vrLoc = 37;
+	};
+	897A686A1523566D00E2A5F3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* FlashCardsViewController.h */;
+		name = "FlashCardsViewController.h: 42";
+		rLen = 0;
+		rLoc = 1344;
+		rType = 0;
+		vrLen = 352;
+		vrLoc = 49;
+	};
+	8981C189151F70B5001E27C7 /* FlashCard.h:30 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 898EECAE15149001004E711A /* FlashCard.h */;
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 30;
+		modificationTime = 354382005.3166209;
+		originalNumberOfMultipleMatches = 0;
+		state = 1;
+	};
+	8984276D151940870048D277 /* FlashCardsViewController.m:141 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* FlashCardsViewController.m */;
+		functionName = "-addCard";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 141;
+		location = FlashCards;
+		modificationTime = 353977101.484876;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	89842772151940970048D277 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* FlashCardsViewController.h */;
+		name = "FlashCardsViewController.h: 42";
+		rLen = 0;
+		rLoc = 1344;
+		rType = 0;
+		vrLen = 397;
+		vrLoc = 3;
+	};
+	8984279E151944DF0048D277 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* FlashCardsViewController.m */;
+		name = "FlashCardsViewController.m: 34";
+		rLen = 0;
+		rLoc = 706;
+		rType = 0;
+		vrLen = 344;
+		vrLoc = 597;
+	};
+	8984279F151944DF0048D277 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 898EECCC15149924004E711A /* CreateCardViewController.h */;
+		name = "CreateCardViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 335;
+		vrLoc = 0;
+	};
+	898EEC9B15148FD4004E711A /* FlashCards */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = FlashCards;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	898EECAC15148FF5004E711A /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	898EECAD15148FF5004E711A /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	898EECAE15149001004E711A /* FlashCard.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 403}}";
+			sepNavSelRange = "{587, 0}";
+			sepNavVisRange = "{224, 362}";
+			sepNavWindowFrame = "{{489, 94}, {856, 642}}";
+		};
+	};
+	898EECAF15149001004E711A /* FlashCard.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {558, 364}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{37, 309}";
+			sepNavWindowFrame = "{{357, 96}, {856, 642}}";
+		};
+	};
+	898EECCC15149924004E711A /* CreateCardViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {635, 504}}";
+			sepNavSelRange = "{434, 0}";
+			sepNavVisRange = "{0, 705}";
+			sepNavWindowFrame = "{{471, 113}, {694, 632}}";
+		};
+	};
+	898EECCD15149924004E711A /* CreateCardViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {593, 624}}";
+			sepNavSelRange = "{226, 0}";
+			sepNavVisRange = "{52, 252}";
+			sepNavWindowFrame = "{{176, 98}, {687, 648}}";
+		};
+	};
+}
