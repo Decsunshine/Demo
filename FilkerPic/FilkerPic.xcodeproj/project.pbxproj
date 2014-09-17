@@ -1,0 +1,585 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		C77FCAAE18C87430007352A7 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C77FCAAD18C87430007352A7 /* Foundation.framework */; };
+		C77FCAB018C87430007352A7 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C77FCAAF18C87430007352A7 /* CoreGraphics.framework */; };
+		C77FCAB218C87430007352A7 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C77FCAB118C87430007352A7 /* UIKit.framework */; };
+		C77FCAB818C87430007352A7 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = C77FCAB618C87430007352A7 /* InfoPlist.strings */; };
+		C77FCABA18C87430007352A7 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = C77FCAB918C87430007352A7 /* main.m */; };
+		C77FCABE18C87430007352A7 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = C77FCABD18C87430007352A7 /* AppDelegate.m */; };
+		C77FCAC118C87430007352A7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C77FCABF18C87430007352A7 /* Main.storyboard */; };
+		C77FCAC618C87430007352A7 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C77FCAC518C87430007352A7 /* Images.xcassets */; };
+		C77FCACD18C87430007352A7 /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C77FCACC18C87430007352A7 /* XCTest.framework */; };
+		C77FCACE18C87430007352A7 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C77FCAAD18C87430007352A7 /* Foundation.framework */; };
+		C77FCACF18C87430007352A7 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C77FCAB118C87430007352A7 /* UIKit.framework */; };
+		C77FCAD718C87430007352A7 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = C77FCAD518C87430007352A7 /* InfoPlist.strings */; };
+		C77FCAD918C87430007352A7 /* FilkerPicTests.m in Sources */ = {isa = PBXBuildFile; fileRef = C77FCAD818C87430007352A7 /* FilkerPicTests.m */; };
+		C77FCAF818C8746B007352A7 /* NSAlert+MKNetworkKitAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = C77FCAE518C8746B007352A7 /* NSAlert+MKNetworkKitAdditions.m */; };
+		C77FCAF918C8746B007352A7 /* NSData+MKBase64.m in Sources */ = {isa = PBXBuildFile; fileRef = C77FCAE718C8746B007352A7 /* NSData+MKBase64.m */; };
+		C77FCAFA18C8746B007352A7 /* NSDate+RFC1123.m in Sources */ = {isa = PBXBuildFile; fileRef = C77FCAE918C8746B007352A7 /* NSDate+RFC1123.m */; };
+		C77FCAFB18C8746B007352A7 /* NSDictionary+RequestEncoding.m in Sources */ = {isa = PBXBuildFile; fileRef = C77FCAEB18C8746B007352A7 /* NSDictionary+RequestEncoding.m */; };
+		C77FCAFC18C8746B007352A7 /* NSString+MKNetworkKitAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = C77FCAED18C8746B007352A7 /* NSString+MKNetworkKitAdditions.m */; };
+		C77FCAFD18C8746B007352A7 /* UIAlertView+MKNetworkKitAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = C77FCAEF18C8746B007352A7 /* UIAlertView+MKNetworkKitAdditions.m */; };
+		C77FCAFE18C8746B007352A7 /* MKNetworkEngine.m in Sources */ = {isa = PBXBuildFile; fileRef = C77FCAF118C8746B007352A7 /* MKNetworkEngine.m */; };
+		C77FCAFF18C8746B007352A7 /* MKNetworkOperation.m in Sources */ = {isa = PBXBuildFile; fileRef = C77FCAF418C8746B007352A7 /* MKNetworkOperation.m */; };
+		C77FCB0018C8746B007352A7 /* Reachability.m in Sources */ = {isa = PBXBuildFile; fileRef = C77FCAF718C8746B007352A7 /* Reachability.m */; };
+		C77FCB0318C874BF007352A7 /* CityListController.m in Sources */ = {isa = PBXBuildFile; fileRef = C77FCB0218C874BF007352A7 /* CityListController.m */; };
+		C77FCB0618C88838007352A7 /* CityPicListViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C77FCB0518C88838007352A7 /* CityPicListViewController.m */; };
+		C7CB1FCD18CC991800A63E4A /* BaseEngine.m in Sources */ = {isa = PBXBuildFile; fileRef = C7CB1FCC18CC991800A63E4A /* BaseEngine.m */; };
+		C7E0A04318C96C1B0012E7F8 /* FlickrEngine.m in Sources */ = {isa = PBXBuildFile; fileRef = C7E0A04218C96C1B0012E7F8 /* FlickrEngine.m */; };
+		C7E0A04618C96E130012E7F8 /* CityPicTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = C7E0A04518C96E130012E7F8 /* CityPicTableViewCell.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		C77FCAD018C87430007352A7 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = C77FCAA218C87430007352A7 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = C77FCAA918C87430007352A7;
+			remoteInfo = FilkerPic;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		C77FCAAA18C87430007352A7 /* FilkerPic.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FilkerPic.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		C77FCAAD18C87430007352A7 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		C77FCAAF18C87430007352A7 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		C77FCAB118C87430007352A7 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		C77FCAB518C87430007352A7 /* FilkerPic-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "FilkerPic-Info.plist"; sourceTree = "<group>"; };
+		C77FCAB718C87430007352A7 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		C77FCAB918C87430007352A7 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		C77FCABB18C87430007352A7 /* FilkerPic-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "FilkerPic-Prefix.pch"; sourceTree = "<group>"; };
+		C77FCABC18C87430007352A7 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		C77FCABD18C87430007352A7 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		C77FCAC018C87430007352A7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		C77FCAC518C87430007352A7 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		C77FCACB18C87430007352A7 /* FilkerPicTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FilkerPicTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		C77FCACC18C87430007352A7 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
+		C77FCAD418C87430007352A7 /* FilkerPicTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "FilkerPicTests-Info.plist"; sourceTree = "<group>"; };
+		C77FCAD618C87430007352A7 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		C77FCAD818C87430007352A7 /* FilkerPicTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FilkerPicTests.m; sourceTree = "<group>"; };
+		C77FCAE418C8746B007352A7 /* NSAlert+MKNetworkKitAdditions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSAlert+MKNetworkKitAdditions.h"; sourceTree = "<group>"; };
+		C77FCAE518C8746B007352A7 /* NSAlert+MKNetworkKitAdditions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSAlert+MKNetworkKitAdditions.m"; sourceTree = "<group>"; };
+		C77FCAE618C8746B007352A7 /* NSData+MKBase64.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSData+MKBase64.h"; sourceTree = "<group>"; };
+		C77FCAE718C8746B007352A7 /* NSData+MKBase64.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSData+MKBase64.m"; sourceTree = "<group>"; };
+		C77FCAE818C8746B007352A7 /* NSDate+RFC1123.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSDate+RFC1123.h"; sourceTree = "<group>"; };
+		C77FCAE918C8746B007352A7 /* NSDate+RFC1123.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSDate+RFC1123.m"; sourceTree = "<group>"; };
+		C77FCAEA18C8746B007352A7 /* NSDictionary+RequestEncoding.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSDictionary+RequestEncoding.h"; sourceTree = "<group>"; };
+		C77FCAEB18C8746B007352A7 /* NSDictionary+RequestEncoding.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSDictionary+RequestEncoding.m"; sourceTree = "<group>"; };
+		C77FCAEC18C8746B007352A7 /* NSString+MKNetworkKitAdditions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSString+MKNetworkKitAdditions.h"; sourceTree = "<group>"; };
+		C77FCAED18C8746B007352A7 /* NSString+MKNetworkKitAdditions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSString+MKNetworkKitAdditions.m"; sourceTree = "<group>"; };
+		C77FCAEE18C8746B007352A7 /* UIAlertView+MKNetworkKitAdditions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIAlertView+MKNetworkKitAdditions.h"; sourceTree = "<group>"; };
+		C77FCAEF18C8746B007352A7 /* UIAlertView+MKNetworkKitAdditions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIAlertView+MKNetworkKitAdditions.m"; sourceTree = "<group>"; };
+		C77FCAF018C8746B007352A7 /* MKNetworkEngine.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MKNetworkEngine.h; sourceTree = "<group>"; };
+		C77FCAF118C8746B007352A7 /* MKNetworkEngine.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MKNetworkEngine.m; sourceTree = "<group>"; };
+		C77FCAF218C8746B007352A7 /* MKNetworkKit.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MKNetworkKit.h; sourceTree = "<group>"; };
+		C77FCAF318C8746B007352A7 /* MKNetworkOperation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MKNetworkOperation.h; sourceTree = "<group>"; };
+		C77FCAF418C8746B007352A7 /* MKNetworkOperation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MKNetworkOperation.m; sourceTree = "<group>"; };
+		C77FCAF618C8746B007352A7 /* Reachability.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Reachability.h; sourceTree = "<group>"; };
+		C77FCAF718C8746B007352A7 /* Reachability.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Reachability.m; sourceTree = "<group>"; };
+		C77FCB0118C874BF007352A7 /* CityListController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CityListController.h; path = FilkerPic/CityListController.h; sourceTree = "<group>"; };
+		C77FCB0218C874BF007352A7 /* CityListController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = CityListController.m; path = FilkerPic/CityListController.m; sourceTree = "<group>"; };
+		C77FCB0418C88838007352A7 /* CityPicListViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CityPicListViewController.h; path = FilkerPic/CityPicListViewController.h; sourceTree = "<group>"; };
+		C77FCB0518C88838007352A7 /* CityPicListViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = CityPicListViewController.m; path = FilkerPic/CityPicListViewController.m; sourceTree = "<group>"; };
+		C7CB1FCB18CC991800A63E4A /* BaseEngine.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = BaseEngine.h; path = ../FilkerPic/BaseEngine.h; sourceTree = "<group>"; };
+		C7CB1FCC18CC991800A63E4A /* BaseEngine.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = BaseEngine.m; path = ../FilkerPic/BaseEngine.m; sourceTree = "<group>"; };
+		C7E0A04118C96C150012E7F8 /* FlickrEngine.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = FlickrEngine.h; path = ../FlickrEngine.h; sourceTree = "<group>"; };
+		C7E0A04218C96C1B0012E7F8 /* FlickrEngine.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = FlickrEngine.m; path = ../FlickrEngine.m; sourceTree = "<group>"; };
+		C7E0A04418C96E130012E7F8 /* CityPicTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CityPicTableViewCell.h; path = FilkerPic/CityPicTableViewCell.h; sourceTree = "<group>"; };
+		C7E0A04518C96E130012E7F8 /* CityPicTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = CityPicTableViewCell.m; path = FilkerPic/CityPicTableViewCell.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		C77FCAA718C87430007352A7 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C77FCAB018C87430007352A7 /* CoreGraphics.framework in Frameworks */,
+				C77FCAB218C87430007352A7 /* UIKit.framework in Frameworks */,
+				C77FCAAE18C87430007352A7 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C77FCAC818C87430007352A7 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C77FCACD18C87430007352A7 /* XCTest.framework in Frameworks */,
+				C77FCACF18C87430007352A7 /* UIKit.framework in Frameworks */,
+				C77FCACE18C87430007352A7 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		C77FCAA118C87430007352A7 = {
+			isa = PBXGroup;
+			children = (
+				C77FCB0118C874BF007352A7 /* CityListController.h */,
+				C77FCB0218C874BF007352A7 /* CityListController.m */,
+				C77FCB0418C88838007352A7 /* CityPicListViewController.h */,
+				C77FCB0518C88838007352A7 /* CityPicListViewController.m */,
+				C7E0A04418C96E130012E7F8 /* CityPicTableViewCell.h */,
+				C7E0A04518C96E130012E7F8 /* CityPicTableViewCell.m */,
+				C7CB1FCE18CC9BA000A63E4A /* NetworkEngine */,
+				C77FCAE218C8746B007352A7 /* MKNetworkKit */,
+				C77FCAB318C87430007352A7 /* FilkerPic */,
+				C77FCAD218C87430007352A7 /* FilkerPicTests */,
+				C77FCAAC18C87430007352A7 /* Frameworks */,
+				C77FCAAB18C87430007352A7 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		C77FCAAB18C87430007352A7 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				C77FCAAA18C87430007352A7 /* FilkerPic.app */,
+				C77FCACB18C87430007352A7 /* FilkerPicTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		C77FCAAC18C87430007352A7 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				C77FCAAD18C87430007352A7 /* Foundation.framework */,
+				C77FCAAF18C87430007352A7 /* CoreGraphics.framework */,
+				C77FCAB118C87430007352A7 /* UIKit.framework */,
+				C77FCACC18C87430007352A7 /* XCTest.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		C77FCAB318C87430007352A7 /* FilkerPic */ = {
+			isa = PBXGroup;
+			children = (
+				C77FCABC18C87430007352A7 /* AppDelegate.h */,
+				C77FCABD18C87430007352A7 /* AppDelegate.m */,
+				C77FCABF18C87430007352A7 /* Main.storyboard */,
+				C77FCAC518C87430007352A7 /* Images.xcassets */,
+				C77FCAB418C87430007352A7 /* Supporting Files */,
+			);
+			path = FilkerPic;
+			sourceTree = "<group>";
+		};
+		C77FCAB418C87430007352A7 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				C77FCAB518C87430007352A7 /* FilkerPic-Info.plist */,
+				C77FCAB618C87430007352A7 /* InfoPlist.strings */,
+				C77FCAB918C87430007352A7 /* main.m */,
+				C77FCABB18C87430007352A7 /* FilkerPic-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		C77FCAD218C87430007352A7 /* FilkerPicTests */ = {
+			isa = PBXGroup;
+			children = (
+				C77FCAD818C87430007352A7 /* FilkerPicTests.m */,
+				C77FCAD318C87430007352A7 /* Supporting Files */,
+			);
+			path = FilkerPicTests;
+			sourceTree = "<group>";
+		};
+		C77FCAD318C87430007352A7 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				C77FCAD418C87430007352A7 /* FilkerPicTests-Info.plist */,
+				C77FCAD518C87430007352A7 /* InfoPlist.strings */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		C77FCAE218C8746B007352A7 /* MKNetworkKit */ = {
+			isa = PBXGroup;
+			children = (
+				C77FCAE318C8746B007352A7 /* Categories */,
+				C77FCAF018C8746B007352A7 /* MKNetworkEngine.h */,
+				C77FCAF118C8746B007352A7 /* MKNetworkEngine.m */,
+				C77FCAF218C8746B007352A7 /* MKNetworkKit.h */,
+				C77FCAF318C8746B007352A7 /* MKNetworkOperation.h */,
+				C77FCAF418C8746B007352A7 /* MKNetworkOperation.m */,
+				C77FCAF518C8746B007352A7 /* Reachability */,
+			);
+			path = MKNetworkKit;
+			sourceTree = "<group>";
+		};
+		C77FCAE318C8746B007352A7 /* Categories */ = {
+			isa = PBXGroup;
+			children = (
+				C77FCAE418C8746B007352A7 /* NSAlert+MKNetworkKitAdditions.h */,
+				C77FCAE518C8746B007352A7 /* NSAlert+MKNetworkKitAdditions.m */,
+				C77FCAE618C8746B007352A7 /* NSData+MKBase64.h */,
+				C77FCAE718C8746B007352A7 /* NSData+MKBase64.m */,
+				C77FCAE818C8746B007352A7 /* NSDate+RFC1123.h */,
+				C77FCAE918C8746B007352A7 /* NSDate+RFC1123.m */,
+				C77FCAEA18C8746B007352A7 /* NSDictionary+RequestEncoding.h */,
+				C77FCAEB18C8746B007352A7 /* NSDictionary+RequestEncoding.m */,
+				C77FCAEC18C8746B007352A7 /* NSString+MKNetworkKitAdditions.h */,
+				C77FCAED18C8746B007352A7 /* NSString+MKNetworkKitAdditions.m */,
+				C77FCAEE18C8746B007352A7 /* UIAlertView+MKNetworkKitAdditions.h */,
+				C77FCAEF18C8746B007352A7 /* UIAlertView+MKNetworkKitAdditions.m */,
+			);
+			path = Categories;
+			sourceTree = "<group>";
+		};
+		C77FCAF518C8746B007352A7 /* Reachability */ = {
+			isa = PBXGroup;
+			children = (
+				C77FCAF618C8746B007352A7 /* Reachability.h */,
+				C77FCAF718C8746B007352A7 /* Reachability.m */,
+			);
+			path = Reachability;
+			sourceTree = "<group>";
+		};
+		C7CB1FCE18CC9BA000A63E4A /* NetworkEngine */ = {
+			isa = PBXGroup;
+			children = (
+				C7CB1FCB18CC991800A63E4A /* BaseEngine.h */,
+				C7CB1FCC18CC991800A63E4A /* BaseEngine.m */,
+				C7E0A04118C96C150012E7F8 /* FlickrEngine.h */,
+				C7E0A04218C96C1B0012E7F8 /* FlickrEngine.m */,
+			);
+			path = NetworkEngine;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		C77FCAA918C87430007352A7 /* FilkerPic */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C77FCADC18C87430007352A7 /* Build configuration list for PBXNativeTarget "FilkerPic" */;
+			buildPhases = (
+				C77FCAA618C87430007352A7 /* Sources */,
+				C77FCAA718C87430007352A7 /* Frameworks */,
+				C77FCAA818C87430007352A7 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = FilkerPic;
+			productName = FilkerPic;
+			productReference = C77FCAAA18C87430007352A7 /* FilkerPic.app */;
+			productType = "com.apple.product-type.application";
+		};
+		C77FCACA18C87430007352A7 /* FilkerPicTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C77FCADF18C87430007352A7 /* Build configuration list for PBXNativeTarget "FilkerPicTests" */;
+			buildPhases = (
+				C77FCAC718C87430007352A7 /* Sources */,
+				C77FCAC818C87430007352A7 /* Frameworks */,
+				C77FCAC918C87430007352A7 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				C77FCAD118C87430007352A7 /* PBXTargetDependency */,
+			);
+			name = FilkerPicTests;
+			productName = FilkerPicTests;
+			productReference = C77FCACB18C87430007352A7 /* FilkerPicTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		C77FCAA218C87430007352A7 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0510;
+				ORGANIZATIONNAME = lhl;
+				TargetAttributes = {
+					C77FCACA18C87430007352A7 = {
+						TestTargetID = C77FCAA918C87430007352A7;
+					};
+				};
+			};
+			buildConfigurationList = C77FCAA518C87430007352A7 /* Build configuration list for PBXProject "FilkerPic" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = C77FCAA118C87430007352A7;
+			productRefGroup = C77FCAAB18C87430007352A7 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				C77FCAA918C87430007352A7 /* FilkerPic */,
+				C77FCACA18C87430007352A7 /* FilkerPicTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		C77FCAA818C87430007352A7 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C77FCAC618C87430007352A7 /* Images.xcassets in Resources */,
+				C77FCAB818C87430007352A7 /* InfoPlist.strings in Resources */,
+				C77FCAC118C87430007352A7 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C77FCAC918C87430007352A7 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C77FCAD718C87430007352A7 /* InfoPlist.strings in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		C77FCAA618C87430007352A7 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C77FCAFB18C8746B007352A7 /* NSDictionary+RequestEncoding.m in Sources */,
+				C77FCABE18C87430007352A7 /* AppDelegate.m in Sources */,
+				C77FCAF918C8746B007352A7 /* NSData+MKBase64.m in Sources */,
+				C77FCABA18C87430007352A7 /* main.m in Sources */,
+				C77FCAFF18C8746B007352A7 /* MKNetworkOperation.m in Sources */,
+				C77FCAFD18C8746B007352A7 /* UIAlertView+MKNetworkKitAdditions.m in Sources */,
+				C77FCAFE18C8746B007352A7 /* MKNetworkEngine.m in Sources */,
+				C77FCAF818C8746B007352A7 /* NSAlert+MKNetworkKitAdditions.m in Sources */,
+				C7CB1FCD18CC991800A63E4A /* BaseEngine.m in Sources */,
+				C7E0A04318C96C1B0012E7F8 /* FlickrEngine.m in Sources */,
+				C7E0A04618C96E130012E7F8 /* CityPicTableViewCell.m in Sources */,
+				C77FCB0318C874BF007352A7 /* CityListController.m in Sources */,
+				C77FCAFC18C8746B007352A7 /* NSString+MKNetworkKitAdditions.m in Sources */,
+				C77FCB0618C88838007352A7 /* CityPicListViewController.m in Sources */,
+				C77FCB0018C8746B007352A7 /* Reachability.m in Sources */,
+				C77FCAFA18C8746B007352A7 /* NSDate+RFC1123.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C77FCAC718C87430007352A7 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C77FCAD918C87430007352A7 /* FilkerPicTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		C77FCAD118C87430007352A7 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = C77FCAA918C87430007352A7 /* FilkerPic */;
+			targetProxy = C77FCAD018C87430007352A7 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		C77FCAB618C87430007352A7 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				C77FCAB718C87430007352A7 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		C77FCABF18C87430007352A7 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				C77FCAC018C87430007352A7 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		C77FCAD518C87430007352A7 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				C77FCAD618C87430007352A7 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		C77FCADA18C87430007352A7 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		C77FCADB18C87430007352A7 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				ENABLE_NS_ASSERTIONS = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		C77FCADD18C87430007352A7 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "FilkerPic/FilkerPic-Prefix.pch";
+				INFOPLIST_FILE = "FilkerPic/FilkerPic-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		C77FCADE18C87430007352A7 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "FilkerPic/FilkerPic-Prefix.pch";
+				INFOPLIST_FILE = "FilkerPic/FilkerPic-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+		C77FCAE018C87430007352A7 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/FilkerPic.app/FilkerPic";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "FilkerPic/FilkerPic-Prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = "FilkerPicTests/FilkerPicTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Debug;
+		};
+		C77FCAE118C87430007352A7 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/FilkerPic.app/FilkerPic";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "FilkerPic/FilkerPic-Prefix.pch";
+				INFOPLIST_FILE = "FilkerPicTests/FilkerPicTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		C77FCAA518C87430007352A7 /* Build configuration list for PBXProject "FilkerPic" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C77FCADA18C87430007352A7 /* Debug */,
+				C77FCADB18C87430007352A7 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C77FCADC18C87430007352A7 /* Build configuration list for PBXNativeTarget "FilkerPic" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C77FCADD18C87430007352A7 /* Debug */,
+				C77FCADE18C87430007352A7 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C77FCADF18C87430007352A7 /* Build configuration list for PBXNativeTarget "FilkerPicTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C77FCAE018C87430007352A7 /* Debug */,
+				C77FCAE118C87430007352A7 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = C77FCAA218C87430007352A7 /* Project object */;
+}
