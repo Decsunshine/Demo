@@ -1,661 +1,0 @@
-TmyDay30
-v7
-r0
-t353329506.004184
-cCheck dependencies
-cProcessInfoPlistFile /Users/Decmac/Desktop/myDay30/build/Debug-iphonesimulator/myDay30.app/Info.plist myDay30-Info.plist
-cCompileXIB /Users/Decmac/Desktop/myDay30/FlipsideView.xib
-cCompileXIB /Users/Decmac/Desktop/myDay30/MainView.xib
-cCompileXIB /Users/Decmac/Desktop/myDay30/MainWindow.xib
-cCpResource build/Debug-iphonesimulator/myDay30.app/ball.png ball.png
-cCpResource build/Debug-iphonesimulator/myDay30.app/board.PNG board.PNG
-cCpResource build/Debug-iphonesimulator/myDay30.app/brick.png brick.png
-cCpResource build/Debug-iphonesimulator/myDay30.app/Brick_move.caf Brick_move.caf
-cCpResource build/Debug-iphonesimulator/myDay30.app/Button_press.caf Button_press.caf
-cCpResource build/Debug-iphonesimulator/myDay30.app/icon.png icon.png
-cCpResource build/Debug-iphonesimulator/myDay30.app/Kick.caf Kick.caf
-cCpResource build/Debug-iphonesimulator/myDay30.app/left.png left.png
-cCpResource build/Debug-iphonesimulator/myDay30.app/Lose.caf Lose.caf
-cCpResource build/Debug-iphonesimulator/myDay30.app/right.png right.png
-cCpResource build/Debug-iphonesimulator/myDay30.app/shorten.png shorten.png
-cCpResource build/Debug-iphonesimulator/myDay30.app/Win.caf Win.caf
-cProcessPCH /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myDay30_Prefix-dkkufcmtsymnhgcoxbwxtxcuikxi/myDay30_Prefix.pch.gch myDay30_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/myDay30.build/Debug-iphonesimulator/myDay30.build/Objects-normal/i386/main.o /Users/Decmac/Desktop/myDay30/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/myDay30.build/Debug-iphonesimulator/myDay30.build/Objects-normal/i386/myDay30AppDelegate.o /Users/Decmac/Desktop/myDay30/Classes/myDay30AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/myDay30.build/Debug-iphonesimulator/myDay30.build/Objects-normal/i386/FlipsideView.o /Users/Decmac/Desktop/myDay30/Classes/FlipsideView.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/myDay30.build/Debug-iphonesimulator/myDay30.build/Objects-normal/i386/MainView.o /Users/Decmac/Desktop/myDay30/Classes/MainView.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/myDay30.build/Debug-iphonesimulator/myDay30.build/Objects-normal/i386/MainViewController.o /Users/Decmac/Desktop/myDay30/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/myDay30.build/Debug-iphonesimulator/myDay30.build/Objects-normal/i386/FlipsideViewController.o /Users/Decmac/Desktop/myDay30/Classes/FlipsideViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/myDay30.build/Debug-iphonesimulator/myDay30.build/Objects-normal/i386/BoardView.o /Users/Decmac/Desktop/myDay30/BoardView.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cLd /Users/Decmac/Desktop/myDay30/build/Debug-iphonesimulator/myDay30.app/myDay30 normal i386
-cGenerateDSYMFile /Users/Decmac/Desktop/myDay30/build/Debug-iphonesimulator/myDay30.app.dSYM /Users/Decmac/Desktop/myDay30/build/Debug-iphonesimulator/myDay30.app/myDay30
-cTouch /Users/Decmac/Desktop/myDay30/build/Debug-iphonesimulator/myDay30.app
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk
-c000000004F3A580900000000000000EE
-t1329223689
-s238
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
-c000000004B2B4D460000000000193960
-t1261129030
-s1653088
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioToolbox.h
-c000000004B2B4D2F0000000000000A22
-t1261129007
-s2594
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
-c000000004B2B4CC3000000000026EE30
-t1261128899
-s2551344
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
-c000000004B2B4DC8000000000027E880
-t1261129160
-s2615424
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
-c000000004B2B4DAE0000000000001355
-t1261129134
-s4949
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
-c000000004B2B537F000000000000007D
-t1261130623
-s125
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
-c000000004B2B540C00000000000E5890
-t1261130764
-s940176
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
-c000000004B2B61620000000000000788
-t1261134178
-s1928
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
-c000000004B2B62B500000000016721E0
-t1261134517
-s23536096
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/usr/include/Availability.h
-c000000004B2B4EE200000000000019F9
-t1261129442
-s6649
-
-N/Users/Decmac/Desktop/myDay30/BoardView.h
-c000000004F5F25BB0000000000000109
-t1331635643
-s265
-i<UIKit/UIKit.h>
-i<QuartzCore/QuartzCore.h>
-
-N/Users/Decmac/Desktop/myDay30/BoardView.m
-c000000004F5F29190000000000000355
-t1331636505
-s853
-i"BoardView.h"
-
-N/Users/Decmac/Desktop/myDay30/Brick_move.caf
-c000000004645B9E800000000000067C0
-t1178974696
-s26560
-
-N/Users/Decmac/Desktop/myDay30/Button_press.caf
-c000000004A3352440000000000001DC6
-t1244877380
-s7622
-
-N/Users/Decmac/Desktop/myDay30/Classes/FlipsideView.h
-c000000004F5F240A00000000000000B6
-t1331635210
-s182
-
-N/Users/Decmac/Desktop/myDay30/Classes/FlipsideView.m
-c000000004F5F240A00000000000001B6
-t1331635210
-s438
-i"FlipsideView.h"
-
-N/Users/Decmac/Desktop/myDay30/Classes/FlipsideViewController.h
-c000000004F5F240A000000000000020B
-t1331635210
-s523
-
-N/Users/Decmac/Desktop/myDay30/Classes/FlipsideViewController.m
-c000000004F5F240A000000000000044A
-t1331635210
-s1098
-i"FlipsideViewController.h"
-
-N/Users/Decmac/Desktop/myDay30/Classes/MainView.h
-c000000004F5F240A00000000000000C6
-t1331635210
-s198
-i<UIKit/UIKit.h>
-
-N/Users/Decmac/Desktop/myDay30/Classes/MainView.m
-c000000004F5F240A00000000000001AA
-t1331635210
-s426
-i"MainView.h"
-
-N/Users/Decmac/Desktop/myDay30/Classes/MainViewController.h
-c000000004F5F29DD0000000000000227
-t1331636701
-s551
-i"FlipsideViewController.h"
-i<UIKit/UIKit.h>
-i<Foundation/Foundation.h>
-i<AudioToolbox/AudioToolbox.h>
-i<QuartzCore/QuartzCore.h>
-i"BoardView.h"
-
-N/Users/Decmac/Desktop/myDay30/Classes/MainViewController.m
-c000000004F5F240A00000000000007E2
-t1331635210
-s2018
-i"MainViewController.h"
-i"MainView.h"
-
-N/Users/Decmac/Desktop/myDay30/Classes/myDay30AppDelegate.h
-c000000004F5F240A00000000000001B9
-t1331635210
-s441
-
-N/Users/Decmac/Desktop/myDay30/Classes/myDay30AppDelegate.m
-c000000004F5F240A0000000000000324
-t1331635210
-s804
-i"myDay30AppDelegate.h"
-i"MainViewController.h"
-
-N/Users/Decmac/Desktop/myDay30/FlipsideView.xib
-c000000004F5F240A0000000000002684
-t1331635210
-s9860
-
-N/Users/Decmac/Desktop/myDay30/Kick.caf
-c000000004645B9E80000000000008CD3
-t1178974696
-s36051
-
-N/Users/Decmac/Desktop/myDay30/Lose.caf
-c000000004645B9E800000000000109E1
-t1178974696
-s68065
-
-N/Users/Decmac/Desktop/myDay30/MainView.xib
-c000000004F5F240A00000000000023C2
-t1331635210
-s9154
-
-N/Users/Decmac/Desktop/myDay30/MainWindow.xib
-c000000004F5F240A0000000000001E10
-t1331635210
-s7696
-
-N/Users/Decmac/Desktop/myDay30/Win.caf
-c0000000045E81948000000000000BE8F
-t1172838728
-s48783
-
-N/Users/Decmac/Desktop/myDay30/ball.png
-c000000004C52BC180000000000000638
-t1280490520
-s1592
-
-N/Users/Decmac/Desktop/myDay30/board.PNG
-c000000004C4624440000000000000E16
-t1279665220
-s3606
-
-N/Users/Decmac/Desktop/myDay30/brick.png
-c000000004C464ABE00000000000081A2
-t1279675070
-s33186
-
-N/Users/Decmac/Desktop/myDay30/build/Debug-iphonesimulator/myDay30.app
-t1331636706
-s680
-
-N/Users/Decmac/Desktop/myDay30/build/Debug-iphonesimulator/myDay30.app.dSYM
-t1331636705
-s102
-
-N/Users/Decmac/Desktop/myDay30/build/Debug-iphonesimulator/myDay30.app/Brick_move.caf
-t1331636702
-s26560
-
-N/Users/Decmac/Desktop/myDay30/build/Debug-iphonesimulator/myDay30.app/Button_press.caf
-t1331636702
-s7622
-
-N/Users/Decmac/Desktop/myDay30/build/Debug-iphonesimulator/myDay30.app/FlipsideView.nib
-t1331636702
-s1802
-
-N/Users/Decmac/Desktop/myDay30/build/Debug-iphonesimulator/myDay30.app/Info.plist
-t1331636701
-s564
-
-N/Users/Decmac/Desktop/myDay30/build/Debug-iphonesimulator/myDay30.app/Kick.caf
-t1331636702
-s36051
-
-N/Users/Decmac/Desktop/myDay30/build/Debug-iphonesimulator/myDay30.app/Lose.caf
-t1331636702
-s68065
-
-N/Users/Decmac/Desktop/myDay30/build/Debug-iphonesimulator/myDay30.app/MainView.nib
-t1331636702
-s2042
-
-N/Users/Decmac/Desktop/myDay30/build/Debug-iphonesimulator/myDay30.app/MainWindow.nib
-t1331636703
-s1379
-
-N/Users/Decmac/Desktop/myDay30/build/Debug-iphonesimulator/myDay30.app/PkgInfo
-t1331636701
-s8
-
-N/Users/Decmac/Desktop/myDay30/build/Debug-iphonesimulator/myDay30.app/Win.caf
-t1331636702
-s48783
-
-N/Users/Decmac/Desktop/myDay30/build/Debug-iphonesimulator/myDay30.app/ball.png
-t1331636702
-s1592
-
-N/Users/Decmac/Desktop/myDay30/build/Debug-iphonesimulator/myDay30.app/board.PNG
-t1331636702
-s3606
-
-N/Users/Decmac/Desktop/myDay30/build/Debug-iphonesimulator/myDay30.app/brick.png
-t1331636702
-s33186
-
-N/Users/Decmac/Desktop/myDay30/build/Debug-iphonesimulator/myDay30.app/icon.png
-t1331636702
-s3619
-
-N/Users/Decmac/Desktop/myDay30/build/Debug-iphonesimulator/myDay30.app/left.png
-t1331636702
-s8865
-
-N/Users/Decmac/Desktop/myDay30/build/Debug-iphonesimulator/myDay30.app/myDay30
-t1331636705
-s23328
-
-N/Users/Decmac/Desktop/myDay30/build/Debug-iphonesimulator/myDay30.app/right.png
-t1331636702
-s8936
-
-N/Users/Decmac/Desktop/myDay30/build/Debug-iphonesimulator/myDay30.app/shorten.png
-t1331636702
-s3358
-
-N/Users/Decmac/Desktop/myDay30/build/myDay30.build/Debug-iphonesimulator/myDay30.build/Objects-normal/i386/BoardView.o
-t1331636705
-s11964
-
-N/Users/Decmac/Desktop/myDay30/build/myDay30.build/Debug-iphonesimulator/myDay30.build/Objects-normal/i386/FlipsideView.o
-t1331636705
-s9864
-
-N/Users/Decmac/Desktop/myDay30/build/myDay30.build/Debug-iphonesimulator/myDay30.build/Objects-normal/i386/FlipsideViewController.o
-t1331636705
-s32220
-
-N/Users/Decmac/Desktop/myDay30/build/myDay30.build/Debug-iphonesimulator/myDay30.build/Objects-normal/i386/MainView.o
-t1331636705
-s9812
-
-N/Users/Decmac/Desktop/myDay30/build/myDay30.build/Debug-iphonesimulator/myDay30.build/Objects-normal/i386/MainViewController.o
-t1331636705
-s33328
-
-N/Users/Decmac/Desktop/myDay30/build/myDay30.build/Debug-iphonesimulator/myDay30.build/Objects-normal/i386/main.o
-t1331636705
-s5940
-
-N/Users/Decmac/Desktop/myDay30/build/myDay30.build/Debug-iphonesimulator/myDay30.build/Objects-normal/i386/myDay30.LinkFileList
-c000000004F5F29DD0000000000000356
-t1331636701
-s854
-
-N/Users/Decmac/Desktop/myDay30/build/myDay30.build/Debug-iphonesimulator/myDay30.build/Objects-normal/i386/myDay30AppDelegate.o
-t1331636705
-s39964
-
-N/Users/Decmac/Desktop/myDay30/icon.png
-c000000004C5AB5AC0000000000000E23
-t1281013164
-s3619
-
-N/Users/Decmac/Desktop/myDay30/left.png
-c000000004C585EB200000000000022A1
-t1280859826
-s8865
-
-N/Users/Decmac/Desktop/myDay30/main.m
-c000000004F5F240A0000000000000166
-t1331635210
-s358
-i<UIKit/UIKit.h>
-
-N/Users/Decmac/Desktop/myDay30/myDay30_Prefix.pch
-c000000004F5F240A0000000000000140
-t1331635210
-s320
-i<Availability.h>
-i<Foundation/Foundation.h>
-i<UIKit/UIKit.h>
-
-N/Users/Decmac/Desktop/myDay30/right.png
-c000000004C585E7E00000000000022E8
-t1280859774
-s8936
-
-N/Users/Decmac/Desktop/myDay30/shorten.png
-c000000004C47253E0000000000000D1E
-t1279731006
-s3358
-
-N/var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myDay30_Prefix-dkkufcmtsymnhgcoxbwxtxcuikxi/myDay30_Prefix.pch.gch
-t1331636704
-s13034960
-
-NmyDay30-Info.plist
-c000000004F5F240A000000000000038D
-t1331635210
-s909
-
-CCheck dependencies
-r0
-lSLF07#2@18"Check dependencies353329501#353329501#0(0"0(0#1#0"4300885448#0"0#
-
-CCompileC build/myDay30.build/Debug-iphonesimulator/myDay30.build/Objects-normal/i386/BoardView.o /Users/Decmac/Desktop/myDay30/BoardView.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s353329505.682746
-e353329505.880147
-r1
-xCompileC
-xbuild/myDay30.build/Debug-iphonesimulator/myDay30.build/Objects-normal/i386/BoardView.o
-x/Users/Decmac/Desktop/myDay30/BoardView.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-o/Users/Decmac/Desktop/myDay30/BoardView.m: In function '-[BoardView didReceiveMemoryWarning]':
-o/Users/Decmac/Desktop/myDay30/BoardView.m:34: warning: 'UIImageView' may not respond to '-didReceiveMemoryWarning'
-o/Users/Decmac/Desktop/myDay30/BoardView.m:34: warning: (Messages without a matching method signature
-o/Users/Decmac/Desktop/myDay30/BoardView.m:34: warning: will be assumed to return 'id' and accept
-o/Users/Decmac/Desktop/myDay30/BoardView.m:34: warning: '...' as arguments.)
-lSLF07#2@49"Compile /Users/Decmac/Desktop/myDay30/BoardView.m353329505#353329505#0(484"/Users/Decmac/Desktop/myDay30/BoardView.m: In function '-[BoardView didReceiveMemoryWarning]':/Users/Decmac/Desktop/myDay30/BoardView.m:34: warning: 'UIImageView' may not respond to '-didReceiveMemoryWarning'/Users/Decmac/Desktop/myDay30/BoardView.m:34: warning: (Messages without a matching method signature/Users/Decmac/Desktop/myDay30/BoardView.m:34: warning: will be assumed to return 'id' and accept/Users/Decmac/Desktop/myDay30/BoardView.m:34: warning: '...' as arguments.)2(22@59"'UIImageView' may not respond to '-didReceiveMemoryWarning'353329505#95#115#0(6@41"/Users/Decmac/Desktop/myDay30/BoardView.m353329305#34#0#34#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)353329505#210#101#0(6@41"/Users/Decmac/Desktop/myDay30/BoardView.m353329305#34#0#34#0#0"0(0#0#41"/Users/Decmac/Desktop/myDay30/BoardView.m4300885448#1770"    cd /Users/Decmac/Desktop/myDay30    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/myDay30/build/myDay30.build/Debug-iphonesimulator/myDay30.build/myDay30-generated-files.hmap -I/Users/Decmac/Desktop/myDay30/build/myDay30.build/Debug-iphonesimulator/myDay30.build/myDay30-own-target-headers.hmap -I/Users/Decmac/Desktop/myDay30/build/myDay30.build/Debug-iphonesimulator/myDay30.build/myDay30-all-target-headers.hmap -iquote /Users/Decmac/Desktop/myDay30/build/myDay30.build/Debug-iphonesimulator/myDay30.build/myDay30-project-headers.hmap -F/Users/Decmac/Desktop/myDay30/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/myDay30/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/myDay30/build/myDay30.build/Debug-iphonesimulator/myDay30.build/DerivedSources/i386 -I/Users/Decmac/Desktop/myDay30/build/myDay30.build/Debug-iphonesimulator/myDay30.build/DerivedSources -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myDay30_Prefix-dkkufcmtsymnhgcoxbwxtxcuikxi/myDay30_Prefix.pch -c /Users/Decmac/Desktop/myDay30/BoardView.m -o /Users/Decmac/Desktop/myDay30/build/myDay30.build/Debug-iphonesimulator/myDay30.build/Objects-normal/i386/BoardView.o0#
-
-CCompileC build/myDay30.build/Debug-iphonesimulator/myDay30.build/Objects-normal/i386/FlipsideView.o /Users/Decmac/Desktop/myDay30/Classes/FlipsideView.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s353329505.102597
-e353329505.298083
-r1
-xCompileC
-xbuild/myDay30.build/Debug-iphonesimulator/myDay30.build/Objects-normal/i386/FlipsideView.o
-x/Users/Decmac/Desktop/myDay30/Classes/FlipsideView.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@60"Compile /Users/Decmac/Desktop/myDay30/Classes/FlipsideView.m353329505#353329505#0(0"0(0#0#52"/Users/Decmac/Desktop/myDay30/Classes/FlipsideView.m4300885448#1784"    cd /Users/Decmac/Desktop/myDay30    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/myDay30/build/myDay30.build/Debug-iphonesimulator/myDay30.build/myDay30-generated-files.hmap -I/Users/Decmac/Desktop/myDay30/build/myDay30.build/Debug-iphonesimulator/myDay30.build/myDay30-own-target-headers.hmap -I/Users/Decmac/Desktop/myDay30/build/myDay30.build/Debug-iphonesimulator/myDay30.build/myDay30-all-target-headers.hmap -iquote /Users/Decmac/Desktop/myDay30/build/myDay30.build/Debug-iphonesimulator/myDay30.build/myDay30-project-headers.hmap -F/Users/Decmac/Desktop/myDay30/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/myDay30/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/myDay30/build/myDay30.build/Debug-iphonesimulator/myDay30.build/DerivedSources/i386 -I/Users/Decmac/Desktop/myDay30/build/myDay30.build/Debug-iphonesimulator/myDay30.build/DerivedSources -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myDay30_Prefix-dkkufcmtsymnhgcoxbwxtxcuikxi/myDay30_Prefix.pch -c /Users/Decmac/Desktop/myDay30/Classes/FlipsideView.m -o /Users/Decmac/Desktop/myDay30/build/myDay30.build/Debug-iphonesimulator/myDay30.build/Objects-normal/i386/FlipsideView.o0#
-
-CCompileC build/myDay30.build/Debug-iphonesimulator/myDay30.build/Objects-normal/i386/FlipsideViewController.o /Users/Decmac/Desktop/myDay30/Classes/FlipsideViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s353329505.449023
-e353329505.682487
-r1
-xCompileC
-xbuild/myDay30.build/Debug-iphonesimulator/myDay30.build/Objects-normal/i386/FlipsideViewController.o
-x/Users/Decmac/Desktop/myDay30/Classes/FlipsideViewController.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@70"Compile /Users/Decmac/Desktop/myDay30/Classes/FlipsideViewController.m353329505#353329505#0(0"0(0#0#62"/Users/Decmac/Desktop/myDay30/Classes/FlipsideViewController.m4300885448#1804"    cd /Users/Decmac/Desktop/myDay30    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/myDay30/build/myDay30.build/Debug-iphonesimulator/myDay30.build/myDay30-generated-files.hmap -I/Users/Decmac/Desktop/myDay30/build/myDay30.build/Debug-iphonesimulator/myDay30.build/myDay30-own-target-headers.hmap -I/Users/Decmac/Desktop/myDay30/build/myDay30.build/Debug-iphonesimulator/myDay30.build/myDay30-all-target-headers.hmap -iquote /Users/Decmac/Desktop/myDay30/build/myDay30.build/Debug-iphonesimulator/myDay30.build/myDay30-project-headers.hmap -F/Users/Decmac/Desktop/myDay30/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/myDay30/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/myDay30/build/myDay30.build/Debug-iphonesimulator/myDay30.build/DerivedSources/i386 -I/Users/Decmac/Desktop/myDay30/build/myDay30.build/Debug-iphonesimulator/myDay30.build/DerivedSources -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myDay30_Prefix-dkkufcmtsymnhgcoxbwxtxcuikxi/myDay30_Prefix.pch -c /Users/Decmac/Desktop/myDay30/Classes/FlipsideViewController.m -o /Users/Decmac/Desktop/myDay30/build/myDay30.build/Debug-iphonesimulator/myDay30.build/Objects-normal/i386/FlipsideViewController.o0#
-
-CCompileC build/myDay30.build/Debug-iphonesimulator/myDay30.build/Objects-normal/i386/MainView.o /Users/Decmac/Desktop/myDay30/Classes/MainView.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s353329505.294607
-e353329505.448728
-r1
-xCompileC
-xbuild/myDay30.build/Debug-iphonesimulator/myDay30.build/Objects-normal/i386/MainView.o
-x/Users/Decmac/Desktop/myDay30/Classes/MainView.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@56"Compile /Users/Decmac/Desktop/myDay30/Classes/MainView.m353329505#353329505#0(0"0(0#0#48"/Users/Decmac/Desktop/myDay30/Classes/MainView.m4300885448#1776"    cd /Users/Decmac/Desktop/myDay30    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/myDay30/build/myDay30.build/Debug-iphonesimulator/myDay30.build/myDay30-generated-files.hmap -I/Users/Decmac/Desktop/myDay30/build/myDay30.build/Debug-iphonesimulator/myDay30.build/myDay30-own-target-headers.hmap -I/Users/Decmac/Desktop/myDay30/build/myDay30.build/Debug-iphonesimulator/myDay30.build/myDay30-all-target-headers.hmap -iquote /Users/Decmac/Desktop/myDay30/build/myDay30.build/Debug-iphonesimulator/myDay30.build/myDay30-project-headers.hmap -F/Users/Decmac/Desktop/myDay30/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/myDay30/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/myDay30/build/myDay30.build/Debug-iphonesimulator/myDay30.build/DerivedSources/i386 -I/Users/Decmac/Desktop/myDay30/build/myDay30.build/Debug-iphonesimulator/myDay30.build/DerivedSources -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myDay30_Prefix-dkkufcmtsymnhgcoxbwxtxcuikxi/myDay30_Prefix.pch -c /Users/Decmac/Desktop/myDay30/Classes/MainView.m -o /Users/Decmac/Desktop/myDay30/build/myDay30.build/Debug-iphonesimulator/myDay30.build/Objects-normal/i386/MainView.o0#
-
-CCompileC build/myDay30.build/Debug-iphonesimulator/myDay30.build/Objects-normal/i386/MainViewController.o /Users/Decmac/Desktop/myDay30/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s353329505.298368
-e353329505.719219
-r1
-xCompileC
-xbuild/myDay30.build/Debug-iphonesimulator/myDay30.build/Objects-normal/i386/MainViewController.o
-x/Users/Decmac/Desktop/myDay30/Classes/MainViewController.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@66"Compile /Users/Decmac/Desktop/myDay30/Classes/MainViewController.m353329505#353329505#0(0"0(0#0#58"/Users/Decmac/Desktop/myDay30/Classes/MainViewController.m4300885448#1796"    cd /Users/Decmac/Desktop/myDay30    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/myDay30/build/myDay30.build/Debug-iphonesimulator/myDay30.build/myDay30-generated-files.hmap -I/Users/Decmac/Desktop/myDay30/build/myDay30.build/Debug-iphonesimulator/myDay30.build/myDay30-own-target-headers.hmap -I/Users/Decmac/Desktop/myDay30/build/myDay30.build/Debug-iphonesimulator/myDay30.build/myDay30-all-target-headers.hmap -iquote /Users/Decmac/Desktop/myDay30/build/myDay30.build/Debug-iphonesimulator/myDay30.build/myDay30-project-headers.hmap -F/Users/Decmac/Desktop/myDay30/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/myDay30/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/myDay30/build/myDay30.build/Debug-iphonesimulator/myDay30.build/DerivedSources/i386 -I/Users/Decmac/Desktop/myDay30/build/myDay30.build/Debug-iphonesimulator/myDay30.build/DerivedSources -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myDay30_Prefix-dkkufcmtsymnhgcoxbwxtxcuikxi/myDay30_Prefix.pch -c /Users/Decmac/Desktop/myDay30/Classes/MainViewController.m -o /Users/Decmac/Desktop/myDay30/build/myDay30.build/Debug-iphonesimulator/myDay30.build/Objects-normal/i386/MainViewController.o0#
-
-CCompileC build/myDay30.build/Debug-iphonesimulator/myDay30.build/Objects-normal/i386/main.o /Users/Decmac/Desktop/myDay30/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s353329504.975587
-e353329505.102277
-r1
-xCompileC
-xbuild/myDay30.build/Debug-iphonesimulator/myDay30.build/Objects-normal/i386/main.o
-x/Users/Decmac/Desktop/myDay30/main.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@44"Compile /Users/Decmac/Desktop/myDay30/main.m353329504#353329505#0(0"0(0#0#36"/Users/Decmac/Desktop/myDay30/main.m4300885448#1760"    cd /Users/Decmac/Desktop/myDay30    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/myDay30/build/myDay30.build/Debug-iphonesimulator/myDay30.build/myDay30-generated-files.hmap -I/Users/Decmac/Desktop/myDay30/build/myDay30.build/Debug-iphonesimulator/myDay30.build/myDay30-own-target-headers.hmap -I/Users/Decmac/Desktop/myDay30/build/myDay30.build/Debug-iphonesimulator/myDay30.build/myDay30-all-target-headers.hmap -iquote /Users/Decmac/Desktop/myDay30/build/myDay30.build/Debug-iphonesimulator/myDay30.build/myDay30-project-headers.hmap -F/Users/Decmac/Desktop/myDay30/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/myDay30/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/myDay30/build/myDay30.build/Debug-iphonesimulator/myDay30.build/DerivedSources/i386 -I/Users/Decmac/Desktop/myDay30/build/myDay30.build/Debug-iphonesimulator/myDay30.build/DerivedSources -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myDay30_Prefix-dkkufcmtsymnhgcoxbwxtxcuikxi/myDay30_Prefix.pch -c /Users/Decmac/Desktop/myDay30/main.m -o /Users/Decmac/Desktop/myDay30/build/myDay30.build/Debug-iphonesimulator/myDay30.build/Objects-normal/i386/main.o0#
-
-CCompileC build/myDay30.build/Debug-iphonesimulator/myDay30.build/Objects-normal/i386/myDay30AppDelegate.o /Users/Decmac/Desktop/myDay30/Classes/myDay30AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s353329504.978312
-e353329505.293812
-r1
-xCompileC
-xbuild/myDay30.build/Debug-iphonesimulator/myDay30.build/Objects-normal/i386/myDay30AppDelegate.o
-x/Users/Decmac/Desktop/myDay30/Classes/myDay30AppDelegate.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@66"Compile /Users/Decmac/Desktop/myDay30/Classes/myDay30AppDelegate.m353329504#353329505#0(0"0(0#0#58"/Users/Decmac/Desktop/myDay30/Classes/myDay30AppDelegate.m4300885448#1796"    cd /Users/Decmac/Desktop/myDay30    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/myDay30/build/myDay30.build/Debug-iphonesimulator/myDay30.build/myDay30-generated-files.hmap -I/Users/Decmac/Desktop/myDay30/build/myDay30.build/Debug-iphonesimulator/myDay30.build/myDay30-own-target-headers.hmap -I/Users/Decmac/Desktop/myDay30/build/myDay30.build/Debug-iphonesimulator/myDay30.build/myDay30-all-target-headers.hmap -iquote /Users/Decmac/Desktop/myDay30/build/myDay30.build/Debug-iphonesimulator/myDay30.build/myDay30-project-headers.hmap -F/Users/Decmac/Desktop/myDay30/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/myDay30/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/myDay30/build/myDay30.build/Debug-iphonesimulator/myDay30.build/DerivedSources/i386 -I/Users/Decmac/Desktop/myDay30/build/myDay30.build/Debug-iphonesimulator/myDay30.build/DerivedSources -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myDay30_Prefix-dkkufcmtsymnhgcoxbwxtxcuikxi/myDay30_Prefix.pch -c /Users/Decmac/Desktop/myDay30/Classes/myDay30AppDelegate.m -o /Users/Decmac/Desktop/myDay30/build/myDay30.build/Debug-iphonesimulator/myDay30.build/Objects-normal/i386/myDay30AppDelegate.o0#
-
-CCompileXIB /Users/Decmac/Desktop/myDay30/FlipsideView.xib
-s353329501.235087
-e353329502.362815
-r1
-xCompileXIB
-x/Users/Decmac/Desktop/myDay30/FlipsideView.xib
-o2012-03-13 11:05:01.351 ibtool[1022:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 35
-lSLF07#2@27"CompileXIB FlipsideView.xib353329501#353329502#0(108"2012-03-13 11:05:01.351 ibtool[1022:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 350(0#0#46"/Users/Decmac/Desktop/myDay30/FlipsideView.xib4300885448#459"    cd /Users/Decmac/Desktop/myDay30    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Decmac/Desktop/myDay30/build/Debug-iphonesimulator/myDay30.app/FlipsideView.nib /Users/Decmac/Desktop/myDay30/FlipsideView.xib0#
-
-CCompileXIB /Users/Decmac/Desktop/myDay30/MainView.xib
-s353329501.240644
-e353329502.363332
-r1
-xCompileXIB
-x/Users/Decmac/Desktop/myDay30/MainView.xib
-o2012-03-13 11:05:01.361 ibtool[1023:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 35
-lSLF07#2@23"CompileXIB MainView.xib353329501#353329502#0(108"2012-03-13 11:05:01.361 ibtool[1023:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 350(0#0#42"/Users/Decmac/Desktop/myDay30/MainView.xib4300885448#451"    cd /Users/Decmac/Desktop/myDay30    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Decmac/Desktop/myDay30/build/Debug-iphonesimulator/myDay30.app/MainView.nib /Users/Decmac/Desktop/myDay30/MainView.xib0#
-
-CCompileXIB /Users/Decmac/Desktop/myDay30/MainWindow.xib
-s353329502.363547
-e353329503.117137
-r1
-xCompileXIB
-x/Users/Decmac/Desktop/myDay30/MainWindow.xib
-o2012-03-13 11:05:02.516 ibtool[1027:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 35
-lSLF07#2@25"CompileXIB MainWindow.xib353329502#353329503#0(108"2012-03-13 11:05:02.516 ibtool[1027:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 350(0#0#44"/Users/Decmac/Desktop/myDay30/MainWindow.xib4300885448#455"    cd /Users/Decmac/Desktop/myDay30    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Decmac/Desktop/myDay30/build/Debug-iphonesimulator/myDay30.app/MainWindow.nib /Users/Decmac/Desktop/myDay30/MainWindow.xib0#
-
-CCpResource build/Debug-iphonesimulator/myDay30.app/Brick_move.caf Brick_move.caf
-s353329502.371604
-e353329502.466514
-r1
-xCpResource
-xbuild/Debug-iphonesimulator/myDay30.app/Brick_move.caf
-xBrick_move.caf
-lSLF07#2@19"Copy Brick_move.caf353329502#353329502#0(0"0(0#0#44"/Users/Decmac/Desktop/myDay30/Brick_move.caf4300885448#431"    cd /Users/Decmac/Desktop/myDay30    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Decmac/Desktop/myDay30/Brick_move.caf /Users/Decmac/Desktop/myDay30/build/Debug-iphonesimulator/myDay30.app0#
-
-CCpResource build/Debug-iphonesimulator/myDay30.app/Button_press.caf Button_press.caf
-s353329502.378267
-e353329502.463492
-r1
-xCpResource
-xbuild/Debug-iphonesimulator/myDay30.app/Button_press.caf
-xButton_press.caf
-lSLF07#2@21"Copy Button_press.caf353329502#353329502#0(0"0(0#0#46"/Users/Decmac/Desktop/myDay30/Button_press.caf4300885448#433"    cd /Users/Decmac/Desktop/myDay30    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Decmac/Desktop/myDay30/Button_press.caf /Users/Decmac/Desktop/myDay30/build/Debug-iphonesimulator/myDay30.app0#
-
-CCpResource build/Debug-iphonesimulator/myDay30.app/Kick.caf Kick.caf
-s353329502.418812
-e353329502.463908
-r1
-xCpResource
-xbuild/Debug-iphonesimulator/myDay30.app/Kick.caf
-xKick.caf
-lSLF07#2@13"Copy Kick.caf353329502#353329502#0(0"0(0#0#38"/Users/Decmac/Desktop/myDay30/Kick.caf4300885448#425"    cd /Users/Decmac/Desktop/myDay30    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Decmac/Desktop/myDay30/Kick.caf /Users/Decmac/Desktop/myDay30/build/Debug-iphonesimulator/myDay30.app0#
-
-CCpResource build/Debug-iphonesimulator/myDay30.app/Lose.caf Lose.caf
-s353329502.427565
-e353329502.464328
-r1
-xCpResource
-xbuild/Debug-iphonesimulator/myDay30.app/Lose.caf
-xLose.caf
-lSLF07#2@13"Copy Lose.caf353329502#353329502#0(0"0(0#0#38"/Users/Decmac/Desktop/myDay30/Lose.caf4300885448#425"    cd /Users/Decmac/Desktop/myDay30    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Decmac/Desktop/myDay30/Lose.caf /Users/Decmac/Desktop/myDay30/build/Debug-iphonesimulator/myDay30.app0#
-
-CCpResource build/Debug-iphonesimulator/myDay30.app/Win.caf Win.caf
-s353329502.445860
-e353329502.470884
-r1
-xCpResource
-xbuild/Debug-iphonesimulator/myDay30.app/Win.caf
-xWin.caf
-lSLF07#2@12"Copy Win.caf353329502#353329502#0(0"0(0#0#37"/Users/Decmac/Desktop/myDay30/Win.caf4300885448#424"    cd /Users/Decmac/Desktop/myDay30    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Decmac/Desktop/myDay30/Win.caf /Users/Decmac/Desktop/myDay30/build/Debug-iphonesimulator/myDay30.app0#
-
-CCpResource build/Debug-iphonesimulator/myDay30.app/ball.png ball.png
-s353329502.365521
-e353329502.434369
-r1
-xCpResource
-xbuild/Debug-iphonesimulator/myDay30.app/ball.png
-xball.png
-lSLF07#2@13"Copy ball.png353329502#353329502#0(0"0(0#0#38"/Users/Decmac/Desktop/myDay30/ball.png4300885448#425"    cd /Users/Decmac/Desktop/myDay30    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Decmac/Desktop/myDay30/ball.png /Users/Decmac/Desktop/myDay30/build/Debug-iphonesimulator/myDay30.app0#
-
-CCpResource build/Debug-iphonesimulator/myDay30.app/board.PNG board.PNG
-s353329502.367583
-e353329502.434805
-r1
-xCpResource
-xbuild/Debug-iphonesimulator/myDay30.app/board.PNG
-xboard.PNG
-lSLF07#2@14"Copy board.PNG353329502#353329502#0(0"0(0#0#39"/Users/Decmac/Desktop/myDay30/board.PNG4300885448#426"    cd /Users/Decmac/Desktop/myDay30    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Decmac/Desktop/myDay30/board.PNG /Users/Decmac/Desktop/myDay30/build/Debug-iphonesimulator/myDay30.app0#
-
-CCpResource build/Debug-iphonesimulator/myDay30.app/brick.png brick.png
-s353329502.369538
-e353329502.435197
-r1
-xCpResource
-xbuild/Debug-iphonesimulator/myDay30.app/brick.png
-xbrick.png
-lSLF07#2@14"Copy brick.png353329502#353329502#0(0"0(0#0#39"/Users/Decmac/Desktop/myDay30/brick.png4300885448#426"    cd /Users/Decmac/Desktop/myDay30    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Decmac/Desktop/myDay30/brick.png /Users/Decmac/Desktop/myDay30/build/Debug-iphonesimulator/myDay30.app0#
-
-CCpResource build/Debug-iphonesimulator/myDay30.app/icon.png icon.png
-s353329502.403665
-e353329502.435585
-r1
-xCpResource
-xbuild/Debug-iphonesimulator/myDay30.app/icon.png
-xicon.png
-lSLF07#2@13"Copy icon.png353329502#353329502#0(0"0(0#0#38"/Users/Decmac/Desktop/myDay30/icon.png4300885448#425"    cd /Users/Decmac/Desktop/myDay30    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Decmac/Desktop/myDay30/icon.png /Users/Decmac/Desktop/myDay30/build/Debug-iphonesimulator/myDay30.app0#
-
-CCpResource build/Debug-iphonesimulator/myDay30.app/left.png left.png
-s353329502.421989
-e353329502.476536
-r1
-xCpResource
-xbuild/Debug-iphonesimulator/myDay30.app/left.png
-xleft.png
-lSLF07#2@13"Copy left.png353329502#353329502#0(0"0(0#0#38"/Users/Decmac/Desktop/myDay30/left.png4300885448#425"    cd /Users/Decmac/Desktop/myDay30    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Decmac/Desktop/myDay30/left.png /Users/Decmac/Desktop/myDay30/build/Debug-iphonesimulator/myDay30.app0#
-
-CCpResource build/Debug-iphonesimulator/myDay30.app/right.png right.png
-s353329502.435818
-e353329502.463064
-r1
-xCpResource
-xbuild/Debug-iphonesimulator/myDay30.app/right.png
-xright.png
-lSLF07#2@14"Copy right.png353329502#353329502#0(0"0(0#0#39"/Users/Decmac/Desktop/myDay30/right.png4300885448#426"    cd /Users/Decmac/Desktop/myDay30    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Decmac/Desktop/myDay30/right.png /Users/Decmac/Desktop/myDay30/build/Debug-iphonesimulator/myDay30.app0#
-
-CCpResource build/Debug-iphonesimulator/myDay30.app/shorten.png shorten.png
-s353329502.438968
-e353329502.494674
-r1
-xCpResource
-xbuild/Debug-iphonesimulator/myDay30.app/shorten.png
-xshorten.png
-lSLF07#2@16"Copy shorten.png353329502#353329502#0(0"0(0#0#41"/Users/Decmac/Desktop/myDay30/shorten.png4300885448#428"    cd /Users/Decmac/Desktop/myDay30    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Decmac/Desktop/myDay30/shorten.png /Users/Decmac/Desktop/myDay30/build/Debug-iphonesimulator/myDay30.app0#
-
-CGenerateDSYMFile /Users/Decmac/Desktop/myDay30/build/Debug-iphonesimulator/myDay30.app.dSYM /Users/Decmac/Desktop/myDay30/build/Debug-iphonesimulator/myDay30.app/myDay30
-s353329505.939780
-e353329505.994577
-r1
-xGenerateDSYMFile
-x/Users/Decmac/Desktop/myDay30/build/Debug-iphonesimulator/myDay30.app.dSYM
-x/Users/Decmac/Desktop/myDay30/build/Debug-iphonesimulator/myDay30.app/myDay30
-o2012-03-13 11:05:05.979 dsymutil[1084:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 35
-lSLF07#2@109"GenerateDSYMFile build/Debug-iphonesimulator/myDay30.app.dSYM build/Debug-iphonesimulator/myDay30.app/myDay30353329505#353329505#0(110"2012-03-13 11:05:05.979 dsymutil[1084:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 350(0#0#77"/Users/Decmac/Desktop/myDay30/build/Debug-iphonesimulator/myDay30.app/myDay304300885448#356"    cd /Users/Decmac/Desktop/myDay30    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/Decmac/Desktop/myDay30/build/Debug-iphonesimulator/myDay30.app/myDay30 -o /Users/Decmac/Desktop/myDay30/build/Debug-iphonesimulator/myDay30.app.dSYM0#
-
-CLd /Users/Decmac/Desktop/myDay30/build/Debug-iphonesimulator/myDay30.app/myDay30 normal i386
-s353329505.880412
-e353329505.939484
-r1
-xLd
-x/Users/Decmac/Desktop/myDay30/build/Debug-iphonesimulator/myDay30.app/myDay30
-xnormal
-xi386
-lSLF07#2@82"Link /Users/Decmac/Desktop/myDay30/build/Debug-iphonesimulator/myDay30.app/myDay30353329505#353329505#0(0"0(0#0#0"4300885448#865"    cd /Users/Decmac/Desktop/myDay30    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -L/Users/Decmac/Desktop/myDay30/build/Debug-iphonesimulator -F/Users/Decmac/Desktop/myDay30/build/Debug-iphonesimulator -filelist /Users/Decmac/Desktop/myDay30/build/myDay30.build/Debug-iphonesimulator/myDay30.build/Objects-normal/i386/myDay30.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -framework AudioToolbox -framework QuartzCore -o /Users/Decmac/Desktop/myDay30/build/Debug-iphonesimulator/myDay30.app/myDay300#
-
-CProcessInfoPlistFile /Users/Decmac/Desktop/myDay30/build/Debug-iphonesimulator/myDay30.app/Info.plist myDay30-Info.plist
-s353329501.210789
-e353329501.234817
-r1
-xProcessInfoPlistFile
-x/Users/Decmac/Desktop/myDay30/build/Debug-iphonesimulator/myDay30.app/Info.plist
-xmyDay30-Info.plist
-lSLF07#2@26"Process myDay30-Info.plist353329501#353329501#0(0"0(0#0#48"/Users/Decmac/Desktop/myDay30/myDay30-Info.plist4300885448#452"    cd /Users/Decmac/Desktop/myDay30    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility myDay30-Info.plist -genpkginfo /Users/Decmac/Desktop/myDay30/build/Debug-iphonesimulator/myDay30.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/Decmac/Desktop/myDay30/build/Debug-iphonesimulator/myDay30.app/Info.plist0#
-
-CProcessPCH /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myDay30_Prefix-dkkufcmtsymnhgcoxbwxtxcuikxi/myDay30_Prefix.pch.gch myDay30_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-s353329503.117690
-e353329504.975058
-r1
-xProcessPCH
-x/var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myDay30_Prefix-dkkufcmtsymnhgcoxbwxtxcuikxi/myDay30_Prefix.pch.gch
-xmyDay30_Prefix.pch
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@29"Precompile myDay30_Prefix.pch353329503#353329504#0(0"0(0#0#48"/Users/Decmac/Desktop/myDay30/myDay30_Prefix.pch4300885448#1661"    cd /Users/Decmac/Desktop/myDay30    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/myDay30/build/myDay30.build/Debug-iphonesimulator/myDay30.build/myDay30-generated-files.hmap -I/Users/Decmac/Desktop/myDay30/build/myDay30.build/Debug-iphonesimulator/myDay30.build/myDay30-own-target-headers.hmap -I/Users/Decmac/Desktop/myDay30/build/myDay30.build/Debug-iphonesimulator/myDay30.build/myDay30-all-target-headers.hmap -iquote /Users/Decmac/Desktop/myDay30/build/myDay30.build/Debug-iphonesimulator/myDay30.build/myDay30-project-headers.hmap -F/Users/Decmac/Desktop/myDay30/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/myDay30/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/myDay30/build/myDay30.build/Debug-iphonesimulator/myDay30.build/DerivedSources/i386 -I/Users/Decmac/Desktop/myDay30/build/myDay30.build/Debug-iphonesimulator/myDay30.build/DerivedSources -c /Users/Decmac/Desktop/myDay30/myDay30_Prefix.pch -o /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myDay30_Prefix-dkkufcmtsymnhgcoxbwxtxcuikxi/myDay30_Prefix.pch.gch0#
-
-CTouch /Users/Decmac/Desktop/myDay30/build/Debug-iphonesimulator/myDay30.app
-s353329505.994809
-e353329506.003812
-r1
-xTouch
-x/Users/Decmac/Desktop/myDay30/build/Debug-iphonesimulator/myDay30.app
-lSLF07#2@75"Touch /Users/Decmac/Desktop/myDay30/build/Debug-iphonesimulator/myDay30.app353329505#353329506#0(0"0(0#0#0"4300885448#260"    cd /Users/Decmac/Desktop/myDay30    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/Decmac/Desktop/myDay30/build/Debug-iphonesimulator/myDay30.app0#
-

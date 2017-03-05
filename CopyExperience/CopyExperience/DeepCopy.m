@@ -62,7 +62,7 @@
     self.dcStrongString = sampleStringC;
     self.dcCopyString = sampleStringD;
 
-    [sampleStringC appendString:@"_suffix"]; // strong 修饰，会被外接修改数值
+    [sampleStringC appendString:@"_suffix"]; // strong 修饰，会被外界修改数值
     [sampleStringD appendString:@"_suffix"];
 
     NSLog(@"sampleStringC : %@, address: %p", sampleStringC, sampleStringC);
@@ -104,6 +104,18 @@
     NSString *sampleStringI = @"stringI";
     self.dcCopyString = [sampleStringI mutableCopy];
     NSLog(@"sampleStringI : %@, address: %p", sampleStringI, sampleStringI);
+    NSLog(@"dcCopayString : %@, address: %p", self.dcCopyString, self.dcCopyString);
+    
+    NSLog(@"---------------------------------------------------");
+    
+    NSString *sampleStringO = [NSMutableString stringWithString:@"stringO"];
+    self.dcStrongString = [sampleStringO copy];
+    NSLog(@"sampleStringO : %@, address: %p", sampleStringO, sampleStringO);
+    NSLog(@"dcStrongString : %@, address: %p", self.dcStrongString, self.dcStrongString);
+    
+    NSString *sampleStringP = [NSMutableString stringWithString:@"stringP"];
+    self.dcCopyString = [sampleStringP copy];
+    NSLog(@"sampleStringP : %@, address: %p", sampleStringP, sampleStringP);
     NSLog(@"dcCopayString : %@, address: %p", self.dcCopyString, self.dcCopyString);
     
     NSLog(@"---------------------------------------------------");

@@ -1,515 +1,0 @@
-TmyDay29
-v7
-r0
-t353325804.410273
-cCheck dependencies
-cProcessInfoPlistFile /Users/Decmac/Desktop/myDay29/build/Debug-iphonesimulator/myDay29.app/Info.plist myDay29-Info.plist
-cCompileXIB /Users/Decmac/Desktop/myDay29/FlipsideView.xib
-cCompileXIB /Users/Decmac/Desktop/myDay29/MainView.xib
-cCompileXIB /Users/Decmac/Desktop/myDay29/MainWindow.xib
-cCpResource build/Debug-iphonesimulator/myDay29.app/icon.png icon.png
-cCpResource build/Debug-iphonesimulator/myDay29.app/jump1.png jump1.png
-cCpResource build/Debug-iphonesimulator/myDay29.app/jump2.png jump2.png
-cCpResource build/Debug-iphonesimulator/myDay29.app/up.png up.png
-cCpResource build/Debug-iphonesimulator/myDay29.app/background.png background.png
-cCpResource build/Debug-iphonesimulator/myDay29.app/ryu.png ryu.png
-cCpResource build/Debug-iphonesimulator/myDay29.app/sound.caf sound.caf
-cProcessPCH /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myDay29_Prefix-ghzhvfdxybzvaqawygmlooqfhxsh/myDay29_Prefix.pch.gch myDay29_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/myDay29.build/Debug-iphonesimulator/myDay29.build/Objects-normal/i386/main.o /Users/Decmac/Desktop/myDay29/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/myDay29.build/Debug-iphonesimulator/myDay29.build/Objects-normal/i386/myDay29AppDelegate.o /Users/Decmac/Desktop/myDay29/Classes/myDay29AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/myDay29.build/Debug-iphonesimulator/myDay29.build/Objects-normal/i386/FlipsideView.o /Users/Decmac/Desktop/myDay29/Classes/FlipsideView.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/myDay29.build/Debug-iphonesimulator/myDay29.build/Objects-normal/i386/MainView.o /Users/Decmac/Desktop/myDay29/Classes/MainView.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/myDay29.build/Debug-iphonesimulator/myDay29.build/Objects-normal/i386/MainViewController.o /Users/Decmac/Desktop/myDay29/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/myDay29.build/Debug-iphonesimulator/myDay29.build/Objects-normal/i386/FlipsideViewController.o /Users/Decmac/Desktop/myDay29/Classes/FlipsideViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cLd /Users/Decmac/Desktop/myDay29/build/Debug-iphonesimulator/myDay29.app/myDay29 normal i386
-cGenerateDSYMFile /Users/Decmac/Desktop/myDay29/build/Debug-iphonesimulator/myDay29.app.dSYM /Users/Decmac/Desktop/myDay29/build/Debug-iphonesimulator/myDay29.app/myDay29
-cTouch /Users/Decmac/Desktop/myDay29/build/Debug-iphonesimulator/myDay29.app
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk
-c000000004F3A580900000000000000EE
-t1329223689
-s238
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
-c000000004B2B4D460000000000193960
-t1261129030
-s1653088
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
-c000000004B2B4CC3000000000026EE30
-t1261128899
-s2551344
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
-c000000004B2B4DC8000000000027E880
-t1261129160
-s2615424
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
-c000000004B2B4DAE0000000000001355
-t1261129134
-s4949
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
-c000000004B2B540C00000000000E5890
-t1261130764
-s940176
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
-c000000004B2B61620000000000000788
-t1261134178
-s1928
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
-c000000004B2B62B500000000016721E0
-t1261134517
-s23536096
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/usr/include/Availability.h
-c000000004B2B4EE200000000000019F9
-t1261129442
-s6649
-
-N/Users/Decmac/Desktop/myDay29/Classes/FlipsideView.h
-c000000004F5F193D00000000000000B6
-t1331632445
-s182
-
-N/Users/Decmac/Desktop/myDay29/Classes/FlipsideView.m
-c000000004F5F193D00000000000001B6
-t1331632445
-s438
-i"FlipsideView.h"
-
-N/Users/Decmac/Desktop/myDay29/Classes/FlipsideViewController.h
-c000000004F5F193D000000000000020B
-t1331632445
-s523
-
-N/Users/Decmac/Desktop/myDay29/Classes/FlipsideViewController.m
-c000000004F5F193D000000000000044A
-t1331632445
-s1098
-i"FlipsideViewController.h"
-
-N/Users/Decmac/Desktop/myDay29/Classes/MainView.h
-c000000004F5F193D00000000000000C6
-t1331632445
-s198
-i<UIKit/UIKit.h>
-
-N/Users/Decmac/Desktop/myDay29/Classes/MainView.m
-c000000004F5F193D00000000000001AA
-t1331632445
-s426
-i"MainView.h"
-
-N/Users/Decmac/Desktop/myDay29/Classes/MainViewController.h
-c000000004F5F193D0000000000000126
-t1331632445
-s294
-i"FlipsideViewController.h"
-
-N/Users/Decmac/Desktop/myDay29/Classes/MainViewController.m
-c000000004F5F193D00000000000007E2
-t1331632445
-s2018
-i"MainViewController.h"
-i"MainView.h"
-
-N/Users/Decmac/Desktop/myDay29/Classes/myDay29AppDelegate.h
-c000000004F5F193D00000000000001B9
-t1331632445
-s441
-
-N/Users/Decmac/Desktop/myDay29/Classes/myDay29AppDelegate.m
-c000000004F5F193D0000000000000324
-t1331632445
-s804
-i"myDay29AppDelegate.h"
-i"MainViewController.h"
-
-N/Users/Decmac/Desktop/myDay29/FlipsideView.xib
-c000000004F5F193D0000000000002684
-t1331632445
-s9860
-
-N/Users/Decmac/Desktop/myDay29/MainView.xib
-c000000004F5F193D00000000000023C2
-t1331632445
-s9154
-
-N/Users/Decmac/Desktop/myDay29/MainWindow.xib
-c000000004F5F193D0000000000001E10
-t1331632445
-s7696
-
-N/Users/Decmac/Desktop/myDay29/background.png
-c000000004C1EC90A000000000000A1DF
-t1277085962
-s41439
-
-N/Users/Decmac/Desktop/myDay29/build/Debug-iphonesimulator/myDay29.app
-t1331633004
-s510
-
-N/Users/Decmac/Desktop/myDay29/build/Debug-iphonesimulator/myDay29.app.dSYM
-t1331633004
-s102
-
-N/Users/Decmac/Desktop/myDay29/build/Debug-iphonesimulator/myDay29.app/FlipsideView.nib
-t1331633001
-s1802
-
-N/Users/Decmac/Desktop/myDay29/build/Debug-iphonesimulator/myDay29.app/Info.plist
-t1331633000
-s635
-
-N/Users/Decmac/Desktop/myDay29/build/Debug-iphonesimulator/myDay29.app/MainView.nib
-t1331633001
-s2042
-
-N/Users/Decmac/Desktop/myDay29/build/Debug-iphonesimulator/myDay29.app/MainWindow.nib
-t1331633001
-s1379
-
-N/Users/Decmac/Desktop/myDay29/build/Debug-iphonesimulator/myDay29.app/PkgInfo
-t1331633000
-s8
-
-N/Users/Decmac/Desktop/myDay29/build/Debug-iphonesimulator/myDay29.app/background.png
-t1331633001
-s41439
-
-N/Users/Decmac/Desktop/myDay29/build/Debug-iphonesimulator/myDay29.app/icon.png
-t1331633001
-s3619
-
-N/Users/Decmac/Desktop/myDay29/build/Debug-iphonesimulator/myDay29.app/jump1.png
-t1331633001
-s2660
-
-N/Users/Decmac/Desktop/myDay29/build/Debug-iphonesimulator/myDay29.app/jump2.png
-t1331633001
-s2540
-
-N/Users/Decmac/Desktop/myDay29/build/Debug-iphonesimulator/myDay29.app/myDay29
-t1331633004
-s22520
-
-N/Users/Decmac/Desktop/myDay29/build/Debug-iphonesimulator/myDay29.app/ryu.png
-t1331633001
-s3058
-
-N/Users/Decmac/Desktop/myDay29/build/Debug-iphonesimulator/myDay29.app/sound.caf
-t1331633001
-s56405
-
-N/Users/Decmac/Desktop/myDay29/build/Debug-iphonesimulator/myDay29.app/up.png
-t1331633001
-s8868
-
-N/Users/Decmac/Desktop/myDay29/build/myDay29.build/Debug-iphonesimulator/myDay29.build/Objects-normal/i386/FlipsideView.o
-t1331633003
-s9864
-
-N/Users/Decmac/Desktop/myDay29/build/myDay29.build/Debug-iphonesimulator/myDay29.build/Objects-normal/i386/FlipsideViewController.o
-t1331633004
-s32220
-
-N/Users/Decmac/Desktop/myDay29/build/myDay29.build/Debug-iphonesimulator/myDay29.build/Objects-normal/i386/MainView.o
-t1331633004
-s9812
-
-N/Users/Decmac/Desktop/myDay29/build/myDay29.build/Debug-iphonesimulator/myDay29.build/Objects-normal/i386/MainViewController.o
-t1331633004
-s32592
-
-N/Users/Decmac/Desktop/myDay29/build/myDay29.build/Debug-iphonesimulator/myDay29.build/Objects-normal/i386/main.o
-t1331633003
-s5940
-
-N/Users/Decmac/Desktop/myDay29/build/myDay29.build/Debug-iphonesimulator/myDay29.build/Objects-normal/i386/myDay29.LinkFileList
-c000000004F5F1B6800000000000002E0
-t1331633000
-s736
-
-N/Users/Decmac/Desktop/myDay29/build/myDay29.build/Debug-iphonesimulator/myDay29.build/Objects-normal/i386/myDay29AppDelegate.o
-t1331633004
-s39232
-
-N/Users/Decmac/Desktop/myDay29/icon.png
-c000000004C5AB5AC0000000000000E23
-t1281013164
-s3619
-
-N/Users/Decmac/Desktop/myDay29/jump1.png
-c000000004C1EC90A0000000000000A64
-t1277085962
-s2660
-
-N/Users/Decmac/Desktop/myDay29/jump2.png
-c000000004C1EC90A00000000000009EC
-t1277085962
-s2540
-
-N/Users/Decmac/Desktop/myDay29/main.m
-c000000004F5F193D0000000000000166
-t1331632445
-s358
-i<UIKit/UIKit.h>
-
-N/Users/Decmac/Desktop/myDay29/myDay29_Prefix.pch
-c000000004F5F193D0000000000000140
-t1331632445
-s320
-i<Availability.h>
-i<Foundation/Foundation.h>
-i<UIKit/UIKit.h>
-
-N/Users/Decmac/Desktop/myDay29/ryu.png
-c000000004C1EC90A0000000000000BF2
-t1277085962
-s3058
-
-N/Users/Decmac/Desktop/myDay29/sound.caf
-c000000004645B9E8000000000000DC55
-t1178974696
-s56405
-
-N/Users/Decmac/Desktop/myDay29/up.png
-c000000004C585E6400000000000022A4
-t1280859748
-s8868
-
-N/var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myDay29_Prefix-ghzhvfdxybzvaqawygmlooqfhxsh/myDay29_Prefix.pch.gch
-t1331633003
-s13034960
-
-NmyDay29-Info.plist
-c000000004F5F1AAA00000000000003E6
-t1331632810
-s998
-
-CCheck dependencies
-r0
-lSLF07#2@18"Check dependencies353325800#353325800#0(0"0(0#1#0"4300885448#0"0#
-
-CCompileC build/myDay29.build/Debug-iphonesimulator/myDay29.build/Objects-normal/i386/FlipsideView.o /Users/Decmac/Desktop/myDay29/Classes/FlipsideView.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s353325803.831252
-e353325803.967981
-r1
-xCompileC
-xbuild/myDay29.build/Debug-iphonesimulator/myDay29.build/Objects-normal/i386/FlipsideView.o
-x/Users/Decmac/Desktop/myDay29/Classes/FlipsideView.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@60"Compile /Users/Decmac/Desktop/myDay29/Classes/FlipsideView.m353325803#353325803#0(0"0(0#0#52"/Users/Decmac/Desktop/myDay29/Classes/FlipsideView.m4300885448#1784"    cd /Users/Decmac/Desktop/myDay29    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/myDay29/build/myDay29.build/Debug-iphonesimulator/myDay29.build/myDay29-generated-files.hmap -I/Users/Decmac/Desktop/myDay29/build/myDay29.build/Debug-iphonesimulator/myDay29.build/myDay29-own-target-headers.hmap -I/Users/Decmac/Desktop/myDay29/build/myDay29.build/Debug-iphonesimulator/myDay29.build/myDay29-all-target-headers.hmap -iquote /Users/Decmac/Desktop/myDay29/build/myDay29.build/Debug-iphonesimulator/myDay29.build/myDay29-project-headers.hmap -F/Users/Decmac/Desktop/myDay29/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/myDay29/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/myDay29/build/myDay29.build/Debug-iphonesimulator/myDay29.build/DerivedSources/i386 -I/Users/Decmac/Desktop/myDay29/build/myDay29.build/Debug-iphonesimulator/myDay29.build/DerivedSources -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myDay29_Prefix-ghzhvfdxybzvaqawygmlooqfhxsh/myDay29_Prefix.pch -c /Users/Decmac/Desktop/myDay29/Classes/FlipsideView.m -o /Users/Decmac/Desktop/myDay29/build/myDay29.build/Debug-iphonesimulator/myDay29.build/Objects-normal/i386/FlipsideView.o0#
-
-CCompileC build/myDay29.build/Debug-iphonesimulator/myDay29.build/Objects-normal/i386/FlipsideViewController.o /Users/Decmac/Desktop/myDay29/Classes/FlipsideViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s353325804.111611
-e353325804.294006
-r1
-xCompileC
-xbuild/myDay29.build/Debug-iphonesimulator/myDay29.build/Objects-normal/i386/FlipsideViewController.o
-x/Users/Decmac/Desktop/myDay29/Classes/FlipsideViewController.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@70"Compile /Users/Decmac/Desktop/myDay29/Classes/FlipsideViewController.m353325804#353325804#0(0"0(0#0#62"/Users/Decmac/Desktop/myDay29/Classes/FlipsideViewController.m4300885448#1804"    cd /Users/Decmac/Desktop/myDay29    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/myDay29/build/myDay29.build/Debug-iphonesimulator/myDay29.build/myDay29-generated-files.hmap -I/Users/Decmac/Desktop/myDay29/build/myDay29.build/Debug-iphonesimulator/myDay29.build/myDay29-own-target-headers.hmap -I/Users/Decmac/Desktop/myDay29/build/myDay29.build/Debug-iphonesimulator/myDay29.build/myDay29-all-target-headers.hmap -iquote /Users/Decmac/Desktop/myDay29/build/myDay29.build/Debug-iphonesimulator/myDay29.build/myDay29-project-headers.hmap -F/Users/Decmac/Desktop/myDay29/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/myDay29/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/myDay29/build/myDay29.build/Debug-iphonesimulator/myDay29.build/DerivedSources/i386 -I/Users/Decmac/Desktop/myDay29/build/myDay29.build/Debug-iphonesimulator/myDay29.build/DerivedSources -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myDay29_Prefix-ghzhvfdxybzvaqawygmlooqfhxsh/myDay29_Prefix.pch -c /Users/Decmac/Desktop/myDay29/Classes/FlipsideViewController.m -o /Users/Decmac/Desktop/myDay29/build/myDay29.build/Debug-iphonesimulator/myDay29.build/Objects-normal/i386/FlipsideViewController.o0#
-
-CCompileC build/myDay29.build/Debug-iphonesimulator/myDay29.build/Objects-normal/i386/MainView.o /Users/Decmac/Desktop/myDay29/Classes/MainView.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s353325803.968411
-e353325804.111316
-r1
-xCompileC
-xbuild/myDay29.build/Debug-iphonesimulator/myDay29.build/Objects-normal/i386/MainView.o
-x/Users/Decmac/Desktop/myDay29/Classes/MainView.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@56"Compile /Users/Decmac/Desktop/myDay29/Classes/MainView.m353325803#353325804#0(0"0(0#0#48"/Users/Decmac/Desktop/myDay29/Classes/MainView.m4300885448#1776"    cd /Users/Decmac/Desktop/myDay29    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/myDay29/build/myDay29.build/Debug-iphonesimulator/myDay29.build/myDay29-generated-files.hmap -I/Users/Decmac/Desktop/myDay29/build/myDay29.build/Debug-iphonesimulator/myDay29.build/myDay29-own-target-headers.hmap -I/Users/Decmac/Desktop/myDay29/build/myDay29.build/Debug-iphonesimulator/myDay29.build/myDay29-all-target-headers.hmap -iquote /Users/Decmac/Desktop/myDay29/build/myDay29.build/Debug-iphonesimulator/myDay29.build/myDay29-project-headers.hmap -F/Users/Decmac/Desktop/myDay29/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/myDay29/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/myDay29/build/myDay29.build/Debug-iphonesimulator/myDay29.build/DerivedSources/i386 -I/Users/Decmac/Desktop/myDay29/build/myDay29.build/Debug-iphonesimulator/myDay29.build/DerivedSources -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myDay29_Prefix-ghzhvfdxybzvaqawygmlooqfhxsh/myDay29_Prefix.pch -c /Users/Decmac/Desktop/myDay29/Classes/MainView.m -o /Users/Decmac/Desktop/myDay29/build/myDay29.build/Debug-iphonesimulator/myDay29.build/Objects-normal/i386/MainView.o0#
-
-CCompileC build/myDay29.build/Debug-iphonesimulator/myDay29.build/Objects-normal/i386/MainViewController.o /Users/Decmac/Desktop/myDay29/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s353325804.015920
-e353325804.206106
-r1
-xCompileC
-xbuild/myDay29.build/Debug-iphonesimulator/myDay29.build/Objects-normal/i386/MainViewController.o
-x/Users/Decmac/Desktop/myDay29/Classes/MainViewController.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@66"Compile /Users/Decmac/Desktop/myDay29/Classes/MainViewController.m353325804#353325804#0(0"0(0#0#58"/Users/Decmac/Desktop/myDay29/Classes/MainViewController.m4300885448#1796"    cd /Users/Decmac/Desktop/myDay29    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/myDay29/build/myDay29.build/Debug-iphonesimulator/myDay29.build/myDay29-generated-files.hmap -I/Users/Decmac/Desktop/myDay29/build/myDay29.build/Debug-iphonesimulator/myDay29.build/myDay29-own-target-headers.hmap -I/Users/Decmac/Desktop/myDay29/build/myDay29.build/Debug-iphonesimulator/myDay29.build/myDay29-all-target-headers.hmap -iquote /Users/Decmac/Desktop/myDay29/build/myDay29.build/Debug-iphonesimulator/myDay29.build/myDay29-project-headers.hmap -F/Users/Decmac/Desktop/myDay29/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/myDay29/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/myDay29/build/myDay29.build/Debug-iphonesimulator/myDay29.build/DerivedSources/i386 -I/Users/Decmac/Desktop/myDay29/build/myDay29.build/Debug-iphonesimulator/myDay29.build/DerivedSources -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myDay29_Prefix-ghzhvfdxybzvaqawygmlooqfhxsh/myDay29_Prefix.pch -c /Users/Decmac/Desktop/myDay29/Classes/MainViewController.m -o /Users/Decmac/Desktop/myDay29/build/myDay29.build/Debug-iphonesimulator/myDay29.build/Objects-normal/i386/MainViewController.o0#
-
-CCompileC build/myDay29.build/Debug-iphonesimulator/myDay29.build/Objects-normal/i386/main.o /Users/Decmac/Desktop/myDay29/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s353325803.616173
-e353325803.830969
-r1
-xCompileC
-xbuild/myDay29.build/Debug-iphonesimulator/myDay29.build/Objects-normal/i386/main.o
-x/Users/Decmac/Desktop/myDay29/main.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@44"Compile /Users/Decmac/Desktop/myDay29/main.m353325803#353325803#0(0"0(0#0#36"/Users/Decmac/Desktop/myDay29/main.m4300885448#1760"    cd /Users/Decmac/Desktop/myDay29    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/myDay29/build/myDay29.build/Debug-iphonesimulator/myDay29.build/myDay29-generated-files.hmap -I/Users/Decmac/Desktop/myDay29/build/myDay29.build/Debug-iphonesimulator/myDay29.build/myDay29-own-target-headers.hmap -I/Users/Decmac/Desktop/myDay29/build/myDay29.build/Debug-iphonesimulator/myDay29.build/myDay29-all-target-headers.hmap -iquote /Users/Decmac/Desktop/myDay29/build/myDay29.build/Debug-iphonesimulator/myDay29.build/myDay29-project-headers.hmap -F/Users/Decmac/Desktop/myDay29/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/myDay29/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/myDay29/build/myDay29.build/Debug-iphonesimulator/myDay29.build/DerivedSources/i386 -I/Users/Decmac/Desktop/myDay29/build/myDay29.build/Debug-iphonesimulator/myDay29.build/DerivedSources -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myDay29_Prefix-ghzhvfdxybzvaqawygmlooqfhxsh/myDay29_Prefix.pch -c /Users/Decmac/Desktop/myDay29/main.m -o /Users/Decmac/Desktop/myDay29/build/myDay29.build/Debug-iphonesimulator/myDay29.build/Objects-normal/i386/main.o0#
-
-CCompileC build/myDay29.build/Debug-iphonesimulator/myDay29.build/Objects-normal/i386/myDay29AppDelegate.o /Users/Decmac/Desktop/myDay29/Classes/myDay29AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s353325803.619792
-e353325804.015654
-r1
-xCompileC
-xbuild/myDay29.build/Debug-iphonesimulator/myDay29.build/Objects-normal/i386/myDay29AppDelegate.o
-x/Users/Decmac/Desktop/myDay29/Classes/myDay29AppDelegate.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@66"Compile /Users/Decmac/Desktop/myDay29/Classes/myDay29AppDelegate.m353325803#353325804#0(0"0(0#0#58"/Users/Decmac/Desktop/myDay29/Classes/myDay29AppDelegate.m4300885448#1796"    cd /Users/Decmac/Desktop/myDay29    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/myDay29/build/myDay29.build/Debug-iphonesimulator/myDay29.build/myDay29-generated-files.hmap -I/Users/Decmac/Desktop/myDay29/build/myDay29.build/Debug-iphonesimulator/myDay29.build/myDay29-own-target-headers.hmap -I/Users/Decmac/Desktop/myDay29/build/myDay29.build/Debug-iphonesimulator/myDay29.build/myDay29-all-target-headers.hmap -iquote /Users/Decmac/Desktop/myDay29/build/myDay29.build/Debug-iphonesimulator/myDay29.build/myDay29-project-headers.hmap -F/Users/Decmac/Desktop/myDay29/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/myDay29/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/myDay29/build/myDay29.build/Debug-iphonesimulator/myDay29.build/DerivedSources/i386 -I/Users/Decmac/Desktop/myDay29/build/myDay29.build/Debug-iphonesimulator/myDay29.build/DerivedSources -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myDay29_Prefix-ghzhvfdxybzvaqawygmlooqfhxsh/myDay29_Prefix.pch -c /Users/Decmac/Desktop/myDay29/Classes/myDay29AppDelegate.m -o /Users/Decmac/Desktop/myDay29/build/myDay29.build/Debug-iphonesimulator/myDay29.build/Objects-normal/i386/myDay29AppDelegate.o0#
-
-CCompileXIB /Users/Decmac/Desktop/myDay29/FlipsideView.xib
-s353325800.393798
-e353325801.298944
-r1
-xCompileXIB
-x/Users/Decmac/Desktop/myDay29/FlipsideView.xib
-o2012-03-13 10:03:20.503 ibtool[497:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 35
-lSLF07#2@27"CompileXIB FlipsideView.xib353325800#353325801#0(107"2012-03-13 10:03:20.503 ibtool[497:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 350(0#0#46"/Users/Decmac/Desktop/myDay29/FlipsideView.xib4300885448#459"    cd /Users/Decmac/Desktop/myDay29    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Decmac/Desktop/myDay29/build/Debug-iphonesimulator/myDay29.app/FlipsideView.nib /Users/Decmac/Desktop/myDay29/FlipsideView.xib0#
-
-CCompileXIB /Users/Decmac/Desktop/myDay29/MainView.xib
-s353325800.396561
-e353325801.241647
-r1
-xCompileXIB
-x/Users/Decmac/Desktop/myDay29/MainView.xib
-o2012-03-13 10:03:20.482 ibtool[498:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 35
-lSLF07#2@23"CompileXIB MainView.xib353325800#353325801#0(107"2012-03-13 10:03:20.482 ibtool[498:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 350(0#0#42"/Users/Decmac/Desktop/myDay29/MainView.xib4300885448#451"    cd /Users/Decmac/Desktop/myDay29    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Decmac/Desktop/myDay29/build/Debug-iphonesimulator/myDay29.app/MainView.nib /Users/Decmac/Desktop/myDay29/MainView.xib0#
-
-CCompileXIB /Users/Decmac/Desktop/myDay29/MainWindow.xib
-s353325801.241894
-e353325801.952261
-r1
-xCompileXIB
-x/Users/Decmac/Desktop/myDay29/MainWindow.xib
-o2012-03-13 10:03:21.375 ibtool[501:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 35
-lSLF07#2@25"CompileXIB MainWindow.xib353325801#353325801#0(107"2012-03-13 10:03:21.375 ibtool[501:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 350(0#0#44"/Users/Decmac/Desktop/myDay29/MainWindow.xib4300885448#455"    cd /Users/Decmac/Desktop/myDay29    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Decmac/Desktop/myDay29/build/Debug-iphonesimulator/myDay29.app/MainWindow.nib /Users/Decmac/Desktop/myDay29/MainWindow.xib0#
-
-CCpResource build/Debug-iphonesimulator/myDay29.app/background.png background.png
-s353325801.311248
-e353325801.351162
-r1
-xCpResource
-xbuild/Debug-iphonesimulator/myDay29.app/background.png
-xbackground.png
-lSLF07#2@19"Copy background.png353325801#353325801#0(0"0(0#0#44"/Users/Decmac/Desktop/myDay29/background.png4300885448#431"    cd /Users/Decmac/Desktop/myDay29    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Decmac/Desktop/myDay29/background.png /Users/Decmac/Desktop/myDay29/build/Debug-iphonesimulator/myDay29.app0#
-
-CCpResource build/Debug-iphonesimulator/myDay29.app/icon.png icon.png
-s353325801.299184
-e353325801.327840
-r1
-xCpResource
-xbuild/Debug-iphonesimulator/myDay29.app/icon.png
-xicon.png
-lSLF07#2@13"Copy icon.png353325801#353325801#0(0"0(0#0#38"/Users/Decmac/Desktop/myDay29/icon.png4300885448#425"    cd /Users/Decmac/Desktop/myDay29    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Decmac/Desktop/myDay29/icon.png /Users/Decmac/Desktop/myDay29/build/Debug-iphonesimulator/myDay29.app0#
-
-CCpResource build/Debug-iphonesimulator/myDay29.app/jump1.png jump1.png
-s353325801.301909
-e353325801.355886
-r1
-xCpResource
-xbuild/Debug-iphonesimulator/myDay29.app/jump1.png
-xjump1.png
-lSLF07#2@14"Copy jump1.png353325801#353325801#0(0"0(0#0#39"/Users/Decmac/Desktop/myDay29/jump1.png4300885448#426"    cd /Users/Decmac/Desktop/myDay29    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Decmac/Desktop/myDay29/jump1.png /Users/Decmac/Desktop/myDay29/build/Debug-iphonesimulator/myDay29.app0#
-
-CCpResource build/Debug-iphonesimulator/myDay29.app/jump2.png jump2.png
-s353325801.305039
-e353325801.355215
-r1
-xCpResource
-xbuild/Debug-iphonesimulator/myDay29.app/jump2.png
-xjump2.png
-lSLF07#2@14"Copy jump2.png353325801#353325801#0(0"0(0#0#39"/Users/Decmac/Desktop/myDay29/jump2.png4300885448#426"    cd /Users/Decmac/Desktop/myDay29    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Decmac/Desktop/myDay29/jump2.png /Users/Decmac/Desktop/myDay29/build/Debug-iphonesimulator/myDay29.app0#
-
-CCpResource build/Debug-iphonesimulator/myDay29.app/ryu.png ryu.png
-s353325801.314346
-e353325801.353275
-r1
-xCpResource
-xbuild/Debug-iphonesimulator/myDay29.app/ryu.png
-xryu.png
-lSLF07#2@12"Copy ryu.png353325801#353325801#0(0"0(0#0#37"/Users/Decmac/Desktop/myDay29/ryu.png4300885448#424"    cd /Users/Decmac/Desktop/myDay29    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Decmac/Desktop/myDay29/ryu.png /Users/Decmac/Desktop/myDay29/build/Debug-iphonesimulator/myDay29.app0#
-
-CCpResource build/Debug-iphonesimulator/myDay29.app/sound.caf sound.caf
-s353325801.317594
-e353325801.360012
-r1
-xCpResource
-xbuild/Debug-iphonesimulator/myDay29.app/sound.caf
-xsound.caf
-lSLF07#2@14"Copy sound.caf353325801#353325801#0(0"0(0#0#39"/Users/Decmac/Desktop/myDay29/sound.caf4300885448#426"    cd /Users/Decmac/Desktop/myDay29    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Decmac/Desktop/myDay29/sound.caf /Users/Decmac/Desktop/myDay29/build/Debug-iphonesimulator/myDay29.app0#
-
-CCpResource build/Debug-iphonesimulator/myDay29.app/up.png up.png
-s353325801.308194
-e353325801.359034
-r1
-xCpResource
-xbuild/Debug-iphonesimulator/myDay29.app/up.png
-xup.png
-lSLF07#2@11"Copy up.png353325801#353325801#0(0"0(0#0#36"/Users/Decmac/Desktop/myDay29/up.png4300885448#423"    cd /Users/Decmac/Desktop/myDay29    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Decmac/Desktop/myDay29/up.png /Users/Decmac/Desktop/myDay29/build/Debug-iphonesimulator/myDay29.app0#
-
-CGenerateDSYMFile /Users/Decmac/Desktop/myDay29/build/Debug-iphonesimulator/myDay29.app.dSYM /Users/Decmac/Desktop/myDay29/build/Debug-iphonesimulator/myDay29.app/myDay29
-s353325804.350701
-e353325804.401058
-r1
-xGenerateDSYMFile
-x/Users/Decmac/Desktop/myDay29/build/Debug-iphonesimulator/myDay29.app.dSYM
-x/Users/Decmac/Desktop/myDay29/build/Debug-iphonesimulator/myDay29.app/myDay29
-o2012-03-13 10:03:24.386 dsymutil[548:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 35
-lSLF07#2@109"GenerateDSYMFile build/Debug-iphonesimulator/myDay29.app.dSYM build/Debug-iphonesimulator/myDay29.app/myDay29353325804#353325804#0(109"2012-03-13 10:03:24.386 dsymutil[548:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 350(0#0#77"/Users/Decmac/Desktop/myDay29/build/Debug-iphonesimulator/myDay29.app/myDay294300885448#356"    cd /Users/Decmac/Desktop/myDay29    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/Decmac/Desktop/myDay29/build/Debug-iphonesimulator/myDay29.app/myDay29 -o /Users/Decmac/Desktop/myDay29/build/Debug-iphonesimulator/myDay29.app.dSYM0#
-
-CLd /Users/Decmac/Desktop/myDay29/build/Debug-iphonesimulator/myDay29.app/myDay29 normal i386
-s353325804.294261
-e353325804.350390
-r1
-xLd
-x/Users/Decmac/Desktop/myDay29/build/Debug-iphonesimulator/myDay29.app/myDay29
-xnormal
-xi386
-lSLF07#2@82"Link /Users/Decmac/Desktop/myDay29/build/Debug-iphonesimulator/myDay29.app/myDay29353325804#353325804#0(0"0(0#0#0"4300885448#865"    cd /Users/Decmac/Desktop/myDay29    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -L/Users/Decmac/Desktop/myDay29/build/Debug-iphonesimulator -F/Users/Decmac/Desktop/myDay29/build/Debug-iphonesimulator -filelist /Users/Decmac/Desktop/myDay29/build/myDay29.build/Debug-iphonesimulator/myDay29.build/Objects-normal/i386/myDay29.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -framework QuartzCore -framework AudioToolbox -o /Users/Decmac/Desktop/myDay29/build/Debug-iphonesimulator/myDay29.app/myDay290#
-
-CProcessInfoPlistFile /Users/Decmac/Desktop/myDay29/build/Debug-iphonesimulator/myDay29.app/Info.plist myDay29-Info.plist
-s353325800.354443
-e353325800.393515
-r1
-xProcessInfoPlistFile
-x/Users/Decmac/Desktop/myDay29/build/Debug-iphonesimulator/myDay29.app/Info.plist
-xmyDay29-Info.plist
-lSLF07#2@26"Process myDay29-Info.plist353325800#353325800#0(0"0(0#0#48"/Users/Decmac/Desktop/myDay29/myDay29-Info.plist4300885448#452"    cd /Users/Decmac/Desktop/myDay29    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility myDay29-Info.plist -genpkginfo /Users/Decmac/Desktop/myDay29/build/Debug-iphonesimulator/myDay29.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/Decmac/Desktop/myDay29/build/Debug-iphonesimulator/myDay29.app/Info.plist0#
-
-CProcessPCH /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myDay29_Prefix-ghzhvfdxybzvaqawygmlooqfhxsh/myDay29_Prefix.pch.gch myDay29_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-s353325801.952845
-e353325803.615650
-r1
-xProcessPCH
-x/var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myDay29_Prefix-ghzhvfdxybzvaqawygmlooqfhxsh/myDay29_Prefix.pch.gch
-xmyDay29_Prefix.pch
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@29"Precompile myDay29_Prefix.pch353325801#353325803#0(0"0(0#0#48"/Users/Decmac/Desktop/myDay29/myDay29_Prefix.pch4300885448#1661"    cd /Users/Decmac/Desktop/myDay29    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/myDay29/build/myDay29.build/Debug-iphonesimulator/myDay29.build/myDay29-generated-files.hmap -I/Users/Decmac/Desktop/myDay29/build/myDay29.build/Debug-iphonesimulator/myDay29.build/myDay29-own-target-headers.hmap -I/Users/Decmac/Desktop/myDay29/build/myDay29.build/Debug-iphonesimulator/myDay29.build/myDay29-all-target-headers.hmap -iquote /Users/Decmac/Desktop/myDay29/build/myDay29.build/Debug-iphonesimulator/myDay29.build/myDay29-project-headers.hmap -F/Users/Decmac/Desktop/myDay29/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/myDay29/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/myDay29/build/myDay29.build/Debug-iphonesimulator/myDay29.build/DerivedSources/i386 -I/Users/Decmac/Desktop/myDay29/build/myDay29.build/Debug-iphonesimulator/myDay29.build/DerivedSources -c /Users/Decmac/Desktop/myDay29/myDay29_Prefix.pch -o /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myDay29_Prefix-ghzhvfdxybzvaqawygmlooqfhxsh/myDay29_Prefix.pch.gch0#
-
-CTouch /Users/Decmac/Desktop/myDay29/build/Debug-iphonesimulator/myDay29.app
-s353325804.401304
-e353325804.409819
-r1
-xTouch
-x/Users/Decmac/Desktop/myDay29/build/Debug-iphonesimulator/myDay29.app
-lSLF07#2@75"Touch /Users/Decmac/Desktop/myDay29/build/Debug-iphonesimulator/myDay29.app353325804#353325804#0(0"0(0#0#0"4300885448#260"    cd /Users/Decmac/Desktop/myDay29    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/Decmac/Desktop/myDay29/build/Debug-iphonesimulator/myDay29.app0#
-

@@ -1,476 +1,0 @@
-TmyDay03
-v7
-r0
-t354406533.341871
-cCheck dependencies
-cProcessInfoPlistFile "/Volumes/新加卷 3/iphone back-up/myDay03/build/Debug-iphonesimulator/myDay03.app/Info.plist" myDay03-Info.plist
-cCompileXIB "/Volumes/新加卷 3/iphone back-up/myDay03/MainWindow.xib"
-cCompileXIB "/Volumes/新加卷 3/iphone back-up/myDay03/myDay03ViewController.xib"
-cCpResource build/Debug-iphonesimulator/myDay03.app/Settings.bundle Settings.bundle
-cProcessPCH /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myDay03_Prefix-bsoperplshuclsggojdlnnaknlii/myDay03_Prefix.pch.gch myDay03_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/myDay03.build/Debug-iphonesimulator/myDay03.build/Objects-normal/i386/main.o "/Volumes/新加卷 3/iphone back-up/myDay03/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/myDay03.build/Debug-iphonesimulator/myDay03.build/Objects-normal/i386/myDay03AppDelegate.o "/Volumes/新加卷 3/iphone back-up/myDay03/Classes/myDay03AppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/myDay03.build/Debug-iphonesimulator/myDay03.build/Objects-normal/i386/myDay03ViewController.o "/Volumes/新加卷 3/iphone back-up/myDay03/Classes/myDay03ViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-cLd "/Volumes/新加卷 3/iphone back-up/myDay03/build/Debug-iphonesimulator/myDay03.app/myDay03" normal i386
-cGenerateDSYMFile "/Volumes/新加卷 3/iphone back-up/myDay03/build/Debug-iphonesimulator/myDay03.app.dSYM" "/Volumes/新加卷 3/iphone back-up/myDay03/build/Debug-iphonesimulator/myDay03.app/myDay03"
-cTouch "/Volumes/新加卷 3/iphone back-up/myDay03/build/Debug-iphonesimulator/myDay03.app"
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk
-c000000004F3A580900000000000000EE
-t1329223689
-s238
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
-c000000004B2B4CC3000000000026EE30
-t1261128899
-s2551344
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
-c000000004B2B4DC8000000000027E880
-t1261129160
-s2615424
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
-c000000004B2B4DAE0000000000001355
-t1261129134
-s4949
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
-c000000004B2B61620000000000000788
-t1261134178
-s1928
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
-c000000004B2B62B500000000016721E0
-t1261134517
-s23536096
-
-N/Users/Decmac/Desktop/myDay03/Classes/myDay03AppDelegate.h
-c000000004F4664D900000000000001DC
-t1330013401
-s476
-i<UIKit/UIKit.h>
-
-N/Users/Decmac/Desktop/myDay03/Classes/myDay03AppDelegate.m
-c000000004F4664D90000000000000267
-t1330013401
-s615
-i"myDay03AppDelegate.h"
-i"myDay03ViewController.h"
-
-N/Users/Decmac/Desktop/myDay03/Classes/myDay03ViewController.h
-c000000004F46A6A30000000000000284
-t1330030243
-s644
-i<UIKit/UIKit.h>
-i<Foundation/Foundation.h>
-
-N/Users/Decmac/Desktop/myDay03/Classes/myDay03ViewController.m
-c000000004F46A8130000000000000933
-t1330030611
-s2355
-i"myDay03ViewController.h"
-
-N/Users/Decmac/Desktop/myDay03/MainWindow.xib
-c000000004F4664D9000000000000244E
-t1330013401
-s9294
-
-N/Users/Decmac/Desktop/myDay03/Settings.bundle
-c000000004F4677FF0000000000000088
-t1330018303
-s136
-
-N/Users/Decmac/Desktop/myDay03/build/Debug-iphonesimulator/myDay03.app
-t1330030612
-s272
-
-N/Users/Decmac/Desktop/myDay03/build/Debug-iphonesimulator/myDay03.app.dSYM
-t1330030612
-s102
-
-N/Users/Decmac/Desktop/myDay03/build/Debug-iphonesimulator/myDay03.app/Info.plist
-t1330017480
-s564
-
-N/Users/Decmac/Desktop/myDay03/build/Debug-iphonesimulator/myDay03.app/MainWindow.nib
-t1330017481
-s1495
-
-N/Users/Decmac/Desktop/myDay03/build/Debug-iphonesimulator/myDay03.app/PkgInfo
-t1330017480
-s8
-
-N/Users/Decmac/Desktop/myDay03/build/Debug-iphonesimulator/myDay03.app/Settings.bundle
-t1330018303
-s136
-
-N/Users/Decmac/Desktop/myDay03/build/Debug-iphonesimulator/myDay03.app/myDay03
-t1330030612
-s21264
-
-N/Users/Decmac/Desktop/myDay03/build/Debug-iphonesimulator/myDay03.app/myDay03ViewController.nib
-t1330030022
-s3035
-
-N/Users/Decmac/Desktop/myDay03/build/myDay03.build/Debug-iphonesimulator/myDay03.build/Objects-normal/i386/main.o
-t1330017483
-s5940
-
-N/Users/Decmac/Desktop/myDay03/build/myDay03.build/Debug-iphonesimulator/myDay03.build/Objects-normal/i386/myDay03.LinkFileList
-c000000004F4674C80000000000000172
-t1330017480
-s370
-
-N/Users/Decmac/Desktop/myDay03/build/myDay03.build/Debug-iphonesimulator/myDay03.build/Objects-normal/i386/myDay03AppDelegate.o
-t1330030558
-s38176
-
-N/Users/Decmac/Desktop/myDay03/build/myDay03.build/Debug-iphonesimulator/myDay03.build/Objects-normal/i386/myDay03ViewController.o
-t1330030612
-s37328
-
-N/Users/Decmac/Desktop/myDay03/main.m
-c000000004F4664D90000000000000166
-t1330013401
-s358
-i<UIKit/UIKit.h>
-
-N/Users/Decmac/Desktop/myDay03/myDay03ViewController.xib
-c000000004F46A5BF0000000000005D20
-t1330030015
-s23840
-
-N/Users/Decmac/Desktop/myDay03/myDay03_Prefix.pch
-c000000004F4664D900000000000000B7
-t1330013401
-s183
-i<Foundation/Foundation.h>
-i<UIKit/UIKit.h>
-
-N/Volumes/新加卷 3/iphone back-up/myDay03/Classes/myDay03AppDelegate.h
-c000000004F4664D800000000000001DC
-t1330013400
-s476
-i<UIKit/UIKit.h>
-
-N/Volumes/新加卷 3/iphone back-up/myDay03/Classes/myDay03AppDelegate.m
-c000000004F4664D80000000000000267
-t1330013400
-s615
-i"myDay03AppDelegate.h"
-i"myDay03ViewController.h"
-
-N/Volumes/新加卷 3/iphone back-up/myDay03/Classes/myDay03ViewController.h
-c000000004F46A6A20000000000000284
-t1330030242
-s644
-i<UIKit/UIKit.h>
-i<Foundation/Foundation.h>
-
-N/Volumes/新加卷 3/iphone back-up/myDay03/Classes/myDay03ViewController.m
-c000000004F46A8120000000000000933
-t1330030610
-s2355
-i"myDay03ViewController.h"
-
-N/Volumes/新加卷 3/iphone back-up/myDay03/MainWindow.xib
-c000000004F4664D8000000000000244E
-t1330013400
-s9294
-
-N/Volumes/新加卷 3/iphone back-up/myDay03/Settings.bundle
-c000000004F5355A00000000000004000
-t1330861472
-s16384
-
-N/Volumes/新加卷 3/iphone back-up/myDay03/build/Debug-iphonesimulator/myDay03.app
-t1332713732
-s16384
-
-N/Volumes/新加卷 3/iphone back-up/myDay03/build/Debug-iphonesimulator/myDay03.app.dSYM
-t1332713732
-s16384
-
-N/Volumes/新加卷 3/iphone back-up/myDay03/build/Debug-iphonesimulator/myDay03.app/Info.plist
-t1330017480
-s564
-
-N/Volumes/新加卷 3/iphone back-up/myDay03/build/Debug-iphonesimulator/myDay03.app/MainWindow.nib
-t1330017480
-s1495
-
-N/Volumes/新加卷 3/iphone back-up/myDay03/build/Debug-iphonesimulator/myDay03.app/PkgInfo
-t1330017480
-s8
-
-N/Volumes/新加卷 3/iphone back-up/myDay03/build/Debug-iphonesimulator/myDay03.app/Settings.bundle
-t1330861472
-s16384
-
-N/Volumes/新加卷 3/iphone back-up/myDay03/build/Debug-iphonesimulator/myDay03.app/myDay03
-t1332713732
-s21348
-
-N/Volumes/新加卷 3/iphone back-up/myDay03/build/Debug-iphonesimulator/myDay03.app/myDay03ViewController.nib
-t1330030022
-s3035
-
-N/Volumes/新加卷 3/iphone back-up/myDay03/build/myDay03.build/Debug-iphonesimulator/myDay03.build/Objects-normal/i386/main.o
-t1332713732
-s5968
-
-N/Volumes/新加卷 3/iphone back-up/myDay03/build/myDay03.build/Debug-iphonesimulator/myDay03.build/Objects-normal/i386/myDay03.LinkFileList
-c000000004F6F9902000000000000019C
-t1332713730
-s412
-
-N/Volumes/新加卷 3/iphone back-up/myDay03/build/myDay03.build/Debug-iphonesimulator/myDay03.build/Objects-normal/i386/myDay03AppDelegate.o
-t1332713732
-s38204
-
-N/Volumes/新加卷 3/iphone back-up/myDay03/build/myDay03.build/Debug-iphonesimulator/myDay03.build/Objects-normal/i386/myDay03ViewController.o
-t1332713732
-s37356
-
-N/Volumes/新加卷 3/iphone back-up/myDay03/main.m
-c000000004F4664D80000000000000166
-t1330013400
-s358
-i<UIKit/UIKit.h>
-
-N/Volumes/新加卷 3/iphone back-up/myDay03/myDay03ViewController.xib
-c000000004F46A5BE0000000000005D20
-t1330030014
-s23840
-
-N/Volumes/新加卷 3/iphone back-up/myDay03/myDay03_Prefix.pch
-c000000004F4664D800000000000000B7
-t1330013400
-s183
-i<Foundation/Foundation.h>
-i<UIKit/UIKit.h>
-
-N/var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myDay03_Prefix-bsoperplshuclsggojdlnnaknlii/myDay03_Prefix.pch.gch
-t1332713732
-s13034960
-
-N/var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myDay03_Prefix-gyrbuzalffazxmehtmmqckmkvuwi/myDay03_Prefix.pch.gch
-t1330017483
-s13034960
-
-NmyDay03-Info.plist
-c000000004F4664D8000000000000038D
-t1330013400
-s909
-
-CCheck dependencies
-r0
-lSLF07#2@18"Check dependencies354406530#354406531#0(0"0(0#1#0"4300885448#0"0#
-
-CCompileC build/myDay03.build/Debug-iphonesimulator/myDay03.build/Objects-normal/i386/main.o "/Volumes/新加卷 3/iphone back-up/myDay03/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-s354406532.865343
-e354406533.013388
-r1
-xCompileC
-xbuild/myDay03.build/Debug-iphonesimulator/myDay03.build/Objects-normal/i386/main.o
-x/Volumes/新加卷 3/iphone back-up/myDay03/main.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@58"Compile /Volumes/新加卷 3/iphone back-up/myDay03/main.m354406532#354406533#0(0"0(0#0#50"/Volumes/新加卷 3/iphone back-up/myDay03/main.m4300885448#1936"    cd "/Volumes/新加卷 3/iphone back-up/myDay03"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Volumes/新加卷 3/iphone back-up/myDay03/build/myDay03.build/Debug-iphonesimulator/myDay03.build/myDay03-generated-files.hmap" "-I/Volumes/新加卷 3/iphone back-up/myDay03/build/myDay03.build/Debug-iphonesimulator/myDay03.build/myDay03-own-target-headers.hmap" "-I/Volumes/新加卷 3/iphone back-up/myDay03/build/myDay03.build/Debug-iphonesimulator/myDay03.build/myDay03-all-target-headers.hmap" -iquote "/Volumes/新加卷 3/iphone back-up/myDay03/build/myDay03.build/Debug-iphonesimulator/myDay03.build/myDay03-project-headers.hmap" "-F/Volumes/新加卷 3/iphone back-up/myDay03/build/Debug-iphonesimulator" "-I/Volumes/新加卷 3/iphone back-up/myDay03/build/Debug-iphonesimulator/include" "-I/Volumes/新加卷 3/iphone back-up/myDay03/build/myDay03.build/Debug-iphonesimulator/myDay03.build/DerivedSources/i386" "-I/Volumes/新加卷 3/iphone back-up/myDay03/build/myDay03.build/Debug-iphonesimulator/myDay03.build/DerivedSources" -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myDay03_Prefix-bsoperplshuclsggojdlnnaknlii/myDay03_Prefix.pch -c "/Volumes/新加卷 3/iphone back-up/myDay03/main.m" -o "/Volumes/新加卷 3/iphone back-up/myDay03/build/myDay03.build/Debug-iphonesimulator/myDay03.build/Objects-normal/i386/main.o"0#
-
-CCompileC build/myDay03.build/Debug-iphonesimulator/myDay03.build/Objects-normal/i386/main.o /Users/Decmac/Desktop/myDay03/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s351710283.590430
-e351710283.820493
-r1
-xCompileC
-xbuild/myDay03.build/Debug-iphonesimulator/myDay03.build/Objects-normal/i386/main.o
-x/Users/Decmac/Desktop/myDay03/main.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@44"Compile /Users/Decmac/Desktop/myDay03/main.m351710283#351710283#0(0"0(0#0#36"/Users/Decmac/Desktop/myDay03/main.m4300885448#1760"    cd /Users/Decmac/Desktop/myDay03    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/myDay03/build/myDay03.build/Debug-iphonesimulator/myDay03.build/myDay03-generated-files.hmap -I/Users/Decmac/Desktop/myDay03/build/myDay03.build/Debug-iphonesimulator/myDay03.build/myDay03-own-target-headers.hmap -I/Users/Decmac/Desktop/myDay03/build/myDay03.build/Debug-iphonesimulator/myDay03.build/myDay03-all-target-headers.hmap -iquote /Users/Decmac/Desktop/myDay03/build/myDay03.build/Debug-iphonesimulator/myDay03.build/myDay03-project-headers.hmap -F/Users/Decmac/Desktop/myDay03/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/myDay03/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/myDay03/build/myDay03.build/Debug-iphonesimulator/myDay03.build/DerivedSources/i386 -I/Users/Decmac/Desktop/myDay03/build/myDay03.build/Debug-iphonesimulator/myDay03.build/DerivedSources -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myDay03_Prefix-gyrbuzalffazxmehtmmqckmkvuwi/myDay03_Prefix.pch -c /Users/Decmac/Desktop/myDay03/main.m -o /Users/Decmac/Desktop/myDay03/build/myDay03.build/Debug-iphonesimulator/myDay03.build/Objects-normal/i386/main.o0#
-
-CCompileC build/myDay03.build/Debug-iphonesimulator/myDay03.build/Objects-normal/i386/myDay03AppDelegate.o "/Volumes/新加卷 3/iphone back-up/myDay03/Classes/myDay03AppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-s354406532.868450
-e354406533.123424
-r1
-xCompileC
-xbuild/myDay03.build/Debug-iphonesimulator/myDay03.build/Objects-normal/i386/myDay03AppDelegate.o
-x/Volumes/新加卷 3/iphone back-up/myDay03/Classes/myDay03AppDelegate.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@80"Compile /Volumes/新加卷 3/iphone back-up/myDay03/Classes/myDay03AppDelegate.m354406532#354406533#0(0"0(0#0#72"/Volumes/新加卷 3/iphone back-up/myDay03/Classes/myDay03AppDelegate.m4300885448#1972"    cd "/Volumes/新加卷 3/iphone back-up/myDay03"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Volumes/新加卷 3/iphone back-up/myDay03/build/myDay03.build/Debug-iphonesimulator/myDay03.build/myDay03-generated-files.hmap" "-I/Volumes/新加卷 3/iphone back-up/myDay03/build/myDay03.build/Debug-iphonesimulator/myDay03.build/myDay03-own-target-headers.hmap" "-I/Volumes/新加卷 3/iphone back-up/myDay03/build/myDay03.build/Debug-iphonesimulator/myDay03.build/myDay03-all-target-headers.hmap" -iquote "/Volumes/新加卷 3/iphone back-up/myDay03/build/myDay03.build/Debug-iphonesimulator/myDay03.build/myDay03-project-headers.hmap" "-F/Volumes/新加卷 3/iphone back-up/myDay03/build/Debug-iphonesimulator" "-I/Volumes/新加卷 3/iphone back-up/myDay03/build/Debug-iphonesimulator/include" "-I/Volumes/新加卷 3/iphone back-up/myDay03/build/myDay03.build/Debug-iphonesimulator/myDay03.build/DerivedSources/i386" "-I/Volumes/新加卷 3/iphone back-up/myDay03/build/myDay03.build/Debug-iphonesimulator/myDay03.build/DerivedSources" -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myDay03_Prefix-bsoperplshuclsggojdlnnaknlii/myDay03_Prefix.pch -c "/Volumes/新加卷 3/iphone back-up/myDay03/Classes/myDay03AppDelegate.m" -o "/Volumes/新加卷 3/iphone back-up/myDay03/build/myDay03.build/Debug-iphonesimulator/myDay03.build/Objects-normal/i386/myDay03AppDelegate.o"0#
-
-CCompileC build/myDay03.build/Debug-iphonesimulator/myDay03.build/Objects-normal/i386/myDay03AppDelegate.o /Users/Decmac/Desktop/myDay03/Classes/myDay03AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s351723357.920734
-e351723358.283461
-r1
-xCompileC
-xbuild/myDay03.build/Debug-iphonesimulator/myDay03.build/Objects-normal/i386/myDay03AppDelegate.o
-x/Users/Decmac/Desktop/myDay03/Classes/myDay03AppDelegate.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@66"Compile /Users/Decmac/Desktop/myDay03/Classes/myDay03AppDelegate.m351723357#351723358#0(0"0(0#0#58"/Users/Decmac/Desktop/myDay03/Classes/myDay03AppDelegate.m4300885448#1796"    cd /Users/Decmac/Desktop/myDay03    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/myDay03/build/myDay03.build/Debug-iphonesimulator/myDay03.build/myDay03-generated-files.hmap -I/Users/Decmac/Desktop/myDay03/build/myDay03.build/Debug-iphonesimulator/myDay03.build/myDay03-own-target-headers.hmap -I/Users/Decmac/Desktop/myDay03/build/myDay03.build/Debug-iphonesimulator/myDay03.build/myDay03-all-target-headers.hmap -iquote /Users/Decmac/Desktop/myDay03/build/myDay03.build/Debug-iphonesimulator/myDay03.build/myDay03-project-headers.hmap -F/Users/Decmac/Desktop/myDay03/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/myDay03/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/myDay03/build/myDay03.build/Debug-iphonesimulator/myDay03.build/DerivedSources/i386 -I/Users/Decmac/Desktop/myDay03/build/myDay03.build/Debug-iphonesimulator/myDay03.build/DerivedSources -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myDay03_Prefix-gyrbuzalffazxmehtmmqckmkvuwi/myDay03_Prefix.pch -c /Users/Decmac/Desktop/myDay03/Classes/myDay03AppDelegate.m -o /Users/Decmac/Desktop/myDay03/build/myDay03.build/Debug-iphonesimulator/myDay03.build/Objects-normal/i386/myDay03AppDelegate.o0#
-
-CCompileC build/myDay03.build/Debug-iphonesimulator/myDay03.build/Objects-normal/i386/myDay03ViewController.o "/Volumes/新加卷 3/iphone back-up/myDay03/Classes/myDay03ViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-s354406533.013675
-e354406533.229166
-r1
-xCompileC
-xbuild/myDay03.build/Debug-iphonesimulator/myDay03.build/Objects-normal/i386/myDay03ViewController.o
-x/Volumes/新加卷 3/iphone back-up/myDay03/Classes/myDay03ViewController.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@83"Compile /Volumes/新加卷 3/iphone back-up/myDay03/Classes/myDay03ViewController.m354406533#354406533#0(0"0(0#0#75"/Volumes/新加卷 3/iphone back-up/myDay03/Classes/myDay03ViewController.m4300885448#1978"    cd "/Volumes/新加卷 3/iphone back-up/myDay03"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Volumes/新加卷 3/iphone back-up/myDay03/build/myDay03.build/Debug-iphonesimulator/myDay03.build/myDay03-generated-files.hmap" "-I/Volumes/新加卷 3/iphone back-up/myDay03/build/myDay03.build/Debug-iphonesimulator/myDay03.build/myDay03-own-target-headers.hmap" "-I/Volumes/新加卷 3/iphone back-up/myDay03/build/myDay03.build/Debug-iphonesimulator/myDay03.build/myDay03-all-target-headers.hmap" -iquote "/Volumes/新加卷 3/iphone back-up/myDay03/build/myDay03.build/Debug-iphonesimulator/myDay03.build/myDay03-project-headers.hmap" "-F/Volumes/新加卷 3/iphone back-up/myDay03/build/Debug-iphonesimulator" "-I/Volumes/新加卷 3/iphone back-up/myDay03/build/Debug-iphonesimulator/include" "-I/Volumes/新加卷 3/iphone back-up/myDay03/build/myDay03.build/Debug-iphonesimulator/myDay03.build/DerivedSources/i386" "-I/Volumes/新加卷 3/iphone back-up/myDay03/build/myDay03.build/Debug-iphonesimulator/myDay03.build/DerivedSources" -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myDay03_Prefix-bsoperplshuclsggojdlnnaknlii/myDay03_Prefix.pch -c "/Volumes/新加卷 3/iphone back-up/myDay03/Classes/myDay03ViewController.m" -o "/Volumes/新加卷 3/iphone back-up/myDay03/build/myDay03.build/Debug-iphonesimulator/myDay03.build/Objects-normal/i386/myDay03ViewController.o"0#
-
-CCompileC build/myDay03.build/Debug-iphonesimulator/myDay03.build/Objects-normal/i386/myDay03ViewController.o /Users/Decmac/Desktop/myDay03/Classes/myDay03ViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s351723411.984026
-e351723412.584003
-r1
-xCompileC
-xbuild/myDay03.build/Debug-iphonesimulator/myDay03.build/Objects-normal/i386/myDay03ViewController.o
-x/Users/Decmac/Desktop/myDay03/Classes/myDay03ViewController.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@69"Compile /Users/Decmac/Desktop/myDay03/Classes/myDay03ViewController.m351723411#351723412#0(0"0(0#0#61"/Users/Decmac/Desktop/myDay03/Classes/myDay03ViewController.m4300885448#1802"    cd /Users/Decmac/Desktop/myDay03    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/myDay03/build/myDay03.build/Debug-iphonesimulator/myDay03.build/myDay03-generated-files.hmap -I/Users/Decmac/Desktop/myDay03/build/myDay03.build/Debug-iphonesimulator/myDay03.build/myDay03-own-target-headers.hmap -I/Users/Decmac/Desktop/myDay03/build/myDay03.build/Debug-iphonesimulator/myDay03.build/myDay03-all-target-headers.hmap -iquote /Users/Decmac/Desktop/myDay03/build/myDay03.build/Debug-iphonesimulator/myDay03.build/myDay03-project-headers.hmap -F/Users/Decmac/Desktop/myDay03/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/myDay03/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/myDay03/build/myDay03.build/Debug-iphonesimulator/myDay03.build/DerivedSources/i386 -I/Users/Decmac/Desktop/myDay03/build/myDay03.build/Debug-iphonesimulator/myDay03.build/DerivedSources -include /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myDay03_Prefix-gyrbuzalffazxmehtmmqckmkvuwi/myDay03_Prefix.pch -c /Users/Decmac/Desktop/myDay03/Classes/myDay03ViewController.m -o /Users/Decmac/Desktop/myDay03/build/myDay03.build/Debug-iphonesimulator/myDay03.build/Objects-normal/i386/myDay03ViewController.o0#
-
-CCompileXIB "/Volumes/新加卷 3/iphone back-up/myDay03/MainWindow.xib"
-r0
-
-CCompileXIB "/Volumes/新加卷 3/iphone back-up/myDay03/myDay03ViewController.xib"
-r0
-
-CCompileXIB /Users/Decmac/Desktop/myDay03/MainWindow.xib
-s351710280.561897
-e351710281.362545
-r1
-xCompileXIB
-x/Users/Decmac/Desktop/myDay03/MainWindow.xib
-o2012-02-23 17:18:00.655 ibtool[324:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 35
-oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
-lSLF07#2@25"CompileXIB MainWindow.xib351710280#351710281#0(191"2012-02-23 17:18:00.655 ibtool[324:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 35Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#44"/Users/Decmac/Desktop/myDay03/MainWindow.xib4300885448#455"    cd /Users/Decmac/Desktop/myDay03    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Decmac/Desktop/myDay03/build/Debug-iphonesimulator/myDay03.app/MainWindow.nib /Users/Decmac/Desktop/myDay03/MainWindow.xib0#
-
-CCompileXIB /Users/Decmac/Desktop/myDay03/myDay03ViewController.xib
-s351722821.324361
-e351722822.269512
-r1
-xCompileXIB
-x/Users/Decmac/Desktop/myDay03/myDay03ViewController.xib
-o2012-02-23 20:47:01.420 ibtool[416:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 35
-lSLF07#2@36"CompileXIB myDay03ViewController.xib351722821#351722822#0(107"2012-02-23 20:47:01.420 ibtool[416:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 350(0#0#55"/Users/Decmac/Desktop/myDay03/myDay03ViewController.xib4300885448#477"    cd /Users/Decmac/Desktop/myDay03    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Decmac/Desktop/myDay03/build/Debug-iphonesimulator/myDay03.app/myDay03ViewController.nib /Users/Decmac/Desktop/myDay03/myDay03ViewController.xib0#
-
-CCpResource build/Debug-iphonesimulator/myDay03.app/Settings.bundle Settings.bundle
-s351711103.558980
-e351711103.577373
-r1
-xCpResource
-xbuild/Debug-iphonesimulator/myDay03.app/Settings.bundle
-xSettings.bundle
-lSLF07#2@20"Copy Settings.bundle351711103#351711103#0(0"0(0#0#45"/Users/Decmac/Desktop/myDay03/Settings.bundle4300885448#432"    cd /Users/Decmac/Desktop/myDay03    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Decmac/Desktop/myDay03/Settings.bundle /Users/Decmac/Desktop/myDay03/build/Debug-iphonesimulator/myDay03.app0#
-
-CGenerateDSYMFile "/Volumes/新加卷 3/iphone back-up/myDay03/build/Debug-iphonesimulator/myDay03.app.dSYM" "/Volumes/新加卷 3/iphone back-up/myDay03/build/Debug-iphonesimulator/myDay03.app/myDay03"
-s354406533.281721
-e354406533.334334
-r1
-xGenerateDSYMFile
-x/Volumes/新加卷 3/iphone back-up/myDay03/build/Debug-iphonesimulator/myDay03.app.dSYM
-x/Volumes/新加卷 3/iphone back-up/myDay03/build/Debug-iphonesimulator/myDay03.app/myDay03
-o2012-03-25 22:15:33.319 dsymutil[1031:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 35
-lSLF07#2@109"GenerateDSYMFile build/Debug-iphonesimulator/myDay03.app.dSYM build/Debug-iphonesimulator/myDay03.app/myDay03354406533#354406533#0(110"2012-03-25 22:15:33.319 dsymutil[1031:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 350(0#0#91"/Volumes/新加卷 3/iphone back-up/myDay03/build/Debug-iphonesimulator/myDay03.app/myDay034300885448#404"    cd "/Volumes/新加卷 3/iphone back-up/myDay03"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Volumes/新加卷 3/iphone back-up/myDay03/build/Debug-iphonesimulator/myDay03.app/myDay03" -o "/Volumes/新加卷 3/iphone back-up/myDay03/build/Debug-iphonesimulator/myDay03.app.dSYM"0#
-
-CGenerateDSYMFile /Users/Decmac/Desktop/myDay03/build/Debug-iphonesimulator/myDay03.app.dSYM /Users/Decmac/Desktop/myDay03/build/Debug-iphonesimulator/myDay03.app/myDay03
-s351723412.635570
-e351723412.681568
-r1
-xGenerateDSYMFile
-x/Users/Decmac/Desktop/myDay03/build/Debug-iphonesimulator/myDay03.app.dSYM
-x/Users/Decmac/Desktop/myDay03/build/Debug-iphonesimulator/myDay03.app/myDay03
-o2012-02-23 20:56:52.666 dsymutil[536:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 35
-lSLF07#2@109"GenerateDSYMFile build/Debug-iphonesimulator/myDay03.app.dSYM build/Debug-iphonesimulator/myDay03.app/myDay03351723412#351723412#0(109"2012-02-23 20:56:52.666 dsymutil[536:607] _CFGetHostUUIDString: unable to determine UUID for host. Error: 350(0#0#77"/Users/Decmac/Desktop/myDay03/build/Debug-iphonesimulator/myDay03.app/myDay034300885448#356"    cd /Users/Decmac/Desktop/myDay03    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/Decmac/Desktop/myDay03/build/Debug-iphonesimulator/myDay03.app/myDay03 -o /Users/Decmac/Desktop/myDay03/build/Debug-iphonesimulator/myDay03.app.dSYM0#
-
-CLd "/Volumes/新加卷 3/iphone back-up/myDay03/build/Debug-iphonesimulator/myDay03.app/myDay03" normal i386
-s354406533.229419
-e354406533.281442
-r1
-xLd
-x/Volumes/新加卷 3/iphone back-up/myDay03/build/Debug-iphonesimulator/myDay03.app/myDay03
-xnormal
-xi386
-lSLF07#2@96"Link /Volumes/新加卷 3/iphone back-up/myDay03/build/Debug-iphonesimulator/myDay03.app/myDay03354406533#354406533#0(0"0(0#0#0"4300885448#899"    cd "/Volumes/新加卷 3/iphone back-up/myDay03"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk "-L/Volumes/新加卷 3/iphone back-up/myDay03/build/Debug-iphonesimulator" "-F/Volumes/新加卷 3/iphone back-up/myDay03/build/Debug-iphonesimulator" -filelist "/Volumes/新加卷 3/iphone back-up/myDay03/build/myDay03.build/Debug-iphonesimulator/myDay03.build/Objects-normal/i386/myDay03.LinkFileList" -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Volumes/新加卷 3/iphone back-up/myDay03/build/Debug-iphonesimulator/myDay03.app/myDay03"0#
-
-CLd /Users/Decmac/Desktop/myDay03/build/Debug-iphonesimulator/myDay03.app/myDay03 normal i386
-s351723412.584247
-e351723412.635274
-r1
-xLd
-x/Users/Decmac/Desktop/myDay03/build/Debug-iphonesimulator/myDay03.app/myDay03
-xnormal
-xi386
-lSLF07#2@82"Link /Users/Decmac/Desktop/myDay03/build/Debug-iphonesimulator/myDay03.app/myDay03351723412#351723412#0(0"0(0#0#0"4300885448#819"    cd /Users/Decmac/Desktop/myDay03    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -L/Users/Decmac/Desktop/myDay03/build/Debug-iphonesimulator -F/Users/Decmac/Desktop/myDay03/build/Debug-iphonesimulator -filelist /Users/Decmac/Desktop/myDay03/build/myDay03.build/Debug-iphonesimulator/myDay03.build/Objects-normal/i386/myDay03.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/Decmac/Desktop/myDay03/build/Debug-iphonesimulator/myDay03.app/myDay030#
-
-CProcessInfoPlistFile "/Volumes/新加卷 3/iphone back-up/myDay03/build/Debug-iphonesimulator/myDay03.app/Info.plist" myDay03-Info.plist
-r0
-
-CProcessInfoPlistFile /Users/Decmac/Desktop/myDay03/build/Debug-iphonesimulator/myDay03.app/Info.plist myDay03-Info.plist
-s351710280.509486
-e351710280.561579
-r1
-xProcessInfoPlistFile
-x/Users/Decmac/Desktop/myDay03/build/Debug-iphonesimulator/myDay03.app/Info.plist
-xmyDay03-Info.plist
-lSLF07#2@26"Process myDay03-Info.plist351710280#351710280#0(0"0(0#0#48"/Users/Decmac/Desktop/myDay03/myDay03-Info.plist30681223440564324#452"    cd /Users/Decmac/Desktop/myDay03    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility myDay03-Info.plist -genpkginfo /Users/Decmac/Desktop/myDay03/build/Debug-iphonesimulator/myDay03.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/Decmac/Desktop/myDay03/build/Debug-iphonesimulator/myDay03.app/Info.plist0#
-
-CProcessPCH /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myDay03_Prefix-bsoperplshuclsggojdlnnaknlii/myDay03_Prefix.pch.gch myDay03_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-s354406531.013488
-e354406532.864894
-r1
-xProcessPCH
-x/var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myDay03_Prefix-bsoperplshuclsggojdlnnaknlii/myDay03_Prefix.pch.gch
-xmyDay03_Prefix.pch
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@29"Precompile myDay03_Prefix.pch354406531#354406532#0(0"0(0#0#62"/Volumes/新加卷 3/iphone back-up/myDay03/myDay03_Prefix.pch4300885448#1821"    cd "/Volumes/新加卷 3/iphone back-up/myDay03"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Volumes/新加卷 3/iphone back-up/myDay03/build/myDay03.build/Debug-iphonesimulator/myDay03.build/myDay03-generated-files.hmap" "-I/Volumes/新加卷 3/iphone back-up/myDay03/build/myDay03.build/Debug-iphonesimulator/myDay03.build/myDay03-own-target-headers.hmap" "-I/Volumes/新加卷 3/iphone back-up/myDay03/build/myDay03.build/Debug-iphonesimulator/myDay03.build/myDay03-all-target-headers.hmap" -iquote "/Volumes/新加卷 3/iphone back-up/myDay03/build/myDay03.build/Debug-iphonesimulator/myDay03.build/myDay03-project-headers.hmap" "-F/Volumes/新加卷 3/iphone back-up/myDay03/build/Debug-iphonesimulator" "-I/Volumes/新加卷 3/iphone back-up/myDay03/build/Debug-iphonesimulator/include" "-I/Volumes/新加卷 3/iphone back-up/myDay03/build/myDay03.build/Debug-iphonesimulator/myDay03.build/DerivedSources/i386" "-I/Volumes/新加卷 3/iphone back-up/myDay03/build/myDay03.build/Debug-iphonesimulator/myDay03.build/DerivedSources" -c "/Volumes/新加卷 3/iphone back-up/myDay03/myDay03_Prefix.pch" -o /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myDay03_Prefix-bsoperplshuclsggojdlnnaknlii/myDay03_Prefix.pch.gch0#
-
-CProcessPCH /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myDay03_Prefix-gyrbuzalffazxmehtmmqckmkvuwi/myDay03_Prefix.pch.gch myDay03_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-s351710281.580593
-e351710283.589990
-r1
-xProcessPCH
-x/var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myDay03_Prefix-gyrbuzalffazxmehtmmqckmkvuwi/myDay03_Prefix.pch.gch
-xmyDay03_Prefix.pch
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@29"Precompile myDay03_Prefix.pch351710281#351710283#0(0"0(0#0#48"/Users/Decmac/Desktop/myDay03/myDay03_Prefix.pch4300885448#1661"    cd /Users/Decmac/Desktop/myDay03    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Decmac/Desktop/myDay03/build/myDay03.build/Debug-iphonesimulator/myDay03.build/myDay03-generated-files.hmap -I/Users/Decmac/Desktop/myDay03/build/myDay03.build/Debug-iphonesimulator/myDay03.build/myDay03-own-target-headers.hmap -I/Users/Decmac/Desktop/myDay03/build/myDay03.build/Debug-iphonesimulator/myDay03.build/myDay03-all-target-headers.hmap -iquote /Users/Decmac/Desktop/myDay03/build/myDay03.build/Debug-iphonesimulator/myDay03.build/myDay03-project-headers.hmap -F/Users/Decmac/Desktop/myDay03/build/Debug-iphonesimulator -I/Users/Decmac/Desktop/myDay03/build/Debug-iphonesimulator/include -I/Users/Decmac/Desktop/myDay03/build/myDay03.build/Debug-iphonesimulator/myDay03.build/DerivedSources/i386 -I/Users/Decmac/Desktop/myDay03/build/myDay03.build/Debug-iphonesimulator/myDay03.build/DerivedSources -c /Users/Decmac/Desktop/myDay03/myDay03_Prefix.pch -o /var/folders/4s/4soLCII7HheYPiJRdmixZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myDay03_Prefix-gyrbuzalffazxmehtmmqckmkvuwi/myDay03_Prefix.pch.gch0#
-
-CTouch "/Volumes/新加卷 3/iphone back-up/myDay03/build/Debug-iphonesimulator/myDay03.app"
-s354406533.334572
-e354406533.341745
-r1
-xTouch
-x/Volumes/新加卷 3/iphone back-up/myDay03/build/Debug-iphonesimulator/myDay03.app
-lSLF07#2@89"Touch /Volumes/新加卷 3/iphone back-up/myDay03/build/Debug-iphonesimulator/myDay03.app354406533#354406533#0(0"0(0#0#0"4300885448#292"    cd "/Volumes/新加卷 3/iphone back-up/myDay03"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Volumes/新加卷 3/iphone back-up/myDay03/build/Debug-iphonesimulator/myDay03.app"0#
-
-CTouch /Users/Decmac/Desktop/myDay03/build/Debug-iphonesimulator/myDay03.app
-s351723412.681818
-e351723412.688687
-r1
-xTouch
-x/Users/Decmac/Desktop/myDay03/build/Debug-iphonesimulator/myDay03.app
-lSLF07#2@75"Touch /Users/Decmac/Desktop/myDay03/build/Debug-iphonesimulator/myDay03.app351723412#351723412#0(0"0(0#0#0"4300885448#260"    cd /Users/Decmac/Desktop/myDay03    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/Decmac/Desktop/myDay03/build/Debug-iphonesimulator/myDay03.app0#
-
