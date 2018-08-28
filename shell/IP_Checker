@@ -1,0 +1,6 @@
+cat iplist | while read CLIENT_IP
+do
+   echo $CLIENT_IP >> IP_Check_Result12.09
+   curl "http://www.ip138.com/ips138.asp?ip=${CLIENT_IP}&action=2"|iconv -f gbk -t utf-8|grep '本站数据' | awk -F "li>" '{print $4}' >> IP_Check_Result12.09
+   sleep 1
+done

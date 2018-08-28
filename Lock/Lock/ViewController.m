@@ -71,7 +71,7 @@
     //NSConditionLock
     NSConditionLock *conditionLock = [[NSConditionLock alloc]init];
     timeBefore = CFAbsoluteTimeGetCurrent();
-    for(i=0; i<count; i++){
+    for(i = 0; i < count; i++){
         [conditionLock lock];
         [conditionLock unlock];
     }
@@ -81,7 +81,7 @@
     //NSRecursiveLock
     NSRecursiveLock *recursiveLock = [[NSRecursiveLock alloc]init];
     timeBefore = CFAbsoluteTimeGetCurrent();
-    for(i=0; i<count; i++){
+    for(i = 0; i < count; i++){
         [recursiveLock lock];
         [recursiveLock unlock];
     }
@@ -91,7 +91,7 @@
     //pthread_mutex
     pthread_mutex_t mutex = PTHREAD_MUTEX_INITIALIZER;
     timeBefore = CFAbsoluteTimeGetCurrent();
-    for(i=0; i<count; i++){
+    for(i = 0; i < count; i++){
         pthread_mutex_lock(&mutex);
         pthread_mutex_unlock(&mutex);
     }
@@ -101,7 +101,7 @@
     //dispatch_semaphore
     dispatch_semaphore_t semaphore = dispatch_semaphore_create(1);
     timeBefore = CFAbsoluteTimeGetCurrent();
-    for(i=0; i<count; i++){
+    for(i = 0; i < count; i++){
         dispatch_semaphore_wait(semaphore, DISPATCH_TIME_FOREVER);
         dispatch_semaphore_signal(semaphore);
     }
@@ -111,7 +111,7 @@
     //OSSpinLockLock
     OSSpinLock spinlock = OS_SPINLOCK_INIT;
     timeBefore = CFAbsoluteTimeGetCurrent();
-    for(i=0; i<count; i++){
+    for(i = 0; i < count; i++){
         OSSpinLockLock(&spinlock);
         OSSpinLockUnlock(&spinlock);
     }
