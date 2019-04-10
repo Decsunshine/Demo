@@ -21,11 +21,6 @@
     class_replaceMethod(self, originalSEL, swizzledIMP, nil);
 }
 
-- (void)run
-{
-    [self printA];
-}
-
 - (void)printA
 {
     NSLog(@"A");

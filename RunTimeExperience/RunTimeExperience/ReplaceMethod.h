@@ -10,6 +10,6 @@
 
 @interface ReplaceMethod : NSObject
 
-- (void)run;
+- (void)printA;
 
 @end

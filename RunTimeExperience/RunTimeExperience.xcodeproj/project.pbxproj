@@ -14,6 +14,10 @@
 		0EBBD9711C901B8000CE8C83 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0EBBD9701C901B8000CE8C83 /* Assets.xcassets */; };
 		0EBBD9741C901B8000CE8C83 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0EBBD9721C901B8000CE8C83 /* LaunchScreen.storyboard */; };
 		0EBBD97D1C901BAD00CE8C83 /* ReplaceMethod.m in Sources */ = {isa = PBXBuildFile; fileRef = 0EBBD97C1C901BAD00CE8C83 /* ReplaceMethod.m */; };
+		756F0485224CF219003FE246 /* SomeObject.m in Sources */ = {isa = PBXBuildFile; fileRef = 756F0484224CF219003FE246 /* SomeObject.m */; };
+		756F04B0225DC03B003FE246 /* ExchangeMethod.m in Sources */ = {isa = PBXBuildFile; fileRef = 756F04AF225DC03B003FE246 /* ExchangeMethod.m */; };
+		756F04B3225DD02A003FE246 /* MsgForword.m in Sources */ = {isa = PBXBuildFile; fileRef = 756F04B2225DD02A003FE246 /* MsgForword.m */; };
+		756F04B6225DDBDB003FE246 /* DefaultClass.m in Sources */ = {isa = PBXBuildFile; fileRef = 756F04B5225DDBDB003FE246 /* DefaultClass.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +33,14 @@
 		0EBBD9751C901B8000CE8C83 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		0EBBD97B1C901BAD00CE8C83 /* ReplaceMethod.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ReplaceMethod.h; sourceTree = "<group>"; };
 		0EBBD97C1C901BAD00CE8C83 /* ReplaceMethod.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ReplaceMethod.m; sourceTree = "<group>"; };
+		756F0483224CF219003FE246 /* SomeObject.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SomeObject.h; sourceTree = "<group>"; };
+		756F0484224CF219003FE246 /* SomeObject.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SomeObject.m; sourceTree = "<group>"; };
+		756F04AE225DC03B003FE246 /* ExchangeMethod.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ExchangeMethod.h; sourceTree = "<group>"; };
+		756F04AF225DC03B003FE246 /* ExchangeMethod.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ExchangeMethod.m; sourceTree = "<group>"; };
+		756F04B1225DD02A003FE246 /* MsgForword.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MsgForword.h; sourceTree = "<group>"; };
+		756F04B2225DD02A003FE246 /* MsgForword.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MsgForword.m; sourceTree = "<group>"; };
+		756F04B4225DDBDB003FE246 /* DefaultClass.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DefaultClass.h; sourceTree = "<group>"; };
+		756F04B5225DDBDB003FE246 /* DefaultClass.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DefaultClass.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,8 +77,16 @@
 				0EBBD9681C901B8000CE8C83 /* AppDelegate.m */,
 				0EBBD96A1C901B8000CE8C83 /* ViewController.h */,
 				0EBBD96B1C901B8000CE8C83 /* ViewController.m */,
+				756F0483224CF219003FE246 /* SomeObject.h */,
+				756F0484224CF219003FE246 /* SomeObject.m */,
 				0EBBD97B1C901BAD00CE8C83 /* ReplaceMethod.h */,
 				0EBBD97C1C901BAD00CE8C83 /* ReplaceMethod.m */,
+				756F04AE225DC03B003FE246 /* ExchangeMethod.h */,
+				756F04AF225DC03B003FE246 /* ExchangeMethod.m */,
+				756F04B1225DD02A003FE246 /* MsgForword.h */,
+				756F04B2225DD02A003FE246 /* MsgForword.m */,
+				756F04B4225DDBDB003FE246 /* DefaultClass.h */,
+				756F04B5225DDBDB003FE246 /* DefaultClass.m */,
 				0EBBD96D1C901B8000CE8C83 /* Main.storyboard */,
 				0EBBD9701C901B8000CE8C83 /* Assets.xcassets */,
 				0EBBD9721C901B8000CE8C83 /* LaunchScreen.storyboard */,
@@ -123,6 +143,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
@@ -155,7 +176,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				0EBBD96C1C901B8000CE8C83 /* ViewController.m in Sources */,
+				756F04B0225DC03B003FE246 /* ExchangeMethod.m in Sources */,
 				0EBBD9691C901B8000CE8C83 /* AppDelegate.m in Sources */,
+				756F04B3225DD02A003FE246 /* MsgForword.m in Sources */,
+				756F04B6225DDBDB003FE246 /* DefaultClass.m in Sources */,
+				756F0485224CF219003FE246 /* SomeObject.m in Sources */,
 				0EBBD9661C901B8000CE8C83 /* main.m in Sources */,
 				0EBBD97D1C901BAD00CE8C83 /* ReplaceMethod.m in Sources */,
 			);
@@ -304,6 +329,7 @@
 				0EBBD97A1C901B8000CE8C83 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

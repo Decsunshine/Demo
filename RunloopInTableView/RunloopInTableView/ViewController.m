@@ -11,6 +11,9 @@
 @interface ViewController () <UITableViewDataSource>
 
 @property (nonatomic, strong) UITableView *tableView;
+@property (nonatomic, strong) CADisplayLink *displayLink;
+@property (nonatomic, assign) double lastUpdateTimestamp;
+@property (nonatomic, assign) int historyCount;
 
 @end
 
@@ -23,7 +26,35 @@
     self.tableView.dataSource = self;
     [self.view addSubview:self.tableView];
     
-    [self addRunLoopObserver];
+//    [self addRunLoopObserver];
+    
+    [self setupDispalyLink];
+}
+
+- (void)setupDispalyLink
+{
+    self.lastUpdateTimestamp = 0;
+    self.historyCount = 0;
+    CADisplayLink *displayLink = [CADisplayLink displayLinkWithTarget:self selector:@selector(updateLabelValue)];
+    [displayLink addToRunLoop:[NSRunLoop mainRunLoop] forMode:NSDefaultRunLoopMode];
+    [displayLink addToRunLoop:[NSRunLoop mainRunLoop] forMode:UITrackingRunLoopMode];
+    self.displayLink = displayLink;
+}
+
+- (void)updateLabelValue
+{
+    if (self.lastUpdateTimestamp <= 0) {
+        self.lastUpdateTimestamp = self.displayLink.timestamp;
+    }
+    
+    self.historyCount += 1;
+    double interval = self.displayLink.timestamp - self.lastUpdateTimestamp;
+    if (interval >= 1) {
+        self.lastUpdateTimestamp = 0;
+        double fps = self.historyCount / interval;
+        NSLog(@"FPS %f", fps);
+        self.historyCount = 0;
+    }
 }
 
 #pragma mark - UITableViewDataSource
@@ -42,6 +73,9 @@
                                       reuseIdentifier:cellIdentifier];
     }
     [cell.textLabel setText:[NSString stringWithFormat:@"这是第%li个cell", (long)indexPath.row]];
+    cell.textLabel.layer.cornerRadius = 10;
+    cell.textLabel.layer.shadowOffset = CGSizeMake(10, 10);
+    cell.textLabel.layer.shadowOpacity = 1;
     return cell;
 }
 
