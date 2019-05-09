@@ -41,7 +41,7 @@
 //    [[MsgForword new] printC];
 
     // 改变类的私有属性
-//    [self changePrivateProperty];
+    [self changePrivateProperty];
     
     // 调用私有方法
 //    [self dispatchPrivateMethod];
@@ -103,6 +103,11 @@
     
     // 3 操作 isa 和内存指针
     // todo
+    
+    // 4 KVC
+    [object setValue:@"KVC_value" forKey:@"name"];
+    NSLog(@"%@", [object performSelector:@selector(name)]);
+
 }
 
 @end
