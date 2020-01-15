@@ -1,0 +1,41 @@
+items assets kind software-package url http://10.102.18.189:8080/job/ROMWE_IOS/372/artifact/app/DFRomwe.ipa metadata bundle-identifier xxx bundle-version 1.1.0 kind software title 应用名称
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<plist version="1.0">
+<dict>
+<key>items</key>
+<array>
+<dict>
+<key>assets</key>
+<array>
+<dict>
+<key>kind</key>
+<string>software-package</string>
+<key>url</key>
+<string>
+http://10.102.18.189:8080/job/ROMWE_IOS/372/artifact/app/DFRomwe.ipa
+</string>
+<string>...</string>
+</dict>
+<dict>...</dict>
+</array>
+<array>...</array>
+<key>metadata</key>
+<dict>
+<key>bundle-identifier</key>
+<string>xxx</string>
+<key>bundle-version</key>
+<string>1.1.0</string>
+<key>kind</key>
+<string>software</string>
+<key>title</key>
+<string>应用名称</string>
+</dict>
+<dict>...</dict>
+</dict>
+<dict>...</dict>
+</array>
+<array>...</array>
+</dict>
+<dict>...</dict>
+</plist>
+<plist version="1.0">...</plist>
