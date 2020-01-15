@@ -1,41 +1,43 @@
-items assets kind software-package url http://10.102.18.189:8080/job/ROMWE_IOS/372/artifact/app/DFRomwe.ipa metadata bundle-identifier xxx bundle-version 1.1.0 kind software title 应用名称
-This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-<key>items</key>
-<array>
-<dict>
-<key>assets</key>
-<array>
-<dict>
-<key>kind</key>
-<string>software-package</string>
-<key>url</key>
-<string>
-http://10.102.18.189:8080/job/ROMWE_IOS/372/artifact/app/DFRomwe.ipa
-</string>
-<string>...</string>
+    <key>items</key>
+    <array>
+        <dict>
+            <key>assets</key>
+            <array>
+                <dict>
+                    <key>kind</key>
+                    <string>software-package</string>
+                    <key>url</key>
+		    <string>http://10.102.18.189:8080/job/ROMWE_IOS/372/artifact/app/DFRomwe.ipa</string>
+                </dict>
+                <dict>
+                    <key>kind</key>
+                    <string>display-image</string>
+                    <key>url</key>
+                    <string>【xxxxx】</string>
+                </dict>
+                <dict>
+                    <key>kind</key>
+                    <string>full-size-image</string>
+                    <key>url</key>
+                    <string>【xxxxx】</string>
+                </dict>
+            </array>
+            <key>metadata</key>
+            <dict>
+                <key>bundle-identifier</key>
+                <string>【xxxxx】</string>
+                <key>bundle-version</key>
+                <string>【xxxxx】</string>
+                <key>kind</key>
+                <string>software</string>
+                <key>title</key>
+                <string>【xxxxx】</string>
+            </dict>
+        </dict>
+    </array>
 </dict>
-<dict>...</dict>
-</array>
-<array>...</array>
-<key>metadata</key>
-<dict>
-<key>bundle-identifier</key>
-<string>xxx</string>
-<key>bundle-version</key>
-<string>1.1.0</string>
-<key>kind</key>
-<string>software</string>
-<key>title</key>
-<string>应用名称</string>
-</dict>
-<dict>...</dict>
-</dict>
-<dict>...</dict>
-</array>
-<array>...</array>
-</dict>
-<dict>...</dict>
 </plist>
-<plist version="1.0">...</plist>
